@@ -2,13 +2,15 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "INFO 180 - Introduction to Data Science"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2020-fall-info180
 venue: "University of Washington, Information School"
 date: 2020-09-30
 location: "Seattle, WA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Survey course introducing the essential elements of data science: data collection, management, curation, and cleaning; summarizing and visualizing data; basic ideas of statistical inference, machine learning. Students will gain hands-on experience through computing labs.
+
+Supervisor: Bob Boiko
 
 Heading 1
 ======
