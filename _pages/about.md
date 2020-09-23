@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tian Qiu (Sky)"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,6 +15,10 @@ Major: Applied & Computational Math Sciences (ACMS) - Data Science and Statistic
 Minor: Computational Finance & Risk Management (CFRM)
 
 Here is my resume: [link](/files/tian-qiu-resume.pdf)
+
+Teaching
+======
+Teaching Assistant: [INFO 180 - Introduction to Data Science](https://myplan.uw.edu/course/#/courses/INFO180), University of Washington - Seattle; Fall 2020
 
 Blog Posts
 ======
