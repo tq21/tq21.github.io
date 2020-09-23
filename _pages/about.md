@@ -11,3 +11,7 @@ redirect_from:
 Website under construction...
 
 Here is my resume: [link](/files/tian-qiu-resume.pdf)
+
+Blog Posts
+======
+[How I got Certified as a TensorFlow Developer by Google](https://towardsdatascience.com/how-i-got-certified-as-a-tensorflow-developer-by-google-1527b692f632)
