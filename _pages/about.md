@@ -10,6 +10,10 @@ redirect_from:
 
 Website under construction...
 
+I am an undergraduate senior at the University of Washington.
+Major: Applied & Computational Math Sciences (ACMS) - Data Science and Statistics
+Minor: Computational Finance & Risk Management (CFRM)
+
 Here is my resume: [link](/files/tian-qiu-resume.pdf)
 
 Blog Posts
