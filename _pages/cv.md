@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Blog Posts"
+permalink: /blogposts/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+[How I got Certified as a TensorFlow Developer by Google](https://towardsdatascience.com/how-i-got-certified-as-a-tensorflow-developer-by-google-1527b692f632)
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
