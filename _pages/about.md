@@ -35,5 +35,6 @@ Some awards & certificates that I am proud of:
 [DubsTech Datathon, 1st Place Best Machine Learning Model](https://github.com/tq21/UWDatathon-2020) (May 2020, University of Washington)
 
 I play the violin, not professionally though:
+======
 Here is a video of my performance in the University of Washington Symphony Orchestra: [link to YouTube](https://www.youtube.com/watch?v=7ZAlyTjw0SM&feature=youtu.be&fbclid=IwAR24_7sG3jNBrYODWuO9YQilEDJHHPrDC7XSImHcMIvZ4c4HluVi4ntGe_0&ab_channel=DavidAlexanderRahbee)
 
