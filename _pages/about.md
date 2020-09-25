@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: "Welcome to my homepage"
+excerpt: "Welcome to my homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -32,4 +32,4 @@ Some awards & certificates that I am proud of:
 ======
 [TensorFlow Developer Certificate, Google](https://www.credential.net/e4bc84c1-2be6-4e99-ab46-d0635bb6559a#gs.h4ksw4) (July 21, 2020)
 
-[DubsTech Datathon, 1st place Best Machine Learning Model](https://github.com/tq21/UWDatathon-2020) (May 2020, University of Washington)
+[DubsTech Datathon, 1st Place Best Machine Learning Model](https://github.com/tq21/UWDatathon-2020) (May 2020, University of Washington)
