@@ -16,11 +16,11 @@ Computational Finance & Risk Management (CFRM) minor
 
 Here is my resume: [link](/files/tian-qiu-resume.pdf)
 
-Teaching
+Teaching experience:
 ======
 Teaching Assistant: [INFO 180 - Introduction to Data Science](https://myplan.uw.edu/course/#/courses/INFO180), University of Washington - Seattle; Fall 2020
 
-Blog Posts
+Blog posts about Data Science that I wrote for fun:
 ======
 [How I got Certified as a TensorFlow Developer by Google](https://towardsdatascience.com/how-i-got-certified-as-a-tensorflow-developer-by-google-1527b692f632) (July 29, 2020)
 
@@ -28,7 +28,7 @@ Blog Posts
 
 [Why Study Statistics behind YouTube Trending Videos](https://towardsdatascience.com/why-study-statistics-behind-youtube-trending-videos-231b72c81256) (Janurary 18, 2020)
 
-Awards & Certificate that I am proud of:
+Some awards & certificates that I am proud of:
 ======
 [TensorFlow Developer Certificate, Google](https://www.credential.net/e4bc84c1-2be6-4e99-ab46-d0635bb6559a#gs.h4ksw4) (July 21, 2020)
 
