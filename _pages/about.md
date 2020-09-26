@@ -36,5 +36,5 @@ Some awards & certificates that I am proud of:
 
 I play the violin, not professionally though:
 ======
-Here is a video of one of my performance in the University of Washington Symphony Orchestra: [link to YouTube](https://www.youtube.com/watch?v=7ZAlyTjw0SM&feature=youtu.be&fbclid=IwAR24_7sG3jNBrYODWuO9YQilEDJHHPrDC7XSImHcMIvZ4c4HluVi4ntGe_0&ab_channel=DavidAlexanderRahbee)
+Here is a video of one of my performances in the University of Washington Symphony Orchestra: [link to YouTube](https://www.youtube.com/watch?v=7ZAlyTjw0SM&feature=youtu.be&fbclid=IwAR24_7sG3jNBrYODWuO9YQilEDJHHPrDC7XSImHcMIvZ4c4HluVi4ntGe_0&ab_channel=DavidAlexanderRahbee)
 
