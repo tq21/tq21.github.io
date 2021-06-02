@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "Hello, welcome to my webpage!"
-excerpt: "Hello, welcome to my webpage!"
+title: "Hello,"
+excerpt: "Hello,"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+welcome to my webpage!
 
 Email:
 ======
