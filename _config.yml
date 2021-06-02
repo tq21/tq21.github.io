@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tian Qiu (Sky)"
+title                    : "Tian (Sky) Qiu"
 title_separator          : "-"
-name                     : &name "Tian Qiu (Sky)"
+name                     : &name "Tian (Sky) Qiu"
 description              : &description "personal description"
 url                      : https://tq21.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tian Qiu (Sky)"
+  name             : "Tian (Sky) Qiu"
   avatar           : "photo.JPG"
   bio              : " "
   location         : "Seattle, WA"
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "tq21@uw.edu"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
