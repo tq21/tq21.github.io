@@ -19,4 +19,4 @@ Bio:
 ======
 Here is my CV: [link](/files/tian_sky_qiu_cv.pdf)  
 My undergraduate honors thesis: [link](/files/tian_sky_qiu_thesis.pdf)  
-Departmental Honors website and a short bio: [link](https://honors.uw.edu/grads/tian-sky-qiu/)
+Departmental Honors grad profile and a short bio: [link](https://honors.uw.edu/grads/tian-sky-qiu/)
