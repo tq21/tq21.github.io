@@ -1,0 +1,19 @@
+---
+title: "Teaching Assistantship"
+---
+
+Here is a list of classes I TA-ed for:
+
+#### **University of California, Berkeley**
+
+-   PB HLTH 241: Intermediate Biostatistics for Public Health (Spring 2022)
+
+-   PB HLTH 142: Introduction to Probability and Statistics in Biology and Public Health (Fall 2021)
+
+#### **University of Washington, Seattle**
+
+-   STAT 311: Elements of Statistical Methods (Grader, Spring 2021)
+
+-   STAT 311: Elements of Statistical Methods (Grader, Winter 2021)
+
+-   INFO 180: Introduction to Data Science (Fall 2020)

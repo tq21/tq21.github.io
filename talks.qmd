@@ -1,0 +1,29 @@
+---
+title: "Talks and posters"
+---
+
+Here is a list of my past research talks and poster presentations:
+
+## Talks
+
+#### **2024**
+
+-   Adaptive-TMLE for the average treatment effect based on randomized controlled trial augmented with real-world data. *The American Causal Inference Conference (ACIC), short course on highly adaptive lasso*. Seattle, WA. 5/14
+
+-   Super-efficient estimation of average treatment effect based on randomized controlled trial augmented with real-world data. *The International Society for Biopharmaceutical Statistics 7th Symposium.* Baltimore, MD. 3/8
+
+#### **2023**
+
+-   The effect of metformin adherence on COVID-19 mortality in Mexico. *American Public Health Association Annual Meeting & Expo (APHA).* Atlanta, GA. 11/14
+
+-   Super-efficient estimation of average treatment effect based on randomized controlled trial augmented with real-world data. *The Forum on the Integration of Observational and Randomized Data (FIORD) Workshop.* Washington D.C. 11/7
+
+-   The effect of metformin adherence on COVID-19 mortality in Mexico. *Development Engineering Research and Practice Seminar.* UC Berkeley. 4/19
+
+## Posters
+
+#### **2024**
+
+-   Super-efficient estimation of average treatment effect based on randomized controlled trial augmented with external controls or observational study. *The American Causal Inference Conference (ACIC).* Seattle, WA. 5/15
+
+-   Super-efficient estimation of average treatment effect based on randomized controlled trial augmented with external controls or observational study. *5th Annual CERSI Innovations in Regulatory Science Summit.* Stanford University. 1/7

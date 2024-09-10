@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sky Qiu",
+    "section": "",
+    "text": "My name is Sky Qiu. I am currently a Biostatistics PhD student at UC Berkeley. My research lies at the intersection of machine learning and causal inference. Recently, my interest has been in developing estimators under the targeted learning framework, with applications in the integration of randomized controlled trial and external real-world observational data. Welcome to my website!"
+  },
+  {
+    "objectID": "index.html#hi-there",
+    "href": "index.html#hi-there",
+    "title": "Sky Qiu",
+    "section": "",
+    "text": "My name is Sky Qiu. I am currently a Biostatistics PhD student at UC Berkeley. My research lies at the intersection of machine learning and causal inference. Recently, my interest has been in developing estimators under the targeted learning framework, with applications in the integration of randomized controlled trial and external real-world observational data. Welcome to my website!"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Sky Qiu",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Berkeley\nPhD in Biostatistics | August 2023 - May 2026 (Expected)\nMA in Biostatistics | August 2021 - August 2023\nUniversity of Washington, Seattle\nBS in Data Science and Statistics | August 2017 - June 2021"
+  },
+  {
+    "objectID": "index.html#research-experience",
+    "href": "index.html#research-experience",
+    "title": "Sky Qiu",
+    "section": "Research Experience",
+    "text": "Research Experience\nCenter for Targeted Machine Learning and Causal Inference\nGraduate Student Researcher | August 2022 - present\nKaiser Permanente, Division of Research\nIntern | May 2022 - August 2022"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "research_works.html",
+    "href": "research_works.html",
+    "title": "Research Works",
+    "section": "",
+    "text": "Here is a list of my own and collaborated research works:\n\nMark van der Laan, Sky Qiu & Lars van der Laan (2024). Adaptive-TMLE for the Average Treatment Effect based on Randomized Controlled Trial Augmented with Real-World Data. Arxiv preprint. [Paper]\nSky Qiu, Alan Hubbard, Juan Pablo Gutiérrez, Ganesh Pimpale, Alturo Juárez-Flores, Rakesh Ghosh, Ivan Ascencio-Montiel & Stefano Bertozzi (2024). Estimating the effect of realistic improvements of metformin adherence on COVID-19 mortality using targeted machine learning. Global Epidemiology, 100142. [Paper]\nToru Shirakawa, Yi Li, Yulun Wu, Sky Qiu, Yuxuan Li, Mingduo Zhao, Hiroyasu Iso & Mark van der Laan (2024). Longitudinal targeted minimum loss-based estimation with temporal-difference heterogeneous transformer. International Conference on Machine Learning (ICML) 2024. [Paper]"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks and posters",
+    "section": "",
+    "text": "Here is a list of my past research talks and poster presentations:"
+  },
+  {
+    "objectID": "talks.html#talks",
+    "href": "talks.html#talks",
+    "title": "Talks and posters",
+    "section": "Talks",
+    "text": "Talks\n\n2024\n\nAdaptive-TMLE for the average treatment effect based on randomized controlled trial augmented with real-world data. The American Causal Inference Conference (ACIC), short course on highly adaptive lasso. Seattle, WA. 5/14\nSuper-efficient estimation of average treatment effect based on randomized controlled trial augmented with real-world data. The International Society for Biopharmaceutical Statistics 7th Symposium. Baltimore, MD. 3/8\n\n\n\n2023\n\nThe effect of metformin adherence on COVID-19 mortality in Mexico. American Public Health Association Annual Meeting & Expo (APHA). Atlanta, GA. 11/14\nSuper-efficient estimation of average treatment effect based on randomized controlled trial augmented with real-world data. The Forum on the Integration of Observational and Randomized Data (FIORD) Workshop. Washington D.C. 11/7\nThe effect of metformin adherence on COVID-19 mortality in Mexico. Development Engineering Research and Practice Seminar. UC Berkeley. 4/19"
+  },
+  {
+    "objectID": "talks.html#posters",
+    "href": "talks.html#posters",
+    "title": "Talks and posters",
+    "section": "Posters",
+    "text": "Posters\n\n2024\n\nSuper-efficient estimation of average treatment effect based on randomized controlled trial augmented with external controls or observational study. The American Causal Inference Conference (ACIC). Seattle, WA. 5/15\nSuper-efficient estimation of average treatment effect based on randomized controlled trial augmented with external controls or observational study. 5th Annual CERSI Innovations in Regulatory Science Summit. Stanford University. 1/7"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching Assistantship",
+    "section": "",
+    "text": "Here is a list of classes I TA-ed for:\n\nUniversity of California, Berkeley\n\nPB HLTH 241: Intermediate Biostatistics for Public Health (Spring 2022)\nPB HLTH 142: Introduction to Probability and Statistics in Biology and Public Health (Fall 2021)\n\n\n\nUniversity of Washington, Seattle\n\nSTAT 311: Elements of Statistical Methods (Grader, Spring 2021)\nSTAT 311: Elements of Statistical Methods (Grader, Winter 2021)\nINFO 180: Introduction to Data Science (Fall 2020)"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Here is a list of my own and collaborated publications:\n\nMark van der Laan, Sky Qiu & Lars van der Laan (2024). Adaptive-TMLE for the Average Treatment Effect based on Randomized Controlled Trial Augmented with Real-World Data. Arxiv preprint. [Paper]\nSky Qiu, Alan Hubbard, Juan Pablo Gutiérrez, Ganesh Pimpale, Alturo Juárez-Flores, Rakesh Ghosh, Ivan Ascencio-Montiel & Stefano Bertozzi (2024). Estimating the effect of realistic improvements of metformin adherence on COVID-19 mortality using targeted machine learning. Global Epidemiology, 100142. [Paper]\nToru Shirakawa, Yi Li, Yulun Wu, Sky Qiu, Yuxuan Li, Mingduo Zhao, Hiroyasu Iso & Mark van der Laan (2024). Longitudinal targeted minimum loss-based estimation with temporal-difference heterogeneous transformer. International Conference on Machine Learning (ICML) 2024. [Paper]"
+  }
+]
