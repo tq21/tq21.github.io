@@ -21,25 +21,11 @@
     "text": "Education\nUniversity of California, Berkeley\nPhD in Biostatistics | August 2023 - May 2026 (Expected)\nMA in Biostatistics | August 2021 - August 2023\nUniversity of Washington, Seattle\nBS in Data Science and Statistics | August 2017 - June 2021"
   },
   {
-    "objectID": "index.html#research-experience",
-    "href": "index.html#research-experience",
-    "title": "Sky Qiu",
-    "section": "Research Experience",
-    "text": "Research Experience\nCenter for Targeted Machine Learning and Causal Inference\nGraduate Student Researcher | August 2022 - present\nKaiser Permanente, Division of Research\nIntern | May 2022 - August 2022"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "research_works.html",
-    "href": "research_works.html",
-    "title": "Research Works",
-    "section": "",
-    "text": "Here is a list of my own and collaborated research works:\n\nMark van der Laan, Sky Qiu & Lars van der Laan (2024). Adaptive-TMLE for the Average Treatment Effect based on Randomized Controlled Trial Augmented with Real-World Data. Arxiv preprint. [Paper]\nSky Qiu, Alan Hubbard, Juan Pablo Gutiérrez, Ganesh Pimpale, Alturo Juárez-Flores, Rakesh Ghosh, Ivan Ascencio-Montiel & Stefano Bertozzi (2024). Estimating the effect of realistic improvements of metformin adherence on COVID-19 mortality using targeted machine learning. Global Epidemiology, 100142. [Paper]\nToru Shirakawa, Yi Li, Yulun Wu, Sky Qiu, Yuxuan Li, Mingduo Zhao, Hiroyasu Iso & Mark van der Laan (2024). Longitudinal targeted minimum loss-based estimation with temporal-difference heterogeneous transformer. International Conference on Machine Learning (ICML) 2024. [Paper]"
   },
   {
     "objectID": "talks.html",
