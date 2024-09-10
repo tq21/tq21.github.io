@@ -1,0 +1,17 @@
+---
+title: "Work/Research Experience"
+---
+
+Here is a list of my current and past work/research experience:
+
+-   [**Center for Targeted Machine Learning and Causal Inference**](https://ctml.berkeley.edu/) \| August 2022 - present
+
+    Position: Graduate Student Researcher
+
+    Supervisor: Mark van der Laan
+
+-   [**Kaiser Permanente, Division of Research**](https://divisionofresearch.kaiserpermanente.org/) \| May - August 2022
+
+    Position: Summer Research Intern
+
+    Supervisor: Romain Neugebauer

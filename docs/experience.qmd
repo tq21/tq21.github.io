@@ -1,0 +1,17 @@
+---
+title: "Work Experience"
+---
+
+Here is a list of my current and past work/research experience:
+
+-   **Center for Targeted Machine Learning and Causal Inference**
+
+    Position: Graduate Student Researcher
+
+    Supervisor: Mark van der Laan
+
+-   **Kaiser Permanente, Division of Research**
+
+    Position: Summer Research Intern
+
+    Supervisor: Romain Neugebauer

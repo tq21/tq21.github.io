@@ -17,7 +17,7 @@ about:
 
 ## Hi there!
 
-My name is Sky Qiu. I am currently a Biostatistics PhD student at UC Berkeley. My research lies at the intersection of **machine learning** and **causal inference**. Recently, my interest has been in developing estimators under the **targeted learning** framework, with applications in the integration of randomized controlled trial and external real-world observational data. Welcome to my website!
+My name is Sky Qiu. I am currently a Biostatistics PhD student at UC Berkeley, advised by [Mark van der Laan](https://en.wikipedia.org/wiki/Mark_van_der_Laan). My research lies at the intersection of **machine learning** and **causal inference**. Recently, my interest has been in developing estimators under the **targeted learning** framework, with applications in the integration of randomized controlled trial and external real-world observational data. Welcome to my website!
 
 ## Education
 

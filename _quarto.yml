@@ -12,6 +12,8 @@ website:
         text: Publications
       - href: talks.qmd
         text: Talks
+      - href: experience.qmd
+        text: Experience
       - href: teaching.qmd
         text: TA
 format:
