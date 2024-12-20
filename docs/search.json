@@ -63,13 +63,6 @@
     "text": "Here is a list of my own and collaborated publications:\n\nMark van der Laan, Sky Qiu & Lars van der Laan (2024). Adaptive-TMLE for the Average Treatment Effect based on Randomized Controlled Trial Augmented with Real-World Data. arXiv preprint. [Paper]\nZachary Butzin-Dozier, Sky Qiu, Alan E Hubbard, Junming Shi & Mark van der Laan (2024). Highly adaptive LASSO: Machine learning that provides valid nonparametric inference in realistic models. medRxiv preprint. [Paper]\nSky Qiu, Alan Hubbard, Juan Pablo Gutiérrez, Ganesh Pimpale, Alturo Juárez-Flores, Rakesh Ghosh, Ivan Ascencio-Montiel & Stefano Bertozzi (2024). Estimating the effect of realistic improvements of metformin adherence on COVID-19 mortality using targeted machine learning. Global Epidemiology, 100142. [Paper]\nToru Shirakawa, Yi Li, Yulun Wu, Sky Qiu, Yuxuan Li, Mingduo Zhao, Hiroyasu Iso & Mark van der Laan (2024). Longitudinal targeted minimum loss-based estimation with temporal-difference heterogeneous transformer. International Conference on Machine Learning (ICML) 2024. [Paper]"
   },
   {
-    "objectID": "experience.html",
-    "href": "experience.html",
-    "title": "Work/Research Experience",
-    "section": "",
-    "text": "Here is a list of my current and past work/research experience:\n\nCenter for Targeted Machine Learning and Causal Inference | August 2022 - present\nPosition: Graduate Student Researcher\nSupervisor: Mark van der Laan\nKaiser Permanente, Division of Research | May - August 2022\nPosition: Summer Research Intern\nSupervisor: Romain Neugebauer"
-  },
-  {
     "objectID": "work_research.html",
     "href": "work_research.html",
     "title": "Work/Research Experience",
