@@ -12,7 +12,7 @@ website:
         text: Publications
       - href: talks.qmd
         text: Talks
-      - href: experience.qmd
+      - href: work_research.qmd
         text: Experience
       - href: teaching.qmd
         text: TA
