@@ -8,6 +8,10 @@ Here is a list of my past research talks and poster presentations:
 
 #### **2024**
 
+-   Adaptive-TMLE for the average treatment effect based on randomized controlled trial augmented with real-world data. *18th International Joint Conference on Computational and Financial Econometrics and Computational and Methodological Statistics (CFE-CMStatistics 2024).* King's College London. 12/14
+
+-   Optimizing Data Integration with an Estimator-Robust Design. *Forum on the Integration of Observational and Randomized Data (FIORD 2024).* Bethesda, MD. 11/7
+
 -   Adaptive-TMLE for the average treatment effect based on randomized controlled trial augmented with real-world data. *The American Causal Inference Conference (ACIC), short course on highly adaptive lasso*. Seattle, WA. 5/14
 
 -   Super-efficient estimation of average treatment effect based on randomized controlled trial augmented with real-world data. *The International Society for Biopharmaceutical Statistics 7th Symposium.* Baltimore, MD. 3/8
