@@ -4,6 +4,10 @@ title: "Publications"
 
 Here is a list of my own and collaborated publications:
 
+-   **Sky Qiu**, Jens Tarp, Andrew Mertens & Mark van der Laan (2025). An Estimator-Robust Design for Augmenting Randomized Controlled Trial with External Real-World Data. arXiv preprint. [\[Paper\]](https://arxiv.org/abs/2501.17835)
+
+<!-- -->
+
 -   Mark van der Laan, **Sky Qiu** & Lars van der Laan (2024). Adaptive-TMLE for the Average Treatment Effect based on Randomized Controlled Trial Augmented with Real-World Data. arXiv *preprint*. [\[Paper\]](https://arxiv.org/abs/2405.07186)
 
 -   Zachary Butzin-Dozier, **Sky Qiu**, Alan E Hubbard, Junming Shi & Mark van der Laan (2024). Highly adaptive LASSO: Machine learning that provides valid nonparametric inference in realistic models. *medRxiv preprint*. [\[Paper\]](https://www.medrxiv.org/content/10.1101/2024.10.18.24315778v1)
