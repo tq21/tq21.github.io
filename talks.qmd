@@ -6,6 +6,10 @@ Here is a list of my past research talks and poster presentations:
 
 ## Talks
 
+#### **2025**
+
+-   Adaptive TMLE for Data Integration: Augmenting the DEVOTE Trial with Optum. *Eastern North American Region (ENAR) International Biometric Society Spring Meeting.* New Orleans, LA. 3/24
+
 #### **2024**
 
 -   Adaptive-TMLE for the average treatment effect based on randomized controlled trial augmented with real-world data. *18th International Joint Conference on Computational and Financial Econometrics and Computational and Methodological Statistics (CFE-CMStatistics 2024).* King's College London. 12/14
