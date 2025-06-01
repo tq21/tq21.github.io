@@ -8,11 +8,11 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: publications.qmd
-        text: Publications
+      - href: research.qmd
+        text: Research
       - href: talks.qmd
         text: Talks
-      - href: work_research.qmd
+      - href: work.qmd
         text: Experience
       - href: teaching.qmd
         text: TA

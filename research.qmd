@@ -1,17 +1,17 @@
 ---
-title: "Publications"
+title: "Research"
 ---
 
-Here is a list of my own and collaborated publications:
+## Publications
 
--   **Sky Qiu**, Jens Tarp, Andrew Mertens & Mark van der Laan (2025). An Estimator-Robust Design for Augmenting Randomized Controlled Trial with External Real-World Data. arXiv preprint. [\[Paper\]](https://arxiv.org/abs/2501.17835)
-
-<!-- -->
-
+-   **Sky Qiu**, Jens Tarp, Andrew Mertens & Mark van der Laan (2025). An Estimator-Robust Design for Augmenting Randomized Controlled Trial with External Real-World Data. *arXiv preprint.* [\[Paper\]](https://arxiv.org/abs/2501.17835)
 -   Mark van der Laan, **Sky Qiu** & Lars van der Laan (2024). Adaptive-TMLE for the Average Treatment Effect based on Randomized Controlled Trial Augmented with Real-World Data. arXiv *preprint*. [\[Paper\]](https://arxiv.org/abs/2405.07186)
-
 -   Zachary Butzin-Dozier, **Sky Qiu**, Alan E Hubbard, Junming Shi & Mark van der Laan (2024). Highly adaptive LASSO: Machine learning that provides valid nonparametric inference in realistic models. *medRxiv preprint*. [\[Paper\]](https://www.medrxiv.org/content/10.1101/2024.10.18.24315778v1)
-
 -   **Sky Qiu**, Alan Hubbard, Juan Pablo Gutiérrez, Ganesh Pimpale, Alturo Juárez-Flores, Rakesh Ghosh, Ivan Ascencio-Montiel & Stefano Bertozzi (2024). Estimating the effect of realistic improvements of metformin adherence on COVID-19 mortality using targeted machine learning. *Global Epidemiology*, 100142. [\[Paper\]](https://doi.org/10.1016/j.gloepi.2024.100142)
-
 -   Toru Shirakawa, Yi Li, Yulun Wu, **Sky Qiu**, Yuxuan Li, Mingduo Zhao, Hiroyasu Iso & Mark van der Laan (2024). Longitudinal targeted minimum loss-based estimation with temporal-difference heterogeneous transformer. *International Conference on Machine Learning (ICML) 2024*. [\[Paper\]](https://arxiv.org/abs/2404.04399)
+
+## Awards & Honors
+
+-   Chin Long Chiang Award for Excellence in Biostatistics Research, 2025
+
+-   Phi Beta Kappa Honor Society, 2021
