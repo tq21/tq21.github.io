@@ -1,8 +1,8 @@
 ---
-title: "Talks and posters"
+title: "Talks/posters/short courses"
 ---
 
-Here is a list of my past research talks and poster presentations:
+Here is a list of my past research talks, posters, and short courses:
 
 ## Talks
 
@@ -35,3 +35,9 @@ Here is a list of my past research talks and poster presentations:
 -   Super-efficient estimation of average treatment effect based on randomized controlled trial augmented with external controls or observational study. *The American Causal Inference Conference (ACIC).* Seattle, WA. 5/15
 
 -   Super-efficient estimation of average treatment effect based on randomized controlled trial augmented with external controls or observational study. *5th Annual CERSI Innovations in Regulatory Science Summit.* Stanford University. 1/7
+
+## Short courses
+
+#### **2025**
+
+-   Short course on "Highly Adaptive Lasso and Targeted Learning." *DahShu Data Science Symposium 2025*. University of Connecticut. 10/17. [Course website.](https://tq21.github.io/dsdss2025/)
