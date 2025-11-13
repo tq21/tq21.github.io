@@ -8,33 +8,38 @@ Here is a list of my past research talks, posters, and short courses:
 
 #### **2025**
 
--   Adaptive TMLE for Data Integration: Augmenting the DEVOTE Trial with Optum. *Eastern North American Region (ENAR) International Biometric Society Spring Meeting.* New Orleans, LA. 3/24
+-   A Class of TMLEs for Efficient Estimation Under Two-Phase Sampling. *CTML Seminar*. UC Berkeley. 11/5. [\[Slides\]](https://drive.google.com/file/d/1pVrNXV2WPCUdquR5IQ9QRt7Q3GS44fKY/view) [\[Video\]](https://drive.google.com/file/d/1dD3rAOvsOTRBaB6pUTtt48W6QD5zOCR2/view)
+-   Adaptive TMLE for Data Integration: Augmenting the DEVOTE Trial with Optum. *Eastern North American Region (ENAR) International Biometric Society Spring Meeting.* New Orleans, LA. 3/24.
 
 #### **2024**
 
--   Adaptive-TMLE for the average treatment effect based on randomized controlled trial augmented with real-world data. *18th International Joint Conference on Computational and Financial Econometrics and Computational and Methodological Statistics (CFE-CMStatistics 2024).* King's College London. 12/14
+-   Adaptive-TMLE for the average treatment effect based on randomized controlled trial augmented with real-world data. *18th International Joint Conference on Computational and Financial Econometrics and Computational and Methodological Statistics (CFE-CMStatistics 2024).* King's College London. 12/14.
 
--   Optimizing Data Integration with an Estimator-Robust Design. *Forum on the Integration of Observational and Randomized Data (FIORD 2024).* Bethesda, MD. 11/7
+-   Optimizing Data Integration with an Estimator-Robust Design. *Forum on the Integration of Observational and Randomized Data (FIORD 2024).* Bethesda, MD. 11/7.
 
--   Adaptive-TMLE for the average treatment effect based on randomized controlled trial augmented with real-world data. *The American Causal Inference Conference (ACIC), short course on highly adaptive lasso*. Seattle, WA. 5/14
+-   Adaptive-TMLE for the average treatment effect based on randomized controlled trial augmented with real-world data. *The American Causal Inference Conference (ACIC), short course on highly adaptive lasso*. Seattle, WA. 5/14.
 
--   Super-efficient estimation of average treatment effect based on randomized controlled trial augmented with real-world data. *The International Society for Biopharmaceutical Statistics 7th Symposium.* Baltimore, MD. 3/8
+-   Super-efficient estimation of average treatment effect based on randomized controlled trial augmented with real-world data. *The International Society for Biopharmaceutical Statistics 7th Symposium.* Baltimore, MD. 3/8.
 
 #### **2023**
 
--   The effect of metformin adherence on COVID-19 mortality in Mexico. *American Public Health Association Annual Meeting & Expo (APHA).* Atlanta, GA. 11/14
+-   The effect of metformin adherence on COVID-19 mortality in Mexico. *American Public Health Association Annual Meeting & Expo (APHA).* Atlanta, GA. 11/14.
 
--   Super-efficient estimation of average treatment effect based on randomized controlled trial augmented with real-world data. *The Forum on the Integration of Observational and Randomized Data (FIORD) Workshop.* Washington D.C. 11/7
+-   Super-efficient estimation of average treatment effect based on randomized controlled trial augmented with real-world data. *The Forum on the Integration of Observational and Randomized Data (FIORD) Workshop.* Washington D.C. 11/7.
 
--   The effect of metformin adherence on COVID-19 mortality in Mexico. *Development Engineering Research and Practice Seminar.* UC Berkeley. 4/19
+-   The effect of metformin adherence on COVID-19 mortality in Mexico. *Development Engineering Research and Practice Seminar.* UC Berkeley. 4/19.
 
 ## Posters
 
+#### **2025**
+
+-   Adaptive-TMLE for the Average Treatment Effect based on Randomized Controlled Trial Augmented with Real-World Data. *The ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop (RISW).* Rockville, MD. 9/24.
+
 #### **2024**
 
--   Super-efficient estimation of average treatment effect based on randomized controlled trial augmented with external controls or observational study. *The American Causal Inference Conference (ACIC).* Seattle, WA. 5/15
+-   Super-efficient estimation of average treatment effect based on randomized controlled trial augmented with external controls or observational study. *The American Causal Inference Conference (ACIC).* Seattle, WA. 5/15.
 
--   Super-efficient estimation of average treatment effect based on randomized controlled trial augmented with external controls or observational study. *5th Annual CERSI Innovations in Regulatory Science Summit.* Stanford University. 1/7
+-   Super-efficient estimation of average treatment effect based on randomized controlled trial augmented with external controls or observational study. *5th Annual CERSI Innovations in Regulatory Science Summit.* Stanford University. 1/7.
 
 ## Short courses
 
