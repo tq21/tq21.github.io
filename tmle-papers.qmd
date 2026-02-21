@@ -12,9 +12,9 @@ page-layout: full
 
 Auto-updated list of TMLE-related papers tracked from arXiv queries.
 
-Last refreshed: 2026-02-21T16:00:17.416Z
+Last refreshed: 2026-02-21T16:15:20.578Z
 
-Total tracked papers: **215**
+Total tracked papers: **241**
 
 ::: {#tmle-table-wrap}
 | Published | Title | Link | Keywords |
@@ -27,12 +27,14 @@ Total tracked papers: **215**
 | 2026-01-09 | A Targeted Learning Framework for Estimating Restricted Mean Survival Time Difference using Pseudo-observations | [arXiv](https://arxiv.org/abs/2601.06296v2) | tmle,  targeted learning |
 | 2026-01-09 | Estimating optimal interpretable individualized treatment regimes from a classification perspective using adaptive LASSO | [arXiv](https://arxiv.org/abs/2601.05875v1) | super learner |
 | 2025-12-26 | Targeted learning via probabilistic subpopulation matching | [arXiv](https://arxiv.org/abs/2512.21840v1) | targeted learning |
+| 2025-12-22 | Causal Inference with the "Napkin Graph" | [arXiv](https://arxiv.org/abs/2512.19861v1) |  |
 | 2025-12-15 | Machine learning to optimize precision in the analysis of randomized trials: A journey in pre-specified, yet data-adaptive learning | [arXiv](https://arxiv.org/abs/2512.13610v1) | tmle |
 | 2025-11-24 | What Drives Cross-lingual Ranking? Retrieval Approaches with Multilingual Language Models | [arXiv](https://arxiv.org/abs/2511.19324v1) | targeted learning |
 | 2025-11-19 | Hazard-Based Targeted Maximum Likelihood Estimation for Survival in Resampling Designs | [arXiv](https://arxiv.org/abs/2511.15045v1) | tmle,  targeted maximum likelihood |
 | 2025-11-10 | Causal Inference for Network Autoregression Model: A Targeted Minimum Loss Estimation Approach | [arXiv](https://arxiv.org/abs/2511.06652v2) | tmle |
 | 2025-11-02 | From Path Coefficients to Targeted Estimands: A Comparison of Structural Equation Models (SEM) and Targeted Maximum Likelihood Estimation (TMLE) | [arXiv](https://arxiv.org/abs/2511.01040v2) | tmle,  targeted maximum likelihood,  targeted learning |
 | 2025-10-30 | A Unified Theory for Causal Inference: Direct Debiased Machine Learning via Bregman-Riesz Regression | [arXiv](https://arxiv.org/abs/2510.26783v1) | tmle,  targeted maximum likelihood |
+| 2025-10-27 | Nonparametric Identification and Estimation of Ratios of Multi-Category Means under Preferential Sampling | [arXiv](https://arxiv.org/abs/2510.23920v1) |  |
 | 2025-10-27 | Direct Debiased Machine Learning via Bregman Divergence Minimization | [arXiv](https://arxiv.org/abs/2510.23534v2) | tmle,  targeted maximum likelihood |
 | 2025-10-25 | Causal Effect Estimation with TMLE: Handling Missing Data and Near-Violations of Positivity | [arXiv](https://arxiv.org/abs/2510.22202v1) | tmle,  targeted maximum likelihood |
 | 2025-10-19 | Causal inference for calibrated scaling interventions on time-to-event processes | [arXiv](https://arxiv.org/abs/2510.16798v2) | tmle,  targeted maximum likelihood |
@@ -40,6 +42,7 @@ Total tracked papers: **215**
 | 2025-10-15 | postcard: An R Package for Marginal Effect Estimation with or without Prognostic Score Adjustment | [arXiv](https://arxiv.org/abs/2510.13347v1) | super learner |
 | 2025-09-30 | Integrating noise into PhET simulations to promote student learning of measurement uncertainty | [arXiv](https://arxiv.org/abs/2509.25769v1) | targeted learning |
 | 2025-09-29 | Reinforcement Mid-Training | [arXiv](https://arxiv.org/abs/2509.24375v1) | targeted learning |
+| 2025-09-24 | Non-overlap Average Treatment Effect Bounds | [arXiv](https://arxiv.org/abs/2509.20206v1) |  |
 | 2025-09-03 | The super learner for time-to-event outcomes: A tutorial | [arXiv](https://arxiv.org/abs/2509.03315v2) | super learner |
 | 2025-08-13 | Linking GFAP Levels to Speech Anomalies in Acute Brain Injury: A Simulation Based Study | [arXiv](https://arxiv.org/abs/2508.10130v1) | targeted maximum likelihood |
 | 2025-08-13 | Developing an Inhaled NEU1 Inhibitor for Cystic Fibrosis via Pharmacokinetic and Biophysical Modeling | [arXiv](https://arxiv.org/abs/2508.10082v1) | targeted maximum likelihood |
@@ -65,6 +68,7 @@ Total tracked papers: **215**
 | 2025-05-15 | Ordered-subsets Multi-diffusion Model for Sparse-view CT Reconstruction | [arXiv](https://arxiv.org/abs/2505.09985v1) | targeted learning |
 | 2025-05-01 | On the Mechanistic Interpretability of Neural Networks for Causality in Bio-statistics | [arXiv](https://arxiv.org/abs/2505.00555v1) | tmle,  targeted minimum loss-based estimation |
 | 2025-04-30 | Assessing Racial Disparities in Healthcare Expenditures via Mediator Distribution Shifts | [arXiv](https://arxiv.org/abs/2504.21688v2) | super learner |
+| 2025-04-22 | Causal machine learning for high-dimensional mediation analysis using interventional effects mapped to a target trial | [arXiv](https://arxiv.org/abs/2504.15834v1) |  |
 | 2025-04-04 | Weak instrumental variables due to nonlinearities in panel data: A Super Learner Control Function estimator | [arXiv](https://arxiv.org/abs/2504.03228v8) | super learner |
 | 2025-04-03 | QID: Efficient Query-Informed ViTs in Data-Scarce Regimes for OCR-free Visual Document Understanding | [arXiv](https://arxiv.org/abs/2504.02971v2) | targeted learning |
 | 2025-03-23 | Adaptive Multi-Fidelity Reinforcement Learning for Variance Reduction in Engineering Design Optimization | [arXiv](https://arxiv.org/abs/2503.18229v1) | targeted learning |
@@ -77,6 +81,7 @@ Total tracked papers: **215**
 | 2025-01-29 | An Estimator-Robust Design for Augmenting Randomized Controlled Trial with External Real-World Data | [arXiv](https://arxiv.org/abs/2501.17835v1) | tmle,  targeted maximum likelihood |
 | 2025-01-27 | LLM-powered Multi-agent Framework for Goal-oriented Learning in Intelligent Tutoring System | [arXiv](https://arxiv.org/abs/2501.15749v1) | targeted learning |
 | 2025-01-18 | Adaptive-TMLE for the Average Treatment Effect based on Randomized Controlled Trial Augmented with Real-World Data | [arXiv](https://arxiv.org/abs/2405.07186v2) | tmle,  targeted maximum likelihood |
+| 2025-01-17 | Cheap Subsampling bootstrap confidence intervals for fast and robust inference | [arXiv](https://arxiv.org/abs/2501.10289v3) |  |
 | 2025-01-10 | Technical Note: Targeted Maximum Likelihood Estimator for an ATE Standardized for New Target Population | [arXiv](https://arxiv.org/abs/2501.06381v1) | tmle,  targeted maximum likelihood |
 | 2024-12-20 | Bayesian Optimization for Unknown Cost-Varying Variable Subsets with No-Regret Costs | [arXiv](https://arxiv.org/abs/2412.15863v1) | targeted learning |
 | 2024-12-19 | Assessing treatment effects in observational data with missing confounders: A comparative study of practical doubly-robust and traditional missing data methods | [arXiv](https://arxiv.org/abs/2412.15012v2) | tmle,  targeted maximum likelihood |
@@ -95,6 +100,7 @@ Total tracked papers: **215**
 | 2024-09-29 | Automatic debiasing of neural networks via moment-constrained learning | [arXiv](https://arxiv.org/abs/2409.19777v2) | targeted learning |
 | 2024-09-17 | Performance of Cross-Validated Targeted Maximum Likelihood Estimation | [arXiv](https://arxiv.org/abs/2409.11265v2) | tmle,  targeted maximum likelihood,  super learner |
 | 2024-09-06 | Leveraging Machine Learning for Official Statistics: A Statistical Manifesto | [arXiv](https://arxiv.org/abs/2409.04365v1) | tmle |
+| 2024-09-06 | Average Causal Effect Estimation in DAGs with Hidden Variables: Beyond Back-Door and Front-Door Criteria | [arXiv](https://arxiv.org/abs/2409.03962v2) |  |
 | 2024-08-26 | Effects Among the Affected | [arXiv](https://arxiv.org/abs/2408.14691v1) | targeted maximum likelihood |
 | 2024-08-19 | Non-Plug-In Estimators Could Outperform Plug-In Estimators: a Cautionary Note and a Diagnosis | [arXiv](https://arxiv.org/abs/2408.10091v1) | tmle,  targeted maximum likelihood |
 | 2024-08-17 | [Invited Discussion] Randomization Tests to Address Disruptions in Clinical Trials: A Report from the NISS Ingram Olkin Forum Series on Unplanned Clinical Trial Disruptions | [arXiv](https://arxiv.org/abs/2408.09060v1) | targeted learning |
@@ -121,6 +127,7 @@ Total tracked papers: **215**
 | 2024-04-02 | Nonparametric efficient causal estimation of the intervention-specific expected number of recurrent events with continuous-time targeted maximum likelihood and highly adaptive lasso estimation | [arXiv](https://arxiv.org/abs/2404.01736v4) | targeted maximum likelihood,  highly adaptive lasso |
 | 2024-01-30 | Recovery and inference of causal effects with sequential adjustment for confounding and attrition | [arXiv](https://arxiv.org/abs/2401.16990v6) | tmle |
 | 2024-01-08 | Two-Step Targeted Minimum-Loss Based Estimation for Non-Negative Two-Part Outcomes | [arXiv](https://arxiv.org/abs/2401.04263v2) | tmle |
+| 2023-12-15 | Flexible Nonparametric Inference for Causal Effects under the Front-Door Model | [arXiv](https://arxiv.org/abs/2312.10234v2) |  |
 | 2023-11-30 | Geometry-Aware Normalizing Wasserstein Flows for Optimal Causal Inference | [arXiv](https://arxiv.org/abs/2311.18826v4) | tmle,  targeted maximum likelihood |
 | 2023-11-25 | Modelling wildland fire burn severity in California using a spatial Super Learner approach | [arXiv](https://arxiv.org/abs/2311.16187v1) | super learner |
 | 2023-11-06 | Practical considerations for variable screening in the super learner | [arXiv](https://arxiv.org/abs/2311.03313v2) | super learner |
@@ -152,6 +159,7 @@ Total tracked papers: **215**
 | 2022-12-07 | Combining Planning, Reasoning and Reinforcement Learning to solve Industrial Robot Tasks | [arXiv](https://arxiv.org/abs/2212.03570v1) | targeted learning |
 | 2022-12-05 | Adaptive Sequential Surveillance with Network and Temporal Dependence | [arXiv](https://arxiv.org/abs/2212.02422v1) | super learner |
 | 2022-11-26 | Efficient Targeted Learning of Heterogeneous Treatment Effects for Multiple Subgroups | [arXiv](https://arxiv.org/abs/2211.14671v1) | tmle,  targeted learning |
+| 2022-11-18 | All models are wrong, but which are useful? Comparing parametric and nonparametric estimation of causal effects in finite samples | [arXiv](https://arxiv.org/abs/2211.10310v2) |  |
 | 2022-10-31 | Adaptive Selection of the Optimal Strategy to Improve Precision and Power in Randomized Trials | [arXiv](https://arxiv.org/abs/2210.17453v3) | tmle |
 | 2022-10-11 | Experiment-selector cross-validated targeted maximum likelihood estimator for hybrid RCT-external data studies | [arXiv](https://arxiv.org/abs/2210.05802v4) | tmle,  targeted maximum likelihood |
 | 2022-10-07 | Efficient and Robust Approaches for Analysis of SMARTs: Illustration using the ADAPT-R Trial | [arXiv](https://arxiv.org/abs/2210.03316v1) | tmle,  targeted maximum likelihood |
@@ -204,11 +212,13 @@ Total tracked papers: **215**
 | 2019-12-03 | Confounding Adjustment Methods for Multi-level Treatment Comparisons Under Lack of Positivity and Unknown Model Specification | [arXiv](https://arxiv.org/abs/1912.01517v2) | targeted maximum likelihood |
 | 2019-10-26 | SUPER Learning: A Supervised-Unsupervised Framework for Low-Dose CT Image Reconstruction | [arXiv](https://arxiv.org/abs/1910.12024v1) | super learning |
 | 2019-10-20 | Targeted Estimation of Heterogeneous Treatment Effect in Observational Survival Analysis | [arXiv](https://arxiv.org/abs/1910.08877v2) | targeted maximum likelihood |
+| 2019-10-13 | Improving Precision through Adjustment for Prognostic Variables in Group Sequential Trial Designs: Impact of Baseline Variables, Short-Term Outcomes, and Treatment Effect Heterogeneity | [arXiv](https://arxiv.org/abs/1910.05800v2) |  |
 | 2019-09-27 | A Data-Adaptive Targeted Learning Approach of Evaluating Viscoelastic Assay Driven Trauma Treatment Protocols | [arXiv](https://arxiv.org/abs/1909.12881v2) | tmle,  targeted learning,  super learning |
 | 2019-09-09 | Super ensemble learning for daily streamflow forecasting: Large-scale demonstration and comparison with multiple machine learning algorithms | [arXiv](https://arxiv.org/abs/1909.04131v2) | super learner,  super learning |
 | 2019-08-16 | Efficient Estimation of Pathwise Differentiable Target Parameters with the Undersmoothed Highly Adaptive Lasso | [arXiv](https://arxiv.org/abs/1908.05607) | highly adaptive lasso |
 | 2019-08-14 | Efficient Estimation of Pathwise Differentiable Target Parameters with the Undersmoothed Highly Adaptive Lasso | [arXiv](https://arxiv.org/abs/1908.05607v2) | highly adaptive lasso |
 | 2019-07-10 | A Highly Efficient Distributed Deep Learning System For Automatic Speech Recognition | [arXiv](https://arxiv.org/abs/1907.05701v1) | super learner |
+| 2019-06-21 | Design and analysis considerations for a sequentially randomized HIV prevention trial | [arXiv](https://arxiv.org/abs/1906.09304v1) |  |
 | 2019-05-31 | Targeted Estimation of L2 Distance Between Densities and its Application to Geo-spatial Data | [arXiv](https://arxiv.org/abs/1905.13414v1) | targeted maximum likelihood |
 | 2019-05-23 | Nonparametric Bootstrap Inference for the Targeted Highly Adaptive LASSO Estimator | [arXiv](https://arxiv.org/abs/1905.10299v2) | tmle,  highly adaptive lasso |
 | 2019-03-05 | Tutorial: Deriving The Efficient Influence Curve for Large Models | [arXiv](https://arxiv.org/abs/1903.01706v3) | targeted maximum likelihood |
@@ -219,19 +229,35 @@ Total tracked papers: **215**
 | 2018-11-03 | Canonical Least Favorable Submodels:A New TMLE Procedure for Multidimensional Parameters | [arXiv](https://arxiv.org/abs/1811.01261v3) | tmle,  targeted maximum likelihood,  targeted learning |
 | 2018-10-29 | Complier stochastic direct effects: identification and robust estimation | [arXiv](https://arxiv.org/abs/1810.12452v1) | tmle |
 | 2018-09-07 | A Primer on Causality in Data Science | [arXiv](https://arxiv.org/abs/1809.02408v2) | tmle,  targeted maximum likelihood,  super learner |
+| 2018-09-03 | Robust Estimation of Data-Dependent Causal Effects based on Observing a Single Time-Series | [arXiv](https://arxiv.org/abs/1809.00734v1) | tmle,  targeted maximum likelihood |
 | 2018-06-18 | Robust inference on the average treatment effect using the outcome highly adaptive lasso | [arXiv](https://arxiv.org/abs/1806.06784v3) | highly adaptive lasso |
 | 2018-05-21 | Super learning in the SAS system | [arXiv](https://arxiv.org/abs/1805.08058v3) | super learner,  super learning |
 | 2018-04-01 | Flexible model selection for mechanistic network models | [arXiv](https://arxiv.org/abs/1804.00237v2) | super learner |
+| 2018-03-31 | Collaborative targeted inference from continuously indexed nuisance parameter estimators | [arXiv](https://arxiv.org/abs/1804.00102v2) | tmle |
 | 2018-03-06 | Deep Super Learner: A Deep Ensemble for Classification Problems | [arXiv](https://arxiv.org/abs/1803.02323v1) | super learner,  super learning |
+| 2018-02-26 | One-step Targeted Maximum Likelihood for Time-to-event Outcomes | [arXiv](https://arxiv.org/abs/1802.09479v3) | tmle,  targeted maximum likelihood |
+| 2018-02-14 | Using Longitudinal Targeted Maximum Likelihood Estimation in Complex Settings with Dynamic Interventions | [arXiv](https://arxiv.org/abs/1802.05005v9) | tmle,  targeted maximum likelihood,  targeted maximum likelihood estimation |
 | 2018-02-08 | Data-adaptive doubly robust instrumental variable methods for treatment effect heterogeneity | [arXiv](https://arxiv.org/abs/1802.02821v2) | tmle,  super learner |
+| 2017-12-15 | Efficient Principally Stratified Treatment Effect Estimation in Crossover Studies with Absorbent Binary Endpoints | [arXiv](https://arxiv.org/abs/1712.05835v2) |  |
+| 2017-10-26 | Causal Inference When Counterfactuals Depend on the Proportion of All Subjects Exposed | [arXiv](https://arxiv.org/abs/1710.09588v2) | targeted maximum likelihood |
 | 2017-10-23 | Benchmark of Deep Learning Models on Large Healthcare MIMIC Datasets | [arXiv](https://arxiv.org/abs/1710.08531v1) | super learner |
 | 2017-09-19 | Uniform Consistency of the Highly Adaptive Lasso Estimator of Infinite Dimensional Parameters | [arXiv](https://arxiv.org/abs/1709.06256v1) | tmle,  highly adaptive lasso |
 | 2017-08-30 | Finite Sample Inference for Targeted Learning | [arXiv](https://arxiv.org/abs/1708.09502v1) | tmle,  targeted learning |
+| 2017-07-27 | Robust and Flexible Estimation of Stochastic Mediation Effects: A Proposed Method and Example in a Randomized Trial Setting | [arXiv](https://arxiv.org/abs/1707.09021v2) |  |
+| 2017-07-18 | On Adaptive Propensity Score Truncation in Causal Inference | [arXiv](https://arxiv.org/abs/1707.05861v1) | tmle,  targeted maximum likelihood |
+| 2017-06-30 | Collaborative-controlled LASSO for Constructing Propensity Score-based Estimators in High-Dimensional Data | [arXiv](https://arxiv.org/abs/1706.10029v1) | tmle |
+| 2017-06-08 | A new approach to hierarchical data analysis: Targeted maximum likelihood estimation for the causal effect of a cluster-level exposure | [arXiv](https://arxiv.org/abs/1706.02675v2) | tmle,  targeted maximum likelihood |
+| 2017-05-27 | Targeted Learning with Daily EHR Data | [arXiv](https://arxiv.org/abs/1705.09874v2) | tmle,  targeted learning |
 | 2017-05-06 | Sequential Double Robustness in Right-Censored Longitudinal Models | [arXiv](https://arxiv.org/abs/1705.02459v2) | targeted minimum loss-based estimation |
 | 2017-04-05 | The Relative Performance of Ensemble Methods with Deep Convolutional Neural Networks for Image Classification | [arXiv](https://arxiv.org/abs/1704.01664v1) | super learner |
+| 2017-04-05 | Doubly Robust Inference for Targeted Minimum Loss Based Estimation in Randomized Trials with Missing Outcome Data | [arXiv](https://arxiv.org/abs/1704.01538v1) | targeted minimum loss based estimation |
 | 2017-03-07 | Scalable Collaborative Targeted Learning for High-Dimensional Data | [arXiv](https://arxiv.org/abs/1703.02237v1) | tmle,  targeted minimum loss-based estimation,  targeted learning |
 | 2017-03-07 | Propensity score prediction for electronic healthcare databases using Super Learner and High-dimensional Propensity Score Methods | [arXiv](https://arxiv.org/abs/1703.02236v2) | super learner |
 | 2017-02-15 | Targeted Learning Ensembles for Optimal Individualized Treatment Rules with Time-to-Event Outcomes | [arXiv](https://arxiv.org/abs/1702.04682v2) | targeted learning,  super learning |
+| 2016-06-30 | Practical targeted learning from large data sets by survey sampling | [arXiv](https://arxiv.org/abs/1606.09522v1) | tmle,  targeted learning |
+| 2015-12-26 | Efficient Estimation of Quantiles in Missing Data Models | [arXiv](https://arxiv.org/abs/1512.08110v2) | tmle,  targeted maximum likelihood |
 | 2015-11-26 | Second-Order Inference for the Mean of a Variable Missing at Random | [arXiv](https://arxiv.org/abs/1511.08369v1) | tmle,  targeted minimum loss-based estimation |
+| 2014-07-31 | Effect of breastfeeding on gastrointestinal infection in infants: A targeted maximum likelihood approach for clustered longitudinal data | [arXiv](https://arxiv.org/abs/1407.8371v1) | tmle,  targeted maximum likelihood |
+| 2014-06-02 | Targeted Maximum Likelihood Estimation using Exponential Families | [arXiv](https://arxiv.org/abs/1406.0423v1) | tmle,  targeted maximum likelihood |
 | 2012-09-27 | Classification in postural style | [arXiv](https://arxiv.org/abs/1209.6221v1) | targeted maximum likelihood |
 :::
