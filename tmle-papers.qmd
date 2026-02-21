@@ -1,6 +1,21 @@
 ---
 title: "TMLE Papers"
+page-layout: full
 ---
+
+<style>
+#tmle-table-wrap table { width: 100%; }
+#tmle-table-wrap th:nth-child(1),
+#tmle-table-wrap td:nth-child(1),
+#tmle-table-wrap th:nth-child(3),
+#tmle-table-wrap td:nth-child(3) {
+  white-space: nowrap;
+}
+#tmle-table-wrap th:nth-child(1),
+#tmle-table-wrap td:nth-child(1) { min-width: 7.5rem; }
+#tmle-table-wrap th:nth-child(3),
+#tmle-table-wrap td:nth-child(3) { min-width: 4.5rem; }
+</style>
 
 Auto-updated list of TMLE-related papers tracked from arXiv queries.
 
@@ -8,6 +23,7 @@ Last refreshed: 2026-02-21T05:58:48.046Z
 
 Total tracked papers: **57**
 
+::: {#tmle-table-wrap}
 | Published | Title | Link | Keywords |
 |---|---|---|---|
 | 2026-02-19 | genriesz: A Python Package for Automatic Debiased Machine Learning with Generalized Riesz Regression | [arXiv](https://arxiv.org/abs/2602.17543v1) | tmle |
@@ -67,3 +83,4 @@ Total tracked papers: **57**
 | 2022-03-09 | SuperCone: Unified User Segmentation over Heterogeneous Experts via Concept Meta-learning | [arXiv](https://arxiv.org/abs/2203.07029v2) | super learning |
 | 2021-07-28 | One-step ahead sequential Super Learning from short times series of many slightly dependent data, and anticipating the cost of natural disasters | [arXiv](https://arxiv.org/abs/2107.13291v1) | super learner,  super learning |
 | 2020-03-18 | Bootstrap Bias Corrected Cross Validation applied to Super Learning | [arXiv](https://arxiv.org/abs/2003.08342v1) | super learner,  super learning |
+:::
