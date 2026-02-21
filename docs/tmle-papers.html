@@ -1,0 +1,919 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.8.27">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>TMLE Papers – Sky Qiu</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-99cd1c604dd888d5fb5d3ee6d19123b2.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Sky Qiu</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./research.html"> 
+<span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./talks.html"> 
+<span class="menu-text">Talks</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./work.html"> 
+<span class="menu-text">Experience</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./teaching.html"> 
+<span class="menu-text">TA</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./tmle-papers.html" aria-current="page"> 
+<span class="menu-text">TMLE Papers</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">TMLE Papers</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>Auto-updated list of TMLE-related papers tracked from arXiv queries.</p>
+<p>Last refreshed: 2026-02-21T05:58:48.046Z</p>
+<p>Total tracked papers: <strong>57</strong></p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Published</th>
+<th>Title</th>
+<th>Link</th>
+<th>Keywords</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2026-02-19</td>
+<td>genriesz: A Python Package for Automatic Debiased Machine Learning with Generalized Riesz Regression</td>
+<td><a href="https://arxiv.org/abs/2602.17543v1">arXiv</a></td>
+<td>tmle</td>
+</tr>
+<tr class="even">
+<td>2026-02-12</td>
+<td>Deep Doubly Debiased Longitudinal Effect Estimation with ICE G-Computation</td>
+<td><a href="https://arxiv.org/abs/2602.12379v1">arXiv</a></td>
+<td>tmle, targeted minimum loss-based estimation</td>
+</tr>
+<tr class="odd">
+<td>2026-01-12</td>
+<td>A Unified Framework for Debiased Machine Learning: Riesz Representer Fitting under Bregman Divergence</td>
+<td><a href="https://arxiv.org/abs/2601.07752v3">arXiv</a></td>
+<td>tmle, targeted maximum likelihood</td>
+</tr>
+<tr class="even">
+<td>2026-01-09</td>
+<td>A Targeted Learning Framework for Estimating Restricted Mean Survival Time Difference using Pseudo-observations</td>
+<td><a href="https://arxiv.org/abs/2601.06296v2">arXiv</a></td>
+<td>tmle, targeted learning</td>
+</tr>
+<tr class="odd">
+<td>2026-01-09</td>
+<td>Estimating optimal interpretable individualized treatment regimes from a classification perspective using adaptive LASSO</td>
+<td><a href="https://arxiv.org/abs/2601.05875v1">arXiv</a></td>
+<td>super learner</td>
+</tr>
+<tr class="even">
+<td>2025-12-26</td>
+<td>Targeted learning via probabilistic subpopulation matching</td>
+<td><a href="https://arxiv.org/abs/2512.21840v1">arXiv</a></td>
+<td>targeted learning</td>
+</tr>
+<tr class="odd">
+<td>2025-12-15</td>
+<td>Machine learning to optimize precision in the analysis of randomized trials: A journey in pre-specified, yet data-adaptive learning</td>
+<td><a href="https://arxiv.org/abs/2512.13610v1">arXiv</a></td>
+<td>tmle</td>
+</tr>
+<tr class="even">
+<td>2025-11-24</td>
+<td>What Drives Cross-lingual Ranking? Retrieval Approaches with Multilingual Language Models</td>
+<td><a href="https://arxiv.org/abs/2511.19324v1">arXiv</a></td>
+<td>targeted learning</td>
+</tr>
+<tr class="odd">
+<td>2025-11-19</td>
+<td>Hazard-Based Targeted Maximum Likelihood Estimation for Survival in Resampling Designs</td>
+<td><a href="https://arxiv.org/abs/2511.15045v1">arXiv</a></td>
+<td>tmle, targeted maximum likelihood</td>
+</tr>
+<tr class="even">
+<td>2025-11-10</td>
+<td>Causal Inference for Network Autoregression Model: A Targeted Minimum Loss Estimation Approach</td>
+<td><a href="https://arxiv.org/abs/2511.06652v2">arXiv</a></td>
+<td>tmle</td>
+</tr>
+<tr class="odd">
+<td>2025-11-02</td>
+<td>From Path Coefficients to Targeted Estimands: A Comparison of Structural Equation Models (SEM) and Targeted Maximum Likelihood Estimation (TMLE)</td>
+<td><a href="https://arxiv.org/abs/2511.01040v2">arXiv</a></td>
+<td>tmle, targeted maximum likelihood, targeted learning</td>
+</tr>
+<tr class="even">
+<td>2025-10-30</td>
+<td>A Unified Theory for Causal Inference: Direct Debiased Machine Learning via Bregman-Riesz Regression</td>
+<td><a href="https://arxiv.org/abs/2510.26783v1">arXiv</a></td>
+<td>tmle, targeted maximum likelihood</td>
+</tr>
+<tr class="odd">
+<td>2025-10-27</td>
+<td>Direct Debiased Machine Learning via Bregman Divergence Minimization</td>
+<td><a href="https://arxiv.org/abs/2510.23534v2">arXiv</a></td>
+<td>tmle, targeted maximum likelihood</td>
+</tr>
+<tr class="even">
+<td>2025-10-25</td>
+<td>Causal Effect Estimation with TMLE: Handling Missing Data and Near-Violations of Positivity</td>
+<td><a href="https://arxiv.org/abs/2510.22202v1">arXiv</a></td>
+<td>tmle, targeted maximum likelihood</td>
+</tr>
+<tr class="odd">
+<td>2025-10-19</td>
+<td>Causal inference for calibrated scaling interventions on time-to-event processes</td>
+<td><a href="https://arxiv.org/abs/2510.16798v2">arXiv</a></td>
+<td>tmle, targeted maximum likelihood</td>
+</tr>
+<tr class="even">
+<td>2025-10-18</td>
+<td>Estimate Time-Varying Exposure Effects via Ensemble Learning-based Marginal Structural Model with Application to Adolescent Cognitive Development Study</td>
+<td><a href="https://arxiv.org/abs/2510.16298v1">arXiv</a></td>
+<td>targeted maximum likelihood</td>
+</tr>
+<tr class="odd">
+<td>2025-10-15</td>
+<td>postcard: An R Package for Marginal Effect Estimation with or without Prognostic Score Adjustment</td>
+<td><a href="https://arxiv.org/abs/2510.13347v1">arXiv</a></td>
+<td>super learner</td>
+</tr>
+<tr class="even">
+<td>2025-09-30</td>
+<td>Integrating noise into PhET simulations to promote student learning of measurement uncertainty</td>
+<td><a href="https://arxiv.org/abs/2509.25769v1">arXiv</a></td>
+<td>targeted learning</td>
+</tr>
+<tr class="odd">
+<td>2025-09-29</td>
+<td>Reinforcement Mid-Training</td>
+<td><a href="https://arxiv.org/abs/2509.24375v1">arXiv</a></td>
+<td>targeted learning</td>
+</tr>
+<tr class="even">
+<td>2025-09-03</td>
+<td>The super learner for time-to-event outcomes: A tutorial</td>
+<td><a href="https://arxiv.org/abs/2509.03315v2">arXiv</a></td>
+<td>super learner</td>
+</tr>
+<tr class="odd">
+<td>2025-08-13</td>
+<td>Linking GFAP Levels to Speech Anomalies in Acute Brain Injury: A Simulation Based Study</td>
+<td><a href="https://arxiv.org/abs/2508.10130v1">arXiv</a></td>
+<td>targeted maximum likelihood</td>
+</tr>
+<tr class="even">
+<td>2025-08-13</td>
+<td>Developing an Inhaled NEU1 Inhibitor for Cystic Fibrosis via Pharmacokinetic and Biophysical Modeling</td>
+<td><a href="https://arxiv.org/abs/2508.10082v1">arXiv</a></td>
+<td>targeted maximum likelihood</td>
+</tr>
+<tr class="odd">
+<td>2025-08-12</td>
+<td>Efficient Statistical Estimation for Sequential Adaptive Experiments with Implications for Adaptive Designs</td>
+<td><a href="https://arxiv.org/abs/2508.09135v2">arXiv</a></td>
+<td>tmle, targeted maximum likelihood</td>
+</tr>
+<tr class="even">
+<td>2025-08-12</td>
+<td>Debiased machine learning for combining probability and non-probability survey data</td>
+<td><a href="https://arxiv.org/abs/2508.08948v2">arXiv</a></td>
+<td>targeted maximum likelihood</td>
+</tr>
+<tr class="odd">
+<td>2025-07-31</td>
+<td>“Within-trial” prognostic score adjustment is targeted maximum likelihood estimation</td>
+<td><a href="https://arxiv.org/abs/2507.23446v2">arXiv</a></td>
+<td>tmle, targeted maximum likelihood</td>
+</tr>
+<tr class="even">
+<td>2025-07-21</td>
+<td>Bayesian implementation of Targeted Maximum Likelihood Estimation for uncertainty quantification in causal effect estimation</td>
+<td><a href="https://arxiv.org/abs/2507.15909v1">arXiv</a></td>
+<td>tmle, targeted maximum likelihood</td>
+</tr>
+<tr class="odd">
+<td>2025-07-16</td>
+<td>Targeted Deep Architectures: A TMLE-Based Framework for Robust Causal Inference in Neural Networks</td>
+<td><a href="https://arxiv.org/abs/2507.12435v1">arXiv</a></td>
+<td>tmle, targeted maximum likelihood</td>
+</tr>
+<tr class="even">
+<td>2025-06-06</td>
+<td>When Measurement Mediates the Effect of Interest</td>
+<td><a href="https://arxiv.org/abs/2506.06267v2">arXiv</a></td>
+<td>tmle, targeted minimum loss-based estimation</td>
+</tr>
+<tr class="odd">
+<td>2025-06-03</td>
+<td>Causal Inference with Missing Exposures and Missing Outcomes</td>
+<td><a href="https://arxiv.org/abs/2506.03336v2">arXiv</a></td>
+<td>tmle, super learner</td>
+</tr>
+<tr class="even">
+<td>2025-05-20</td>
+<td>Semi-parametric efficient estimation of small genetic effects in large-scale population cohorts</td>
+<td><a href="https://arxiv.org/abs/2505.14675v1">arXiv</a></td>
+<td>tmle</td>
+</tr>
+<tr class="odd">
+<td>2025-05-01</td>
+<td>On the Mechanistic Interpretability of Neural Networks for Causality in Bio-statistics</td>
+<td><a href="https://arxiv.org/abs/2505.00555v1">arXiv</a></td>
+<td>tmle, targeted minimum loss-based estimation</td>
+</tr>
+<tr class="even">
+<td>2025-04-30</td>
+<td>Assessing Racial Disparities in Healthcare Expenditures via Mediator Distribution Shifts</td>
+<td><a href="https://arxiv.org/abs/2504.21688v2">arXiv</a></td>
+<td>super learner</td>
+</tr>
+<tr class="odd">
+<td>2025-04-04</td>
+<td>Weak instrumental variables due to nonlinearities in panel data: A Super Learner Control Function estimator</td>
+<td><a href="https://arxiv.org/abs/2504.03228v8">arXiv</a></td>
+<td>super learner</td>
+</tr>
+<tr class="even">
+<td>2025-01-30</td>
+<td>U-aggregation: Unsupervised Aggregation of Multiple Learning Algorithms</td>
+<td><a href="https://arxiv.org/abs/2501.18084v1">arXiv</a></td>
+<td>super learner</td>
+</tr>
+<tr class="odd">
+<td>2024-12-13</td>
+<td>What if we had built a prediction model with a survival super learner instead of a Cox model 10 years ago?</td>
+<td><a href="https://arxiv.org/abs/2412.10252v1">arXiv</a></td>
+<td>super learner</td>
+</tr>
+<tr class="even">
+<td>2024-11-22</td>
+<td>Double Machine Learning for Adaptive Causal Representation in High-Dimensional Data</td>
+<td><a href="https://arxiv.org/abs/2411.14665v1">arXiv</a></td>
+<td>super learner</td>
+</tr>
+<tr class="odd">
+<td>2024-11-15</td>
+<td>G-computation for increasing performances of clinical trials with individual randomization and binary response</td>
+<td><a href="https://arxiv.org/abs/2411.10089v1">arXiv</a></td>
+<td>super learner</td>
+</tr>
+<tr class="even">
+<td>2024-10-24</td>
+<td>Doubly Robust Nonparametric Efficient Estimation for Provider Evaluation</td>
+<td><a href="https://arxiv.org/abs/2410.19073v1">arXiv</a></td>
+<td>targeted minimum loss-based estimation</td>
+</tr>
+<tr class="odd">
+<td>2024-09-17</td>
+<td>Performance of Cross-Validated Targeted Maximum Likelihood Estimation</td>
+<td><a href="https://arxiv.org/abs/2409.11265v2">arXiv</a></td>
+<td>tmle, targeted maximum likelihood, super learner</td>
+</tr>
+<tr class="even">
+<td>2024-08-09</td>
+<td>A Density Ratio Super Learner</td>
+<td><a href="https://arxiv.org/abs/2408.04796v1">arXiv</a></td>
+<td>super learner, super learning</td>
+</tr>
+<tr class="odd">
+<td>2024-06-16</td>
+<td>Data-Adaptive Identification of Effect Modifiers through Stochastic Shift Interventions and Cross-Validated Targeted Learning</td>
+<td><a href="https://arxiv.org/abs/2406.10792v2">arXiv</a></td>
+<td>tmle, targeted minimum loss-based estimation, targeted learning</td>
+</tr>
+<tr class="even">
+<td>2024-06-06</td>
+<td>Causal Inference in Randomized Trials with Partial Clustering</td>
+<td><a href="https://arxiv.org/abs/2406.04505v2">arXiv</a></td>
+<td>tmle, targeted minimum loss-based estimation</td>
+</tr>
+<tr class="odd">
+<td>2024-05-27</td>
+<td>The joint survival super learner: A super learner for right-censored data</td>
+<td><a href="https://arxiv.org/abs/2405.17259v2">arXiv</a></td>
+<td>super learner, super learning</td>
+</tr>
+<tr class="even">
+<td>2024-05-24</td>
+<td>Causal machine learning methods and use of cross-fitting in settings with high-dimensional confounding</td>
+<td><a href="https://arxiv.org/abs/2405.15242v3">arXiv</a></td>
+<td>tmle, targeted maximum likelihood, super learner</td>
+</tr>
+<tr class="odd">
+<td>2024-04-05</td>
+<td>Longitudinal Targeted Minimum Loss-based Estimation with Temporal-Difference Heterogeneous Transformer</td>
+<td><a href="https://arxiv.org/abs/2404.04399v2">arXiv</a></td>
+<td>tmle, targeted minimum loss-based estimation</td>
+</tr>
+<tr class="even">
+<td>2024-01-08</td>
+<td>Two-Step Targeted Minimum-Loss Based Estimation for Non-Negative Two-Part Outcomes</td>
+<td><a href="https://arxiv.org/abs/2401.04263v2">arXiv</a></td>
+<td>tmle</td>
+</tr>
+<tr class="odd">
+<td>2023-10-30</td>
+<td>Quantile Super Learning for independent and online settings with application to solar power forecasting</td>
+<td><a href="https://arxiv.org/abs/2310.19343v1">arXiv</a></td>
+<td>super learning</td>
+</tr>
+<tr class="even">
+<td>2023-10-12</td>
+<td>Personalised dynamic super learning: an application in predicting hemodiafiltration convection volumes</td>
+<td><a href="https://arxiv.org/abs/2310.08479v2">arXiv</a></td>
+<td>super learner, super learning</td>
+</tr>
+<tr class="odd">
+<td>2023-09-20</td>
+<td>Optimizing Dynamic Predictions from Joint Models using Super Learning</td>
+<td><a href="https://arxiv.org/abs/2309.11472v2">arXiv</a></td>
+<td>super learning</td>
+</tr>
+<tr class="even">
+<td>2023-02-03</td>
+<td>VR-LENS: Super Learning-based Cybersickness Detection and Explainable AI-Guided Deployment in Virtual Reality</td>
+<td><a href="https://arxiv.org/abs/2302.01985v1">arXiv</a></td>
+<td>super learner, super learning</td>
+</tr>
+<tr class="odd">
+<td>2022-12-30</td>
+<td>Data-driven photometric redshift estimation from type Ia supernovae light curves</td>
+<td><a href="https://arxiv.org/abs/2212.14668v2">arXiv</a></td>
+<td>super learning</td>
+</tr>
+<tr class="even">
+<td>2022-06-23</td>
+<td>Forecasting the cost of drought events in France by Super Learning</td>
+<td><a href="https://arxiv.org/abs/2206.11545v2">arXiv</a></td>
+<td>super learner, super learning</td>
+</tr>
+<tr class="odd">
+<td>2022-05-17</td>
+<td>Targeted learning: Towards a future informed by real-world evidence</td>
+<td><a href="https://arxiv.org/abs/2205.08643v2">arXiv</a></td>
+<td>targeted minimum loss-based estimation, targeted learning, super learning</td>
+</tr>
+<tr class="even">
+<td>2022-05-13</td>
+<td>A Huber loss-based super learner with applications to healthcare expenditures</td>
+<td><a href="https://arxiv.org/abs/2205.06870v1">arXiv</a></td>
+<td>super learner, super learning</td>
+</tr>
+<tr class="odd">
+<td>2022-03-09</td>
+<td>SuperCone: Unified User Segmentation over Heterogeneous Experts via Concept Meta-learning</td>
+<td><a href="https://arxiv.org/abs/2203.07029v2">arXiv</a></td>
+<td>super learning</td>
+</tr>
+<tr class="even">
+<td>2021-07-28</td>
+<td>One-step ahead sequential Super Learning from short times series of many slightly dependent data, and anticipating the cost of natural disasters</td>
+<td><a href="https://arxiv.org/abs/2107.13291v1">arXiv</a></td>
+<td>super learner, super learning</td>
+</tr>
+<tr class="odd">
+<td>2020-03-18</td>
+<td>Bootstrap Bias Corrected Cross Validation applied to Super Learning</td>
+<td><a href="https://arxiv.org/abs/2003.08342v1">arXiv</a></td>
+<td>super learner, super learning</td>
+</tr>
+</tbody>
+</table>
+
+
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>
