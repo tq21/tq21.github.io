@@ -414,7 +414,7 @@ def build_contributor_chart(papers: List[Dict]) -> str:
     lines.append("## Contributor Ranking")
     lines.append("")
     lines.append(
-        f"Bars show contributors with at least 2 papers (name/initial variants merged when unambiguous, full-name labels), "
+        f"Bars show contributors with at least 2 papers, "
         f"sorted left to right by paper count. Total shown: **{len(rows)}**."
     )
     lines.append("")
@@ -493,14 +493,11 @@ def build_details(papers: List[Dict]) -> str:
         return (1, 0, y.lower())
 
     ordered_years = sorted(grouped.keys(), key=sort_year_key)
-    current_year = str(date.today().year)
-
     lines.append("## Papers")
     lines.append("")
     lines.append(
         f"Papers are grouped by publication year. Expand a year to browse papers. "
-        f"Only papers from **{min_year}+** are shown (plus records with unknown year). "
-        f"All year sections are folded by default, including {current_year}."
+        f"Only papers from **{min_year}+** are shown (plus records with unknown year)."
     )
     lines.append("")
     lines.append("```{=html}")
@@ -587,7 +584,7 @@ def sort_papers(papers: List[Dict]) -> List[Dict]:
 def generate_qmd(data_path: Path, blocked_path: Path) -> str:
     obj = json.loads(data_path.read_text(encoding="utf-8"))
     blocked = load_blocklist(blocked_path)
-    papers, blocked_count = filter_blocked_papers(obj.get("papers") or [], blocked)
+    papers, _ = filter_blocked_papers(obj.get("papers") or [], blocked)
     papers = sort_papers(papers)
     generated_at = obj.get("generated_at") or datetime.utcnow().isoformat() + "Z"
     paper_count = len(papers)
@@ -601,15 +598,15 @@ def generate_qmd(data_path: Path, blocked_path: Path) -> str:
     parts.append("")
     parts.append("Auto-updated list of TMLE-related papers tracked from Semantic Scholar queries.")
     parts.append("")
+    parts.append(
+        "_Note: this list is not complete and may include irrelevant articles; it will be refined over time._"
+    )
+    parts.append("")
     parts.append(f"Last refreshed: {generated_at}")
     parts.append("")
     parts.append(f"Keywords queried: {', '.join(keywords)}")
     parts.append("")
     parts.append(f"Total tracked papers: **{paper_count}**")
-    parts.append("")
-    parts.append(
-        f"Blocked papers excluded: **{blocked_count}** (cross-checked with `{blocked_path}`)"
-    )
     parts.append("")
     parts.append("<!-- monthly-chart:start -->")
     parts.append("")

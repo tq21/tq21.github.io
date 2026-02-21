@@ -5,13 +5,13 @@ page-layout: full
 
 Auto-updated list of TMLE-related papers tracked from Semantic Scholar queries.
 
+_Note: this list is not complete and may include irrelevant articles; it will be refined over time._
+
 Last refreshed: 2026-02-21T18:13:19Z
 
 Keywords queried: tmle, targeted maximum likelihood estimation, targeted minimum loss based estimation, super learner, super learning, highly adaptive lasso
 
 Total tracked papers: **916**
-
-Blocked papers excluded: **4** (cross-checked with `data/blocked_tmle_papers.json`)
 
 <!-- monthly-chart:start -->
 
@@ -116,7 +116,7 @@ Number of papers per year from **2006** to **2025** (coverage: **884/916** paper
 
 ## Contributor Ranking
 
-Bars show contributors with at least 2 papers (name/initial variants merged when unambiguous, full-name labels), sorted left to right by paper count. Total shown: **741**.
+Bars show contributors with at least 2 papers, sorted left to right by paper count. Total shown: **741**.
 
 ```{=html}
 <style>
@@ -886,7 +886,7 @@ Tip: scroll horizontally and hover each bar to see exact paper counts.
 
 ## Papers
 
-Papers are grouped by publication year. Expand a year to browse papers. Only papers from **2006+** are shown (plus records with unknown year). All year sections are folded by default, including 2026.
+Papers are grouped by publication year. Expand a year to browse papers. Only papers from **2006+** are shown (plus records with unknown year).
 
 ```{=html}
 <style>
