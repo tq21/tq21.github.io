@@ -16,6 +16,8 @@ website:
         text: Experience
       - href: teaching.qmd
         text: TA
+      - href: tmle-papers.qmd
+        text: TMLE Papers
 format:
   html:
     theme: cosmo
