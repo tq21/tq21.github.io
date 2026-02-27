@@ -1,8 +1,9 @@
 {
-  "generated_at": "2026-02-27T18:12:45Z",
+  "generated_at": "2026-02-27T18:32:59Z",
   "source": "Semantic Scholar Graph API",
   "unauthenticated": true,
   "mode": "bulk",
+  "append_only": true,
   "blocked_json": "data/blocked_tmle_papers.json",
   "blocked_match_count": 1,
   "min_year": 2006,
@@ -33,16 +34,18 @@
     },
     {
       "keyword": "super learning",
-      "fetched_raw_count": 1999
+      "fetched_raw_count": 985
     },
     {
       "keyword": "highly adaptive lasso",
-      "fetched_raw_count": 208
+      "fetched_raw_count": 195
     }
   ],
   "query_errors": [],
   "incomplete": false,
-  "paper_count": 933,
+  "fetched_paper_count": 783,
+  "newly_appended_count": 2,
+  "paper_count": 935,
   "papers": [
     {
       "title": "A Targeted Learning Framework for Estimating Restricted Mean Survival Time Difference using Pseudo-observations",
@@ -23042,9 +23045,56 @@
       "source_queries": [
         "targeted maximum likelihood estimation"
       ]
+    },
+    {
+      "title": "A super learner ensemble of 14 statistical learning models for predicting COVID-19 severity among patients with cardiovascular conditions",
+      "authors": [
+        "L. Ehwerhemuepha",
+        "Sidy Danioko",
+        "S. Verma",
+        "R. Marano",
+        "W. Feaster",
+        "S. Taraman",
+        "Tatiana Moreno",
+        "Jianwei Zheng",
+        "Ehsan Yaghmaei",
+        "Anthony Chang"
+      ],
+      "abstract": "Background Cardiovascular and other circulatory system diseases have been implicated in the severity of COVID-19 in adults. This study provides a super learner ensemble of models for predicting COVID-19 severity among these patients. Method The COVID-19 Dataset of the Cerner Real-World Data was used for this study. Data on adult patients (18 years or older) with cardiovascular diseases between 2017 and 2019 were retrieved and a total of 13 of these conditions were identified. Among these patients, 33,042 admitted with positive diagnoses for COVID-19 between March 2020 and June 2020 (from 59 hospitals) were identified and selected for this study. A total of 14 statistical and machine learning models were developed and combined into a more powerful super learning model for predicting COVID-19 severity on admission to the hospital. Result LASSO regression, a full extreme gradient boosting model with tree depth of 2, and a full logistic regression model were the most predictive with cross-validated AUROCs of 0.7964, 0.7961, and 0.7958 respectively. The resulting super learner ensemble model had a cross validated AUROC of 0.8006 (range: 0.7814, 0.8163). The unbiased AUROC of the super learner model on an independent test set was 0.8057 (95% CI: 0.7954, 0.8159). Conclusion Highly predictive models can be built to predict COVID-19 severity of patients with cardiovascular and other circulatory conditions. Super learning ensembles will improve individual and classical ensemble models significantly.",
+      "year": 2021,
+      "publication_date": "2021-03-17",
+      "paper_id": "92248ff967e368ce7bcb5e2b0f38b2bf050aa79e",
+      "url": "https://www.semanticscholar.org/paper/92248ff967e368ce7bcb5e2b0f38b2bf050aa79e",
+      "venue": "Intelligent Medicine",
+      "doi": "10.1016/j.ibmed.2021.100030",
+      "matched_keywords": [
+        "super learner",
+        "super learning"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
+      "title": "Super Learning: An Application to Prediction of HIV-1 Drug Susceptibility",
+      "authors": [
+        "S. Sinisi",
+        "M. Petersen",
+        "M. Laan"
+      ],
+      "abstract": "",
+      "year": 2006,
+      "publication_date": null,
+      "paper_id": "a75dacd6b3f0303e952fff2242474de3b40e56f7",
+      "url": "https://www.semanticscholar.org/paper/a75dacd6b3f0303e952fff2242474de3b40e56f7",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "super learning"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
     }
-  ],
-  "append_only": true,
-  "fetched_paper_count": 788,
-  "newly_appended_count": 13
+  ]
 }
