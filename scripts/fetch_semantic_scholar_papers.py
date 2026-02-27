@@ -100,6 +100,24 @@ def _paper_key(raw: Dict) -> str:
     return f"title:{_normalize_title_for_key(title)}|year:{year}"
 
 
+def _paper_key_from_record(record: Dict[str, Any]) -> str:
+    """Stable paper key for persisted records.
+
+    Priority: paper_id -> doi -> normalized title+year.
+    """
+    paper_id = record.get("paper_id") or record.get("paperId") or record.get("id")
+    if isinstance(paper_id, str) and _normalize_space(paper_id):
+        return f"pid:{_normalize_space(paper_id)}"
+
+    doi = record.get("doi")
+    if isinstance(doi, str) and _normalize_space(doi):
+        return f"doi:{_normalize_doi(doi)}"
+
+    title = record.get("title") or ""
+    year = record.get("year")
+    return f"title:{_normalize_title_for_key(title)}|year:{year}"
+
+
 def _paper_year(raw: Dict) -> Optional[int]:
     publication_date = raw.get("publicationDate")
     if isinstance(publication_date, str):
@@ -417,6 +435,45 @@ def dedupe_and_filter(
     return records, blocked_count
 
 
+def load_existing_output_papers(path: Path) -> List[Dict[str, Any]]:
+    if not path.exists():
+        return []
+    try:
+        obj = json.loads(path.read_text(encoding="utf-8"))
+    except Exception as exc:
+        raise RuntimeError(f"Failed to parse existing output JSON at {path}: {exc}") from exc
+
+    papers = obj.get("papers")
+    if not isinstance(papers, list):
+        raise RuntimeError(
+            f"Existing output JSON at {path} has invalid 'papers' field: expected list"
+        )
+    return papers
+
+
+def append_new_records_only(
+    *,
+    existing_papers: List[Dict[str, Any]],
+    fetched_records: List[PaperRecord],
+) -> Tuple[List[Dict[str, Any]], int]:
+    merged: List[Dict[str, Any]] = list(existing_papers)
+    seen_keys: Set[str] = set()
+    for paper in existing_papers:
+        seen_keys.add(_paper_key_from_record(paper))
+
+    appended = 0
+    for rec in fetched_records:
+        rec_dict = asdict(rec)
+        key = _paper_key_from_record(rec_dict)
+        if key in seen_keys:
+            continue
+        merged.append(rec_dict)
+        seen_keys.add(key)
+        appended += 1
+
+    return merged, appended
+
+
 def parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser(
         description="Fetch TMLE-related papers from Semantic Scholar Graph API."
@@ -506,6 +563,15 @@ def parse_args() -> argparse.Namespace:
         default=DEFAULT_MIN_YEAR,
         help="Only keep papers with year/publicationDate >= this year.",
     )
+    p.add_argument(
+        "--append-only",
+        action=argparse.BooleanOptionalAction,
+        default=True,
+        help=(
+            "Append only newly discovered papers to existing output JSON (default: true). "
+            "Use --no-append-only to rebuild output from current fetch results."
+        ),
+    )
     return p.parse_args()
 
 
@@ -587,11 +653,28 @@ def main() -> int:
         min_year=args.min_year,
         blocked=blocked,
     )
+    out_path = Path(args.output)
+    existing_papers: List[Dict[str, Any]] = []
+    if args.append_only:
+        existing_papers = load_existing_output_papers(out_path)
+        print(
+            f"[info] append-only mode enabled; existing papers={len(existing_papers)}",
+            file=sys.stderr,
+        )
+        merged_papers, newly_appended_count = append_new_records_only(
+            existing_papers=existing_papers,
+            fetched_records=records,
+        )
+    else:
+        merged_papers = [asdict(r) for r in records]
+        newly_appended_count = len(merged_papers)
+
     out = {
         "generated_at": dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z"),
         "source": "Semantic Scholar Graph API",
         "unauthenticated": not bool(args.api_key),
         "mode": args.mode,
+        "append_only": bool(args.append_only),
         "blocked_json": str(blocked_path),
         "blocked_match_count": blocked_match_count,
         "min_year": args.min_year,
@@ -599,14 +682,22 @@ def main() -> int:
         "query_stats": query_stats,
         "query_errors": query_errors,
         "incomplete": bool(query_errors),
-        "paper_count": len(records),
-        "papers": [asdict(r) for r in records],
+        "fetched_paper_count": len(records),
+        "newly_appended_count": newly_appended_count,
+        "paper_count": len(merged_papers),
+        "papers": merged_papers,
     }
 
-    out_path = Path(args.output)
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"[ok] wrote {len(records)} papers to {out_path}", file=sys.stderr)
+    if args.append_only:
+        print(
+            f"[ok] wrote {len(merged_papers)} total papers to {out_path} "
+            f"(appended {newly_appended_count}, fetched {len(records)})",
+            file=sys.stderr,
+        )
+    else:
+        print(f"[ok] wrote {len(merged_papers)} papers to {out_path}", file=sys.stderr)
     return 0
 
 

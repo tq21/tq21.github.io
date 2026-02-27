@@ -1,8 +1,11 @@
 {
-  "generated_at": "2026-02-21T18:13:19Z",
+  "generated_at": "2026-02-27T18:12:45Z",
   "source": "Semantic Scholar Graph API",
   "unauthenticated": true,
   "mode": "bulk",
+  "blocked_json": "data/blocked_tmle_papers.json",
+  "blocked_match_count": 1,
+  "min_year": 2006,
   "keywords": [
     "tmle",
     "targeted maximum likelihood estimation",
@@ -14,32 +17,32 @@
   "query_stats": [
     {
       "keyword": "tmle",
-      "fetched_raw_count": 437
+      "fetched_raw_count": 442
     },
     {
       "keyword": "targeted maximum likelihood estimation",
-      "fetched_raw_count": 3697
+      "fetched_raw_count": 2000
     },
     {
       "keyword": "targeted minimum loss based estimation",
-      "fetched_raw_count": 318
+      "fetched_raw_count": 321
     },
     {
       "keyword": "super learner",
-      "fetched_raw_count": 940
+      "fetched_raw_count": 947
     },
     {
       "keyword": "super learning",
-      "fetched_raw_count": 17890
+      "fetched_raw_count": 1999
     },
     {
       "keyword": "highly adaptive lasso",
-      "fetched_raw_count": 207
+      "fetched_raw_count": 208
     }
   ],
   "query_errors": [],
   "incomplete": false,
-  "paper_count": 920,
+  "paper_count": 933,
   "papers": [
     {
       "title": "A Targeted Learning Framework for Estimating Restricted Mean Survival Time Difference using Pseudo-observations",
@@ -22734,6 +22737,314 @@
         "super learner",
         "super learning"
       ]
+    },
+    {
+      "title": "Abstract PS1-11-13: Ai-driven chemotherapy decision support via genomic subgroup identification in fertility-conscious and low-risk er+/her2− invasive ductal breast carcinoma",
+      "authors": [
+        "W. Guo",
+        "C. Tatsuoka"
+      ],
+      "abstract": "Invasive ductal carcinoma is the most common subtype of breast cancer, with endocrine therapy the standard treatment for ER+ patients. However, certain clinical and genomic risk factors support adding chemotherapy. Among young women under 50, treatment decisions must balance survival benefit with fertility preservation and overtreatment avoidance. Similarly, patients with low Nottingham Prognostic Index (NPI) scores are generally spared chemotherapy, yet a subset may still benefit from combination treatment. In this study, we apply a two-stage machine learning framework to identify (1) a clinically meaningful subgroup of young ER+/HER2− patients likely to benefit from combined chemo-endocrine therapy despite fertility concerns, and (2) genomic subgroups associated with chemotherapy benefit among patients with low-risk NPI profiles. We analyzed a longitudinal cohort of 423 IDC patients who received adjuvant treatment post-surgery, with 5-year overall survival (OS) and recurrence-free survival (RFS) as outcomes. A two-stage Virtual Twins (VT) ML framework was applied to identify subgroups benefiting from combination therapy (hormonal therapy + chemotherapy ± radiation) versus hormonal therapy alone, focusing on patients <50 years and those with low NPI. In Stage 1, multiple classifiers - random forest, multilayer perceptron (MLP), gradient boosting (XGBoost), Super Learner, and Bayesian additive regression trees (BART)- were compared for overall survival (OS) and recurrence-free survival (RFS) prediction. The best-performing model was used to estimate individual treatment effects (ITEs) via counterfactuals. In Stage 2, regression trees were trained on the ITEs using the top 10 predictive features to identify subgroups with differing treatment sensitivity. OS and RFS were modeled using 19 clinical and multi-omics features (transcriptomics, CNV, mutations, methylation) selected from high-dimensional inputs based on biological clustering in Stage 1 of VT, enabling ITE-based subgroup identification via regression trees in Stage 2. Firstly, in ER+/HER2− patients under age 50, those with the greatest survival benefit from combination therapy had high NPI (>5.0) and harbored amplifications at 11q13/14 (CCND1, PAK1, RSF1, EMSY), 8p12, 8q, and 20q—indicative of proliferative and endocrine-resistant biology. These tumors also exhibited TRG/TRA deletions and high CD8+ infiltration. In contrast, younger patients with genomically quiet tumors-defined by isolated 8p12 amplification, 1q gain, 16q loss, or modest 8q/20q gains-and Luminal A or Claudin-low subtypes showed minimal benefit from combination therapy. Secondly, in patients with low NPI (<4.0), those with the greatest benefit from combination therapy were young (<55) or middle-aged (55-70) and exhibited 17q23 and 20q amplifications, high CD8+ infiltration, and complex genomic instability, including 5q loss, 8q gain, and 10p/12p gains involving mitotic and DNA repair genes such as TTK, AURKB, FOXM1, and RAD51AP1. A second subgroup with modest benefit included patients under 70 years with amplifications at 11q13/14, 8q12, and copy number switches including 16p gain/16q loss and concurrent 8q and 20q gains. Conversely, Older patients (>70) with 1q gain and 16q loss showed limited benefit, consistent with quiet Luminal A-like tumors. Virtual twin modeling identified ER+/HER2− IDC subgroups- despite clinical low-risk or fertility -conscious status-- that derive meaningful benefit from adjuvant combination therapy when harboring high-risk genomic features. These findings support genomics-informed escalation in patients typically spared chemotherapy, highlighting the value of precision oncology in tailoring adjuvant care. W. Guo, C. Tatsuoka. Ai-driven chemotherapy decision support via genomic subgroup identification in fertility-conscious and low-risk er+/her2− invasive ductal breast carcinoma [abstract]. In: Proceedings of the San Antonio Breast Cancer Symposium 2025; 2025 Dec 9-12; San Antonio, TX. Philadelphia (PA): AACR; Clin Cancer Res 2026;32(4 Suppl):Abstract nr PS1-11-13.",
+      "year": 2026,
+      "publication_date": "2026-02-17",
+      "paper_id": "ac13e7fed24f0d58209e1ad93e5aac8f99e4140a",
+      "url": "https://www.semanticscholar.org/paper/ac13e7fed24f0d58209e1ad93e5aac8f99e4140a",
+      "venue": "Clinical Cancer Research",
+      "doi": "10.1158/1557-3265.sabcs25-ps1-11-13",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
+      "title": "Ensemble Machine Learning and Statistical Procedures for Dynamic Predictions of Time-to-Event Outcomes",
+      "authors": [
+        "Nina van Gerwen",
+        "Sten Willemsen",
+        "Bettina Hansen",
+        "C. Corpechot",
+        "Marco Carbone",
+        "Cynthia Levy",
+        "María-Carlota Londoño",
+        "Atsushi Tanaka",
+        "P. Trivedi",
+        "A. Villamil",
+        "G. Hirschfield",
+        "Dimitris Rizopoulos"
+      ],
+      "abstract": "Dynamic predictions for longitudinal and time-to-event outcomes have become a versatile tool in precision medicine. Our work is motivated by the application of dynamic predictions in the decision-making process for primary biliary cholangitis patients. For these patients, serial biomarker measurements (e.g., bilirubin and alkaline phosphatase levels) are routinely collected to inform treating physicians of the risk of liver failure and guide clinical decision-making. Two popular statistical approaches to derive dynamic predictions are joint modelling and landmarking. However, recently, machine learning techniques have also been proposed. Each approach has its merits, and no single method exists to outperform all others. Consequently, obtaining the best possible survival estimates is challenging. Therefore, we extend the Super Learner framework to combine dynamic predictions from different models and procedures. Super Learner is an ensemble learning technique that allows users to combine different prediction algorithms to improve predictive accuracy and flexibility. It uses cross-validation and different objective functions of performance (e.g., squared loss) that suit specific applications to build the optimally weighted combination of predictions from a library of candidate algorithms. In our work, we pay special attention to appropriate objective functions for Super Learner to obtain the most optimal weighted combination of dynamic predictions. In our primary biliary cholangitis application, Super Learner presented unique benefits due to its ability to flexibly combine outputs from a diverse set of models with varying assumptions for equal or better predictive performance than any model fit separately.",
+      "year": 2026,
+      "publication_date": "2026-02-23",
+      "paper_id": "bc63dc08260bd62369e89e2019b116158d637c9f",
+      "url": "https://www.semanticscholar.org/paper/bc63dc08260bd62369e89e2019b116158d637c9f",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
+      "title": "Propensity Score Estimation for Causal Inference in Observational Healthcare Studies",
+      "authors": [
+        "Nabila Sekar Ramadhanti",
+        "Suryani Lim",
+        "M. Chorev",
+        "Madhu Chetty",
+        "F. Charchar"
+      ],
+      "abstract": "The application of propensity score (PS) methods is fundamental for causal inference in observational studies, particularly within the healthcare sector. This study, devoted to observational healthcare studies, compares traditional approaches such as Logistic Regression (LR), Boosting and Bayesian Additive Regression Trees (BART) with the Balanced Super Learner (BSL), an ensemble method that integrates both LR, Boosting and BART. We examine datasets from UK Biobank and the Atlantic Causal Inference Conference (ACIC) 2016. While BSL was demonstrated improved performance, it was hindered by Boosting, which had the worse performance on ACIC 2016 dataset. LR on the other side perform comparatively well on most datasets, except on the extreme imbalance. These findings highlight the potential robustness of LR and highlights the critical role of model selection in PS-based analysis for healthcare-related causal inference tasks.",
+      "year": 2025,
+      "publication_date": "2025-09-16",
+      "paper_id": "23c7ad9d2ad344804d553a16ca53c85c9cc63d20",
+      "url": "https://www.semanticscholar.org/paper/23c7ad9d2ad344804d553a16ca53c85c9cc63d20",
+      "venue": "International Workshop on Healthcare Information and Knowledge Management",
+      "doi": "10.1145/3774816.3774835",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
+      "title": "Effects of Environment, Social, and Governance (ESG)disclosures on ESGscores: Investigating therole ofcorporategovernance forpubliclytraded Turkishcompanies.",
+      "authors": [
+        "M. Kartal",
+        "Dilvin Taşkın",
+        "Muhammad Shahbaz",
+        "Serpil Kılıç Depren",
+        "Ugur Korkut Pata"
+      ],
+      "abstract": "The world has experienced climate-related issues, which increase the importance of ESG disclosures and corporate governance (CG) of companies, which take place at the heart of economies. Therefore, improving ESG disclosures and CG practices becomes significant to combat climate change at the company level. Considering that Türkiye restructured ESG disclosures in 2022, this study investigates the role of CG on the nexus between ESG scores of publicly traded companies (PTC) and ESG reports. So, the study analyzes 102 PTC (full sample), 51 PTC in Borsa Istanbul Corporate Governance Index (in-sample), and the remaining 51 PTC (out-sample) using ESG disclosures of 2022 and applying novel super learner (SL) algorithm. Our results show that (i) SL has a higher prediction performance reaching ∼94.3%; (ii) the environment (governance) layer has the highest (lowest) total relative importance (contribution) to ESG scores in all samples; (iii) C8, S6, and E5 are the most important ESG principles in the full sample, in-sample, and out-sample, respectively; (iv) the contribution of each ESG principles to the total ESG scores varies by sample; (v) CG plays a smoothing role for the relative importance of each ESG principle, while the relative importance in the out-sample shows much higher volatility. Overall, the study reveals the non-linear contributions of ESG principles on ESG scores and suggests that PTC should prioritize highly important ESG principles, consider the moderating role of CG on the link between ESG scores and ESG disclosures, and use ESG disclosures as a strategic tool to develop ESG scores and disclosures.",
+      "year": 2024,
+      "publication_date": "2024-08-20",
+      "paper_id": "9ee75985dff575d913f489248929026d5dab9f96",
+      "url": "https://www.semanticscholar.org/paper/9ee75985dff575d913f489248929026d5dab9f96",
+      "venue": "Journal of Environmental Management",
+      "doi": "10.1016/j.jenvman.2024.122205",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
+      "title": "A comparative effectiveness study of carotid intervention for long-term stroke prevention in patients with severe asymptomatic stenosis from a large integrated health system.",
+      "authors": [
+        "R. Chang",
+        "N. Pimentel",
+        "Lue-Yen Tucker",
+        "Kara A. Rothenberg",
+        "A. Avins",
+        "A. Flint",
+        "R. Faruqi",
+        "Mai N. Nguyen-Huynh",
+        "R. Neugebauer"
+      ],
+      "abstract": "OBJECTIVE The results of current prospective trials comparing the effectiveness of carotid endarterectomy (CEA) versus standard medical therapy for long-term stroke prevention in patients with asymptomatic carotid stenosis (ACS) will not be available for several years. In this study, we compared the observed effectiveness of CEA and standard medical therapy versus standard medical therapy alone to prevent ipsilateral stroke in a contemporary cohort of patients with ACS. METHODS This cohort study was conducted in a large integrated health system in adult subjects with 70-99% ACS (no neurologic symptom within 6 months) with no prior ipsilateral carotid artery intervention. Causal inference methods were used to emulate a conceptual randomized trial using data from 1/1/2008 through 12/31/2017 for comparing the event-free survival over 96 months between two treatment strategies: 1) CEA within 12 months from cohort entry versus 2) no CEA (standard medical therapy alone). To account for both baseline and time-dependent confounding, Inverse Probability Weighting estimation was used to derive adjusted hazard ratios and cumulative risk differences were assessed based on two logistic marginal structural models for counterfactual hazards. Propensity scores were data-adaptively estimated using Super Learning. The primary outcome was ipsilateral anterior ischemic stroke. RESULTS The cohort included 3824 eligible patients with ACS (mean age: 73.7 years, 57.9% male, 12.3% active smokers), of whom 1467 underwent CEA in the first year, while 2297 never underwent CEA. Median follow-up was 68 months. 1760 participants (46%) died, 445 (12%) were lost to follow-up and 158 (4%) patients experienced ipsilateral stroke. The cumulative risk differences for each year of follow-up showed a protective effect of CEA starting in year 2 (risk difference = 1.1%, 95% Confidence Interval (CI): 0.5%-1.6%) persisting to year 8 (2.6%, 95% CI: 0.3%-4.8%) compared with patients not receiving CEA. CONCLUSIONS In this contemporary cohort study of patients with ACS utilizing rigorous analytic methodology, CEA appears to have a small but statistically significant effect on stroke prevention out to 8 years. Further study is needed to appropriately select the subset of patients most likely to benefit from intervention.",
+      "year": 2023,
+      "publication_date": "2023-07-01",
+      "paper_id": "11cedc8d6fc2d5b67f6f989b9b5913c0f443bdd3",
+      "url": "https://www.semanticscholar.org/paper/11cedc8d6fc2d5b67f6f989b9b5913c0f443bdd3",
+      "venue": "Journal of Vascular Surgery",
+      "doi": "10.1016/j.jvs.2023.06.024",
+      "matched_keywords": [
+        "super learning"
+      ],
+      "source_queries": [
+        "super learning"
+      ]
+    },
+    {
+      "title": "P33 Evaluating the Impact of the COVID-19 Pandemic on the Diagnosis and Staging of New Breast Cancer Cases: A Retrospective Analysis of Medical Chart Data from the United States",
+      "authors": [
+        "R. Knapp",
+        "F. Hardtstock",
+        "T. Wilke",
+        "B. Boner",
+        "C. Hurmiz",
+        "A. McCracken"
+      ],
+      "abstract": "the impracticability, if not impossibility, of randomized controlled In these set-tings, an external control (EC) be employed to the single-arm to estimate treatment though minimizing potential biases to interpret these effects is We sought to compare different methods for causal inference in simulated data sets with measured (included from the model) and unmeasured (excluded) confounders. Methods: In the simulated data, three types of outcomes (continuous, binary, and time-to-event) were compared between trial and EC arms. Two measured baseline covariates (confounders) were unbalanced between the two arms. For each outcome, the two scenarios for relationship between unmeasured confounder and observed variables were: A) directly associated with one baseline covariate and the outcome; and B) directly associated with one baseline covariate, the outcome, and treatment assignment. In 3,000 random samples (100 or 200 pa- tients per sample), we used g-computation, propensity score-based weighting, and targeted maximum likelihood estimation (TMLE) toestimate treatment effects based on observed outcomes and measured covariates. Results: In scenario A, the average estimates from all proposed methods were similar to the true effect (e.g.1.14 to 1.19 vs 1.15 for the binary outcome), but g-computation had the smallest mean squared error (MSE), as well as a reasonable coverage (0.91-0.94) as measured by 95% con- ﬁ dence interval in different settings. In scenario B, most of results were similar with thoseinscenarioA,exceptinonesettingofcontinuousoutcomewheretheestimatesweremorediscrepantfromthetrueeffect. Conclusions: Treatmenteffects by g-computation, propensity score-based weighting, weighting of the two data via Bayesian survival ﬁ to overall and progression-free survival data from a real-world cohort of alectinib- or crizotinib-treated ALK-positive (ALK+) advanced non-small cell lung cancer patients selected from the Flatiron Health electronic health record-derived deidenti ﬁ ed nationwide longitudinal database. Posterior mean and 95% credible interval (CrI) estimates were generated for hazard ratios (HRs) and incremental cost- effectiveness ratios (ICERs) comparing alectinib versus crizotinib under different weightings of prior information from RCTs and different cut points of RWD accu- mulation. Results: The study included 463 ALK+ patients who were treated with alectinib or crizotinib. Estimated HRs ranged from 0.63 (95% CrI: 0.46-0.85) to 0.71 (0.61-0.83) ATU power under IPTW via simulation. We simulate survival data under an exponential survival model where the hazard rate depends on treatment and a binary prognostic variable which is imbalanced between cohorts. We estimate propensity scores conditional on the prognostic variable and compute ATT and ATU using IPTW via weighted Cox regression. We use two-sided tests with signi ﬁ cance level 5% and robust standard errors. We vary sample sizes separately in each cohort and compare power for the ATTand ATU. We assume a hazard ratio of 0.6 favouring treatment in the single-arm trial. Results: With 100 patients in both trial and RWD, power is 53.7% for ATT vs. 57.8% for ATU. Increasing RWD sample size to 400, the gap widens to 79.4% vs. 71.9%. It widens even further to 71.5% vs. 87.1% with 400 trial patients and 100 in RWD. Conclusions: The power simulation results demonstrate that selection of ATT vs. ATU estimators can have meaningful impacts on SCA power. When designing SCAs, estimator choices should consider anticipated relative sample sizes in single-arm trial and RWD to preserve power. ﬁ clogistic-regressionmodelswereused to determine average treatment effects across the entire patient population. Mortality within 120 days of a Covid -19 diagnosis was the primary endpoint. Analysis was conducted using Python 3.9.0 in conjunction with the EconML and Scikit-Learn packages. Results: Patients with higher body temperatures, oxygen saturation below 90% during their COVID-19 infection, and low platelet counts were at a signi ﬁ cantly increased risk of death within 120 days. We determined that the average treatment effect across all COVID-19 positive residents on mortality risk was caused directly by omeprazole, enoxaparin cholecalciferol, apixaban, prednisone, sennosides and guai-fenesin by showing counterfactually that mortality risk increased without those medicines. Conclusions: Causal inference combines graphical models of causal relationships with the calculation of counterfactuals ( “ what-if ” questions) to identify actionable causal factors that lead to improved health. Additionally, as demonstrated, interventional models derived from causal inference can be used to extrapolate “ ﬁ ndings across domains (i.e., settings, populations, environments) that differ both in their distributions and in their inherent causal characteristics. ” Future application of causal inference should demonstrate that such models can dynamically update treatment to optimize health as patient personal and clinical conditions change. Objective: Studies erstwhile have suggested that COVID-19 also had effects on brain health. In this study we intend to provide estimates of incidence rates, odd ratio, and risks of psychiatric and neurological sequelae in patients after a COVID-19 diagnosis. Method: This retrospective and observational study included patients diagnosed with COVID-19 infection between 1 st March 2020 to 31 st March 2021 with ICD-10- CM diagnosis recorded in the large deidenti ﬁ ed database of US health insurance claimsrepresenting w 15%population.Onlythepatientshavingcontinuouseligibility between 6 months before (baseline period) to 6-month post (follow-up period) the ﬁ rst diagnosis of COVID-19 (index date) were included in study. Frequency of Psychiatric and Neurological ICD-10-CM diagnosis codes occurring during baseline period and during follow-up period were evaluated. ICD-10-CM were grouped in the disease buckets. For every disease bucket, we evaluated the risk estimates and odds ratios (ORs) of association with COVID-19. Results: Among 1,154,471 patients diagnosed with COVID-19, the estimated incidence of following neurological and psy- chiatric disorders from 14 to 180 days after index diagnosis were: 11.1% for Anxiety disorders, 8.4% for Mood disorders, 7.4% for Insomnia, 4.1% for Dementia, 4.0% for burden of the Covid-19 pandemic. Further research in longitudinal claims data will illuminate burden of long Covid-19. Further research is needed to investigate dis- parities and the burdens of out-of-pocket spending and absenteeism/job loss. Objectives: The EQ-HWB-S was developed as a measure of health and well-being for patients and for carers/caregivers. This study aims to examine the properties of the EQ-HWB-S in relation to the ASCOTand compare the discriminative ability of EQ-HWB-S, EQ-5D-5L, and ASCOT based on caregiver status and caregiver burden. Methods: An online panel of US-based respondents completed a survey that included the EQ-HWB Experimental Version, EQ-5D-5L, and ASCOT. In addition to item-level analysis, the EQ-HWB-S was scored using a non-preference-based scoring approach. We examined distribution of responses, strength of correlation between related items/constructs, and conducted known group com-parisons based on caregiver status (yes/no) and caregiver burden ( , 20 or $ 20 hours spent per week providing care). Results: The dataset included a total of 903 respondents (carers=193; non-carers=710). 92 respondents reported low-caregiver burden while 91 high-caregiver burden in the last 7 days. Strong associations (r s . 0.5) were found between conceptually overlapping dimensions ASCOT and EQ- HWB-S items: “ Control ” and “ No control ” or related dimensions ( “ Social situation ” and “ Lonely ” / ” Unsupported ” ). The EQ-HWB-S summary score tended to better discriminate than ASCOT index score based on caregiver status (F-ratio: 1.40, 95% Cl 0.51-5.89) and caregiver burden (F-ratio: 5.81, 95% Cl 0.71-7.83). EQ-HWB-S summary score also tended to be able to better discriminate than EQ-5D-5L index score across caregiver status (F-ratio: 2.30, 95% Cl 0.81-15.84) and burden (F-ratio: 5.81, 95% Cl 1.45-31.52). Conclusions: Initial evidence supports the validity of the EQ-HWB/EQ-HWB-s as an outcome measure for caregivers. All measures (EQ- HWB-S, ASCOT, EQ-5D-5L) demonstrated discriminative ability among people who provide caregiving. The EQ-HWB-S tended to outperform both the ASCOT and EQ- 5D, and highlights its future potential to be used as a measure in economic eval-uation across sectors.",
+      "year": 2022,
+      "publication_date": "2022-06-25",
+      "paper_id": "806c69eef3859987a69240f4d8bb3190ca80759b",
+      "url": "https://www.semanticscholar.org/paper/806c69eef3859987a69240f4d8bb3190ca80759b",
+      "venue": "Value in Health",
+      "doi": "10.1016/j.jval.2022.04.044",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ]
+    },
+    {
+      "title": "Predicting the long-term cognitive trajectories using machine learning approaches: A Chinese nationwide longitudinal database.",
+      "authors": [
+        "Yafei Wu",
+        "Maoni Jia",
+        "Chaoyi Xiang",
+        "Shaowu Lin",
+        "Zhongquan Jiang",
+        "Ya Fang"
+      ],
+      "abstract": "OBJECTIVES This study aimed to explore the long-term cognitive trajectories and its' determinants, and construct prediction models for identifying high-risk populations with unfavorable cognitive trajectories. METHODS This study included 3502 older adults aged 65-105 years at their first observations in a 16-year longitudinal cohort study. Cognitive function was measured by the Chinese version Mini Mental State Examination. The heterogeneity of cognitive function was identified through mixed growth model. Machine learning algorithms, namely regularized logistic regression (r-LR), support vector machine (SVM), random forest (RF), and super learner (SL) were used to predict cognitive trajectories. Discrimination and calibration metrics were used for performance evaluation. RESULTS Two distinct trajectories were identified according to the changes of MMSE scores: intact cognitive functioning (93.6%), and dementia (6.4%). Older age, female gender, Han ethnicity, having no schooling, rural residents, low-frequency leisure activities, and low baseline BADL score were associated with a rapid decline in cognitive function. r-LR, SVM, and SL performed well in predicting cognitive trajectories (Sensitivity: 0.73, G-mean: 0.65). Age and psychological well-being were key predictors. CONCLUSION Two cognitive trajectories were identified among older Chinese, and the identified key factors could be targeted for constructing early risk prediction models.",
+      "year": 2022,
+      "publication_date": "2022-02-01",
+      "paper_id": "4fb812cb776e8993bc2883d069dae31b63ce2042",
+      "url": "https://www.semanticscholar.org/paper/4fb812cb776e8993bc2883d069dae31b63ce2042",
+      "venue": "Psychiatry Research",
+      "doi": "10.1016/j.psychres.2022.114434",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
+      "title": "The impact of obesity on outcomes of patients admitted to intensive care after cardiac arrest.",
+      "authors": [
+        "M. Chavda",
+        "S. Bihari",
+        "R. Woodman",
+        "P. Secombe",
+        "D. Pilcher"
+      ],
+      "abstract": "PURPOSE Studies examining the association between obesity and mortality in cardiac arrest patients have been conflicting which might either be due to residual confounding, or a reliance on estimating the conditional effects rather than the marginal (causal) effects of obesity. We estimated the conditional and causal effects of obesity on mortality in cardiac arrest patients using the Australian and New Zealand Intensive Care Society (ANZICS) Adult Patient Database (APD). MATERIALS AND METHODS This retrospective registry-based cohort study from ICUs of Australia and New Zealand included all ICU patients admitted with cardiac arrest between 2010 and 2020 with height and weight data recorded. The conditional and marginal effects of obesity on mortality was estimated using multivariate binary logistic regression and Targeted Maximum Likelihood Estimation (TMLE) respectively. The primary outcome was in-hospital mortality. RESULTS A total 13,970 patients had complete data and were available for analysis. In multivariate binary logistic regression, there was no difference in the odds of in-hospital mortality for the obese versus non-obese groups; adjusted OR = 0.95, 95% CI = 0.87-1.03; p 0.25. Results were similar using TMLE (Marginal OR= 0.97; 95% CI = 0.91-1.02, p = 0.62). CONCLUSION After adjustment, there was no association between obesity and outcomes in cardiac arrest patients admitted to ICU.",
+      "year": 2022,
+      "publication_date": "2022-03-24",
+      "paper_id": "40a60cdaa7076714debbcc33c11918da7bb9c570",
+      "url": "https://www.semanticscholar.org/paper/40a60cdaa7076714debbcc33c11918da7bb9c570",
+      "venue": "Journal of critical care",
+      "doi": "10.1016/j.jcrc.2022.154025",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ]
+    },
+    {
+      "title": "Virtual visiting in intensive care during COVID-19",
+      "authors": [
+        "Sharon-Ann Shunker"
+      ],
+      "abstract": "Objective: Studies examining the association between obesity and mor- tality in cardiac arrest patients have been inconclusive, with some sug-gesting obese patients have better survival than the non-obese (the obesity paradox). This might either be due to residual confounding, or a reliance on estimating the conditional effects rather than the marginal (causal) effects of obesity. We estimated the conditional and causal effects of obesity on mortality in cardiac arrest patients using the Australian and New Zealand Intensive Care Society (ANZICS) Adult Patient Database (APD). Methods: Retrospective registry-based cohort study undertaken in intensive care units (ICUs) in Australia and New Zealand. Participants included all ICU patients admitted with cardiac arrest between 2010 and 2020 with height and weight data recorded. Estimation of the con- ditional and marginal effects of obesity on mortality using multivariate binary logistic regression and Targeted Maximum Likelihood Estimation (TMLE) respectively. All separate components of the APACHE III score were used for adjustment. The primary outcome was in-hospital mortality. Results: A total 13 970 patients had complete data and were available for analysis. In unadjusted analysis, in-hospital mortality was lower in the obese group than the non-obese group (37.8 vs 40.1% respectively, p ¼ 0.01). In multivariate binary logistic regression, there was no difference in the odds of in-hospital mortality for the obese versus non-obese groups; adjusted OR ¼ 0.95, 95% CI ¼ 0.87-1.03; p 0.25. Results were similar using TMLE (Marginal OR ¼ 0.97; 95% CI ¼ 0.91-1.02, p ¼ 0.62). Conclusion: After adjustment, there was no association between obesity and outcomes in cardiac arrest patients admitted to ICU. 0.03), lower initial blood ﬂ ow (OR 0.9, 95% CI 0.9-1.0, p 0.04) and higher exchange volume (OR 8.9, 95% CI 1.6 - 48.7, p 0.01) were predictors of patient complications. Conclusion: In our large single-centre observational study, we report that mTPE is a safe procedure in the ICU and can be done ef ﬁ ciently by an ICU team. During mTPE, pre-treatment ionised calcium, male sex, duration of mTPE and diagnostic categories were predictors of circuit complications, while replacement ﬂ uid type, initial blood ﬂ ow and higher exchange volume were predictors of patient complications.",
+      "year": 2022,
+      "publication_date": "2022-09-30",
+      "paper_id": "bec037ef9755221bf1b1f895510ea1dd0d856120",
+      "url": "https://www.semanticscholar.org/paper/bec037ef9755221bf1b1f895510ea1dd0d856120",
+      "venue": "Australian Critical Care",
+      "doi": "10.1016/j.aucc.2022.08.060",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
+      ]
+    },
+    {
+      "title": "Unconventional natural gas development and adverse birth outcomes in Pennsylvania: The potential mediating role of antenatal anxiety and depression.",
+      "authors": [
+        "J. Casey",
+        "Dana E. Goin",
+        "K. Rudolph",
+        "B. Schwartz",
+        "Dione G. Mercer",
+        "Holly Elser",
+        "E. Eisen",
+        "R. Morello-Frosch"
+      ],
+      "abstract": "BACKGROUND Studies have reported associations between unconventional natural gas development (UNGD) and adverse birth outcomes. None have evaluated potential mediating mechanisms. OBJECTIVES To evaluate associations between (1) UNGD and antenatal anxiety and depression and (2) antenatal anxiety and depression and preterm birth (<37 weeks gestation) and reduced term birth weight, (3) stochastic direct and indirect effects of UNGD on preterm birth and term birth weight operating through antenatal anxiety and depression, and (4) effect modification by family-level socioeconomic status. METHODS This retrospective cohort study included mothers without prevalent anxiety or depression at time of conception, who delivered at Geisinger in Pennsylvania between January 2009-January 2013. We assembled phase-specific UNGD activity data from public sources. Mothers were categorized as exposed (quartile 4) or unexposed (quartiles 1-3) based on average daily inverse distance-squared UNGD activity metric between conception and the week prior to anxiety or depression (cases) or the pregnancy-average daily metric (non-cases). We estimated associations with a doubly robust estimator (targeted minimum loss-based estimation) and adjusted for potential individual- and community-level confounding variables. RESULTS Analyses included 8,371 births to 7,715 mothers, 12.2% of whom had antenatal anxiety or depression. We found 4.3 additional cases of antenatal anxiety or depression per 100 women (95% CI: 1.5, 7.0) under the scenario where all mothers lived in the highest quartile of UNGD activity versus quartiles 1-3. The risk difference appeared larger among mothers receiving Medical Assistance (indicator of low family income) compared to those who did not, 5.6 (95% CI: 0.5, 10.6) versus 2.9 (95% CI: -0.7, 6.5) additional cases of antenatal anxiety or depression per 100 women. We found no relationship between antenatal anxiety or depression and adverse birth outcomes and no mediation effect either overall or when stratifying by Medical Assistance. CONCLUSION We observed a relationship between UNGD activity and antenatal anxiety and depression, which did not mediate the overall association between UNGD activity and adverse birth outcomes.",
+      "year": 2019,
+      "publication_date": "2019-10-01",
+      "paper_id": "40317a95598bc762d8a89e260c07cde0d1947ee6",
+      "url": "https://www.semanticscholar.org/paper/40317a95598bc762d8a89e260c07cde0d1947ee6",
+      "venue": "Environmental Research",
+      "doi": "10.1016/j.envres.2019.108598",
+      "matched_keywords": [
+        "targeted minimum loss based estimation"
+      ],
+      "source_queries": [
+        "targeted minimum loss based estimation"
+      ]
+    },
+    {
+      "title": "Efficient Estimation of Quantiles in Missing Data Models",
+      "authors": [
+        "I. Díaz"
+      ],
+      "abstract": "We propose a novel targeted maximum likelihood estimator (TMLE) for quantiles in semiparametric missing data models. Our proposed estimator is locally efficient, $\\sqrt{n}$-consistent, asymptotically normal, and doubly robust, under regularity conditions. We use Monte Carlo simulation to compare our proposed method to existing estimators. The TMLE is superior to all competitors, with relative efficiency up to three times smaller than the inverse probability weighted estimator (IPW), and up to two times smaller than the augmented IPW. This research is motivated by a causal inference research question with highly variable treatment assignment probabilities, and a heavy tailed, highly variable outcome. Estimation of causal effects on the mean is a hard problem in such scenarios because the information bound is generally small. In our application, the efficiency bound for estimating the effect on the mean is possibly infinite. This rules out $\\sqrt{n}$-consistent inference and reduces the power for testing hypothesis of no treatment effect on the mean. In our simulations, using the effect on the median allows us to test a location-shift hypothesis with 30\\% more power. This allows us to make claims about the effectiveness of treatment that would have hard to make for the effect on the mean. We provide R code to implement the proposed estimators.",
+      "year": 2015,
+      "publication_date": "2015-12-26",
+      "paper_id": "b7bf531814091f71a2cf23cd4cbbbe7ecd0f0340",
+      "url": "https://www.semanticscholar.org/paper/b7bf531814091f71a2cf23cd4cbbbe7ecd0f0340",
+      "venue": null,
+      "doi": "10.1016/J.JSPI.2017.05.001",
+      "matched_keywords": [
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
+      ]
+    },
+    {
+      "title": "Targeted Minimum Loss Based Estimation Based on Directly Solving the Efficient Influence Curve Equation",
+      "authors": [
+        "P. Chaffee",
+        "M. J. Laan"
+      ],
+      "abstract": "",
+      "year": 2011,
+      "publication_date": null,
+      "paper_id": "d0543941f05b43bee33e4f01463b015f68cea583",
+      "url": "https://www.semanticscholar.org/paper/d0543941f05b43bee33e4f01463b015f68cea583",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "targeted minimum loss based estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation",
+        "targeted minimum loss based estimation",
+        "tmle"
+      ]
+    },
+    {
+      "title": "Targeted Maximum Likelihood Estimation of the Parameter of a Marginal Structural Model",
+      "authors": [
+        "Michael Rosenblum",
+        "M. J. van der Laan"
+      ],
+      "abstract": "",
+      "year": 2010,
+      "publication_date": "2010-04-15",
+      "paper_id": "20aab273c8943074f0314a47c873dd3bdcadfbd4",
+      "url": "https://www.semanticscholar.org/paper/20aab273c8943074f0314a47c873dd3bdcadfbd4",
+      "venue": "The International Journal of Biostatistics",
+      "doi": "10.2202/1557-4679.1238",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
+      ]
     }
-  ]
+  ],
+  "append_only": true,
+  "fetched_paper_count": 788,
+  "newly_appended_count": 13
 }
