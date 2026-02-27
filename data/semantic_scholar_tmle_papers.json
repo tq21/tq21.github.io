@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T18:32:59Z",
+  "generated_at": "2026-02-27T18:45:47Z",
   "source": "Semantic Scholar Graph API",
   "unauthenticated": true,
   "mode": "bulk",
   "append_only": true,
   "blocked_json": "data/blocked_tmle_papers.json",
-  "blocked_match_count": 1,
+  "blocked_match_count": 0,
   "min_year": 2006,
   "keywords": [
     "tmle",
@@ -18,34 +18,35 @@
   "query_stats": [
     {
       "keyword": "tmle",
-      "fetched_raw_count": 442
+      "fetched_raw_count": 0
     },
     {
       "keyword": "targeted maximum likelihood estimation",
-      "fetched_raw_count": 2000
+      "fetched_raw_count": 0
     },
     {
       "keyword": "targeted minimum loss based estimation",
-      "fetched_raw_count": 321
+      "fetched_raw_count": 0
     },
     {
       "keyword": "super learner",
-      "fetched_raw_count": 947
+      "fetched_raw_count": 0
     },
     {
       "keyword": "super learning",
-      "fetched_raw_count": 985
+      "fetched_raw_count": 0
     },
     {
       "keyword": "highly adaptive lasso",
-      "fetched_raw_count": 195
+      "fetched_raw_count": 0
     }
   ],
   "query_errors": [],
   "incomplete": false,
-  "fetched_paper_count": 783,
-  "newly_appended_count": 2,
-  "paper_count": 935,
+  "fetched_paper_count": 0,
+  "newly_appended_count": 0,
+  "existing_duplicates_removed": 5,
+  "paper_count": 930,
   "papers": [
     {
       "title": "A Targeted Learning Framework for Estimating Restricted Mean Survival Time Difference using Pseudo-observations",
@@ -19758,29 +19759,6 @@
       ]
     },
     {
-      "title": "eltmle: Ensemble learning targeted maximum likelihood estimation",
-      "authors": [
-        "Miguel Angel Luque Fernandez"
-      ],
-      "abstract": "",
-      "year": 2017,
-      "publication_date": "2017-09-14",
-      "paper_id": "8e6ee0217dd3890265e73f7bc4d8910a1659ce7d",
-      "url": "https://www.semanticscholar.org/paper/8e6ee0217dd3890265e73f7bc4d8910a1659ce7d",
-      "venue": null,
-      "doi": null,
-      "matched_keywords": [
-        "targeted maximum likelihood estimation"
-      ],
-      "source_queries": [
-        "super learner",
-        "super learning",
-        "targeted maximum likelihood estimation",
-        "targeted minimum loss based estimation",
-        "tmle"
-      ]
-    },
-    {
       "title": "ELTMLE: Stata module to provide Ensemble Learning Targeted Maximum Likelihood Estimation",
       "authors": [
         "M. Luque-Fernández"
@@ -21198,30 +21176,6 @@
       ],
       "source_queries": [
         "super learner",
-        "super learning"
-      ]
-    },
-    {
-      "title": "A Marginal Structural Modeling Approach with Super Learning for a Study on Oral Bisphosphonate Therapy and Atrial Fibrillation",
-      "authors": [
-        "Romain Neugebauer",
-        "M. Chandra",
-        "Antonio Paredes",
-        "David J. Graham",
-        "Carolyn McCloskey",
-        "Alan S. Go"
-      ],
-      "abstract": "",
-      "year": 2013,
-      "publication_date": "2013-05-29",
-      "paper_id": "10635877b1b3481debcfa42f5e21ea5ae1328725",
-      "url": "https://www.semanticscholar.org/paper/10635877b1b3481debcfa42f5e21ea5ae1328725",
-      "venue": null,
-      "doi": "10.1515/JCI-2012-0003",
-      "matched_keywords": [
-        "super learning"
-      ],
-      "source_queries": [
         "super learning"
       ]
     },
@@ -23005,28 +22959,6 @@
       ]
     },
     {
-      "title": "Targeted Minimum Loss Based Estimation Based on Directly Solving the Efficient Influence Curve Equation",
-      "authors": [
-        "P. Chaffee",
-        "M. J. Laan"
-      ],
-      "abstract": "",
-      "year": 2011,
-      "publication_date": null,
-      "paper_id": "d0543941f05b43bee33e4f01463b015f68cea583",
-      "url": "https://www.semanticscholar.org/paper/d0543941f05b43bee33e4f01463b015f68cea583",
-      "venue": null,
-      "doi": null,
-      "matched_keywords": [
-        "targeted minimum loss based estimation"
-      ],
-      "source_queries": [
-        "targeted maximum likelihood estimation",
-        "targeted minimum loss based estimation",
-        "tmle"
-      ]
-    },
-    {
       "title": "Targeted Maximum Likelihood Estimation of the Parameter of a Marginal Structural Model",
       "authors": [
         "Michael Rosenblum",
@@ -23044,56 +22976,6 @@
       ],
       "source_queries": [
         "targeted maximum likelihood estimation"
-      ]
-    },
-    {
-      "title": "A super learner ensemble of 14 statistical learning models for predicting COVID-19 severity among patients with cardiovascular conditions",
-      "authors": [
-        "L. Ehwerhemuepha",
-        "Sidy Danioko",
-        "S. Verma",
-        "R. Marano",
-        "W. Feaster",
-        "S. Taraman",
-        "Tatiana Moreno",
-        "Jianwei Zheng",
-        "Ehsan Yaghmaei",
-        "Anthony Chang"
-      ],
-      "abstract": "Background Cardiovascular and other circulatory system diseases have been implicated in the severity of COVID-19 in adults. This study provides a super learner ensemble of models for predicting COVID-19 severity among these patients. Method The COVID-19 Dataset of the Cerner Real-World Data was used for this study. Data on adult patients (18 years or older) with cardiovascular diseases between 2017 and 2019 were retrieved and a total of 13 of these conditions were identified. Among these patients, 33,042 admitted with positive diagnoses for COVID-19 between March 2020 and June 2020 (from 59 hospitals) were identified and selected for this study. A total of 14 statistical and machine learning models were developed and combined into a more powerful super learning model for predicting COVID-19 severity on admission to the hospital. Result LASSO regression, a full extreme gradient boosting model with tree depth of 2, and a full logistic regression model were the most predictive with cross-validated AUROCs of 0.7964, 0.7961, and 0.7958 respectively. The resulting super learner ensemble model had a cross validated AUROC of 0.8006 (range: 0.7814, 0.8163). The unbiased AUROC of the super learner model on an independent test set was 0.8057 (95% CI: 0.7954, 0.8159). Conclusion Highly predictive models can be built to predict COVID-19 severity of patients with cardiovascular and other circulatory conditions. Super learning ensembles will improve individual and classical ensemble models significantly.",
-      "year": 2021,
-      "publication_date": "2021-03-17",
-      "paper_id": "92248ff967e368ce7bcb5e2b0f38b2bf050aa79e",
-      "url": "https://www.semanticscholar.org/paper/92248ff967e368ce7bcb5e2b0f38b2bf050aa79e",
-      "venue": "Intelligent Medicine",
-      "doi": "10.1016/j.ibmed.2021.100030",
-      "matched_keywords": [
-        "super learner",
-        "super learning"
-      ],
-      "source_queries": [
-        "super learner"
-      ]
-    },
-    {
-      "title": "Super Learning: An Application to Prediction of HIV-1 Drug Susceptibility",
-      "authors": [
-        "S. Sinisi",
-        "M. Petersen",
-        "M. Laan"
-      ],
-      "abstract": "",
-      "year": 2006,
-      "publication_date": null,
-      "paper_id": "a75dacd6b3f0303e952fff2242474de3b40e56f7",
-      "url": "https://www.semanticscholar.org/paper/a75dacd6b3f0303e952fff2242474de3b40e56f7",
-      "venue": null,
-      "doi": null,
-      "matched_keywords": [
-        "super learning"
-      ],
-      "source_queries": [
-        "super learner"
       ]
     }
   ]

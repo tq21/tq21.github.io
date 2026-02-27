@@ -100,22 +100,24 @@ def _paper_key(raw: Dict) -> str:
     return f"title:{_normalize_title_for_key(title)}|year:{year}"
 
 
-def _paper_key_from_record(record: Dict[str, Any]) -> str:
-    """Stable paper key for persisted records.
-
-    Priority: paper_id -> doi -> normalized title+year.
-    """
+def _record_identifiers(record: Dict[str, Any]) -> Tuple[Optional[str], Optional[str], str]:
+    """Return normalized (paper_id, doi, title+year) identifiers for persisted records."""
     paper_id = record.get("paper_id") or record.get("paperId") or record.get("id")
-    if isinstance(paper_id, str) and _normalize_space(paper_id):
-        return f"pid:{_normalize_space(paper_id)}"
+    if isinstance(paper_id, str):
+        paper_id = _normalize_space(paper_id) or None
+    else:
+        paper_id = None
 
     doi = record.get("doi")
-    if isinstance(doi, str) and _normalize_space(doi):
-        return f"doi:{_normalize_doi(doi)}"
+    if isinstance(doi, str):
+        doi = _normalize_doi(doi) or None
+    else:
+        doi = None
 
     title = record.get("title") or ""
     year = record.get("year")
-    return f"title:{_normalize_title_for_key(title)}|year:{year}"
+    title_year = f"{_normalize_title_for_key(title)}|{year}"
+    return paper_id, doi, title_year
 
 
 def _paper_year(raw: Dict) -> Optional[int]:
@@ -455,23 +457,52 @@ def append_new_records_only(
     *,
     existing_papers: List[Dict[str, Any]],
     fetched_records: List[PaperRecord],
-) -> Tuple[List[Dict[str, Any]], int]:
-    merged: List[Dict[str, Any]] = list(existing_papers)
-    seen_keys: Set[str] = set()
+) -> Tuple[List[Dict[str, Any]], int, int]:
+    # First, self-dedupe existing papers so append-only mode can also clean up
+    # historical duplicates caused by unstable upstream paper IDs.
+    merged: List[Dict[str, Any]] = []
+    seen_pids: Set[str] = set()
+    seen_dois: Set[str] = set()
+    seen_title_years: Set[str] = set()
+    removed_existing_duplicates = 0
+
+    def is_seen(pid: Optional[str], doi: Optional[str], title_year: str) -> bool:
+        # Prefer DOI as stable identity when available.
+        if doi and doi in seen_dois:
+            return True
+        if pid and pid in seen_pids:
+            return True
+        if title_year and title_year in seen_title_years:
+            return True
+        return False
+
+    def mark_seen(pid: Optional[str], doi: Optional[str], title_year: str) -> None:
+        if pid:
+            seen_pids.add(pid)
+        if doi:
+            seen_dois.add(doi)
+        if title_year:
+            seen_title_years.add(title_year)
+
     for paper in existing_papers:
-        seen_keys.add(_paper_key_from_record(paper))
+        pid, doi, title_year = _record_identifiers(paper)
+        if is_seen(pid, doi, title_year):
+            removed_existing_duplicates += 1
+            continue
+        merged.append(paper)
+        mark_seen(pid, doi, title_year)
 
     appended = 0
     for rec in fetched_records:
         rec_dict = asdict(rec)
-        key = _paper_key_from_record(rec_dict)
-        if key in seen_keys:
+        pid, doi, title_year = _record_identifiers(rec_dict)
+        if is_seen(pid, doi, title_year):
             continue
         merged.append(rec_dict)
-        seen_keys.add(key)
+        mark_seen(pid, doi, title_year)
         appended += 1
 
-    return merged, appended
+    return merged, appended, removed_existing_duplicates
 
 
 def parse_args() -> argparse.Namespace:
@@ -661,13 +692,14 @@ def main() -> int:
             f"[info] append-only mode enabled; existing papers={len(existing_papers)}",
             file=sys.stderr,
         )
-        merged_papers, newly_appended_count = append_new_records_only(
+        merged_papers, newly_appended_count, removed_existing_duplicates = append_new_records_only(
             existing_papers=existing_papers,
             fetched_records=records,
         )
     else:
         merged_papers = [asdict(r) for r in records]
         newly_appended_count = len(merged_papers)
+        removed_existing_duplicates = 0
 
     out = {
         "generated_at": dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z"),
@@ -684,6 +716,7 @@ def main() -> int:
         "incomplete": bool(query_errors),
         "fetched_paper_count": len(records),
         "newly_appended_count": newly_appended_count,
+        "existing_duplicates_removed": removed_existing_duplicates,
         "paper_count": len(merged_papers),
         "papers": merged_papers,
     }
@@ -693,7 +726,8 @@ def main() -> int:
     if args.append_only:
         print(
             f"[ok] wrote {len(merged_papers)} total papers to {out_path} "
-            f"(appended {newly_appended_count}, fetched {len(records)})",
+            f"(appended {newly_appended_count}, fetched {len(records)}, "
+            f"removed_existing_duplicates {removed_existing_duplicates})",
             file=sys.stderr,
         )
     else:
