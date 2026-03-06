@@ -85,37 +85,95 @@ def _normalize_title_for_key(title: str) -> str:
     return t
 
 
-def _paper_key(raw: Dict) -> str:
-    paper_id = raw.get("paperId")
-    if paper_id:
-        return f"pid:{paper_id}"
-
-    external_ids = raw.get("externalIds") or {}
-    doi = external_ids.get("DOI")
-    if doi:
-        return f"doi:{doi.lower()}"
-
-    title = raw.get("title") or ""
-    year = raw.get("year")
-    return f"title:{_normalize_title_for_key(title)}|year:{year}"
-
-
-def _paper_key_from_record(record: Dict[str, Any]) -> str:
-    """Stable paper key for persisted records.
-
-    Priority: paper_id -> doi -> normalized title+year.
-    """
-    paper_id = record.get("paper_id") or record.get("paperId") or record.get("id")
-    if isinstance(paper_id, str) and _normalize_space(paper_id):
-        return f"pid:{_normalize_space(paper_id)}"
-
-    doi = record.get("doi")
+def _paper_identity_key(
+    *,
+    title: str,
+    year: Optional[int],
+    doi: Optional[str],
+    paper_id: Optional[str],
+) -> str:
+    """Prefer publication-level identifiers over provider-specific paper ids."""
     if isinstance(doi, str) and _normalize_space(doi):
         return f"doi:{_normalize_doi(doi)}"
 
-    title = record.get("title") or ""
+    title_key = _normalize_title_for_key(title)
+    if title_key and year is not None:
+        return f"title:{title_key}|year:{year}"
+
+    if isinstance(paper_id, str) and _normalize_space(paper_id):
+        return f"pid:{_normalize_space(paper_id)}"
+
+    return f"title:{title_key}|year:{year}"
+
+
+def _paper_key(raw: Dict) -> str:
+    external_ids = raw.get("externalIds") or {}
+    return _paper_identity_key(
+        title=raw.get("title") or "",
+        year=_paper_year(raw),
+        doi=external_ids.get("DOI"),
+        paper_id=raw.get("paperId"),
+    )
+
+
+def _paper_key_from_record(record: Dict[str, Any]) -> str:
+    return _paper_identity_key(
+        title=record.get("title") or "",
+        year=record.get("year"),
+        doi=record.get("doi"),
+        paper_id=record.get("paper_id") or record.get("paperId") or record.get("id"),
+    )
+
+
+def _paper_year_from_record(record: Dict[str, Any]) -> Optional[int]:
+    publication_date = record.get("publication_date") or record.get("publicationDate")
+    if isinstance(publication_date, str):
+        y = publication_date[:4]
+        if y.isdigit():
+            return int(y)
+
     year = record.get("year")
-    return f"title:{_normalize_title_for_key(title)}|year:{year}"
+    if isinstance(year, int):
+        return year
+    if isinstance(year, str) and year.isdigit():
+        return int(year)
+    return None
+
+
+def _author_names(value: Any) -> List[str]:
+    out: List[str] = []
+    for author in value or []:
+        if isinstance(author, dict):
+            name = _normalize_space(author.get("name") or "")
+        else:
+            name = _normalize_space(str(author))
+        if name:
+            out.append(name)
+    return out
+
+
+def _paper_quality_key(record: Dict[str, Any]) -> Tuple[int, int, int, int, int, int, int, int]:
+    abstract = _normalize_space(record.get("abstract") or "")
+    publication_date = record.get("publication_date") or record.get("publicationDate") or ""
+    venue = _normalize_space(record.get("venue") or "")
+    doi = record.get("doi")
+    matched_keywords = record.get("matched_keywords") or []
+    source_queries = record.get("source_queries") or []
+    authors = _author_names(record.get("authors"))
+    return (
+        1 if abstract else 0,
+        len(abstract),
+        1 if publication_date else 0,
+        1 if venue else 0,
+        1 if isinstance(doi, str) and _normalize_space(doi) else 0,
+        len(matched_keywords),
+        len(source_queries),
+        sum(len(a) for a in authors),
+    )
+
+
+def _prefer_better_record(left: Dict[str, Any], right: Dict[str, Any]) -> Dict[str, Any]:
+    return right if _paper_quality_key(right) > _paper_quality_key(left) else left
 
 
 def _paper_year(raw: Dict) -> Optional[int]:
@@ -400,6 +458,8 @@ def dedupe_and_filter(
             merged[key] = raw
             source_queries[key] = set()
             matched[key] = set()
+        else:
+            merged[key] = _prefer_better_record(merged[key], raw)
         source_queries[key].add(query_kw)
         matched[key].update(kws)
 
@@ -451,26 +511,51 @@ def load_existing_output_papers(path: Path) -> List[Dict[str, Any]]:
     return papers
 
 
+def dedupe_persisted_papers(papers: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    order: List[str] = []
+    best_by_key: Dict[str, Dict[str, Any]] = {}
+
+    for paper in papers:
+        key = _paper_key_from_record(paper)
+        if key not in best_by_key:
+            order.append(key)
+            best_by_key[key] = paper
+            continue
+        best_by_key[key] = _prefer_better_record(best_by_key[key], paper)
+
+    deduped = [best_by_key[key] for key in order]
+    deduped.sort(
+        key=lambda p: (
+            -(_paper_year_from_record(p) or -9999),
+            _normalize_space(p.get("title") or "").lower(),
+        )
+    )
+    return deduped
+
+
 def append_new_records_only(
     *,
     existing_papers: List[Dict[str, Any]],
     fetched_records: List[PaperRecord],
 ) -> Tuple[List[Dict[str, Any]], int]:
-    merged: List[Dict[str, Any]] = list(existing_papers)
-    seen_keys: Set[str] = set()
-    for paper in existing_papers:
-        seen_keys.add(_paper_key_from_record(paper))
+    merged: List[Dict[str, Any]] = dedupe_persisted_papers(existing_papers)
+    seen_indexes: Dict[str, int] = {}
+    for idx, paper in enumerate(merged):
+        seen_indexes[_paper_key_from_record(paper)] = idx
 
     appended = 0
     for rec in fetched_records:
         rec_dict = asdict(rec)
         key = _paper_key_from_record(rec_dict)
-        if key in seen_keys:
+        if key in seen_indexes:
+            idx = seen_indexes[key]
+            merged[idx] = _prefer_better_record(merged[idx], rec_dict)
             continue
         merged.append(rec_dict)
-        seen_keys.add(key)
+        seen_indexes[key] = len(merged) - 1
         appended += 1
 
+    merged = dedupe_persisted_papers(merged)
     return merged, appended
 
 
