@@ -537,8 +537,9 @@ def append_new_records_only(
     *,
     existing_papers: List[Dict[str, Any]],
     fetched_records: List[PaperRecord],
-) -> Tuple[List[Dict[str, Any]], int]:
+) -> Tuple[List[Dict[str, Any]], int, int]:
     merged: List[Dict[str, Any]] = dedupe_persisted_papers(existing_papers)
+    removed_existing_duplicates = max(0, len(existing_papers) - len(merged))
     seen_indexes: Dict[str, int] = {}
     for idx, paper in enumerate(merged):
         seen_indexes[_paper_key_from_record(paper)] = idx
@@ -556,7 +557,7 @@ def append_new_records_only(
         appended += 1
 
     merged = dedupe_persisted_papers(merged)
-    return merged, appended
+    return merged, appended, removed_existing_duplicates
 
 
 def parse_args() -> argparse.Namespace:
@@ -746,13 +747,14 @@ def main() -> int:
             f"[info] append-only mode enabled; existing papers={len(existing_papers)}",
             file=sys.stderr,
         )
-        merged_papers, newly_appended_count = append_new_records_only(
+        merged_papers, newly_appended_count, removed_existing_duplicates = append_new_records_only(
             existing_papers=existing_papers,
             fetched_records=records,
         )
     else:
         merged_papers = [asdict(r) for r in records]
         newly_appended_count = len(merged_papers)
+        removed_existing_duplicates = 0
 
     out = {
         "generated_at": dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z"),
@@ -769,6 +771,7 @@ def main() -> int:
         "incomplete": bool(query_errors),
         "fetched_paper_count": len(records),
         "newly_appended_count": newly_appended_count,
+        "existing_duplicates_removed": removed_existing_duplicates,
         "paper_count": len(merged_papers),
         "papers": merged_papers,
     }
@@ -778,7 +781,8 @@ def main() -> int:
     if args.append_only:
         print(
             f"[ok] wrote {len(merged_papers)} total papers to {out_path} "
-            f"(appended {newly_appended_count}, fetched {len(records)})",
+            f"(appended {newly_appended_count}, fetched {len(records)}, "
+            f"removed_existing_duplicates {removed_existing_duplicates})",
             file=sys.stderr,
         )
     else:

@@ -5,7 +5,7 @@ page-layout: full
 
 Auto-updated list of TMLE-related papers tracked from Semantic Scholar queries.
 
-*Note: this list is not complete and may include irrelevant articles; it will be refined over time.*
+_Note: this list is not complete and may include irrelevant articles; it will be refined over time._
 
 Last refreshed: 2026-03-06T18:11:23Z
 
@@ -935,7 +935,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
 </div>
 ```
 
-::: contrib-note
+::: {.contrib-note}
 Tip: scroll horizontally and hover each bar to see exact paper counts.
 :::
 
@@ -17041,4 +17041,5 @@ Abstract unavailable from Semantic Scholar.
 </details>
 
 </details>
+
 ```
