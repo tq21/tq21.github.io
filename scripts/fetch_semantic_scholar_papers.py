@@ -140,6 +140,28 @@ def _paper_year_from_record(record: Dict[str, Any]) -> Optional[int]:
     return None
 
 
+def _paper_id_from_record(record: Dict[str, Any]) -> Optional[str]:
+    paper_id = record.get("paper_id") or record.get("paperId") or record.get("id")
+    if isinstance(paper_id, str):
+        paper_id = _normalize_space(paper_id)
+        if paper_id:
+            return paper_id
+    return None
+
+
+def _paper_doi_from_record(record: Dict[str, Any]) -> Optional[str]:
+    doi = record.get("doi")
+    if isinstance(doi, str):
+        doi = _normalize_doi(doi)
+        if doi:
+            return doi
+    return None
+
+
+def _paper_title_key_from_record(record: Dict[str, Any]) -> str:
+    return _normalize_title_for_key(record.get("title") or "")
+
+
 def _author_names(value: Any) -> List[str]:
     out: List[str] = []
     for author in value or []:
@@ -152,20 +174,22 @@ def _author_names(value: Any) -> List[str]:
     return out
 
 
-def _paper_quality_key(record: Dict[str, Any]) -> Tuple[int, int, int, int, int, int, int, int]:
+def _paper_quality_key(record: Dict[str, Any]) -> Tuple[int, int, int, int, int, int, int, int, int]:
+    year = _paper_year_from_record(record) or -9999
     abstract = _normalize_space(record.get("abstract") or "")
     publication_date = record.get("publication_date") or record.get("publicationDate") or ""
     venue = _normalize_space(record.get("venue") or "")
-    doi = record.get("doi")
+    doi = _paper_doi_from_record(record)
     matched_keywords = record.get("matched_keywords") or []
     source_queries = record.get("source_queries") or []
     authors = _author_names(record.get("authors"))
     return (
-        1 if abstract else 0,
-        len(abstract),
+        year,
+        1 if isinstance(doi, str) and _normalize_space(doi) else 0,
         1 if publication_date else 0,
         1 if venue else 0,
-        1 if isinstance(doi, str) and _normalize_space(doi) else 0,
+        1 if abstract else 0,
+        len(abstract),
         len(matched_keywords),
         len(source_queries),
         sum(len(a) for a in authors),
@@ -265,6 +289,22 @@ def _is_blocked_raw(raw: Dict, blocked: Dict[str, Set[str]]) -> bool:
         return True
 
     title_key = _normalize_title_for_key(raw.get("title") or "")
+    if title_key and title_key in blocked["titles"]:
+        return True
+
+    return False
+
+
+def _is_blocked_record(record: Dict[str, Any], blocked: Dict[str, Set[str]]) -> bool:
+    paper_id = _paper_id_from_record(record)
+    if paper_id and paper_id in blocked["paper_ids"]:
+        return True
+
+    doi = _paper_doi_from_record(record)
+    if doi and doi in blocked["dois"]:
+        return True
+
+    title_key = _paper_title_key_from_record(record)
     if title_key and title_key in blocked["titles"]:
         return True
 
@@ -511,19 +551,51 @@ def load_existing_output_papers(path: Path) -> List[Dict[str, Any]]:
     return papers
 
 
-def dedupe_persisted_papers(papers: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+def _collapse_record_group(
+    papers: List[Dict[str, Any]],
+    key_fn,
+) -> List[Dict[str, Any]]:
     order: List[str] = []
     best_by_key: Dict[str, Dict[str, Any]] = {}
+    passthrough: List[Dict[str, Any]] = []
 
     for paper in papers:
-        key = _paper_key_from_record(paper)
+        key = key_fn(paper)
+        if not key:
+            passthrough.append(paper)
+            continue
         if key not in best_by_key:
             order.append(key)
             best_by_key[key] = paper
             continue
         best_by_key[key] = _prefer_better_record(best_by_key[key], paper)
 
-    deduped = [best_by_key[key] for key in order]
+    return passthrough + [best_by_key[key] for key in order]
+
+
+def dedupe_persisted_papers(papers: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    deduped = list(papers)
+    deduped = _collapse_record_group(
+        deduped,
+        lambda p: f"pid:{_paper_id_from_record(p)}" if _paper_id_from_record(p) else None,
+    )
+    deduped = _collapse_record_group(
+        deduped,
+        lambda p: f"doi:{_paper_doi_from_record(p)}" if _paper_doi_from_record(p) else None,
+    )
+    deduped = _collapse_record_group(
+        deduped,
+        lambda p: (
+            f"title-year:{_paper_title_key_from_record(p)}|{_paper_year_from_record(p)}"
+            if _paper_title_key_from_record(p) and _paper_year_from_record(p) is not None
+            else None
+        ),
+    )
+    # Treat same-title records across years as version chains and keep the most recent.
+    deduped = _collapse_record_group(
+        deduped,
+        lambda p: f"title:{_paper_title_key_from_record(p)}" if _paper_title_key_from_record(p) else None,
+    )
     deduped.sort(
         key=lambda p: (
             -(_paper_year_from_record(p) or -9999),
@@ -558,6 +630,20 @@ def append_new_records_only(
 
     merged = dedupe_persisted_papers(merged)
     return merged, appended, removed_existing_duplicates
+
+
+def filter_blocked_persisted_papers(
+    papers: List[Dict[str, Any]],
+    blocked: Dict[str, Set[str]],
+) -> Tuple[List[Dict[str, Any]], int]:
+    kept: List[Dict[str, Any]] = []
+    removed = 0
+    for paper in papers:
+        if _is_blocked_record(paper, blocked):
+            removed += 1
+            continue
+        kept.append(paper)
+    return kept, removed
 
 
 def parse_args() -> argparse.Namespace:
@@ -741,10 +827,16 @@ def main() -> int:
     )
     out_path = Path(args.output)
     existing_papers: List[Dict[str, Any]] = []
+    removed_existing_blocked = 0
     if args.append_only:
         existing_papers = load_existing_output_papers(out_path)
+        existing_papers, removed_existing_blocked = filter_blocked_persisted_papers(
+            existing_papers,
+            blocked,
+        )
         print(
-            f"[info] append-only mode enabled; existing papers={len(existing_papers)}",
+            f"[info] append-only mode enabled; existing papers={len(existing_papers)} "
+            f"(removed_blocked={removed_existing_blocked})",
             file=sys.stderr,
         )
         merged_papers, newly_appended_count, removed_existing_duplicates = append_new_records_only(
@@ -752,7 +844,7 @@ def main() -> int:
             fetched_records=records,
         )
     else:
-        merged_papers = [asdict(r) for r in records]
+        merged_papers = dedupe_persisted_papers([asdict(r) for r in records])
         newly_appended_count = len(merged_papers)
         removed_existing_duplicates = 0
 
@@ -771,6 +863,7 @@ def main() -> int:
         "incomplete": bool(query_errors),
         "fetched_paper_count": len(records),
         "newly_appended_count": newly_appended_count,
+        "existing_blocked_removed": removed_existing_blocked,
         "existing_duplicates_removed": removed_existing_duplicates,
         "paper_count": len(merged_papers),
         "papers": merged_papers,
@@ -782,6 +875,7 @@ def main() -> int:
         print(
             f"[ok] wrote {len(merged_papers)} total papers to {out_path} "
             f"(appended {newly_appended_count}, fetched {len(records)}, "
+            f"removed_existing_blocked {removed_existing_blocked}, "
             f"removed_existing_duplicates {removed_existing_duplicates})",
             file=sys.stderr,
         )
