@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T16:42:26Z",
+  "generated_at": "2026-03-20T05:09:37Z",
   "source": "Semantic Scholar Graph API",
   "unauthenticated": true,
   "mode": "bulk",
   "append_only": true,
   "blocked_json": "data/blocked_tmle_papers.json",
-  "blocked_match_count": 0,
+  "blocked_match_count": 1,
   "min_year": 2006,
   "keywords": [
     "tmle",
@@ -18,36 +18,36 @@
   "query_stats": [
     {
       "keyword": "tmle",
-      "fetched_raw_count": 0
+      "fetched_raw_count": 463
     },
     {
       "keyword": "targeted maximum likelihood estimation",
-      "fetched_raw_count": 0
+      "fetched_raw_count": 2000
     },
     {
       "keyword": "targeted minimum loss based estimation",
-      "fetched_raw_count": 0
+      "fetched_raw_count": 336
     },
     {
       "keyword": "super learner",
-      "fetched_raw_count": 0
+      "fetched_raw_count": 985
     },
     {
       "keyword": "super learning",
-      "fetched_raw_count": 0
+      "fetched_raw_count": 2000
     },
     {
       "keyword": "highly adaptive lasso",
-      "fetched_raw_count": 0
+      "fetched_raw_count": 226
     }
   ],
   "query_errors": [],
   "incomplete": false,
-  "fetched_paper_count": 0,
-  "newly_appended_count": 0,
-  "existing_blocked_removed": 4,
+  "fetched_paper_count": 835,
+  "newly_appended_count": 12,
+  "existing_blocked_removed": 0,
   "existing_duplicates_removed": 0,
-  "paper_count": 970,
+  "paper_count": 972,
   "papers": [
     {
       "title": "A Targeted Learning Framework for Estimating Restricted Mean Survival Time Difference using Pseudo-observations",
@@ -477,6 +477,28 @@
       ]
     },
     {
+      "title": "Highly Adaptive Empirical Risk Minimization with Principal Components",
+      "authors": [
+        "Carlos Garc'ia Meixide",
+        "Mingxun Wang",
+        "Alejandro Schuler",
+        "M. V. D. Laan"
+      ],
+      "abstract": "The Highly Adaptive Lasso (HAL) delivers unprecedented guarantees in nonparametric minimum loss estimation under minimal smoothness assumptions, such as dimension-free minimax optimal rates. However, the practical use of HAL has been severely limited by its exponentially growing computationally prohibitive indicator basis expansion in moderate to high dimensions. Existing screening strategies drastically reduce this dimension but lack any theoretical justification. We introduce the Principal Component Highly Adaptive (PC-HA) family of estimators, which for the first time provide a principled and theoretically valid dimension reduction. We establish formal results on the score equations solved by these PC-HA estimators, allowing to transfer plug-in efficiency and pointwise asymptotic normality results from HAL to these PC-HA estimators, under comparable complexity control.",
+      "year": 2026,
+      "publication_date": "2026-03-18",
+      "paper_id": "c015b4c7eaebc0ee2f6572755d1757cc0e6618fd",
+      "url": "https://www.semanticscholar.org/paper/c015b4c7eaebc0ee2f6572755d1757cc0e6618fd",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "highly adaptive lasso"
+      ],
+      "source_queries": [
+        "highly adaptive lasso"
+      ]
+    },
+    {
       "title": "Highly Adaptive Principal Component Regression",
       "authors": [
         "Mingxun Wang",
@@ -496,6 +518,35 @@
       ],
       "source_queries": [
         "highly adaptive lasso"
+      ]
+    },
+    {
+      "title": "IL-6 Receptor Antagonists and Severe Post-COVID-19 Outcomes: An Emulated Target Trial",
+      "authors": [
+        "Z. Butzin-Dozier",
+        "M. Kumar",
+        "Yunwen Ji",
+        "Lin-Chiun Wang",
+        "A. Anzalone",
+        "E. Hurwitz",
+        "Rena C Patel",
+        "R. Wong",
+        "Carolyn T. Bramante",
+        "B. Sines"
+      ],
+      "abstract": "Background: Interleukin-6 (IL-6) is a cytokine that plays a key role in systemic hyperinflammation and may mediate the relationship between acute COVID-19 and severe long-term outcomes such as Long COVID or death. IL-6 modulating drugs may reduce patients' risk of severe post-COVID-19 outcomes. Methods: We conducted an emulated target trial in a retrospective cohort of patients with moderate-to-severe rheumatoid arthritis who were prescribed IL-6 receptor antagonists (sarilumab or tocilizumab, pooled treatment) or other biologic agents (anakinra or baricitinib, pooled comparator) in 2022. We compared the 12-month cumulative incidence of mortality and Long COVID (diagnosed and probable) between groups using Super Learner and targeted maximum likelihood estimation, adjusting for covariates of interest. Results: In our cohort of 3,553 patients, we found that prescription of IL-6 receptor antagonists was associated with a lower 12-month cumulative mortality (adjusted relative risk (aRR) 0.40, 95% CI 0.27, 0.59), diagnosed Long COVID (aRR 0.42, 95% CI 0.23, 0.78), and probable Long COVID (aRR 0.71, 95% CI 0.61, 0.83), compared to prescription of other biologic agents among rheumatoid arthritis patients. Conclusions: IL-6 receptor antagonists may prevent the incidence of severe post-COVID-19 outcomes such as Long COVID or mortality. This supports the hypothesis that IL-6 may be a mechanistic biomarker of COVID-19 sequelae and that acute COVID-19 severity may mediate this relationship.",
+      "year": 2026,
+      "publication_date": "2026-03-02",
+      "paper_id": "868ffee433a1995678aaf3fa4911e9b616fe3166",
+      "url": "https://www.semanticscholar.org/paper/868ffee433a1995678aaf3fa4911e9b616fe3166",
+      "venue": "medRxiv",
+      "doi": "10.64898/2026.02.27.26347274",
+      "matched_keywords": [
+        "super learner",
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "super learner"
       ]
     },
     {
