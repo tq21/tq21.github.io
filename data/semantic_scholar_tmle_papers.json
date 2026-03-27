@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-20T05:09:37Z",
+  "generated_at": "2026-03-27T15:17:33Z",
   "source": "Semantic Scholar Graph API",
   "unauthenticated": true,
   "mode": "bulk",
@@ -18,7 +18,7 @@
   "query_stats": [
     {
       "keyword": "tmle",
-      "fetched_raw_count": 463
+      "fetched_raw_count": 464
     },
     {
       "keyword": "targeted maximum likelihood estimation",
@@ -30,7 +30,7 @@
     },
     {
       "keyword": "super learner",
-      "fetched_raw_count": 985
+      "fetched_raw_count": 987
     },
     {
       "keyword": "super learning",
@@ -38,16 +38,16 @@
     },
     {
       "keyword": "highly adaptive lasso",
-      "fetched_raw_count": 226
+      "fetched_raw_count": 228
     }
   ],
   "query_errors": [],
   "incomplete": false,
-  "fetched_paper_count": 835,
-  "newly_appended_count": 12,
+  "fetched_paper_count": 839,
+  "newly_appended_count": 16,
   "existing_blocked_removed": 0,
   "existing_duplicates_removed": 0,
-  "paper_count": 972,
+  "paper_count": 977,
   "papers": [
     {
       "title": "A Targeted Learning Framework for Estimating Restricted Mean Survival Time Difference using Pseudo-observations",
@@ -247,6 +247,27 @@
       ]
     },
     {
+      "title": "Dental Implant Rehabilitation Mitigates the Increased Mortality Risk Associated With Tooth Loss: A Population-Based Study.",
+      "authors": [
+        "J.R.H. Tay",
+        "G. G. Nascimento",
+        "M. Romandini"
+      ],
+      "abstract": "AIM To (i) evaluate the association between posterior masticatory unit (PMU) loss and all-cause mortality, (ii) quantify mediation through dietary intake, nutritional biomarkers, and body mass index (BMI), and (iii) assess whether prosthetic rehabilitation modifies this relationship. METHODS Data from 17 109 adults participating in NHANES 1999-2004 and 2011-2014, with mortality follow-up through 2019, were analyzed. PMUs were classified as ≥ 5 from natural teeth (reference), < 5 without posterior prosthetic rehabilitation, < 5 despite the presence of posterior prosthetic restorations, ≥ 5 achieved through removable or tooth-supported fixed prostheses, and ≥ 5 achieved through implant-supported prostheses. Weighted Cox regression estimated adjusted hazard ratios (aHRs) for all-cause mortality. Causal mediation models quantified indirect effects through diet quality, nutritional markers, and BMI. Hypothetical interventions rehabilitating lost PMUs were emulated using longitudinal modified treatment policies with targeted maximum likelihood estimation. RESULTS Compared with participants with ≥ 5 PMUs from natural teeth, mortality risk was higher among those with < 5 PMUs without posterior prosthetic rehabilitation (aHR 1.60; 95% CI 1.22-2.09), < 5 PMUs despite the presence of posterior prosthetic restorations (aHR 1.29; 95% CI 1.08-1.55), and ≥ 5 PMUs achieved through removable or tooth-supported fixed prostheses (aHR 1.27; 95% CI 1.10-1.48). No excess mortality risk was observed for ≥ 5 implant-supported PMUs (aHR 1.00; 95% CI 0.77-1.30). Diet quality indices (Alternative Healthy Eating Index, Dietary Approaches to Stop Hypertension, Dietary Inflammatory Index) mediated 6%-11% of the association, while fruit and fiber intake alone mediated 5%-9%; protein intake, nutritional biomarkers, and BMI contributed smaller proportions. Under causal assumptions, emulated scenarios restoring ≥ 5 PMUs with implant-supported prostheses or maintaining ≥ 5 natural PMUs were associated with 4%-5% higher estimated survival among individuals with < 5 PMUs without posterior prosthetic rehabilitation. CONCLUSION Loss of natural PMUs is associated with increased all-cause mortality, only partially mediated by diet quality. This excess risk appears attenuated by posterior prosthetic rehabilitation and is no longer evident when ≥ 5 PMUs are restored with implant-supported prostheses. When posterior teeth are lost, implant-supported rehabilitation may be considered as an option potentially associated with improved survival.",
+      "year": 2026,
+      "publication_date": "2026-03-19",
+      "paper_id": "2106420a24961e60bcd8afe99c11ab32f2ecb6e1",
+      "url": "https://www.semanticscholar.org/paper/2106420a24961e60bcd8afe99c11ab32f2ecb6e1",
+      "venue": "Journal of Periodontal Research",
+      "doi": "10.1111/jre.70096",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
+      ]
+    },
+    {
       "title": "Digital Asset Analytics for DeFi Protocol Valuation: An Explainable Optuna-Tuned Super Learner Ensemble Framework",
       "authors": [
         "Gihan M. Ali"
@@ -264,6 +285,26 @@
       "source_queries": [
         "super learner",
         "super learning"
+      ]
+    },
+    {
+      "title": "Doubly Robust Causal Estimation Under Multi-View Network Interference (Student Abstract)",
+      "authors": [
+        "Hanzhang Yuan",
+        "Sheng Li"
+      ],
+      "abstract": "Estimating causal effects under network interference is challenging especially when edges are heterogeneous and nodes share latent dependencies. We study this realistic setting and propose MVDR, a targeted maximum likelihood (TMLE) framework that learns multi-view representations of covariates and exposure on heterogeneous networks while achieving double robustness: consistency holds if either the outcome model or the exposure density is correctly specified. MVDR supports multiple network interventions using only the observed network structure. On three semi-synthetic datasets, MVDR reduces intervention-level prediction error against baselines, and remains stable under misspecification.",
+      "year": 2026,
+      "publication_date": "2026-03-14",
+      "paper_id": "d31a46180b9ac00a12a2fca7144209b2b516cb7c",
+      "url": "https://www.semanticscholar.org/paper/d31a46180b9ac00a12a2fca7144209b2b516cb7c",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "doi": "10.1609/aaai.v40i48.42305",
+      "matched_keywords": [
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
       ]
     },
     {
@@ -412,6 +453,25 @@
       "source_queries": [
         "super learner",
         "targeted maximum likelihood estimation"
+      ]
+    },
+    {
+      "title": "Firm valuation using accounting-based capital structure and cash holdings: An explainable machine learning approach",
+      "authors": [
+        "Gihan M. Ali"
+      ],
+      "abstract": "This study investigates the impact of cash holdings and capital structure on firm valuation in Egypt's emerging market, examining how COVID-19 altered investor perceptions. The research employs explainable machine learning (ML) to uncover non-linear financial thresholds that traditional valuation models overlook. Egyptian listed firms from 2015 to 2022 are analyzed using a Super Learner ensemble (Extremely Randomized Trees, Extreme Gradient Boosting, and a Linear Regression meta-learner) alongside SHapley Additive exPlanations (SHAP) and partial dependence analysis, with the Super Learner's performance compared against conventional methods in assessing financial policy effects on Tobin's Q. Three key findings emerge: (1) Leverage exhibits a non-linear relationship with valuation, where extreme levels (LEV > 1.2) unexpectedly enhance firm value, challenging trade-off theory; (2) Cash holdings demonstrate threshold effects, with optimal value at ~40% of assets and sharply increasing marginal benefits beyond this point; and (3) COVID-19 amplified these dynamics, elevating the liquidity premium while penalizing excessive debt. The Super Learner significantly outperformed traditional statistical and ML models (R² = 0.572 vs. 0.19-0.47). Practical implications suggest that investors and managers in emerging markets should adopt dynamic cash-debt optimization to avoid undervaluation, while policymakers can use ML-driven thresholds to design crisis-responsive regulations. This study contributes to the literature by (1) identifying non-linear thresholds that extend trade-off and pecking order theories, (2) introducing explainable ML to valuation research to balance accuracy and interpretability, and (3) providing novel evidence of COVID-19's structural impact on investor behavior in emerging economies.",
+      "year": 2026,
+      "publication_date": null,
+      "paper_id": "8abb75a5ceb827de1b6b5c01ab327990aa5b4449",
+      "url": "https://www.semanticscholar.org/paper/8abb75a5ceb827de1b6b5c01ab327990aa5b4449",
+      "venue": "International Journal of Data and Network Science",
+      "doi": "10.5267/j.ijdns.2026.2.001",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
       ]
     },
     {
@@ -597,6 +657,28 @@
       ]
     },
     {
+      "title": "Modeling the merger-ringdown of an eccentric test-mass inspiral into a Kerr black hole using the effective-one-body framework",
+      "authors": [
+        "G. Faggioli",
+        "A. Buonanno",
+        "M. V. D. Meent",
+        "Gaurav Khanna"
+      ],
+      "abstract": "We characterize and phenomenologically model the merger-ringdown of gravitational waves emitted by a small compact object that plunges and merges into a Kerr black hole from equatorial-eccentric inspirals. The waveforms are generated employing a time-domain Teukolsky code sourced with trajectories computed using the effective-one-body framework. We span values of the Kerr spin $a\\in[-0.9, 0.9] $, eccentricity at the last stable orbit (LSO) $ e_{\\rm LSO} \\in [0,0.9] $, and relativistic anomaly $ \\xi_{\\rm LSO} \\in [0 , 2 \\pi]$. We characterize the last peak of the waveform and ringdown features across the parameter space, finding that the eccentricity mainly affects the last peak features, while it has a smaller impact on the ringdown signal. In contrast, the relativistic anomaly measured at the LSO influences the morphology of the last peak in a restricted portion of the parameter space and has no impact on the ringdown part. We perform the analysis for all the spin-weighted spherical harmonic modes normally included in the \\texttt{SEOBNR} family of models, $(\\ell,m)\\in\\{ (2,2), (3,3), (4,4), (5,5), (2,1), (3,2), (4,3)\\}$. Finally, we introduce a merger-ringdown model for \\texttt{SEOB-TMLE}, a forthcoming inspiral-merger-ringdown waveform model for eccentric spin-aligned binary black holes in the test-mass limit, whose features can be extended to comparable-mass regimes. The model also accounts for quasinormal mode mixing during the ringdown. It provides a first step toward incorporating the impact of residual eccentricity close to merger into spin-aligned effective-one-body merger-ringdown models for binary black holes.",
+      "year": 2026,
+      "publication_date": "2026-03-20",
+      "paper_id": "61e1d00259cc8ee03c84a9d56421985221bd6959",
+      "url": "https://www.semanticscholar.org/paper/61e1d00259cc8ee03c84a9d56421985221bd6959",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
+      ]
+    },
+    {
       "title": "Participation in the house-ball community as a social determinant of HIV care and prevention outcomes among transgender women of color.",
       "authors": [
         "Alexander Furuya",
@@ -651,6 +733,29 @@
       "source_queries": [
         "super learner",
         "super learning"
+      ]
+    },
+    {
+      "title": "Predicting the uniaxial compressive and tensile strengths of ultra-high-performance concrete using super learner models",
+      "authors": [
+        "Van Thanh Huynh",
+        "Luu Uy Nguyen",
+        "Thanh Chung Do",
+        "Duy-Liem Nguyen",
+        "Ngoc-Thanh Tran"
+      ],
+      "abstract": "The aim of this research was to develop robust models for estimating the uniaxial compressive and tensile strengths of ultra-high-performance fibre-reinforced concrete. A total of 702 experimental compressive test results and 192 direct tensile test results were gathered to establish four base machine learning models (a decision tree, a random forest, an artificial neural network and extreme gradient boosting). Subsequently, super learner models (SLMs) were constructed to enhance predictive capability by integrating the outputs of the base models. An independent experimental programme was conducted to validate the predictive capability of the SLMs. The investigation revealed that the SLMs outperformed the base models and previously reported models in the literature, achieving R2 values exceeding 0.982 for compressive strength and 0.904 for tensile strength, along with root mean squared errors below 5.062 MPa and 0.760 MPa, respectively. A graphical user interface incorporating the SLMs was developed, providing a practical and user-friendly tool for linking the compressive and tensile strength predictions. Sensitivity assessment indicated that concrete age and fibre volume content were the most influential factors affecting compressive strength and tensile strength, respectively. Finally, the accuracy and reliability of the SLMs were further confirmed through excellent agreements with independent experimental datasets.",
+      "year": 2026,
+      "publication_date": "2026-03-19",
+      "paper_id": "6b3bec27892c2317eceb3dbb4539df3a71204735",
+      "url": "https://www.semanticscholar.org/paper/6b3bec27892c2317eceb3dbb4539df3a71204735",
+      "venue": "Proceedings of the Institution of Civil Engineers : Structures and buildings",
+      "doi": "10.1680/jstbu.25.00248",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
       ]
     },
     {
@@ -4678,12 +4783,12 @@
       ]
     },
     {
-      "title": "Targeted Maximum Likelihood Estimation for Causal Inference With Observational Data-The Example of Private Tutoring.",
+      "title": "Targeted Maximum Likelihood Estimation for Causal Inference With Observational Data—The Example of Private Tutoring",
       "authors": [
         "Christoph Jindra",
         "Karoline A. Sachse"
       ],
-      "abstract": "State-of-the-art causal inference methods for observational data promise to relax assumptions threatening valid causal inference. Targeted maximum likelihood estimation (TMLE), for example, is a template for constructing doubly robust, semiparametric, efficient substitution estimators, providing consistent estimates if the outcome or treatment model is correctly specified. Compared to standard approaches, it reduces the risk of misspecification bias by allowing (nonparametric) machine-learning techniques, including super learning, to estimate the relevant components of the data distribution. We briefly introduce TMLE and demonstrate its use by estimating the effects of private tutoring in mathematics during Year 7 on mathematics proficiency and grades using observational data from starting cohort 3 of the National Education Panel Study (N= 4,167). We contrast TMLE estimates to those from ordinary least squares, the parametric G-formula, and the augmented inverse-probability weighted estimator. Our findings reveal close agreement between methods for end-of-year grades. However, variations emerge when examining mathematics proficiency as the outcome, highlighting that substantive conclusions may depend on the analytical approach. The results underscore the significance of employing advanced causal inference methods, such as TMLE, when navigating the complexities of observational data and highlight the nuanced impact of methodological choices on the interpretation of study outcomes.",
+      "abstract": "Abstract State-of-the-art causal inference methods for observational data promise to relax assumptions threatening valid causal inference. Targeted maximum likelihood estimation (TMLE), for example, is a template for constructing doubly robust, semiparametric, efficient substitution estimators, providing consistent estimates if the outcome or treatment model is correctly specified. Compared to standard approaches, it reduces the risk of misspecification bias by allowing (nonparametric) machine-learning techniques, including super learning, to estimate the relevant components of the data distribution. We briefly introduce TMLE and demonstrate its use by estimating the effects of private tutoring in mathematics during Year 7 on mathematics proficiency and grades using observational data from starting cohort 3 of the National Education Panel Study (N= 4,167). We contrast TMLE estimates to those from ordinary least squares, the parametric G-formula, and the augmented inverse-probability weighted estimator. Our findings reveal close agreement between methods for end-of-year grades. However, variations emerge when examining mathematics proficiency as the outcome, highlighting that substantive conclusions may depend on the analytical approach. The results underscore the significance of employing advanced causal inference methods, such as TMLE, when navigating the complexities of observational data and highlight the nuanced impact of methodological choices on the interpretation of study outcomes.",
       "year": 2025,
       "publication_date": "2025-11-20",
       "paper_id": "433e5a6339f4d92f0a9e2860b122cb18fb88bfea",
@@ -4696,7 +4801,6 @@
         "tmle"
       ],
       "source_queries": [
-        "super learning",
         "targeted maximum likelihood estimation",
         "tmle"
       ]

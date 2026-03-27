@@ -7,17 +7,17 @@ Auto-updated list of TMLE-related papers tracked from Semantic Scholar queries.
 
 *Note: this list is not complete and may include irrelevant articles; it will be refined over time.*
 
-Last refreshed: 2026-03-20T05:09:37Z
+Last refreshed: 2026-03-27T15:17:33Z
 
 Keywords queried: tmle, targeted maximum likelihood estimation, targeted minimum loss based estimation, super learner, super learning, highly adaptive lasso
 
-Total tracked papers: **972**
+Total tracked papers: **977**
 
 <!-- monthly-chart:start -->
 
 ## Yearly Papers Trend
 
-Number of papers per year from **2006** to **2025** (coverage: **928/972** papers with year metadata in range).
+Number of papers per year from **2006** to **2025** (coverage: **928/977** papers with year metadata in range).
 
 ```{=html}
 <style>
@@ -116,7 +116,7 @@ Number of papers per year from **2006** to **2025** (coverage: **928/972** paper
 
 ## Contributor Ranking
 
-Bars show contributors with at least 2 papers, sorted left to right by paper count. Total shown: **765**.
+Bars show contributors with at least 2 papers, sorted left to right by paper count. Total shown: **767**.
 
 ```{=html}
 <style>
@@ -232,6 +232,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Eric Hurwitz: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.91px"></div><div class="contrib-label"><span>Eric Hurwitz</span></div></div>
     <div class="contrib-item" title="F. Mwangwa: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.91px"></div><div class="contrib-label"><span>F. Mwangwa</span></div></div>
     <div class="contrib-item" title="Geoffrey Ecoto: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.91px"></div><div class="contrib-label"><span>Geoffrey Ecoto</span></div></div>
+    <div class="contrib-item" title="Gihan M. Ali: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.91px"></div><div class="contrib-label"><span>Gihan M. Ali</span></div></div>
     <div class="contrib-item" title="Hana Lee: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.91px"></div><div class="contrib-label"><span>Hana Lee</span></div></div>
     <div class="contrib-item" title="Haodong Li: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.91px"></div><div class="contrib-label"><span>Haodong Li</span></div></div>
     <div class="contrib-item" title="Hossein Mozafar Saadati: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.91px"></div><div class="contrib-label"><span>Hossein Mozafar Saadati</span></div></div>
@@ -306,7 +307,6 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="F. Reyal: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.43px"></div><div class="contrib-label"><span>F. Reyal</span></div></div>
     <div class="contrib-item" title="F. Xue: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.43px"></div><div class="contrib-label"><span>F. Xue</span></div></div>
     <div class="contrib-item" title="Georgia D. Tomaras: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.43px"></div><div class="contrib-label"><span>Georgia D. Tomaras</span></div></div>
-    <div class="contrib-item" title="Gihan M. Ali: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.43px"></div><div class="contrib-label"><span>Gihan M. Ali</span></div></div>
     <div class="contrib-item" title="Ian R. White: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.43px"></div><div class="contrib-label"><span>Ian R. White</span></div></div>
     <div class="contrib-item" title="J. Alderden: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.43px"></div><div class="contrib-label"><span>J. Alderden</span></div></div>
     <div class="contrib-item" title="J. Brooks: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.43px"></div><div class="contrib-label"><span>J. Brooks</span></div></div>
@@ -532,6 +532,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Guangye He: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Guangye He</span></div></div>
     <div class="contrib-item" title="Guillaume Barbalat: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Guillaume Barbalat</span></div></div>
     <div class="contrib-item" title="Guiqian 贵乾 Sun 孙: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Guiqian 贵乾 Sun 孙</span></div></div>
+    <div class="contrib-item" title="Gustavo G Nascimento: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Gustavo G Nascimento</span></div></div>
     <div class="contrib-item" title="H. Bonneau-Chloup: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>H. Bonneau-Chloup</span></div></div>
     <div class="contrib-item" title="H. Christensen: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>H. Christensen</span></div></div>
     <div class="contrib-item" title="H. D&#x27;Couto: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>H. D&#x27;Couto</span></div></div>
@@ -578,6 +579,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="J. Vanderpuye-Orgle: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>J. Vanderpuye-Orgle</span></div></div>
     <div class="contrib-item" title="J. Wolfson: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>J. Wolfson</span></div></div>
     <div class="contrib-item" title="J. Yazdany: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>J. Yazdany</span></div></div>
+    <div class="contrib-item" title="J.R.H. Tay: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>J.R.H. Tay</span></div></div>
     <div class="contrib-item" title="JM van Dongen: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>JM van Dongen</span></div></div>
     <div class="contrib-item" title="Jacek Skarbinski: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Jacek Skarbinski</span></div></div>
     <div class="contrib-item" title="Jacqueline E. Rudolph: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Jacqueline E. Rudolph</span></div></div>
@@ -920,7 +922,56 @@ Papers are grouped by publication year. Expand a year to browse papers. Only pap
 .paper-year > .paper-item > summary { cursor: pointer; }
 </style>
 <details class="paper-year">
-  <summary><strong>2026 (33 papers)</strong></summary>
+  <summary><strong>2026 (38 papers)</strong></summary>
+
+<details class="paper-item">
+  <summary><strong>2026-03-20 — Modeling the merger-ringdown of an eccentric test-mass inspiral into a Kerr black hole using the effective-one-body framework</strong></summary>
+
+<p>
+<strong>Authors</strong>: G. Faggioli, A. Buonanno, M. V. D. Meent, Gaurav Khanna<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-03-20<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/61e1d00259cc8ee03c84a9d56421985221bd6959">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: tmle
+</p>
+<p><strong>Abstract</strong>:<br>
+We characterize and phenomenologically model the merger-ringdown of gravitational waves emitted by a small compact object that plunges and merges into a Kerr black hole from equatorial-eccentric inspirals. The waveforms are generated employing a time-domain Teukolsky code sourced with trajectories computed using the effective-one-body framework. We span values of the Kerr spin $a\in[-0.9, 0.9] $, eccentricity at the last stable orbit (LSO) $ e_{\rm LSO} \in [0,0.9] $, and relativistic anomaly $ \xi_{\rm LSO} \in [0 , 2 \pi]$. We characterize the last peak of the waveform and ringdown features across the parameter space, finding that the eccentricity mainly affects the last peak features, while it has a smaller impact on the ringdown signal. In contrast, the relativistic anomaly measured at the LSO influences the morphology of the last peak in a restricted portion of the parameter space and has no impact on the ringdown part. We perform the analysis for all the spin-weighted spherical harmonic modes normally included in the \texttt{SEOBNR} family of models, $(\ell,m)\in\{ (2,2), (3,3), (4,4), (5,5), (2,1), (3,2), (4,3)\}$. Finally, we introduce a merger-ringdown model for \texttt{SEOB-TMLE}, a forthcoming inspiral-merger-ringdown waveform model for eccentric spin-aligned binary black holes in the test-mass limit, whose features can be extended to comparable-mass regimes. The model also accounts for quasinormal mode mixing during the ringdown. It provides a first step toward incorporating the impact of residual eccentricity close to merger into spin-aligned effective-one-body merger-ringdown models for binary black holes.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2026-03-19 — Predicting the uniaxial compressive and tensile strengths of ultra-high-performance concrete using super learner models</strong></summary>
+
+<p>
+<strong>Authors</strong>: Van Thanh Huynh, Luu Uy Nguyen, Thanh Chung Do, Duy-Liem Nguyen, Ngoc-Thanh Tran<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-03-19<br>
+<strong>Venue</strong>: Proceedings of the Institution of Civil Engineers : Structures and buildings<br>
+<strong>DOI</strong>: 10.1680/jstbu.25.00248<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/6b3bec27892c2317eceb3dbb4539df3a71204735">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: super learner
+</p>
+<p><strong>Abstract</strong>:<br>
+The aim of this research was to develop robust models for estimating the uniaxial compressive and tensile strengths of ultra-high-performance fibre-reinforced concrete. A total of 702 experimental compressive test results and 192 direct tensile test results were gathered to establish four base machine learning models (a decision tree, a random forest, an artificial neural network and extreme gradient boosting). Subsequently, super learner models (SLMs) were constructed to enhance predictive capability by integrating the outputs of the base models. An independent experimental programme was conducted to validate the predictive capability of the SLMs. The investigation revealed that the SLMs outperformed the base models and previously reported models in the literature, achieving R2 values exceeding 0.982 for compressive strength and 0.904 for tensile strength, along with root mean squared errors below 5.062 MPa and 0.760 MPa, respectively. A graphical user interface incorporating the SLMs was developed, providing a practical and user-friendly tool for linking the compressive and tensile strength predictions. Sensitivity assessment indicated that concrete age and fibre volume content were the most influential factors affecting compressive strength and tensile strength, respectively. Finally, the accuracy and reliability of the SLMs were further confirmed through excellent agreements with independent experimental datasets.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2026-03-19 — Dental Implant Rehabilitation Mitigates the Increased Mortality Risk Associated With Tooth Loss: A Population-Based Study.</strong></summary>
+
+<p>
+<strong>Authors</strong>: J.R.H. Tay, G. G. Nascimento, M. Romandini<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-03-19<br>
+<strong>Venue</strong>: Journal of Periodontal Research<br>
+<strong>DOI</strong>: 10.1111/jre.70096<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/2106420a24961e60bcd8afe99c11ab32f2ecb6e1">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: targeted maximum likelihood estimation
+</p>
+<p><strong>Abstract</strong>:<br>
+AIM To (i) evaluate the association between posterior masticatory unit (PMU) loss and all-cause mortality, (ii) quantify mediation through dietary intake, nutritional biomarkers, and body mass index (BMI), and (iii) assess whether prosthetic rehabilitation modifies this relationship. METHODS Data from 17 109 adults participating in NHANES 1999-2004 and 2011-2014, with mortality follow-up through 2019, were analyzed. PMUs were classified as ≥ 5 from natural teeth (reference), &lt; 5 without posterior prosthetic rehabilitation, &lt; 5 despite the presence of posterior prosthetic restorations, ≥ 5 achieved through removable or tooth-supported fixed prostheses, and ≥ 5 achieved through implant-supported prostheses. Weighted Cox regression estimated adjusted hazard ratios (aHRs) for all-cause mortality. Causal mediation models quantified indirect effects through diet quality, nutritional markers, and BMI. Hypothetical interventions rehabilitating lost PMUs were emulated using longitudinal modified treatment policies with targeted maximum likelihood estimation. RESULTS Compared with participants with ≥ 5 PMUs from natural teeth, mortality risk was higher among those with &lt; 5 PMUs without posterior prosthetic rehabilitation (aHR 1.60; 95% CI 1.22-2.09), &lt; 5 PMUs despite the presence of posterior prosthetic restorations (aHR 1.29; 95% CI 1.08-1.55), and ≥ 5 PMUs achieved through removable or tooth-supported fixed prostheses (aHR 1.27; 95% CI 1.10-1.48). No excess mortality risk was observed for ≥ 5 implant-supported PMUs (aHR 1.00; 95% CI 0.77-1.30). Diet quality indices (Alternative Healthy Eating Index, Dietary Approaches to Stop Hypertension, Dietary Inflammatory Index) mediated 6%-11% of the association, while fruit and fiber intake alone mediated 5%-9%; protein intake, nutritional biomarkers, and BMI contributed smaller proportions. Under causal assumptions, emulated scenarios restoring ≥ 5 PMUs with implant-supported prostheses or maintaining ≥ 5 natural PMUs were associated with 4%-5% higher estimated survival among individuals with &lt; 5 PMUs without posterior prosthetic rehabilitation. CONCLUSION Loss of natural PMUs is associated with increased all-cause mortality, only partially mediated by diet quality. This excess risk appears attenuated by posterior prosthetic rehabilitation and is no longer evident when ≥ 5 PMUs are restored with implant-supported prostheses. When posterior teeth are lost, implant-supported rehabilitation may be considered as an option potentially associated with improved survival.
+</p>
+</details>
 
 <details class="paper-item">
   <summary><strong>2026-03-18 — Highly Adaptive Empirical Risk Minimization with Principal Components</strong></summary>
@@ -934,6 +985,23 @@ Papers are grouped by publication year. Expand a year to browse papers. Only pap
 </p>
 <p><strong>Abstract</strong>:<br>
 The Highly Adaptive Lasso (HAL) delivers unprecedented guarantees in nonparametric minimum loss estimation under minimal smoothness assumptions, such as dimension-free minimax optimal rates. However, the practical use of HAL has been severely limited by its exponentially growing computationally prohibitive indicator basis expansion in moderate to high dimensions. Existing screening strategies drastically reduce this dimension but lack any theoretical justification. We introduce the Principal Component Highly Adaptive (PC-HA) family of estimators, which for the first time provide a principled and theoretically valid dimension reduction. We establish formal results on the score equations solved by these PC-HA estimators, allowing to transfer plug-in efficiency and pointwise asymptotic normality results from HAL to these PC-HA estimators, under comparable complexity control.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2026-03-14 — Doubly Robust Causal Estimation Under Multi-View Network Interference (Student Abstract)</strong></summary>
+
+<p>
+<strong>Authors</strong>: Hanzhang Yuan, Sheng Li<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-03-14<br>
+<strong>Venue</strong>: AAAI Conference on Artificial Intelligence<br>
+<strong>DOI</strong>: 10.1609/aaai.v40i48.42305<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/d31a46180b9ac00a12a2fca7144209b2b516cb7c">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: tmle
+</p>
+<p><strong>Abstract</strong>:<br>
+Estimating causal effects under network interference is challenging especially when edges are heterogeneous and nodes share latent dependencies. We study this realistic setting and propose MVDR, a targeted maximum likelihood (TMLE) framework that learns multi-view representations of covariates and exposure on heterogeneous networks while achieving double robustness: consistency holds if either the outcome model or the exposure density is correctly specified. MVDR supports multiple network interventions using only the observed network structure. On three semi-synthetic datasets, MVDR reduces intervention-level prediction error against baselines, and remains stable under misspecification.
 </p>
 </details>
 
@@ -1411,6 +1479,22 @@ Missing data is a common issue in longitudinal randomized clinical trials (RCTs)
 </details>
 
 <details class="paper-item">
+  <summary><strong>2026 — Firm valuation using accounting-based capital structure and cash holdings: An explainable machine learning approach</strong></summary>
+
+<p>
+<strong>Authors</strong>: Gihan M. Ali<br>
+<strong>Year</strong>: 2026<br>
+<strong>Venue</strong>: International Journal of Data and Network Science<br>
+<strong>DOI</strong>: 10.5267/j.ijdns.2026.2.001<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/8abb75a5ceb827de1b6b5c01ab327990aa5b4449">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: super learner
+</p>
+<p><strong>Abstract</strong>:<br>
+This study investigates the impact of cash holdings and capital structure on firm valuation in Egypt&#x27;s emerging market, examining how COVID-19 altered investor perceptions. The research employs explainable machine learning (ML) to uncover non-linear financial thresholds that traditional valuation models overlook. Egyptian listed firms from 2015 to 2022 are analyzed using a Super Learner ensemble (Extremely Randomized Trees, Extreme Gradient Boosting, and a Linear Regression meta-learner) alongside SHapley Additive exPlanations (SHAP) and partial dependence analysis, with the Super Learner&#x27;s performance compared against conventional methods in assessing financial policy effects on Tobin&#x27;s Q. Three key findings emerge: (1) Leverage exhibits a non-linear relationship with valuation, where extreme levels (LEV &gt; 1.2) unexpectedly enhance firm value, challenging trade-off theory; (2) Cash holdings demonstrate threshold effects, with optimal value at ~40% of assets and sharply increasing marginal benefits beyond this point; and (3) COVID-19 amplified these dynamics, elevating the liquidity premium while penalizing excessive debt. The Super Learner significantly outperformed traditional statistical and ML models (R² = 0.572 vs. 0.19-0.47). Practical implications suggest that investors and managers in emerging markets should adopt dynamic cash-debt optimization to avoid undervaluation, while policymakers can use ML-driven thresholds to design crisis-responsive regulations. This study contributes to the literature by (1) identifying non-linear thresholds that extend trade-off and pecking order theories, (2) introducing explainable ML to valuation research to balance accuracy and interpretability, and (3) providing novel evidence of COVID-19&#x27;s structural impact on investor behavior in emerging economies.
+</p>
+</details>
+
+<details class="paper-item">
   <summary><strong>2026 — Enhancing project financial performance prediction: An explainable machine learning framework integrating frontier efficiency and super learner</strong></summary>
 
 <p>
@@ -1755,7 +1839,7 @@ Background: Promising evidence indicates that treating hearing loss with hearing
 </details>
 
 <details class="paper-item">
-  <summary><strong>2025-11-20 — Targeted Maximum Likelihood Estimation for Causal Inference With Observational Data-The Example of Private Tutoring.</strong></summary>
+  <summary><strong>2025-11-20 — Targeted Maximum Likelihood Estimation for Causal Inference With Observational Data—The Example of Private Tutoring</strong></summary>
 
 <p>
 <strong>Authors</strong>: Christoph Jindra, Karoline A. Sachse<br>
@@ -1767,7 +1851,7 @@ Background: Promising evidence indicates that treating hearing loss with hearing
 <strong>Matched Keywords</strong>: super learning, targeted maximum likelihood estimation, tmle
 </p>
 <p><strong>Abstract</strong>:<br>
-State-of-the-art causal inference methods for observational data promise to relax assumptions threatening valid causal inference. Targeted maximum likelihood estimation (TMLE), for example, is a template for constructing doubly robust, semiparametric, efficient substitution estimators, providing consistent estimates if the outcome or treatment model is correctly specified. Compared to standard approaches, it reduces the risk of misspecification bias by allowing (nonparametric) machine-learning techniques, including super learning, to estimate the relevant components of the data distribution. We briefly introduce TMLE and demonstrate its use by estimating the effects of private tutoring in mathematics during Year 7 on mathematics proficiency and grades using observational data from starting cohort 3 of the National Education Panel Study (N= 4,167). We contrast TMLE estimates to those from ordinary least squares, the parametric G-formula, and the augmented inverse-probability weighted estimator. Our findings reveal close agreement between methods for end-of-year grades. However, variations emerge when examining mathematics proficiency as the outcome, highlighting that substantive conclusions may depend on the analytical approach. The results underscore the significance of employing advanced causal inference methods, such as TMLE, when navigating the complexities of observational data and highlight the nuanced impact of methodological choices on the interpretation of study outcomes.
+Abstract State-of-the-art causal inference methods for observational data promise to relax assumptions threatening valid causal inference. Targeted maximum likelihood estimation (TMLE), for example, is a template for constructing doubly robust, semiparametric, efficient substitution estimators, providing consistent estimates if the outcome or treatment model is correctly specified. Compared to standard approaches, it reduces the risk of misspecification bias by allowing (nonparametric) machine-learning techniques, including super learning, to estimate the relevant components of the data distribution. We briefly introduce TMLE and demonstrate its use by estimating the effects of private tutoring in mathematics during Year 7 on mathematics proficiency and grades using observational data from starting cohort 3 of the National Education Panel Study (N= 4,167). We contrast TMLE estimates to those from ordinary least squares, the parametric G-formula, and the augmented inverse-probability weighted estimator. Our findings reveal close agreement between methods for end-of-year grades. However, variations emerge when examining mathematics proficiency as the outcome, highlighting that substantive conclusions may depend on the analytical approach. The results underscore the significance of employing advanced causal inference methods, such as TMLE, when navigating the complexities of observational data and highlight the nuanced impact of methodological choices on the interpretation of study outcomes.
 </p>
 </details>
 
