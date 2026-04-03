@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-27T15:17:33Z",
+  "generated_at": "2026-04-03T15:23:33Z",
   "source": "Semantic Scholar Graph API",
   "unauthenticated": true,
   "mode": "bulk",
@@ -26,11 +26,11 @@
     },
     {
       "keyword": "targeted minimum loss based estimation",
-      "fetched_raw_count": 336
+      "fetched_raw_count": 337
     },
     {
       "keyword": "super learner",
-      "fetched_raw_count": 987
+      "fetched_raw_count": 988
     },
     {
       "keyword": "super learning",
@@ -38,16 +38,16 @@
     },
     {
       "keyword": "highly adaptive lasso",
-      "fetched_raw_count": 228
+      "fetched_raw_count": 230
     }
   ],
   "query_errors": [],
   "incomplete": false,
-  "fetched_paper_count": 839,
-  "newly_appended_count": 16,
+  "fetched_paper_count": 837,
+  "newly_appended_count": 1,
   "existing_blocked_removed": 0,
   "existing_duplicates_removed": 0,
-  "paper_count": 977,
+  "paper_count": 978,
   "papers": [
     {
       "title": "A Targeted Learning Framework for Estimating Restricted Mean Survival Time Difference using Pseudo-observations",
@@ -228,7 +228,7 @@
       "title": "Deep Doubly Debiased Longitudinal Effect Estimation with ICE G-Computation",
       "authors": [
         "Wenxin Chen",
-        "Weishen Pan",
+        "W. Pan",
         "Kyra Gan",
         "Fei Wang"
       ],
@@ -237,8 +237,8 @@
       "publication_date": "2026-02-12",
       "paper_id": "edc9916e78a297092b0d90edb26995312209fe30",
       "url": "https://www.semanticscholar.org/paper/edc9916e78a297092b0d90edb26995312209fe30",
-      "venue": null,
-      "doi": null,
+      "venue": "arXiv.org",
+      "doi": "10.48550/arXiv.2602.12379",
       "matched_keywords": [
         "targeted minimum loss based estimation"
       ],
@@ -398,8 +398,8 @@
       "publication_date": "2026-02-23",
       "paper_id": "bc63dc08260bd62369e89e2019b116158d637c9f",
       "url": "https://www.semanticscholar.org/paper/bc63dc08260bd62369e89e2019b116158d637c9f",
-      "venue": null,
-      "doi": null,
+      "venue": "arXiv.org",
+      "doi": "10.48550/arXiv.2602.19761",
       "matched_keywords": [
         "super learner"
       ],
@@ -484,8 +484,8 @@
       "publication_date": "2026-02-19",
       "paper_id": "bd034fff4ac2db621d3f58ce92b8c66c61145770",
       "url": "https://www.semanticscholar.org/paper/bd034fff4ac2db621d3f58ce92b8c66c61145770",
-      "venue": null,
-      "doi": null,
+      "venue": "arXiv.org",
+      "doi": "10.48550/arXiv.2602.17543",
       "matched_keywords": [
         "tmle"
       ],
@@ -564,15 +564,15 @@
         "Mingxun Wang",
         "Alejandro Schuler",
         "M. V. D. Laan",
-        "Carlos Garc'ia Meixide"
+        "Carlos García-Meixide"
       ],
       "abstract": "The Highly Adaptive Lasso (HAL) is a nonparametric regression method that achieves almost dimension-free convergence rates under minimal smoothness assumptions, but its implementation can be computationally prohibitive in high dimensions due to the large basis matrix it requires. The Highly Adaptive Ridge (HAR) has been proposed as a scalable alternative. Building on both procedures, we introduce the Principal Component based Highly Adaptive Lasso (PCHAL) and Principal Component based Highly Adaptive Ridge (PCHAR). These estimators constitute an outcome-blind dimension reduction which offer substantial gains in computational efficiency and match the empirical performances of HAL and HAR. We also uncover a striking spectral link between the leading principal components of the HAL/HAR Gram operator and a discrete sinusoidal basis, revealing an explicit Fourier-type structure underlying the PC truncation.",
       "year": 2026,
       "publication_date": "2026-02-11",
       "paper_id": "dd7e57a2dfd645e4a11e88d7c6ee884af835df89",
       "url": "https://www.semanticscholar.org/paper/dd7e57a2dfd645e4a11e88d7c6ee884af835df89",
-      "venue": null,
-      "doi": null,
+      "venue": "arXiv.org",
+      "doi": "10.48550/arXiv.2602.10613",
       "matched_keywords": [
         "highly adaptive lasso"
       ],
@@ -583,12 +583,12 @@
     {
       "title": "IL-6 Receptor Antagonists and Severe Post-COVID-19 Outcomes: An Emulated Target Trial",
       "authors": [
-        "Z. Butzin-Dozier",
+        "Zachary Butzin-Dozier",
         "M. Kumar",
         "Yunwen Ji",
         "Lin-Chiun Wang",
         "A. Anzalone",
-        "E. Hurwitz",
+        "Eric Hurwitz",
         "Rena C Patel",
         "R. Wong",
         "Carolyn T. Bramante",
@@ -664,14 +664,36 @@
         "M. V. D. Meent",
         "Gaurav Khanna"
       ],
-      "abstract": "We characterize and phenomenologically model the merger-ringdown of gravitational waves emitted by a small compact object that plunges and merges into a Kerr black hole from equatorial-eccentric inspirals. The waveforms are generated employing a time-domain Teukolsky code sourced with trajectories computed using the effective-one-body framework. We span values of the Kerr spin $a\\in[-0.9, 0.9] $, eccentricity at the last stable orbit (LSO) $ e_{\\rm LSO} \\in [0,0.9] $, and relativistic anomaly $ \\xi_{\\rm LSO} \\in [0 , 2 \\pi]$. We characterize the last peak of the waveform and ringdown features across the parameter space, finding that the eccentricity mainly affects the last peak features, while it has a smaller impact on the ringdown signal. In contrast, the relativistic anomaly measured at the LSO influences the morphology of the last peak in a restricted portion of the parameter space and has no impact on the ringdown part. We perform the analysis for all the spin-weighted spherical harmonic modes normally included in the \\texttt{SEOBNR} family of models, $(\\ell,m)\\in\\{ (2,2), (3,3), (4,4), (5,5), (2,1), (3,2), (4,3)\\}$. Finally, we introduce a merger-ringdown model for \\texttt{SEOB-TMLE}, a forthcoming inspiral-merger-ringdown waveform model for eccentric spin-aligned binary black holes in the test-mass limit, whose features can be extended to comparable-mass regimes. The model also accounts for quasinormal mode mixing during the ringdown. It provides a first step toward incorporating the impact of residual eccentricity close to merger into spin-aligned effective-one-body merger-ringdown models for binary black holes.",
+      "abstract": "We characterize and phenomenologically model the merger-ringdown of gravitational waves emitted by a small compact object that plunges and merges into a Kerr black hole from equatorial-eccentric inspirals. The waveforms are generated employing a time-domain Teukolsky code sourced with trajectories computed using the effective-one-body framework. We span values of the Kerr spin $a\\in[-0.9, 0.9] $, eccentricity at the last stable orbit (LSO) $ e_{\\rm LSO} \\in [0,0.9] $, and relativistic anomaly $ \\xi_{\\rm LSO} \\in [0 , 2 \\pi]$. We characterize the last peak of the waveform and ringdown features across the parameter space, finding that the eccentricity mainly affects the last peak features, while it has a smaller impact on the ringdown signal. In contrast, the relativistic anomaly measured at the LSO influences the morphology of the last peak in a restricted portion of the parameter space and has no impact on the ringdown part. We perform the analysis for all the spin-weighted spherical harmonic modes normally included in the $\\texttt{SEOBNR}$ family of models, $(\\ell,m)\\in\\{ (2,2), (3,3), (4,4), (5,5), (2,1), (3,2), (4,3)\\}$. Finally, we introduce a merger-ringdown model for $\\texttt{SEOB-TMLE}$, a forthcoming inspiral-merger-ringdown waveform model for eccentric spin-aligned binary black holes in the test-mass limit, whose features can be extended to comparable-mass regimes. The model also accounts for quasinormal mode mixing during the ringdown. It provides a first step toward incorporating the impact of residual eccentricity close to merger into spin-aligned effective-one-body merger-ringdown models for binary black holes.",
       "year": 2026,
       "publication_date": "2026-03-20",
-      "paper_id": "61e1d00259cc8ee03c84a9d56421985221bd6959",
-      "url": "https://www.semanticscholar.org/paper/61e1d00259cc8ee03c84a9d56421985221bd6959",
+      "paper_id": "da5e20ebdc575a963553aa036bf510fbf51ce761",
+      "url": "https://www.semanticscholar.org/paper/da5e20ebdc575a963553aa036bf510fbf51ce761",
       "venue": null,
       "doi": null,
       "matched_keywords": [
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
+      ]
+    },
+    {
+      "title": "One-step TMLE for weighted average treatment effects",
+      "authors": [
+        "Yang Liu",
+        "P. Lopatto",
+        "Ivana Malenica"
+      ],
+      "abstract": "We consider Targeted Maximum Likelihood Estimation (TMLE) of weighted average treatment effects (WATEs), a class of causal estimands that reweight the covariate distribution using a specified function of the propensity score. This class includes the average treatment effect and average treatment effect on the treated, as well as various overlap-based targets. We provide a comprehensive analysis of the one-step TMLE along the universal least favorable path for such parameters. Under explicit regularity conditions on the weight function and initialization, we show that the targeting procedure is well-defined, reaches a solution of the estimating equation in finite time, and yields an asymptotically efficient estimator. In particular, convergence of the targeting dynamics and control of the second-order remainder are derived from these conditions rather than imposed as separate assumptions on the output of the algorithm.",
+      "year": 2026,
+      "publication_date": "2026-03-31",
+      "paper_id": "cfe567dd4b02018007d6034dc0926dea65b77e6e",
+      "url": "https://www.semanticscholar.org/paper/cfe567dd4b02018007d6034dc0926dea65b77e6e",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
         "tmle"
       ],
       "source_queries": [
@@ -1404,7 +1426,7 @@
         "Maurine D. Miner",
         "Jenny Hendriks",
         "F. Wegmann",
-        "Katherine Gill",
+        "Katherine M Gill",
         "F. Laher",
         "L. Bekker",
         "Glenda E Gray",
@@ -1578,24 +1600,23 @@
     {
       "title": "Assessing Racial Disparities in Healthcare Expenditures via Mediator Distribution Shifts",
       "authors": [
-        "Xiaxian Ou",
+        "X. Ou",
         "Xinwei He",
         "D. Benkeser",
         "Razieh Nabi"
       ],
-      "abstract": "Racial disparities in healthcare expenditures are well-documented, yet the underlying drivers remain complex and require further investigation. This study develops a framework for decomposing such disparities through shifts in the distributions of mediating variables, rather than treating race itself as a manipulable exposure. We define disparities as differences in covariate-adjusted outcome distributions across racial groups, and decompose the total disparity into two components: one attributable to differences in mediator distributions, and another residual component that would remain even after equalizing these distributions. Using data from the Medical Expenditures Panel Survey, we examine the extent to which expenditure disparities would persist or be reduced if mediators such as socioeconomic status, insurance access, health behaviors, or health status were equalized across racial groups. To ensure valid inference, we derive asymptotically linear estimators based on influence-function techniques and flexible machine learning tools, including super learners and a two-part model designed for the zero-inflated, right-skewed nature of expenditure data.",
+      "abstract": "Racial disparities in healthcare expenditures are well-documented, yet the underlying drivers remain complex. This study develops a framework to decompose such disparities through shifts in the distributions of mediating variables, rather than treating race itself as a manipulable exposure. We define disparities as differences in covariate-adjusted outcome distributions across racial groups, and decompose the total disparity into a component attributable to differences in mediator distributions, and a residual component that remains after equalizing those distributions. Using data from the Medical Expenditures Panel Survey (MEPS), we examine the extent to which expenditure disparities would persist or be reduced if mediators such as socioeconomic status (SES), insurance access, health behaviors, or health status were equalized across racial groups. To ensure valid inference, we derive asymptotically linear estimators based on influence-function techniques and flexible machine learning, including super learners and a two-part model designed for the zero-inflated, right-skewed nature of expenditure data. Applying this framework to MEPS data from 2009 and 2016, substantial disparities were observed across all pairwise racial comparisons, with the largest gaps observed between non-Hispanic Whites and Hispanics in both years. Differences in SES and health status were the largest contributors to these disparities, with insurance access also playing a meaningful role, particularly for Hispanic populations, whereas health behaviors contributed minimally. Residual disparities persisted, especially in comparisons involving non-Hispanic Whites, suggesting the influence of unmeasured or structural factors.",
       "year": 2025,
       "publication_date": "2025-04-30",
-      "paper_id": "996309e556e5adf62600156344004ad1c6371e58",
-      "url": "https://www.semanticscholar.org/paper/996309e556e5adf62600156344004ad1c6371e58",
+      "paper_id": "b7ef7ea9a15ee129bc90427c82077058d295ec77",
+      "url": "https://www.semanticscholar.org/paper/b7ef7ea9a15ee129bc90427c82077058d295ec77",
       "venue": null,
       "doi": null,
       "matched_keywords": [
         "super learner"
       ],
       "source_queries": [
-        "super learner",
-        "super learning"
+        "super learner"
       ]
     },
     {
@@ -2137,7 +2158,7 @@
         "Chen Jiang",
         "J. Krivinko",
         "Zeshui Yu",
-        "Robert A Sweet",
+        "Robert A. Sweet",
         "Lang Zeng",
         "Hui Wang",
         "Ying Ding",
@@ -4328,7 +4349,7 @@
     {
       "title": "Racial and ethnic differences in the relationship of SARS-CoV-2 infection and the COVID-19 pandemic period with perinatal health in California.",
       "authors": [
-        "Emily F Liu",
+        "Emily F. Liu",
         "Shelley Jung",
         "Kara E Rudolph",
         "M. Mujahid",
@@ -5771,7 +5792,7 @@
     {
       "title": "Adaptive-TMLE for the average treatment effect based on randomized controlled trial augmented with real-world data",
       "authors": [
-        "Mark van der Laan",
+        "Mark J. van der Laan",
         "Sky Qiu",
         "J. Tarp",
         "Lars van der Laan"
@@ -6837,7 +6858,7 @@
         "Laura C Myers",
         "Brian L. Lawson",
         "Gabriel J. Escobar",
-        "Kathleen A Daly",
+        "Kathleen A. Daly",
         "Yi-fen Irene Chen",
         "Richard Dlott",
         "Catherine Lee",
@@ -9856,7 +9877,7 @@
         "Sophia Giebultowicz",
         "Jorge Kaufmann",
         "Jun-Shik Hwang",
-        "S. Bailey",
+        "Steffani R. Bailey",
         "Danielle M. Crookes",
         "A. Bazemore",
         "S. Suglia",
@@ -11363,7 +11384,7 @@
       "authors": [
         "David McCoy",
         "A. Hubbard",
-        "Mark van der Laan",
+        "Mark J. van der Laan",
         "Alejandro Schuler"
       ],
       "abstract": "Abstract Understanding the complex interactions among multiple environmental exposures is critical for assessing their combined impact on health outcomes. This study introduces InterXshift, a novel semiparametric method that provides a nonparametric definition of interaction and facilitates both the discovery and efficient estimation of interaction effects in mixed exposures. Leveraging stochastic shift interventions and ensemble machine learning, InterXshift identifies and quantifies interactions through a model-independent target parameter, estimated using targeted maximum likelihood estimation (TMLE) and cross-validation. The approach contrasts expected outcomes from joint interventions against those from individual exposures, enabling the detection of synergistic and antagonistic interactions. Validation through simulations and application to the National Institute of Environmental Health Sciences (NIEHS) Mixtures Workshop data demonstrate InterXshift’s efficacy in accurately identifying true interaction directions and consistently highlighting significant impacts. We apply our methodology to National Health and Nutrition Examination Survey (NHANES) data to understand the interaction effect (if any) of furan exposure on leukocyte telomere length. This method enhances the analysis of multi-exposure interactions within high-dimensional datasets, offering robust methodological improvements for elucidating complex exposure dynamics in environmental health research. Additionally, we provide an open-source implementation of InterXshift in the InterXshift R package, facilitating its adoption and application by the research community.",
@@ -11553,7 +11574,7 @@
       "authors": [
         "Nerissa Nance",
         "Maya L. Petersen",
-        "Mark van der Laan",
+        "Mark J. van der Laan",
         "Laura B. Balzer"
       ],
       "abstract": "The Causal Roadmap outlines a systematic approach to asking and answering questions of cause and effect: define the quantity of interest, evaluate needed assumptions, conduct statistical estimation, and carefully interpret results. To protect research integrity, it is essential that the algorithm for statistical estimation and inference be prespecified prior to conducting any effectiveness analyses. However, it is often unclear which algorithm will perform optimally for the real-data application. Instead, there is a temptation to simply implement one’s favorite algorithm, recycling prior code or relying on the default settings of a computing package. Here, we call for the use of simulations that realistically reflect the application, including key characteristics such as strong confounding and dependent or missing outcomes, to objectively compare candidate estimators and facilitate full specification of the statistical analysis plan. Such simulations are informed by the Causal Roadmap and conducted after data collection but prior to effect estimation. We illustrate with two worked examples. First, in an observational longitudinal study, we use outcome-blind simulations to inform nuisance parameter estimation and variance estimation for longitudinal targeted minimum loss-based estimation. Second, in a cluster randomized trial with missing outcomes, we use treatment-blind simulations to examine type-I error control in two-stage targeted minimum loss-based estimation. In both examples, realistic simulations empower us to prespecify an estimation approach with strong expected finite sample performance, and also produce quality-controlled computing code for the actual analysis. Together, this process helps to improve the rigor and reproducibility of our research.",
@@ -24174,6 +24195,21 @@
         "super learner",
         "super learning"
       ]
+    }
+  ],
+  "updated_existing_count": 15,
+  "newly_added_papers": [
+    {
+      "title": "One-step TMLE for weighted average treatment effects",
+      "year": 2026,
+      "authors": [
+        "Yang Liu",
+        "P. Lopatto",
+        "Ivana Malenica"
+      ],
+      "publication_date": "2026-03-31",
+      "doi": null,
+      "paper_id": "cfe567dd4b02018007d6034dc0926dea65b77e6e"
     }
   ]
 }

@@ -7,17 +7,17 @@ Auto-updated list of TMLE-related papers tracked from Semantic Scholar queries.
 
 *Note: this list is not complete and may include irrelevant articles; it will be refined over time.*
 
-Last refreshed: 2026-03-27T15:17:33Z
+Last refreshed: 2026-04-03T15:23:33Z
 
 Keywords queried: tmle, targeted maximum likelihood estimation, targeted minimum loss based estimation, super learner, super learning, highly adaptive lasso
 
-Total tracked papers: **977**
+Total tracked papers: **978**
 
 <!-- monthly-chart:start -->
 
 ## Yearly Papers Trend
 
-Number of papers per year from **2006** to **2025** (coverage: **928/977** papers with year metadata in range).
+Number of papers per year from **2006** to **2025** (coverage: **928/978** papers with year metadata in range).
 
 ```{=html}
 <style>
@@ -154,11 +154,11 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Helene Charlotte Wiese Rytgaard: 12 papers"><div class="contrib-count"><span>12</span></div><div class="contrib-bar" style="height:17.73px"></div><div class="contrib-label"><span>Helene Charlotte Wiese Rytgaard</span></div></div>
     <div class="contrib-item" title="N. Hejazi: 12 papers"><div class="contrib-count"><span>12</span></div><div class="contrib-bar" style="height:17.73px"></div><div class="contrib-label"><span>N. Hejazi</span></div></div>
     <div class="contrib-item" title="Thomas Gerds: 12 papers"><div class="contrib-count"><span>12</span></div><div class="contrib-bar" style="height:17.73px"></div><div class="contrib-label"><span>Thomas Gerds</span></div></div>
+    <div class="contrib-item" title="Ivana Malenica: 11 papers"><div class="contrib-count"><span>11</span></div><div class="contrib-bar" style="height:16.25px"></div><div class="contrib-label"><span>Ivana Malenica</span></div></div>
     <div class="contrib-item" title="Jeremy R Coyle: 11 papers"><div class="contrib-count"><span>11</span></div><div class="contrib-bar" style="height:16.25px"></div><div class="contrib-label"><span>Jeremy R Coyle</span></div></div>
     <div class="contrib-item" title="Oleg Sofrygin: 11 papers"><div class="contrib-count"><span>11</span></div><div class="contrib-bar" style="height:16.25px"></div><div class="contrib-label"><span>Oleg Sofrygin</span></div></div>
     <div class="contrib-item" title="Robert W Platt: 11 papers"><div class="contrib-count"><span>11</span></div><div class="contrib-bar" style="height:16.25px"></div><div class="contrib-label"><span>Robert W Platt</span></div></div>
     <div class="contrib-item" title="Christian Torp-Pedersen: 10 papers"><div class="contrib-count"><span>10</span></div><div class="contrib-bar" style="height:14.77px"></div><div class="contrib-label"><span>Christian Torp-Pedersen</span></div></div>
-    <div class="contrib-item" title="Ivana Malenica: 10 papers"><div class="contrib-count"><span>10</span></div><div class="contrib-bar" style="height:14.77px"></div><div class="contrib-label"><span>Ivana Malenica</span></div></div>
     <div class="contrib-item" title="Sherri Rose: 10 papers"><div class="contrib-count"><span>10</span></div><div class="contrib-bar" style="height:14.77px"></div><div class="contrib-label"><span>Sherri Rose</span></div></div>
     <div class="contrib-item" title="Alejandro Schuler: 9 papers"><div class="contrib-count"><span>9</span></div><div class="contrib-bar" style="height:13.30px"></div><div class="contrib-label"><span>Alejandro Schuler</span></div></div>
     <div class="contrib-item" title="Andrew N. Mertens: 9 papers"><div class="contrib-count"><span>9</span></div><div class="contrib-bar" style="height:13.30px"></div><div class="contrib-label"><span>Andrew N. Mertens</span></div></div>
@@ -371,6 +371,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Y. Mehrabi: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.43px"></div><div class="contrib-label"><span>Y. Mehrabi</span></div></div>
     <div class="contrib-item" title="Ya-Hui Yu: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.43px"></div><div class="contrib-label"><span>Ya-Hui Yu</span></div></div>
     <div class="contrib-item" title="Yan Liu: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.43px"></div><div class="contrib-label"><span>Yan Liu</span></div></div>
+    <div class="contrib-item" title="Yang Liu: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.43px"></div><div class="contrib-label"><span>Yang Liu</span></div></div>
     <div class="contrib-item" title="Yaning Feng: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.43px"></div><div class="contrib-label"><span>Yaning Feng</span></div></div>
     <div class="contrib-item" title="Yining Lu: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.43px"></div><div class="contrib-label"><span>Yining Lu</span></div></div>
     <div class="contrib-item" title="Yunda Huang: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.43px"></div><div class="contrib-label"><span>Yunda Huang</span></div></div>
@@ -881,7 +882,6 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Y. Zhang: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Y. Zhang</span></div></div>
     <div class="contrib-item" title="Y. Zhao: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Y. Zhao</span></div></div>
     <div class="contrib-item" title="Yafei Hu: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yafei Hu</span></div></div>
-    <div class="contrib-item" title="Yang Liu: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yang Liu</span></div></div>
     <div class="contrib-item" title="Yeji Kim: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yeji Kim</span></div></div>
     <div class="contrib-item" title="Yihao Liu: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yihao Liu</span></div></div>
     <div class="contrib-item" title="Ying Huang: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Ying Huang</span></div></div>
@@ -922,7 +922,22 @@ Papers are grouped by publication year. Expand a year to browse papers. Only pap
 .paper-year > .paper-item > summary { cursor: pointer; }
 </style>
 <details class="paper-year">
-  <summary><strong>2026 (38 papers)</strong></summary>
+  <summary><strong>2026 (39 papers)</strong></summary>
+
+<details class="paper-item">
+  <summary><strong>2026-03-31 — One-step TMLE for weighted average treatment effects</strong></summary>
+
+<p>
+<strong>Authors</strong>: Yang Liu, P. Lopatto, Ivana Malenica<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-03-31<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/cfe567dd4b02018007d6034dc0926dea65b77e6e">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: targeted maximum likelihood estimation, tmle
+</p>
+<p><strong>Abstract</strong>:<br>
+We consider Targeted Maximum Likelihood Estimation (TMLE) of weighted average treatment effects (WATEs), a class of causal estimands that reweight the covariate distribution using a specified function of the propensity score. This class includes the average treatment effect and average treatment effect on the treated, as well as various overlap-based targets. We provide a comprehensive analysis of the one-step TMLE along the universal least favorable path for such parameters. Under explicit regularity conditions on the weight function and initialization, we show that the targeting procedure is well-defined, reaches a solution of the estimating equation in finite time, and yields an asymptotically efficient estimator. In particular, convergence of the targeting dynamics and control of the second-order remainder are derived from these conditions rather than imposed as separate assumptions on the output of the algorithm.
+</p>
+</details>
 
 <details class="paper-item">
   <summary><strong>2026-03-20 — Modeling the merger-ringdown of an eccentric test-mass inspiral into a Kerr black hole using the effective-one-body framework</strong></summary>
@@ -931,11 +946,11 @@ Papers are grouped by publication year. Expand a year to browse papers. Only pap
 <strong>Authors</strong>: G. Faggioli, A. Buonanno, M. V. D. Meent, Gaurav Khanna<br>
 <strong>Year</strong>: 2026<br>
 <strong>Publication Date</strong>: 2026-03-20<br>
-<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/61e1d00259cc8ee03c84a9d56421985221bd6959">Semantic Scholar</a><br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/da5e20ebdc575a963553aa036bf510fbf51ce761">Semantic Scholar</a><br>
 <strong>Matched Keywords</strong>: tmle
 </p>
 <p><strong>Abstract</strong>:<br>
-We characterize and phenomenologically model the merger-ringdown of gravitational waves emitted by a small compact object that plunges and merges into a Kerr black hole from equatorial-eccentric inspirals. The waveforms are generated employing a time-domain Teukolsky code sourced with trajectories computed using the effective-one-body framework. We span values of the Kerr spin $a\in[-0.9, 0.9] $, eccentricity at the last stable orbit (LSO) $ e_{\rm LSO} \in [0,0.9] $, and relativistic anomaly $ \xi_{\rm LSO} \in [0 , 2 \pi]$. We characterize the last peak of the waveform and ringdown features across the parameter space, finding that the eccentricity mainly affects the last peak features, while it has a smaller impact on the ringdown signal. In contrast, the relativistic anomaly measured at the LSO influences the morphology of the last peak in a restricted portion of the parameter space and has no impact on the ringdown part. We perform the analysis for all the spin-weighted spherical harmonic modes normally included in the \texttt{SEOBNR} family of models, $(\ell,m)\in\{ (2,2), (3,3), (4,4), (5,5), (2,1), (3,2), (4,3)\}$. Finally, we introduce a merger-ringdown model for \texttt{SEOB-TMLE}, a forthcoming inspiral-merger-ringdown waveform model for eccentric spin-aligned binary black holes in the test-mass limit, whose features can be extended to comparable-mass regimes. The model also accounts for quasinormal mode mixing during the ringdown. It provides a first step toward incorporating the impact of residual eccentricity close to merger into spin-aligned effective-one-body merger-ringdown models for binary black holes.
+We characterize and phenomenologically model the merger-ringdown of gravitational waves emitted by a small compact object that plunges and merges into a Kerr black hole from equatorial-eccentric inspirals. The waveforms are generated employing a time-domain Teukolsky code sourced with trajectories computed using the effective-one-body framework. We span values of the Kerr spin $a\in[-0.9, 0.9] $, eccentricity at the last stable orbit (LSO) $ e_{\rm LSO} \in [0,0.9] $, and relativistic anomaly $ \xi_{\rm LSO} \in [0 , 2 \pi]$. We characterize the last peak of the waveform and ringdown features across the parameter space, finding that the eccentricity mainly affects the last peak features, while it has a smaller impact on the ringdown signal. In contrast, the relativistic anomaly measured at the LSO influences the morphology of the last peak in a restricted portion of the parameter space and has no impact on the ringdown part. We perform the analysis for all the spin-weighted spherical harmonic modes normally included in the $\texttt{SEOBNR}$ family of models, $(\ell,m)\in\{ (2,2), (3,3), (4,4), (5,5), (2,1), (3,2), (4,3)\}$. Finally, we introduce a merger-ringdown model for $\texttt{SEOB-TMLE}$, a forthcoming inspiral-merger-ringdown waveform model for eccentric spin-aligned binary black holes in the test-mass limit, whose features can be extended to comparable-mass regimes. The model also accounts for quasinormal mode mixing during the ringdown. It provides a first step toward incorporating the impact of residual eccentricity close to merger into spin-aligned effective-one-body merger-ringdown models for binary black holes.
 </p>
 </details>
 
@@ -1026,7 +1041,7 @@ The diagnostic landscape for idiopathic normal-pressure hydrocephalus is intrica
   <summary><strong>2026-03-02 — IL-6 Receptor Antagonists and Severe Post-COVID-19 Outcomes: An Emulated Target Trial</strong></summary>
 
 <p>
-<strong>Authors</strong>: Z. Butzin-Dozier, M. Kumar, Yunwen Ji, Lin-Chiun Wang, A. Anzalone, E. Hurwitz, Rena C Patel, R. Wong, Carolyn T. Bramante, B. Sines<br>
+<strong>Authors</strong>: Zachary Butzin-Dozier, M. Kumar, Yunwen Ji, Lin-Chiun Wang, A. Anzalone, Eric Hurwitz, Rena C Patel, R. Wong, Carolyn T. Bramante, B. Sines<br>
 <strong>Year</strong>: 2026<br>
 <strong>Publication Date</strong>: 2026-03-02<br>
 <strong>Venue</strong>: medRxiv<br>
@@ -1110,6 +1125,8 @@ BACKGROUND Glucagon-like peptide 1 receptor agonists (GLP-1 RAs) improve glycemi
 <strong>Authors</strong>: Nina van Gerwen, Sten Willemsen, Bettina Hansen, C. Corpechot, Marco Carbone, Cynthia Levy, María-Carlota Londoño, Atsushi Tanaka, P. Trivedi, A. Villamil, G. Hirschfield, Dimitris Rizopoulos<br>
 <strong>Year</strong>: 2026<br>
 <strong>Publication Date</strong>: 2026-02-23<br>
+<strong>Venue</strong>: arXiv.org<br>
+<strong>DOI</strong>: 10.48550/arXiv.2602.19761<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/bc63dc08260bd62369e89e2019b116158d637c9f">Semantic Scholar</a><br>
 <strong>Matched Keywords</strong>: super learner
 </p>
@@ -1125,6 +1142,8 @@ Dynamic predictions for longitudinal and time-to-event outcomes have become a ve
 <strong>Authors</strong>: Masahiro Kato<br>
 <strong>Year</strong>: 2026<br>
 <strong>Publication Date</strong>: 2026-02-19<br>
+<strong>Venue</strong>: arXiv.org<br>
+<strong>DOI</strong>: 10.48550/arXiv.2602.17543<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/bd034fff4ac2db621d3f58ce92b8c66c61145770">Semantic Scholar</a><br>
 <strong>Matched Keywords</strong>: tmle
 </p>
@@ -1169,9 +1188,11 @@ Invasive ductal carcinoma is the most common subtype of breast cancer, with endo
   <summary><strong>2026-02-12 — Deep Doubly Debiased Longitudinal Effect Estimation with ICE G-Computation</strong></summary>
 
 <p>
-<strong>Authors</strong>: Wenxin Chen, Weishen Pan, Kyra Gan, Fei Wang<br>
+<strong>Authors</strong>: Wenxin Chen, W. Pan, Kyra Gan, Fei Wang<br>
 <strong>Year</strong>: 2026<br>
 <strong>Publication Date</strong>: 2026-02-12<br>
+<strong>Venue</strong>: arXiv.org<br>
+<strong>DOI</strong>: 10.48550/arXiv.2602.12379<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/edc9916e78a297092b0d90edb26995312209fe30">Semantic Scholar</a><br>
 <strong>Matched Keywords</strong>: targeted minimum loss based estimation
 </p>
@@ -1184,9 +1205,11 @@ Estimating longitudinal treatment effects is essential for sequential decision-m
   <summary><strong>2026-02-11 — Highly Adaptive Principal Component Regression</strong></summary>
 
 <p>
-<strong>Authors</strong>: Mingxun Wang, Alejandro Schuler, M. V. D. Laan, Carlos Garc&#x27;ia Meixide<br>
+<strong>Authors</strong>: Mingxun Wang, Alejandro Schuler, M. V. D. Laan, Carlos García-Meixide<br>
 <strong>Year</strong>: 2026<br>
 <strong>Publication Date</strong>: 2026-02-11<br>
+<strong>Venue</strong>: arXiv.org<br>
+<strong>DOI</strong>: 10.48550/arXiv.2602.10613<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/dd7e57a2dfd645e4a11e88d7c6ee884af835df89">Semantic Scholar</a><br>
 <strong>Matched Keywords</strong>: highly adaptive lasso
 </p>
@@ -1891,7 +1914,7 @@ General Background: History education is increasingly expected to move beyond me
   <summary><strong>2025-11-15 — Comparative Mortality Risk of Aripiprazole, Olanzapine, Quetiapine and Risperidone in Alzheimer’s Disease: A Real World Cohort Study with Treatment Effect Heterogeneity Analysis</strong></summary>
 
 <p>
-<strong>Authors</strong>: Chen Jiang, J. Krivinko, Zeshui Yu, Robert A Sweet, Lang Zeng, Hui Wang, Ying Ding, Zheng Zeng, Julia Kofler, Lirong Wang<br>
+<strong>Authors</strong>: Chen Jiang, J. Krivinko, Zeshui Yu, Robert A. Sweet, Lang Zeng, Hui Wang, Ying Ding, Zheng Zeng, Julia Kofler, Lirong Wang<br>
 <strong>Year</strong>: 2025<br>
 <strong>Publication Date</strong>: 2025-11-15<br>
 <strong>Venue</strong>: medRxiv<br>
@@ -3389,7 +3412,7 @@ Abstract Background Diabetes-related lower extremity complications, such as foot
   <summary><strong>2025-05-28 — Racial and ethnic differences in the relationship of SARS-CoV-2 infection and the COVID-19 pandemic period with perinatal health in California.</strong></summary>
 
 <p>
-<strong>Authors</strong>: Emily F Liu, Shelley Jung, Kara E Rudolph, M. Mujahid, William H Dow, Dana E. Goin, R. Morello-Frosch, Jennifer Ahern<br>
+<strong>Authors</strong>: Emily F. Liu, Shelley Jung, Kara E Rudolph, M. Mujahid, William H Dow, Dana E. Goin, R. Morello-Frosch, Jennifer Ahern<br>
 <strong>Year</strong>: 2025<br>
 <strong>Publication Date</strong>: 2025-05-28<br>
 <strong>Venue</strong>: Epidemiology<br>
@@ -3559,14 +3582,14 @@ Abstract unavailable from Semantic Scholar.
   <summary><strong>2025-04-30 — Assessing Racial Disparities in Healthcare Expenditures via Mediator Distribution Shifts</strong></summary>
 
 <p>
-<strong>Authors</strong>: Xiaxian Ou, Xinwei He, D. Benkeser, Razieh Nabi<br>
+<strong>Authors</strong>: X. Ou, Xinwei He, D. Benkeser, Razieh Nabi<br>
 <strong>Year</strong>: 2025<br>
 <strong>Publication Date</strong>: 2025-04-30<br>
-<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/996309e556e5adf62600156344004ad1c6371e58">Semantic Scholar</a><br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/b7ef7ea9a15ee129bc90427c82077058d295ec77">Semantic Scholar</a><br>
 <strong>Matched Keywords</strong>: super learner
 </p>
 <p><strong>Abstract</strong>:<br>
-Racial disparities in healthcare expenditures are well-documented, yet the underlying drivers remain complex and require further investigation. This study develops a framework for decomposing such disparities through shifts in the distributions of mediating variables, rather than treating race itself as a manipulable exposure. We define disparities as differences in covariate-adjusted outcome distributions across racial groups, and decompose the total disparity into two components: one attributable to differences in mediator distributions, and another residual component that would remain even after equalizing these distributions. Using data from the Medical Expenditures Panel Survey, we examine the extent to which expenditure disparities would persist or be reduced if mediators such as socioeconomic status, insurance access, health behaviors, or health status were equalized across racial groups. To ensure valid inference, we derive asymptotically linear estimators based on influence-function techniques and flexible machine learning tools, including super learners and a two-part model designed for the zero-inflated, right-skewed nature of expenditure data.
+Racial disparities in healthcare expenditures are well-documented, yet the underlying drivers remain complex. This study develops a framework to decompose such disparities through shifts in the distributions of mediating variables, rather than treating race itself as a manipulable exposure. We define disparities as differences in covariate-adjusted outcome distributions across racial groups, and decompose the total disparity into a component attributable to differences in mediator distributions, and a residual component that remains after equalizing those distributions. Using data from the Medical Expenditures Panel Survey (MEPS), we examine the extent to which expenditure disparities would persist or be reduced if mediators such as socioeconomic status (SES), insurance access, health behaviors, or health status were equalized across racial groups. To ensure valid inference, we derive asymptotically linear estimators based on influence-function techniques and flexible machine learning, including super learners and a two-part model designed for the zero-inflated, right-skewed nature of expenditure data. Applying this framework to MEPS data from 2009 and 2016, substantial disparities were observed across all pairwise racial comparisons, with the largest gaps observed between non-Hispanic Whites and Hispanics in both years. Differences in SES and health status were the largest contributors to these disparities, with insurance access also playing a meaningful role, particularly for Hispanic populations, whereas health behaviors contributed minimally. Residual disparities persisted, especially in comparisons involving non-Hispanic Whites, suggesting the influence of unmeasured or structural factors.
 </p>
 </details>
 
@@ -3659,7 +3682,7 @@ Propensity score (PS) methods, including inverse probability of treatment weight
   <summary><strong>2025-04-11 — ALVAC-prime and monomeric gp120 protein boost induces distinct HIV-1 specific humoral and cellular responses compared with adenovirus-prime and trimeric gp140 protein boost</strong></summary>
 
 <p>
-<strong>Authors</strong>: Leigh H Fisher, E. Lazarus, Chenchen Yu, Z. Moodie, D. Stieh, N. Yates, Lu Zhang, Sheetal S Sawant, Stephen C. De Rosa, Kristen W. Cohen, D. Morris, S. Grant, A. Randhawa, Maurine D. Miner, Jenny Hendriks, F. Wegmann, Katherine Gill, F. Laher, L. Bekker, Glenda E Gray, L. Corey, M. McElrath, Troy Martin, P. Gilbert, G. Tomaras, Stephen R. Walsh, Lindsey R Baden<br>
+<strong>Authors</strong>: Leigh H Fisher, E. Lazarus, Chenchen Yu, Z. Moodie, D. Stieh, N. Yates, Lu Zhang, Sheetal S Sawant, Stephen C. De Rosa, Kristen W. Cohen, D. Morris, S. Grant, A. Randhawa, Maurine D. Miner, Jenny Hendriks, F. Wegmann, Katherine M Gill, F. Laher, L. Bekker, Glenda E Gray, L. Corey, M. McElrath, Troy Martin, P. Gilbert, G. Tomaras, Stephen R. Walsh, Lindsey R Baden<br>
 <strong>Year</strong>: 2025<br>
 <strong>Publication Date</strong>: 2025-04-11<br>
 <strong>Venue</strong>: PLOS Global Public Health<br>
@@ -5808,7 +5831,7 @@ Popular debiased estimation methods for causal inference -- such as augmented in
   <summary><strong>2024-05-12 — Adaptive-TMLE for the average treatment effect based on randomized controlled trial augmented with real-world data</strong></summary>
 
 <p>
-<strong>Authors</strong>: Mark van der Laan, Sky Qiu, J. Tarp, Lars van der Laan<br>
+<strong>Authors</strong>: Mark J. van der Laan, Sky Qiu, J. Tarp, Lars van der Laan<br>
 <strong>Year</strong>: 2024<br>
 <strong>Publication Date</strong>: 2024-05-12<br>
 <strong>Venue</strong>: Journal of Causal Inference<br>
@@ -6668,7 +6691,7 @@ Background and Objectives: The diagnosis and pathology of myalgic encephalomyeli
   <summary><strong>2024-01-01 — Evaluation of an outreach programme for patients with COVID-19 in an integrated healthcare delivery system: a retrospective cohort study</strong></summary>
 
 <p>
-<strong>Authors</strong>: Laura C Myers, Brian L. Lawson, Gabriel J. Escobar, Kathleen A Daly, Yi-fen Irene Chen, Richard Dlott, Catherine Lee, Vincent X. Liu<br>
+<strong>Authors</strong>: Laura C Myers, Brian L. Lawson, Gabriel J. Escobar, Kathleen A. Daly, Yi-fen Irene Chen, Richard Dlott, Catherine Lee, Vincent X. Liu<br>
 <strong>Year</strong>: 2024<br>
 <strong>Publication Date</strong>: 2024-01-01<br>
 <strong>Venue</strong>: BMJ Open<br>
@@ -7280,7 +7303,7 @@ Joint models for longitudinal and time‐to‐event data are often employed to c
   <summary><strong>2023-09-07 — The Causal Roadmap and Simulations to Improve the Rigor and Reproducibility of Real-data Applications</strong></summary>
 
 <p>
-<strong>Authors</strong>: Nerissa Nance, Maya L. Petersen, Mark van der Laan, Laura B. Balzer<br>
+<strong>Authors</strong>: Nerissa Nance, Maya L. Petersen, Mark J. van der Laan, Laura B. Balzer<br>
 <strong>Year</strong>: 2023<br>
 <strong>Publication Date</strong>: 2023-09-07<br>
 <strong>Venue</strong>: Epidemiology<br>
@@ -7838,7 +7861,7 @@ Abstract Accurate forecasts can inform response to outbreaks. Most efforts in in
   <summary><strong>2023-05-03 — Semiparametric discovery and estimation of interaction in mixed exposures using stochastic interventions</strong></summary>
 
 <p>
-<strong>Authors</strong>: David McCoy, A. Hubbard, Mark van der Laan, Alejandro Schuler<br>
+<strong>Authors</strong>: David McCoy, A. Hubbard, Mark J. van der Laan, Alejandro Schuler<br>
 <strong>Year</strong>: 2023<br>
 <strong>Publication Date</strong>: 2023-05-03<br>
 <strong>Venue</strong>: Journal of Causal Inference<br>
@@ -8025,7 +8048,7 @@ Abstract: We design a real-time causal inference stack on Spark Structured Strea
   <summary><strong>2023-03-28 — Disaggregating Latino nativity in equity research using electronic health records.</strong></summary>
 
 <p>
-<strong>Authors</strong>: M. Marino, Katie Fankhauser, J. Minnier, J. Lucas, Sophia Giebultowicz, Jorge Kaufmann, Jun-Shik Hwang, S. Bailey, Danielle M. Crookes, A. Bazemore, S. Suglia, J. Heintzman<br>
+<strong>Authors</strong>: M. Marino, Katie Fankhauser, J. Minnier, J. Lucas, Sophia Giebultowicz, Jorge Kaufmann, Jun-Shik Hwang, Steffani R. Bailey, Danielle M. Crookes, A. Bazemore, S. Suglia, J. Heintzman<br>
 <strong>Year</strong>: 2023<br>
 <strong>Publication Date</strong>: 2023-03-28<br>
 <strong>Venue</strong>: Health Services Research<br>
