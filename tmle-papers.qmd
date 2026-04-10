@@ -7,17 +7,17 @@ Auto-updated list of TMLE-related papers tracked from Semantic Scholar queries.
 
 *Note: this list is not complete and may include irrelevant articles; it will be refined over time.*
 
-Last refreshed: 2026-04-03T15:23:33Z
+Last refreshed: 2026-04-10T16:33:11Z
 
 Keywords queried: tmle, targeted maximum likelihood estimation, targeted minimum loss based estimation, super learner, super learning, highly adaptive lasso
 
-Total tracked papers: **978**
+Total tracked papers: **980**
 
 <!-- monthly-chart:start -->
 
 ## Yearly Papers Trend
 
-Number of papers per year from **2006** to **2025** (coverage: **928/978** papers with year metadata in range).
+Number of papers per year from **2006** to **2025** (coverage: **929/980** papers with year metadata in range).
 
 ```{=html}
 <style>
@@ -42,8 +42,8 @@ Number of papers per year from **2006** to **2025** (coverage: **928/978** paper
 <text x="48" y="19.00" text-anchor="end">168</text>
 <line x1="56" y1="16" x2="56" y2="236" stroke="#374151" stroke-width="1.2"/>
 <line x1="56" y1="236" x2="702" y2="236" stroke="#374151" stroke-width="1.2"/>
-<polygon points="56.00,236.00 56.00,234.69 90.00,236.00 124.00,234.69 158.00,224.21 192.00,226.83 226.00,213.74 260.00,217.67 294.00,222.90 328.00,222.90 362.00,220.29 396.00,212.43 430.00,194.10 464.00,161.36 498.00,167.90 532.00,152.19 566.00,105.05 600.00,99.81 634.00,90.64 668.00,51.36 702.00,16.00 702.00,236.00" fill="#93c5fd" opacity="0.26"/>
-<polyline points="56.00,234.69 90.00,236.00 124.00,234.69 158.00,224.21 192.00,226.83 226.00,213.74 260.00,217.67 294.00,222.90 328.00,222.90 362.00,220.29 396.00,212.43 430.00,194.10 464.00,161.36 498.00,167.90 532.00,152.19 566.00,105.05 600.00,99.81 634.00,90.64 668.00,51.36 702.00,16.00" fill="none" stroke="#1d4ed8" stroke-width="2"/>
+<polygon points="56.00,236.00 56.00,234.69 90.00,236.00 124.00,234.69 158.00,224.21 192.00,226.83 226.00,213.74 260.00,217.67 294.00,222.90 328.00,222.90 362.00,220.29 396.00,211.12 430.00,194.10 464.00,161.36 498.00,167.90 532.00,152.19 566.00,105.05 600.00,99.81 634.00,90.64 668.00,51.36 702.00,16.00 702.00,236.00" fill="#93c5fd" opacity="0.26"/>
+<polyline points="56.00,234.69 90.00,236.00 124.00,234.69 158.00,224.21 192.00,226.83 226.00,213.74 260.00,217.67 294.00,222.90 328.00,222.90 362.00,220.29 396.00,211.12 430.00,194.10 464.00,161.36 498.00,167.90 532.00,152.19 566.00,105.05 600.00,99.81 634.00,90.64 668.00,51.36 702.00,16.00" fill="none" stroke="#1d4ed8" stroke-width="2"/>
 <circle cx="56.00" cy="234.69" r="2.2" fill="#1d4ed8"><title>2006: 1 papers</title></circle>
 <circle cx="90.00" cy="236.00" r="2.2" fill="#1d4ed8"><title>2007: 0 papers</title></circle>
 <circle cx="124.00" cy="234.69" r="2.2" fill="#1d4ed8"><title>2008: 1 papers</title></circle>
@@ -54,7 +54,7 @@ Number of papers per year from **2006** to **2025** (coverage: **928/978** paper
 <circle cx="294.00" cy="222.90" r="2.2" fill="#1d4ed8"><title>2013: 10 papers</title></circle>
 <circle cx="328.00" cy="222.90" r="2.2" fill="#1d4ed8"><title>2014: 10 papers</title></circle>
 <circle cx="362.00" cy="220.29" r="2.2" fill="#1d4ed8"><title>2015: 12 papers</title></circle>
-<circle cx="396.00" cy="212.43" r="2.2" fill="#1d4ed8"><title>2016: 18 papers</title></circle>
+<circle cx="396.00" cy="211.12" r="2.2" fill="#1d4ed8"><title>2016: 19 papers</title></circle>
 <circle cx="430.00" cy="194.10" r="2.2" fill="#1d4ed8"><title>2017: 32 papers</title></circle>
 <circle cx="464.00" cy="161.36" r="2.2" fill="#1d4ed8"><title>2018: 57 papers</title></circle>
 <circle cx="498.00" cy="167.90" r="2.2" fill="#1d4ed8"><title>2019: 52 papers</title></circle>
@@ -171,14 +171,15 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Cheng Ju: 8 papers"><div class="contrib-count"><span>8</span></div><div class="contrib-bar" style="height:11.82px"></div><div class="contrib-label"><span>Cheng Ju</span></div></div>
     <div class="contrib-item" title="Eric C. Polley: 8 papers"><div class="contrib-count"><span>8</span></div><div class="contrib-bar" style="height:11.82px"></div><div class="contrib-label"><span>Eric C. Polley</span></div></div>
     <div class="contrib-item" title="J. Colford: 8 papers"><div class="contrib-count"><span>8</span></div><div class="contrib-bar" style="height:11.82px"></div><div class="contrib-label"><span>J. Colford</span></div></div>
+    <div class="contrib-item" title="Joshua R Nugent: 8 papers"><div class="contrib-count"><span>8</span></div><div class="contrib-bar" style="height:11.82px"></div><div class="contrib-label"><span>Joshua R Nugent</span></div></div>
     <div class="contrib-item" title="Junming Shi: 8 papers"><div class="contrib-count"><span>8</span></div><div class="contrib-bar" style="height:11.82px"></div><div class="contrib-label"><span>Junming Shi</span></div></div>
     <div class="contrib-item" title="Miguel Angel Luque Fernandez: 8 papers"><div class="contrib-count"><span>8</span></div><div class="contrib-bar" style="height:11.82px"></div><div class="contrib-label"><span>Miguel Angel Luque Fernandez</span></div></div>
     <div class="contrib-item" title="Peter B. Gilbert: 8 papers"><div class="contrib-count"><span>8</span></div><div class="contrib-bar" style="height:11.82px"></div><div class="contrib-label"><span>Peter B. Gilbert</span></div></div>
     <div class="contrib-item" title="Romain S. Neugebauer: 8 papers"><div class="contrib-count"><span>8</span></div><div class="contrib-bar" style="height:11.82px"></div><div class="contrib-label"><span>Romain S. Neugebauer</span></div></div>
+    <div class="contrib-item" title="Wenjing Zheng: 8 papers"><div class="contrib-count"><span>8</span></div><div class="contrib-bar" style="height:11.82px"></div><div class="contrib-label"><span>Wenjing Zheng</span></div></div>
     <div class="contrib-item" title="Zachary Butzin-Dozier: 8 papers"><div class="contrib-count"><span>8</span></div><div class="contrib-bar" style="height:11.82px"></div><div class="contrib-label"><span>Zachary Butzin-Dozier</span></div></div>
     <div class="contrib-item" title="Brian D. Williamson: 7 papers"><div class="contrib-count"><span>7</span></div><div class="contrib-bar" style="height:10.34px"></div><div class="contrib-label"><span>Brian D. Williamson</span></div></div>
     <div class="contrib-item" title="David Y T Chen: 7 papers"><div class="contrib-count"><span>7</span></div><div class="contrib-bar" style="height:10.34px"></div><div class="contrib-label"><span>David Y T Chen</span></div></div>
-    <div class="contrib-item" title="Joshua R Nugent: 7 papers"><div class="contrib-count"><span>7</span></div><div class="contrib-bar" style="height:10.34px"></div><div class="contrib-label"><span>Joshua R Nugent</span></div></div>
     <div class="contrib-item" title="K. Shiba: 7 papers"><div class="contrib-count"><span>7</span></div><div class="contrib-bar" style="height:10.34px"></div><div class="contrib-label"><span>K. Shiba</span></div></div>
     <div class="contrib-item" title="Lina M. Montoya: 7 papers"><div class="contrib-count"><span>7</span></div><div class="contrib-bar" style="height:10.34px"></div><div class="contrib-label"><span>Lina M. Montoya</span></div></div>
     <div class="contrib-item" title="Lisa M. Bodnar: 7 papers"><div class="contrib-count"><span>7</span></div><div class="contrib-bar" style="height:10.34px"></div><div class="contrib-label"><span>Lisa M. Bodnar</span></div></div>
@@ -186,7 +187,6 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Mohammad Ehsanul Karim: 7 papers"><div class="contrib-count"><span>7</span></div><div class="contrib-bar" style="height:10.34px"></div><div class="contrib-label"><span>Mohammad Ehsanul Karim</span></div></div>
     <div class="contrib-item" title="Nicholas T Williams: 7 papers"><div class="contrib-count"><span>7</span></div><div class="contrib-bar" style="height:10.34px"></div><div class="contrib-label"><span>Nicholas T Williams</span></div></div>
     <div class="contrib-item" title="Noémi Kreif: 7 papers"><div class="contrib-count"><span>7</span></div><div class="contrib-bar" style="height:10.34px"></div><div class="contrib-label"><span>Noémi Kreif</span></div></div>
-    <div class="contrib-item" title="Wenjing Zheng: 7 papers"><div class="contrib-count"><span>7</span></div><div class="contrib-bar" style="height:10.34px"></div><div class="contrib-label"><span>Wenjing Zheng</span></div></div>
     <div class="contrib-item" title="Yunwen Ji: 7 papers"><div class="contrib-count"><span>7</span></div><div class="contrib-bar" style="height:10.34px"></div><div class="contrib-label"><span>Yunwen Ji</span></div></div>
     <div class="contrib-item" title="A. Owaraganise: 6 papers"><div class="contrib-count"><span>6</span></div><div class="contrib-bar" style="height:8.86px"></div><div class="contrib-label"><span>A. Owaraganise</span></div></div>
     <div class="contrib-item" title="Arthur Chatton: 6 papers"><div class="contrib-count"><span>6</span></div><div class="contrib-bar" style="height:8.86px"></div><div class="contrib-label"><span>Arthur Chatton</span></div></div>
@@ -922,7 +922,24 @@ Papers are grouped by publication year. Expand a year to browse papers. Only pap
 .paper-year > .paper-item > summary { cursor: pointer; }
 </style>
 <details class="paper-year">
-  <summary><strong>2026 (39 papers)</strong></summary>
+  <summary><strong>2026 (40 papers)</strong></summary>
+
+<details class="paper-item">
+  <summary><strong>2026-04-03 — Abstract 1285: Endocrine therapy adherence and 10-year risk of cardiometabolic outcomes among women with hormone receptor-positive breast cancer</strong></summary>
+
+<p>
+<strong>Authors</strong>: J. R. Ledesma, Joshua R Nugent, Cecile A Laurent, Samir R. Thadani, Richard K. Cheng, J. Specht, Janise M. Roh, Raymond Liu, Heather Greenlee, M. Kwan<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-04-03<br>
+<strong>Venue</strong>: Cancer Research<br>
+<strong>DOI</strong>: 10.1158/1538-7445.am2026-1285<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/e5af568357248bde9e95b12c58dcc056b4317805">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: super learner
+</p>
+<p><strong>Abstract</strong>:<br>
+Adjuvant endocrine therapy (ET) reduces breast cancer (BC) recurrence and mortality but may adversely affect cardiometabolic health. We evaluated, for the first time, the association between ET adherence duration and 10-year cumulative incidence (CI) of hypertension, dyslipidemia, and diabetes among women with hormone receptor-positive BC. We conducted a prospective cohort study of 8,365 postmenopausal women with stage I-III hormone receptor-positive BC within Kaiser Permanente Northern California who initiated ET between 2005 and 2013. Adherence was categorized annually over five years and summarized into adherence durations from 0 to 5 years. Cardiometabolic outcomes were identified from diagnoses, labs, and medication dispensings. We estimated 10-year CI under varying adherence durations using sequentially doubly robust (SDR) estimation with Super Learner to flexibly model treatment and outcome mechanisms. Analyses accounted for all-cause death as a competing risk and stratified by ET type (aromatase inhibitor [AI] vs tamoxifen [TAM]). Overall, 40.8% were adherent for ≥5 years. Compared with never-adherent women, those adherent for ≥5 years were younger (aged 50-70: 73.7% vs 64.0%), lived in higher-income neighborhoods ($80,395 vs $70,417), more often received chemotherapy (34.1% vs 20.9%), and less likely to smoke (5.92% vs 10.5%). Among women never adherent, adjusted 10-year CI of hypertension, dyslipidemia, and diabetes were 22.7% (20.6-24.9), 25.6% (23.3-27.8), and 8.91% (7.65-10.2). Among those adherent for 5 years, CI were 29.1% (27.0-31.2), 32.4% (30.3-34.6), and 12.6% (11.5-13.8), corresponding to CI differences of 6.37% (3.36-9.37), 6.83% (3.79-9.94), and 3.73% (2.06-5.40). CI generally increased with each additional year of adherence. In ET-stratified analyses, 5-year AI adherence was associated with hypertension (CI difference=6.85% [3.74-10.0]), dyslipidemia (8.32% [4.94-11.7]), and diabetes (4.21% [2.28-6.13]) compared with those never adherent. TAM adherence was associated only with hypertension (5.83% [0.53-11.1]). Compared directly with TAM, AI adherence resulted in higher CI of dyslipidemia (difference=10.2% [4.33-16.1]) and diabetes (2.96% [0.07-5.85]). Longer adherence to AIs was associated with increased 10-year risk of hypertension, dyslipidemia, and diabetes, while TAM use was associated only with elevated hypertension risk. With over 4.3 million breast cancer survivors in the US, findings highlight the need for further research to optimize patient selection for ET, balancing BC benefits with potentially higher cardiovascular disease risk, and strategies for early cardiometabolic management during ET. Jorge R. Ledesma, Joshua Nugent, Cecile A. Laurent, Samir R. Thadani, Richard K. Cheng, Jennifer M. Specht, Janise M. Roh, Raymond Liu, Heather Greenlee, Marilyn L. Kwan. Endocrine therapy adherence and 10-year risk of cardiometabolic outcomes among women with hormone receptor-positive breast cancer [abstract]. In: Proceedings of the American Association for Cancer Research Annual Meeting 2026; Part 1 (Regular Abstracts); 2026 Apr 17-22; San Diego, CA. Philadelphia (PA): AACR; Cancer Res 2026;86(7 Suppl):Abstract nr 1285.
+</p>
+</details>
 
 <details class="paper-item">
   <summary><strong>2026-03-31 — One-step TMLE for weighted average treatment effects</strong></summary>
@@ -8858,7 +8875,7 @@ Abstract To reappraise pre-exposure prophylaxis (PrEP) eligibility criteria towa
   <summary><strong>2022-11-08 — Abstract 14740: Racial Disparities in Adverse Pregnancy Outcomes and Cardiovascular Health After Delivery: A Mediation Analysis in Numom2b-hhs</strong></summary>
 
 <p>
-<strong>Authors</strong>: Lucia C. Petito, Xiaoning Huang, C. B. Bairey Merz, N. Bello, J. Catov, Judith Chung, Abbi D. Lane-Cordova, D. Haas, L. Levine, R. McNeil, Eliza C. Miller, G. Saade, Lauren Theilen, Laura E Wiener, L. Yee, P. Greenland, W. Grobman, S. Khan<br>
+<strong>Authors</strong>: Lucia C. Petito, Xiaoning Huang, C. B. Bairey Merz, N. Bello, J. Catov, Judith Chung, Abbi D. Lane-Cordova, D. Haas, L. Levine, R. McNeil, Eliza C. Miller, G. Saade, Lauren H. Theilen, Laura E Wiener, L. Yee, P. Greenland, W. Grobman, S. Khan<br>
 <strong>Year</strong>: 2022<br>
 <strong>Publication Date</strong>: 2022-11-08<br>
 <strong>Venue</strong>: Circulation<br>
@@ -15445,7 +15462,7 @@ Abstract unavailable from Semantic Scholar.
 </details>
 
 <details class="paper-year">
-  <summary><strong>2016 (18 papers)</strong></summary>
+  <summary><strong>2016 (19 papers)</strong></summary>
 
 <details class="paper-item">
   <summary><strong>2016-11-29 — Semi-Parametric Estimation and Inference for the Mean Outcome of the Single Time-Point Intervention in a Causally Connected Population</strong></summary>
@@ -15494,6 +15511,22 @@ Abstract unavailable from Semantic Scholar.
 </p>
 <p><strong>Abstract</strong>:<br>
 Abstract unavailable from Semantic Scholar.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2016-07-21 — Targeted learning in Big Data : bridging data-adaptive estimation and statistical inference</strong></summary>
+
+<p>
+<strong>Authors</strong>: Wenjing Zheng<br>
+<strong>Year</strong>: 2016<br>
+<strong>Publication Date</strong>: 2016-07-21<br>
+<strong>DOI</strong>: 10.70675/9a2a8a71z5e37z44c9z9a57z2d836b28a5af<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/9086e4c1cc9841c9913b8432305e1fe9b8dd7b38">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: tmle
+</p>
+<p><strong>Abstract</strong>:<br>
+Cette thèse porte sur le développement de méthodes semi-paramétriques robustes pour l&#x27;inférence de paramètres complexes émergeant à l&#x27;interface de l&#x27;inférence causale et la biostatistique. Ses motivations sont les applications à la recherche épidémiologique et médicale à l&#x27;ère des Big Data. Nous abordons plus particulièrement deux défis statistiques pour réconcilier, dans chaque contexte, estimation adaptative et inférence statistique. Le premier défi concerne la maximisation de l&#x27;information tirée d&#x27;essais contrôlés randomisés (ECRs) grâce à la conception d&#x27;essais adaptatifs. Nous présentons un cadre théorique pour la construction et l&#x27;analyse d&#x27;ECRs groupes-séquentiels, réponses-adaptatifs et ajustés aux covariable (traduction de l&#x27;expression anglaise « group-sequential, response-adaptive, covariate-adjusted », d&#x27;où l&#x27;acronyme CARA) qui permettent le recours à des procédures adaptatives d&#x27;estimation à la fois pour la construction dynamique des schémas de randomisation et pour l&#x27;estimation du modèle de réponse conditionnelle. Ce cadre enrichit la littérature existante sur les ECRs CARA notamment parce que l&#x27;estimation des effets est garantie robuste même lorsque les modèles sur lesquels s&#x27;appuient les procédures adaptatives d&#x27;estimation sont mal spécificiés. Le second défi concerne la mise au point et l&#x27;étude asymptotique d&#x27;une procédure inférentielle semi-paramétrique avec estimation adaptative des paramètres de nuisance. A titre d&#x27;exemple, nous choisissons comme paramètre d&#x27;intérêt la différence des risques marginaux pour un traitement binaire. Nous proposons une version cross-validée du principe d&#x27;inférence par minimisation ciblée de pertes (« Cross-validated Targeted Mimum Loss Estimation » en anglais, d&#x27;où l&#x27;acronyme CV-TMLE) qui, comme son nom le suggère, marie la procédure TMLE classique et le principe de la validation croisée. L&#x27;estimateur CV-TMLE ainsi élaboré hérite de la propriété typique de double-robustesse et aussi des propriétés d&#x27;efficacité du TMLE classique. De façon remarquable, le CV-TMLE est linéairement asymptotique sous des conditions minimales, sans recourir aux conditions de type Donsker.
 </p>
 </details>
 

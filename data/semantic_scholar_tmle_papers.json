@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T15:23:33Z",
+  "generated_at": "2026-04-10T16:33:11Z",
   "source": "Semantic Scholar Graph API",
   "unauthenticated": true,
   "mode": "bulk",
@@ -18,7 +18,7 @@
   "query_stats": [
     {
       "keyword": "tmle",
-      "fetched_raw_count": 464
+      "fetched_raw_count": 465
     },
     {
       "keyword": "targeted maximum likelihood estimation",
@@ -26,11 +26,11 @@
     },
     {
       "keyword": "targeted minimum loss based estimation",
-      "fetched_raw_count": 337
+      "fetched_raw_count": 336
     },
     {
       "keyword": "super learner",
-      "fetched_raw_count": 988
+      "fetched_raw_count": 995
     },
     {
       "keyword": "super learning",
@@ -43,11 +43,43 @@
   ],
   "query_errors": [],
   "incomplete": false,
-  "fetched_paper_count": 837,
-  "newly_appended_count": 1,
+  "fetched_paper_count": 840,
+  "newly_appended_count": 2,
+  "updated_existing_count": 1,
   "existing_blocked_removed": 0,
   "existing_duplicates_removed": 0,
-  "paper_count": 978,
+  "newly_added_papers": [
+    {
+      "title": "Abstract 1285: Endocrine therapy adherence and 10-year risk of cardiometabolic outcomes among women with hormone receptor-positive breast cancer",
+      "year": 2026,
+      "authors": [
+        "J. R. Ledesma",
+        "Joshua R Nugent",
+        "Cecile A Laurent",
+        "Samir R. Thadani",
+        "Richard K. Cheng",
+        "J. Specht",
+        "Janise M. Roh",
+        "Raymond Liu",
+        "Heather Greenlee",
+        "M. Kwan"
+      ],
+      "publication_date": "2026-04-03",
+      "doi": "10.1158/1538-7445.am2026-1285",
+      "paper_id": "e5af568357248bde9e95b12c58dcc056b4317805"
+    },
+    {
+      "title": "Targeted learning in Big Data : bridging data-adaptive estimation and statistical inference",
+      "year": 2016,
+      "authors": [
+        "Wenjing Zheng"
+      ],
+      "publication_date": "2016-07-21",
+      "doi": "10.70675/9a2a8a71z5e37z44c9z9a57z2d836b28a5af",
+      "paper_id": "9086e4c1cc9841c9913b8432305e1fe9b8dd7b38"
+    }
+  ],
+  "paper_count": 980,
   "papers": [
     {
       "title": "A Targeted Learning Framework for Estimating Restricted Mean Survival Time Difference using Pseudo-observations",
@@ -88,6 +120,34 @@
       "source_queries": [
         "targeted maximum likelihood estimation",
         "tmle"
+      ]
+    },
+    {
+      "title": "Abstract 1285: Endocrine therapy adherence and 10-year risk of cardiometabolic outcomes among women with hormone receptor-positive breast cancer",
+      "authors": [
+        "J. R. Ledesma",
+        "Joshua R Nugent",
+        "Cecile A Laurent",
+        "Samir R. Thadani",
+        "Richard K. Cheng",
+        "J. Specht",
+        "Janise M. Roh",
+        "Raymond Liu",
+        "Heather Greenlee",
+        "M. Kwan"
+      ],
+      "abstract": "Adjuvant endocrine therapy (ET) reduces breast cancer (BC) recurrence and mortality but may adversely affect cardiometabolic health. We evaluated, for the first time, the association between ET adherence duration and 10-year cumulative incidence (CI) of hypertension, dyslipidemia, and diabetes among women with hormone receptor-positive BC. We conducted a prospective cohort study of 8,365 postmenopausal women with stage I-III hormone receptor-positive BC within Kaiser Permanente Northern California who initiated ET between 2005 and 2013. Adherence was categorized annually over five years and summarized into adherence durations from 0 to 5 years. Cardiometabolic outcomes were identified from diagnoses, labs, and medication dispensings. We estimated 10-year CI under varying adherence durations using sequentially doubly robust (SDR) estimation with Super Learner to flexibly model treatment and outcome mechanisms. Analyses accounted for all-cause death as a competing risk and stratified by ET type (aromatase inhibitor [AI] vs tamoxifen [TAM]). Overall, 40.8% were adherent for ≥5 years. Compared with never-adherent women, those adherent for ≥5 years were younger (aged 50-70: 73.7% vs 64.0%), lived in higher-income neighborhoods ($80,395 vs $70,417), more often received chemotherapy (34.1% vs 20.9%), and less likely to smoke (5.92% vs 10.5%). Among women never adherent, adjusted 10-year CI of hypertension, dyslipidemia, and diabetes were 22.7% (20.6-24.9), 25.6% (23.3-27.8), and 8.91% (7.65-10.2). Among those adherent for 5 years, CI were 29.1% (27.0-31.2), 32.4% (30.3-34.6), and 12.6% (11.5-13.8), corresponding to CI differences of 6.37% (3.36-9.37), 6.83% (3.79-9.94), and 3.73% (2.06-5.40). CI generally increased with each additional year of adherence. In ET-stratified analyses, 5-year AI adherence was associated with hypertension (CI difference=6.85% [3.74-10.0]), dyslipidemia (8.32% [4.94-11.7]), and diabetes (4.21% [2.28-6.13]) compared with those never adherent. TAM adherence was associated only with hypertension (5.83% [0.53-11.1]). Compared directly with TAM, AI adherence resulted in higher CI of dyslipidemia (difference=10.2% [4.33-16.1]) and diabetes (2.96% [0.07-5.85]). Longer adherence to AIs was associated with increased 10-year risk of hypertension, dyslipidemia, and diabetes, while TAM use was associated only with elevated hypertension risk. With over 4.3 million breast cancer survivors in the US, findings highlight the need for further research to optimize patient selection for ET, balancing BC benefits with potentially higher cardiovascular disease risk, and strategies for early cardiometabolic management during ET. Jorge R. Ledesma, Joshua Nugent, Cecile A. Laurent, Samir R. Thadani, Richard K. Cheng, Jennifer M. Specht, Janise M. Roh, Raymond Liu, Heather Greenlee, Marilyn L. Kwan. Endocrine therapy adherence and 10-year risk of cardiometabolic outcomes among women with hormone receptor-positive breast cancer [abstract]. In: Proceedings of the American Association for Cancer Research Annual Meeting 2026; Part 1 (Regular Abstracts); 2026 Apr 17-22; San Diego, CA. Philadelphia (PA): AACR; Cancer Res 2026;86(7 Suppl):Abstract nr 1285.",
+      "year": 2026,
+      "publication_date": "2026-04-03",
+      "paper_id": "e5af568357248bde9e95b12c58dcc056b4317805",
+      "url": "https://www.semanticscholar.org/paper/e5af568357248bde9e95b12c58dcc056b4317805",
+      "venue": "Cancer Research",
+      "doi": "10.1158/1538-7445.am2026-1285",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
       ]
     },
     {
@@ -12167,7 +12227,7 @@
         "R. McNeil",
         "Eliza C. Miller",
         "G. Saade",
-        "Lauren Theilen",
+        "Lauren H. Theilen",
         "Laura E Wiener",
         "L. Yee",
         "P. Greenland",
@@ -22063,6 +22123,25 @@
       ]
     },
     {
+      "title": "Targeted learning in Big Data : bridging data-adaptive estimation and statistical inference",
+      "authors": [
+        "Wenjing Zheng"
+      ],
+      "abstract": "Cette thèse porte sur le développement de méthodes semi-paramétriques robustes pour l'inférence de paramètres complexes émergeant à l'interface de l'inférence causale et la biostatistique. Ses motivations sont les applications à la recherche épidémiologique et médicale à l'ère des Big Data. Nous abordons plus particulièrement deux défis statistiques pour réconcilier, dans chaque contexte, estimation adaptative et inférence statistique. Le premier défi concerne la maximisation de l'information tirée d'essais contrôlés randomisés (ECRs) grâce à la conception d'essais adaptatifs. Nous présentons un cadre théorique pour la construction et l'analyse d'ECRs groupes-séquentiels, réponses-adaptatifs et ajustés aux covariable (traduction de l'expression anglaise « group-sequential, response-adaptive, covariate-adjusted », d'où l'acronyme CARA) qui permettent le recours à des procédures adaptatives d'estimation à la fois pour la construction dynamique des schémas de randomisation et pour l'estimation du modèle de réponse conditionnelle. Ce cadre enrichit la littérature existante sur les ECRs CARA notamment parce que l'estimation des effets est garantie robuste même lorsque les modèles sur lesquels s'appuient les procédures adaptatives d'estimation sont mal spécificiés. Le second défi concerne la mise au point et l'étude asymptotique d'une procédure inférentielle semi-paramétrique avec estimation adaptative des paramètres de nuisance. A titre d'exemple, nous choisissons comme paramètre d'intérêt la différence des risques marginaux pour un traitement binaire. Nous proposons une version cross-validée du principe d'inférence par minimisation ciblée de pertes (« Cross-validated Targeted Mimum Loss Estimation » en anglais, d'où l'acronyme CV-TMLE) qui, comme son nom le suggère, marie la procédure TMLE classique et le principe de la validation croisée. L'estimateur CV-TMLE ainsi élaboré hérite de la propriété typique de double-robustesse et aussi des propriétés d'efficacité du TMLE classique. De façon remarquable, le CV-TMLE est linéairement asymptotique sous des conditions minimales, sans recourir aux conditions de type Donsker.",
+      "year": 2016,
+      "publication_date": "2016-07-21",
+      "paper_id": "9086e4c1cc9841c9913b8432305e1fe9b8dd7b38",
+      "url": "https://www.semanticscholar.org/paper/9086e4c1cc9841c9913b8432305e1fe9b8dd7b38",
+      "venue": null,
+      "doi": "10.70675/9a2a8a71z5e37z44c9z9a57z2d836b28a5af",
+      "matched_keywords": [
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
+      ]
+    },
+    {
       "title": "Targeted Maximum Likelihood Estimation for Pharmacoepidemiologic Research",
       "authors": [
         "Menglan Pang",
@@ -24195,21 +24274,6 @@
         "super learner",
         "super learning"
       ]
-    }
-  ],
-  "updated_existing_count": 15,
-  "newly_added_papers": [
-    {
-      "title": "One-step TMLE for weighted average treatment effects",
-      "year": 2026,
-      "authors": [
-        "Yang Liu",
-        "P. Lopatto",
-        "Ivana Malenica"
-      ],
-      "publication_date": "2026-03-31",
-      "doi": null,
-      "paper_id": "cfe567dd4b02018007d6034dc0926dea65b77e6e"
     }
   ]
 }
