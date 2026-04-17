@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T16:33:11Z",
+  "generated_at": "2026-04-17T17:00:46Z",
   "source": "Semantic Scholar Graph API",
   "unauthenticated": true,
   "mode": "bulk",
@@ -18,7 +18,7 @@
   "query_stats": [
     {
       "keyword": "tmle",
-      "fetched_raw_count": 465
+      "fetched_raw_count": 467
     },
     {
       "keyword": "targeted maximum likelihood estimation",
@@ -26,11 +26,11 @@
     },
     {
       "keyword": "targeted minimum loss based estimation",
-      "fetched_raw_count": 336
+      "fetched_raw_count": 335
     },
     {
       "keyword": "super learner",
-      "fetched_raw_count": 995
+      "fetched_raw_count": 998
     },
     {
       "keyword": "super learning",
@@ -38,48 +38,32 @@
     },
     {
       "keyword": "highly adaptive lasso",
-      "fetched_raw_count": 230
+      "fetched_raw_count": 233
     }
   ],
   "query_errors": [],
   "incomplete": false,
   "fetched_paper_count": 840,
-  "newly_appended_count": 2,
-  "updated_existing_count": 1,
+  "newly_appended_count": 1,
+  "updated_existing_count": 2,
   "existing_blocked_removed": 0,
   "existing_duplicates_removed": 0,
   "newly_added_papers": [
     {
-      "title": "Abstract 1285: Endocrine therapy adherence and 10-year risk of cardiometabolic outcomes among women with hormone receptor-positive breast cancer",
+      "title": "Evaluating the impact of longitudinal treatment strategies in the presence of informative monitoring and time-dependent confounding",
       "year": 2026,
       "authors": [
-        "J. R. Ledesma",
-        "Joshua R Nugent",
-        "Cecile A Laurent",
-        "Samir R. Thadani",
-        "Richard K. Cheng",
-        "J. Specht",
-        "Janise M. Roh",
-        "Raymond Liu",
-        "Heather Greenlee",
-        "M. Kwan"
+        "Leah Pirondini",
+        "Karla Diaz-Ordaz",
+        "Edward Palmer",
+        "Ruth H Keogh"
       ],
-      "publication_date": "2026-04-03",
-      "doi": "10.1158/1538-7445.am2026-1285",
-      "paper_id": "e5af568357248bde9e95b12c58dcc056b4317805"
-    },
-    {
-      "title": "Targeted learning in Big Data : bridging data-adaptive estimation and statistical inference",
-      "year": 2016,
-      "authors": [
-        "Wenjing Zheng"
-      ],
-      "publication_date": "2016-07-21",
-      "doi": "10.70675/9a2a8a71z5e37z44c9z9a57z2d836b28a5af",
-      "paper_id": "9086e4c1cc9841c9913b8432305e1fe9b8dd7b38"
+      "publication_date": "2026-04-10",
+      "doi": null,
+      "paper_id": "0db7024a2267f33dc86ba897c0b5fb5c53c5a611"
     }
   ],
-  "paper_count": 980,
+  "paper_count": 981,
   "papers": [
     {
       "title": "A Targeted Learning Framework for Estimating Restricted Mean Survival Time Difference using Pseudo-observations",
@@ -513,6 +497,30 @@
       "source_queries": [
         "super learner",
         "targeted maximum likelihood estimation"
+      ]
+    },
+    {
+      "title": "Evaluating the impact of longitudinal treatment strategies in the presence of informative monitoring and time-dependent confounding",
+      "authors": [
+        "Leah Pirondini",
+        "Karla Diaz-Ordaz",
+        "Edward Palmer",
+        "Ruth H Keogh"
+      ],
+      "abstract": "Routinely collected data from electronic health records (EHR) provide opportunities to study effects of longitudinal treatment strategies in real-world clinical settings. A challenge presented by EHR data is that frequency of covariate monitoring differs by patient, covariate type and over time, and may be informative about a patient's health status. Many causal inference methods assume measurements of covariates are observed at a common set of regular time points. In this paper we describe and evaluate methods for estimating causal effects of longitudinal treatments on time-to-event outcomes in the presence of informative monitoring of time-dependent confounders. We show how methods based on inverse probability weighting, G-computation and longitudinal targeted maximum likelihood estimation (TMLE) can be adapted to allow for informative monitoring by incorporating monitoring indicator variables as additional time-dependent confounders. We evaluate these methods using a simulation study, comparing against more simple approaches that ignore monitoring variables. We demonstrate that ignoring monitoring can result in biased estimates of treatment effects. The methods are illustrated through an investigation into the effect of early versus delayed initiation of invasive mechanical ventilation on mortality of intensive care patients using routinely-collected data from an intensive care unit. We consider static treatment strategies such as `always treat'and `never treat'but also generalise to treatment strategies that allow for flexibility in the exact initiation time and duration of treatment.",
+      "year": 2026,
+      "publication_date": "2026-04-10",
+      "paper_id": "0db7024a2267f33dc86ba897c0b5fb5c53c5a611",
+      "url": "https://www.semanticscholar.org/paper/0db7024a2267f33dc86ba897c0b5fb5c53c5a611",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation",
+        "tmle"
       ]
     },
     {
@@ -1404,7 +1412,7 @@
         "Shuqi Zhang",
         "Janet K Freburger",
         "Justin Trogdon",
-        "Charity Patterson",
+        "Charity G. Patterson",
         "Molly Wen",
         "Sara Jones"
       ],
@@ -10340,7 +10348,7 @@
     {
       "title": "Investigating a Paradox: Towards Better Understanding the Relationships Between Racial Group Membership, Stress, and Major Depressive Disorder.",
       "authors": [
-        "John R Pamplin Ii",
+        "John R. Pamplin II",
         "K. Rudolph",
         "K. Keyes",
         "E. Susser",
