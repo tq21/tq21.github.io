@@ -4,6 +4,7 @@ title: "Research"
 
 ## Publications
 
+-   **Sky Qiu**, Charles Barr, Lauren Dang, Issa Dahabreh, Larry Han, Kajsa Kvist, Hana Lee, Andrew Mertens, Nerissa Nance, Lei Nie, Kara Rudolph, Xu Shi, Jens Tarp, Salina P. Waddy, Kenneth Wiley, Andy Wilson, Margot Lisa Jing Yann, Zhiwei Zhang, Tianyue Zhou, Maya Petersen & Mark van der Laan (2026). Considerations for the Integration of Randomized Controlled Trials and Real-World Data. *arXiv preprint.* [\[Paper\]](https://arxiv.org/abs/2604.10308)
 -   **Sky Qiu**, Susan Gruber, Pamela A. Shaw, Brian D. Williamson & Mark J. van der Laan (2026). Efficient Targeted Maximum Likelihood Estimators for Two-Phase Design Problems. *arXiv preprint.* [\[Paper\]](https://arxiv.org/abs/2602.24131)
 -   Hana Lee, **Sky Qiu**, Spencer Haupert, Gabriel K. Innes, Tristan Naumann, Demissie Alemayehu & Mark van der Laan (2026). Methodological and regulatory considerations for causal AI in drug development. *npj Digital Medicine*. [\[Paper\]](https://www.nature.com/articles/s41746-026-02477-w)
 -   **Sky Qiu**, Jens Tarp, Andrew Mertens & Mark van der Laan (2025). An Estimator-Robust Design for Augmenting Randomized Controlled Trial with External Real-World Data. *arXiv preprint.* [\[Paper\]](https://arxiv.org/abs/2501.17835)
