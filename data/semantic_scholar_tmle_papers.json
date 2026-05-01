@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T07:00:50Z",
+  "generated_at": "2026-05-01T07:00:26Z",
   "source": "Semantic Scholar Graph API",
   "unauthenticated": true,
   "mode": "bulk",
@@ -18,7 +18,7 @@
   "query_stats": [
     {
       "keyword": "tmle",
-      "fetched_raw_count": 469
+      "fetched_raw_count": 470
     },
     {
       "keyword": "targeted maximum likelihood estimation",
@@ -26,11 +26,11 @@
     },
     {
       "keyword": "targeted minimum loss based estimation",
-      "fetched_raw_count": 335
+      "fetched_raw_count": 337
     },
     {
       "keyword": "super learner",
-      "fetched_raw_count": 997
+      "fetched_raw_count": 999
     },
     {
       "keyword": "super learning",
@@ -43,37 +43,101 @@
   ],
   "query_errors": [],
   "incomplete": false,
-  "fetched_paper_count": 842,
-  "newly_appended_count": 2,
-  "updated_existing_count": 2,
+  "fetched_paper_count": 846,
+  "newly_appended_count": 5,
+  "updated_existing_count": 3,
   "existing_blocked_removed": 0,
   "existing_duplicates_removed": 0,
   "newly_added_papers": [
     {
-      "title": "Efficient Targeted Maximum Likelihood Estimation of Average Treatment Effects under Structured Outcome Models with Unknown Error Distributions",
+      "title": "A Riesz Representer Perspective on Targeted Learning",
       "year": 2026,
       "authors": [
-        "Mijeong Kim"
+        "Salvador V. Balkus",
+        "C. Testa",
+        "N. Hejazi"
       ],
-      "publication_date": "2026-04-09",
+      "publication_date": "2026-04-23",
       "doi": null,
-      "paper_id": "911e214b83232df8eba0d840a19b3933b976ac0a"
+      "paper_id": "7ddc578a75c3a585e209cea931fef41bff61e437"
     },
     {
-      "title": "Investigating Targeting Strategies and Truncation in TMLE for the Average Treatment Effect under Practical Positivity Violations",
+      "title": "Conformalized Super Learner",
       "year": 2026,
       "authors": [
-        "Yichen Xu",
-        "S. Gruber",
-        "M. V. D. Laan"
+        "Zhan Wu",
+        "Fabrizio Leisen",
+        "M. Luque-fernandez",
+        "F. Rubio"
       ],
-      "publication_date": "2026-04-21",
+      "publication_date": "2026-04-24",
       "doi": null,
-      "paper_id": "5d562a833fd351843168e6e7c813218adee80eca"
+      "paper_id": "99f409586d407c5c9aeb81619bdb6d69ea46ec06"
+    },
+    {
+      "title": "Generative Synthetic Data for Causal Inference: Pitfalls, Remedies, and Opportunities",
+      "year": 2026,
+      "authors": [
+        "Yichen Xu"
+      ],
+      "publication_date": "2026-04-26",
+      "doi": null,
+      "paper_id": "ae53fb69d7c6be4b47095a785bbd89f586f42123"
+    },
+    {
+      "title": "Machine learning-based QSPR modeling for predicting the n-octanol/air partition coefficient of polybrominated diphenyl ethers",
+      "year": 2026,
+      "authors": [
+        "Weimin Wu",
+        "Hao Chen",
+        "Zhaoqing Liu",
+        "Wanjun Yan",
+        "Daoming Wu",
+        "Jingfang Chen",
+        "Jun Liu",
+        "Zhilin Xing"
+      ],
+      "publication_date": "2026-03-01",
+      "doi": "10.1016/j.isci.2026.115393",
+      "paper_id": "014bb38d08d1e533a06501dd3402ee96a650082c"
+    },
+    {
+      "title": "Water Depth Inversion by Fusion of Active and Passive Remote Sensing Imagery with Waves under the Super Learner-Neural ODE Framework",
+      "year": 2026,
+      "authors": [
+        "Aijun Cui",
+        "Yi Ma",
+        "Jingyu Zhang",
+        "Ruifu Wang"
+      ],
+      "publication_date": null,
+      "doi": "10.1109/tgrs.2026.3686415",
+      "paper_id": "ca866adb000099c3b4f1a55268f16726f53129fe"
     }
   ],
-  "paper_count": 983,
+  "paper_count": 988,
   "papers": [
+    {
+      "title": "A Riesz Representer Perspective on Targeted Learning",
+      "authors": [
+        "Salvador V. Balkus",
+        "C. Testa",
+        "N. Hejazi"
+      ],
+      "abstract": "As research in causal inference has sought to address more complex scientific questions, the number of specialized estimands in the field has proliferated. Recognition that many of these estimands share a common linear form has generated interest in simplifying estimation procedures using Riesz representers. In this work, we construct a targeted minimum loss-based estimation procedure for nested linear functionals, leveraging Riesz representers of a general recursive form. The proposed method unifies asymptotically efficient estimation for a variety of statistical estimands that originate in causal inference, including the effects of time-varying treatments under treatment-confounder feedback and direct and indirect effects from causal mediation analysis. We demonstrate how our proposal reduces the need for laborious and technically challenging mathematical derivations when constructing estimators of common statistical estimands under complex forms of censoring and sampling. We investigate and validate the properties of the proposed procedures in numerical experiments, discuss open-source software facilitating their implementation, and illustrate their application in a re-analysis of data from an HIV vaccine efficacy trial.",
+      "year": 2026,
+      "publication_date": "2026-04-23",
+      "paper_id": "7ddc578a75c3a585e209cea931fef41bff61e437",
+      "url": "https://www.semanticscholar.org/paper/7ddc578a75c3a585e209cea931fef41bff61e437",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "targeted minimum loss based estimation"
+      ],
+      "source_queries": [
+        "targeted minimum loss based estimation"
+      ]
+    },
     {
       "title": "A Targeted Learning Framework for Estimating Restricted Mean Survival Time Difference using Pseudo-observations",
       "authors": [
@@ -220,6 +284,28 @@
       ],
       "source_queries": [
         "super learning"
+      ]
+    },
+    {
+      "title": "Conformalized Super Learner",
+      "authors": [
+        "Zhan Wu",
+        "Fabrizio Leisen",
+        "M. Luque-fernandez",
+        "F. Rubio"
+      ],
+      "abstract": "The Super Learner (SL) is a widely used ensemble method that combines predictions from a library of learners based on their predictive performance. Interval predictions are of considerable practical interest because they allow uncertainty in predictions produced by an individual learner or an ensemble to be quantified. Several methods have been proposed for constructing interval predictions based on the SL, however, these approaches are typically justified using asymptotic arguments or rely on computationally intensive procedures such as the bootstrap. Conformal prediction (CP) is a machine learning framework for constructing prediction intervals with finite-sample and asymptotic coverage guarantees under mild conditions. We propose coupling CP with the SL through a natural construction that mirrors the original SL framework, using individual learner weights and combining learner-specific conformity scores via a weighted majority vote. We characterize the properties of the resulting SL-based prediction intervals for continuous outcomes. We cover settings under exchangeability, potential violations of exchangeability, and data-generating mechanisms exhibiting heteroscedasticity, sparsity, and other forms of distributional heterogeneity. A comprehensive simulation study shows that the conformalized SL achieves valid finite-sample coverage with competitive performance relative to the true data-generating mechanism. A central contribution of this work is an application to predicting creatinine levels using socio-demographic, biometric, and laboratory measurements. This example demonstrates the benefits of an ensemble with carefully selected learners designed to capture key aspects of complex regression functions, including non-linear effects, interactions, sparsity, heteroscedasticity, and robustness to outliers.R",
+      "year": 2026,
+      "publication_date": "2026-04-24",
+      "paper_id": "99f409586d407c5c9aeb81619bdb6d69ea46ec06",
+      "url": "https://www.semanticscholar.org/paper/99f409586d407c5c9aeb81619bdb6d69ea46ec06",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
       ]
     },
     {
@@ -572,6 +658,25 @@
       ]
     },
     {
+      "title": "Generative Synthetic Data for Causal Inference: Pitfalls, Remedies, and Opportunities",
+      "authors": [
+        "Yichen Xu"
+      ],
+      "abstract": "Synthetic data offers a promising tool for privacy-preserving data release, augmentation, and simulation, but its use in causal inference requires preserving more than predictive fidelity. We show that fully generative tabular synthesizers, including GAN- and LLM-based models, can achieve strong train-on-synthetic-test-on-real performance while substantially distorting causal estimands such as the average treatment effect (ATE). We formalize this failure through sensitivity and tradeoff results showing that ATE preservation requires control of both the generated covariate law and the treatment-effect contrast in the outcome regression. Motivated by this observation, we propose a hybrid synthetic-data framework that generates covariates separately from the treatment and outcome mechanisms, using distance-to-closest-record diagnostics to monitor covariate synthesis and separately learned nuisance models to construct (W, A, Y) triplets. We further study targeted synthetic augmentation for practical positivity problems and characterize when added overlap support helps by improving conditional-effect estimation more than it shifts the covariate distribution. Finally, we develop a synthetic simulation engine for pre-analysis estimator evaluation, enabling finite-sample comparison of OR, IPW, AIPW, and TMLE under realistic covariate structure. Across experiments, hybrid synthetic data substantially improve ATE preservation relative to fully generative baselines and provide a practical diagnostic tool for robust causal analysis.",
+      "year": 2026,
+      "publication_date": "2026-04-26",
+      "paper_id": "ae53fb69d7c6be4b47095a785bbd89f586f42123",
+      "url": "https://www.semanticscholar.org/paper/ae53fb69d7c6be4b47095a785bbd89f586f42123",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
+      ]
+    },
+    {
       "title": "genriesz: A Python Package for Automatic Debiased Machine Learning with Generalized Riesz Regression",
       "authors": [
         "Masahiro Kato"
@@ -773,6 +878,33 @@
       "source_queries": [
         "targeted maximum likelihood estimation",
         "tmle"
+      ]
+    },
+    {
+      "title": "Machine learning-based QSPR modeling for predicting the n-octanol/air partition coefficient of polybrominated diphenyl ethers",
+      "authors": [
+        "Weimin Wu",
+        "Hao Chen",
+        "Zhaoqing Liu",
+        "Wanjun Yan",
+        "Daoming Wu",
+        "Jingfang Chen",
+        "Jun Liu",
+        "Zhilin Xing"
+      ],
+      "abstract": "Summary The n-octanol/air partition coefficient (KOA) governs the trans-media transport and exposure risk of polybrominated diphenyl ethers (PBDEs). This study utilizes a super learner ensemble—integrating random forest, support vector regression, and multiple linear regression—to predict KOA based on density functional theory (DFT) derived quantum-chemical descriptors. This framework estimates properties for 197 PBDE congeners within an applicability domain of log KOA 7.24–11.84. SHAP analysis identifies molecular polarizability and the most negative atomic charge as primary determinants, demonstrating that bromination modulates KOA via dispersion and electrostatic effects. The ensemble achieves a predictive accuracy of R2 = 0.981 and reduces extrapolation error by 32%–48% compared to individual algorithms. These findings provide high-precision estimates and mechanistic insights into the environmental fate of PBDEs, supporting hierarchical strategies for monitoring and managing high-mobility congeners effectively.",
+      "year": 2026,
+      "publication_date": "2026-03-01",
+      "paper_id": "014bb38d08d1e533a06501dd3402ee96a650082c",
+      "url": "https://www.semanticscholar.org/paper/014bb38d08d1e533a06501dd3402ee96a650082c",
+      "venue": "iScience",
+      "doi": "10.1016/j.isci.2026.115393",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner",
+        "super learning"
       ]
     },
     {
@@ -1081,6 +1213,28 @@
       ],
       "source_queries": [
         "targeted maximum likelihood estimation"
+      ]
+    },
+    {
+      "title": "Water Depth Inversion by Fusion of Active and Passive Remote Sensing Imagery with Waves under the Super Learner-Neural ODE Framework",
+      "authors": [
+        "Aijun Cui",
+        "Yi Ma",
+        "Jingyu Zhang",
+        "Ruifu Wang"
+      ],
+      "abstract": "",
+      "year": 2026,
+      "publication_date": null,
+      "paper_id": "ca866adb000099c3b4f1a55268f16726f53129fe",
+      "url": "https://www.semanticscholar.org/paper/ca866adb000099c3b4f1a55268f16726f53129fe",
+      "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+      "doi": "10.1109/tgrs.2026.3686415",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
       ]
     },
     {
@@ -1886,31 +2040,19 @@
       ]
     },
     {
-      "title": "Causal Effect Estimation with TMLE: Handling Missing Data and Near-Violations of Positivity",
+      "title": "Causal Effect Estimation With TMLE: Handling Missing Data and Near Violations of Positivity",
       "authors": [
         "Christoph Wiederkehr",
-        "Christian Heumann",
-        "Michael L. Stein Dept. of Statistics",
-        "Ludwig-Maximilian-University Munich",
-        "Centre for Integrated Data",
-        "Epidemiological Research",
-        "C. Town",
-        "Institute of Health",
-        "Medical Decision Making",
-        "Health Technology Assessment",
-        "U. -. U. F. H. Sciences",
-        "Medical Informatics",
-        "Technology",
-        "Hall in Tirol",
-        "Munich Center for Machine Learning"
+        "C. Heumann",
+        "Michael Schomaker"
       ],
-      "abstract": "We evaluate the performance of targeted maximum likelihood estimation (TMLE) for estimating the average treatment effect in missing data scenarios under varying levels of positivity violations. We employ model- and design-based simulations, with the latter using undersmoothed highly adaptive lasso on the'WASH Benefits Bangladesh'dataset to mimic real-world complexities. Five missingness-directed acyclic graphs are considered, capturing common missing data mechanisms in epidemiological research, particularly in one-point exposure studies. These mechanisms include also not-at-random missingness in the exposure, outcome, and confounders. We compare eight missing data methods in conjunction with TMLE as the analysis method, distinguishing between non-multiple imputation (non-MI) and multiple imputation (MI) approaches. The MI approaches use both parametric and machine-learning models. Results show that non-MI methods, particularly complete cases with TMLE incorporating an outcome-missingness model, exhibit lower bias compared to all other evaluated missing data methods and greater robustness against positivity violations across. In Comparison MI with classification and regression trees (CART) achieve lower root mean squared error, while often maintaining nominal coverage rates. Our findings highlight the trade-offs between bias and coverage, and we recommend using complete cases with TMLE incorporating an outcome-missingness model for bias reduction and MI CART when accurate confidence intervals are the priority.",
+      "abstract": "ABSTRACT We evaluate the performance of targeted maximum likelihood estimation (TMLE) for estimating the average treatment effect in missing data scenarios under varying levels of positivity violations. We employ model‐ and design‐based simulations, with the latter using undersmoothed highly adaptive lasso on the “WASH Benefits Bangladesh” data set to mimic real‐world complexities. Five missingness‐directed acyclic graphs are considered, capturing common missing data mechanisms in epidemiological research, particularly in one‐point exposure studies. These mechanisms include also not‐at‐random missingness in the exposure, outcome, and confounders. We compare eight missing data methods in conjunction with TMLE as the analysis method, distinguishing between non‐multiple imputation (non‐MI) and multiple imputation (MI) approaches. The MI approaches use both parametric and machine learning models. Results show that non‐MI methods, particularly complete cases with TMLE incorporating an outcome‐missingness model, exhibit lower bias compared to all other evaluated missing data methods and greater robustness against positivity violations across. In comparison MI with classification and regression trees (CART) achieve lower root mean squared error, while often maintaining nominal coverage rates. Our findings highlight the trade‐offs between bias and coverage, and we recommend using complete cases with TMLE incorporating an outcome‐missingness model for bias reduction and MI CART when accurate confidence intervals are the priority.",
       "year": 2025,
       "publication_date": "2025-10-25",
       "paper_id": "8ff72ddadfc64382d00247dbc48ec1a0231d9990",
       "url": "https://www.semanticscholar.org/paper/8ff72ddadfc64382d00247dbc48ec1a0231d9990",
-      "venue": null,
-      "doi": null,
+      "venue": "Biometrical Journal. Biometrische Zeitschrift",
+      "doi": "10.1002/bimj.70134",
       "matched_keywords": [
         "highly adaptive lasso",
         "targeted maximum likelihood estimation",
@@ -1918,7 +2060,6 @@
       ],
       "source_queries": [
         "highly adaptive lasso",
-        "targeted maximum likelihood estimation",
         "tmle"
       ]
     },
@@ -5818,7 +5959,7 @@
         "Alirio Bastidas",
         "Alejandro Rodríguez",
         "I. Martín-Loeches",
-        "L. F. Reyes"
+        "Luis F. Reyes"
       ],
       "abstract": "Cefepime and piperacillin/tazobactam are antimicrobials recommended by IDSA/ATS guidelines for the empirical management of patients admitted to the intensive care unit (ICU) with community-acquired pneumonia (CAP). Concerns have been raised about which should be used in clinical practice. This study aims to compare the effect of cefepime and piperacillin/tazobactam in critically ill CAP patients through a targeted maximum likelihood estimation (TMLE). A total of 2026 ICU-admitted patients with CAP were included. Among them, (47%) presented respiratory failure, and (27%) developed septic shock. A total of (68%) received cefepime and (32%) piperacillin/tazobactam-based treatment. After running the TMLE, we found that cefepime and piperacillin/tazobactam-based treatments have comparable 28-day, hospital, and ICU mortality. Additionally, age, PTT, serum potassium and temperature were associated with preferring cefepime over piperacillin/tazobactam (OR 1.14 95% CI [1.01–1.27], p = 0.03), (OR 1.14 95% CI [1.03–1.26], p = 0.009), (OR 1.1 95% CI [1.01–1.22], p = 0.039) and (OR 1.13 95% CI [1.03–1.24], p = 0.014)]. Our study found a similar mortality rate among ICU-admitted CAP patients treated with cefepime and piperacillin/tazobactam. Clinicians may consider factors such as availability and safety profiles when making treatment decisions.",
       "year": 2024,
@@ -9377,7 +9518,7 @@
       "title": "Antibiotic prescribing in remote versus face-to-face consultations for acute respiratory infections in English primary care: An observational study using TMLE",
       "authors": [
         "E. Vestesson",
-        "K. de Corte",
+        "K. D. De Corte",
         "P. Chappell",
         "E. Crellin",
         "G. Clarke"

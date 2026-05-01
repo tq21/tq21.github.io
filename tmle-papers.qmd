@@ -7,17 +7,17 @@ Auto-updated list of TMLE-related papers tracked from Semantic Scholar queries.
 
 _Note: this list is not complete and may include irrelevant articles; it will be refined over time._
 
-Last refreshed: 2026-04-24T07:00:50Z
+Last refreshed: 2026-05-01T07:00:26Z
 
 Keywords queried: tmle, targeted maximum likelihood estimation, targeted minimum loss based estimation, super learner, super learning, highly adaptive lasso
 
-Total tracked papers: **983**
+Total tracked papers: **988**
 
 <!-- monthly-chart:start -->
 
 ## Yearly Papers Trend
 
-Number of papers per year from **2006** to **2025** (coverage: **929/983** papers with year metadata in range).
+Number of papers per year from **2006** to **2025** (coverage: **929/988** papers with year metadata in range).
 
 ```{=html}
 <style>
@@ -151,21 +151,22 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="J. Ayieko: 13 papers"><div class="contrib-count"><span>13</span></div><div class="contrib-bar" style="height:19.10px"></div><div class="contrib-label"><span>J. Ayieko</span></div></div>
     <div class="contrib-item" title="Joshua Schwab: 13 papers"><div class="contrib-count"><span>13</span></div><div class="contrib-bar" style="height:19.10px"></div><div class="contrib-label"><span>Joshua Schwab</span></div></div>
     <div class="contrib-item" title="Kara E. Rudolph: 13 papers"><div class="contrib-count"><span>13</span></div><div class="contrib-bar" style="height:19.10px"></div><div class="contrib-label"><span>Kara E. Rudolph</span></div></div>
+    <div class="contrib-item" title="N. Hejazi: 13 papers"><div class="contrib-count"><span>13</span></div><div class="contrib-bar" style="height:19.10px"></div><div class="contrib-label"><span>N. Hejazi</span></div></div>
     <div class="contrib-item" title="Helene Charlotte Wiese Rytgaard: 12 papers"><div class="contrib-count"><span>12</span></div><div class="contrib-bar" style="height:17.63px"></div><div class="contrib-label"><span>Helene Charlotte Wiese Rytgaard</span></div></div>
-    <div class="contrib-item" title="N. Hejazi: 12 papers"><div class="contrib-count"><span>12</span></div><div class="contrib-bar" style="height:17.63px"></div><div class="contrib-label"><span>N. Hejazi</span></div></div>
     <div class="contrib-item" title="Thomas Gerds: 12 papers"><div class="contrib-count"><span>12</span></div><div class="contrib-bar" style="height:17.63px"></div><div class="contrib-label"><span>Thomas Gerds</span></div></div>
     <div class="contrib-item" title="Ivana Malenica: 11 papers"><div class="contrib-count"><span>11</span></div><div class="contrib-bar" style="height:16.16px"></div><div class="contrib-label"><span>Ivana Malenica</span></div></div>
     <div class="contrib-item" title="Jeremy R Coyle: 11 papers"><div class="contrib-count"><span>11</span></div><div class="contrib-bar" style="height:16.16px"></div><div class="contrib-label"><span>Jeremy R Coyle</span></div></div>
     <div class="contrib-item" title="Oleg Sofrygin: 11 papers"><div class="contrib-count"><span>11</span></div><div class="contrib-bar" style="height:16.16px"></div><div class="contrib-label"><span>Oleg Sofrygin</span></div></div>
     <div class="contrib-item" title="Robert W Platt: 11 papers"><div class="contrib-count"><span>11</span></div><div class="contrib-bar" style="height:16.16px"></div><div class="contrib-label"><span>Robert W Platt</span></div></div>
     <div class="contrib-item" title="Christian Torp-Pedersen: 10 papers"><div class="contrib-count"><span>10</span></div><div class="contrib-bar" style="height:14.69px"></div><div class="contrib-label"><span>Christian Torp-Pedersen</span></div></div>
+    <div class="contrib-item" title="Michael Schomaker: 10 papers"><div class="contrib-count"><span>10</span></div><div class="contrib-bar" style="height:14.69px"></div><div class="contrib-label"><span>Michael Schomaker</span></div></div>
     <div class="contrib-item" title="Sherri Rose: 10 papers"><div class="contrib-count"><span>10</span></div><div class="contrib-bar" style="height:14.69px"></div><div class="contrib-label"><span>Sherri Rose</span></div></div>
     <div class="contrib-item" title="Alejandro Schuler: 9 papers"><div class="contrib-count"><span>9</span></div><div class="contrib-bar" style="height:13.22px"></div><div class="contrib-label"><span>Alejandro Schuler</span></div></div>
     <div class="contrib-item" title="Andrew N. Mertens: 9 papers"><div class="contrib-count"><span>9</span></div><div class="contrib-bar" style="height:13.22px"></div><div class="contrib-label"><span>Andrew N. Mertens</span></div></div>
     <div class="contrib-item" title="Ashley I. Naimi: 9 papers"><div class="contrib-count"><span>9</span></div><div class="contrib-bar" style="height:13.22px"></div><div class="contrib-label"><span>Ashley I. Naimi</span></div></div>
     <div class="contrib-item" title="E. Kakande: 9 papers"><div class="contrib-count"><span>9</span></div><div class="contrib-bar" style="height:13.22px"></div><div class="contrib-label"><span>E. Kakande</span></div></div>
     <div class="contrib-item" title="Edwin D. Charlebois: 9 papers"><div class="contrib-count"><span>9</span></div><div class="contrib-bar" style="height:13.22px"></div><div class="contrib-label"><span>Edwin D. Charlebois</span></div></div>
-    <div class="contrib-item" title="Michael Schomaker: 9 papers"><div class="contrib-count"><span>9</span></div><div class="contrib-bar" style="height:13.22px"></div><div class="contrib-label"><span>Michael Schomaker</span></div></div>
+    <div class="contrib-item" title="Miguel Angel Luque Fernandez: 9 papers"><div class="contrib-count"><span>9</span></div><div class="contrib-bar" style="height:13.22px"></div><div class="contrib-label"><span>Miguel Angel Luque Fernandez</span></div></div>
     <div class="contrib-item" title="Mohammad Ali Mansournia: 9 papers"><div class="contrib-count"><span>9</span></div><div class="contrib-bar" style="height:13.22px"></div><div class="contrib-label"><span>Mohammad Ali Mansournia</span></div></div>
     <div class="contrib-item" title="S. Lendle: 9 papers"><div class="contrib-count"><span>9</span></div><div class="contrib-bar" style="height:13.22px"></div><div class="contrib-label"><span>S. Lendle</span></div></div>
     <div class="contrib-item" title="Cheng Ju: 8 papers"><div class="contrib-count"><span>8</span></div><div class="contrib-bar" style="height:11.75px"></div><div class="contrib-label"><span>Cheng Ju</span></div></div>
@@ -173,7 +174,6 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="J. Colford: 8 papers"><div class="contrib-count"><span>8</span></div><div class="contrib-bar" style="height:11.75px"></div><div class="contrib-label"><span>J. Colford</span></div></div>
     <div class="contrib-item" title="Joshua R. Nugent: 8 papers"><div class="contrib-count"><span>8</span></div><div class="contrib-bar" style="height:11.75px"></div><div class="contrib-label"><span>Joshua R. Nugent</span></div></div>
     <div class="contrib-item" title="Junming Shi: 8 papers"><div class="contrib-count"><span>8</span></div><div class="contrib-bar" style="height:11.75px"></div><div class="contrib-label"><span>Junming Shi</span></div></div>
-    <div class="contrib-item" title="Miguel Angel Luque Fernandez: 8 papers"><div class="contrib-count"><span>8</span></div><div class="contrib-bar" style="height:11.75px"></div><div class="contrib-label"><span>Miguel Angel Luque Fernandez</span></div></div>
     <div class="contrib-item" title="Peter B. Gilbert: 8 papers"><div class="contrib-count"><span>8</span></div><div class="contrib-bar" style="height:11.75px"></div><div class="contrib-label"><span>Peter B. Gilbert</span></div></div>
     <div class="contrib-item" title="Romain S. Neugebauer: 8 papers"><div class="contrib-count"><span>8</span></div><div class="contrib-bar" style="height:11.75px"></div><div class="contrib-label"><span>Romain S. Neugebauer</span></div></div>
     <div class="contrib-item" title="Wenjing Zheng: 8 papers"><div class="contrib-count"><span>8</span></div><div class="contrib-bar" style="height:11.75px"></div><div class="contrib-label"><span>Wenjing Zheng</span></div></div>
@@ -377,7 +377,6 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Yaning Feng: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.41px"></div><div class="contrib-label"><span>Yaning Feng</span></div></div>
     <div class="contrib-item" title="Yining Lu: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.41px"></div><div class="contrib-label"><span>Yining Lu</span></div></div>
     <div class="contrib-item" title="Yunda Huang: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.41px"></div><div class="contrib-label"><span>Yunda Huang</span></div></div>
-    <div class="contrib-item" title="Zheng Liu: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.41px"></div><div class="contrib-label"><span>Zheng Liu</span></div></div>
     <div class="contrib-item" title="A. Boulle: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>A. Boulle</span></div></div>
     <div class="contrib-item" title="A. Boyd: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>A. Boyd</span></div></div>
     <div class="contrib-item" title="A. Delong: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>A. Delong</span></div></div>
@@ -601,7 +600,6 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Ji-su Park: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Ji-su Park</span></div></div>
     <div class="contrib-item" title="Jianwen Cai: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Jianwen Cai</span></div></div>
     <div class="contrib-item" title="Jiayi Ji: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Jiayi Ji</span></div></div>
-    <div class="contrib-item" title="Jie Chen: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Jie Chen</span></div></div>
     <div class="contrib-item" title="Jin Jin: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Jin Jin</span></div></div>
     <div class="contrib-item" title="Jinma Ren: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Jinma Ren</span></div></div>
     <div class="contrib-item" title="Joanita Nangendo: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Joanita Nangendo</span></div></div>
@@ -657,7 +655,6 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="L. Blais: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>L. Blais</span></div></div>
     <div class="contrib-item" title="L. Cushing: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>L. Cushing</span></div></div>
     <div class="contrib-item" title="L. Degenhardt: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>L. Degenhardt</span></div></div>
-    <div class="contrib-item" title="L. F. Reyes: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>L. F. Reyes</span></div></div>
     <div class="contrib-item" title="L. Gama: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>L. Gama</span></div></div>
     <div class="contrib-item" title="L. Laan: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>L. Laan</span></div></div>
     <div class="contrib-item" title="L. Macleod: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>L. Macleod</span></div></div>
@@ -681,6 +678,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Ling Zhang: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Ling Zhang</span></div></div>
     <div class="contrib-item" title="Linh Tran: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Linh Tran</span></div></div>
     <div class="contrib-item" title="Lu Wang: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Lu Wang</span></div></div>
+    <div class="contrib-item" title="Luis F. Reyes: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Luis F. Reyes</span></div></div>
     <div class="contrib-item" title="Lukas Andereggen: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Lukas Andereggen</span></div></div>
     <div class="contrib-item" title="M. A. Adam: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>M. A. Adam</span></div></div>
     <div class="contrib-item" title="M. Beydoun: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>M. Beydoun</span></div></div>
@@ -883,6 +881,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Y. Zhao: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Y. Zhao</span></div></div>
     <div class="contrib-item" title="Yafei Hu: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yafei Hu</span></div></div>
     <div class="contrib-item" title="Yeji Kim: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yeji Kim</span></div></div>
+    <div class="contrib-item" title="Yichen Xu: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yichen Xu</span></div></div>
     <div class="contrib-item" title="Yihao Liu: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yihao Liu</span></div></div>
     <div class="contrib-item" title="Ying Huang: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Ying Huang</span></div></div>
     <div class="contrib-item" title="Yiting Li: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yiting Li</span></div></div>
@@ -895,6 +894,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Z. Moodie: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Z. Moodie</span></div></div>
     <div class="contrib-item" title="Zaixiang Tang: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Zaixiang Tang</span></div></div>
     <div class="contrib-item" title="Ze-Yu Wang: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Ze-Yu Wang</span></div></div>
+    <div class="contrib-item" title="Zheng Liu: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Zheng Liu</span></div></div>
     <div class="contrib-item" title="Zhengping Che: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Zhengping Che</span></div></div>
     <div class="contrib-item" title="Ziqing Hei: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Ziqing Hei</span></div></div>
     <div class="contrib-item" title="Ziyue Wu: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Ziyue Wu</span></div></div>
@@ -922,7 +922,52 @@ Papers are grouped by publication year. Expand a year to browse papers. Only pap
 .paper-year > .paper-item > summary { cursor: pointer; }
 </style>
 <details class="paper-year">
-  <summary><strong>2026 (43 papers)</strong></summary>
+  <summary><strong>2026 (48 papers)</strong></summary>
+
+<details class="paper-item">
+  <summary><strong>2026-04-26 — Generative Synthetic Data for Causal Inference: Pitfalls, Remedies, and Opportunities</strong></summary>
+
+<p>
+<strong>Authors</strong>: Yichen Xu<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-04-26<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/ae53fb69d7c6be4b47095a785bbd89f586f42123">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: tmle
+</p>
+<p><strong>Abstract</strong>:<br>
+Synthetic data offers a promising tool for privacy-preserving data release, augmentation, and simulation, but its use in causal inference requires preserving more than predictive fidelity. We show that fully generative tabular synthesizers, including GAN- and LLM-based models, can achieve strong train-on-synthetic-test-on-real performance while substantially distorting causal estimands such as the average treatment effect (ATE). We formalize this failure through sensitivity and tradeoff results showing that ATE preservation requires control of both the generated covariate law and the treatment-effect contrast in the outcome regression. Motivated by this observation, we propose a hybrid synthetic-data framework that generates covariates separately from the treatment and outcome mechanisms, using distance-to-closest-record diagnostics to monitor covariate synthesis and separately learned nuisance models to construct (W, A, Y) triplets. We further study targeted synthetic augmentation for practical positivity problems and characterize when added overlap support helps by improving conditional-effect estimation more than it shifts the covariate distribution. Finally, we develop a synthetic simulation engine for pre-analysis estimator evaluation, enabling finite-sample comparison of OR, IPW, AIPW, and TMLE under realistic covariate structure. Across experiments, hybrid synthetic data substantially improve ATE preservation relative to fully generative baselines and provide a practical diagnostic tool for robust causal analysis.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2026-04-24 — Conformalized Super Learner</strong></summary>
+
+<p>
+<strong>Authors</strong>: Zhan Wu, Fabrizio Leisen, M. Luque-fernandez, F. Rubio<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-04-24<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/99f409586d407c5c9aeb81619bdb6d69ea46ec06">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: super learner
+</p>
+<p><strong>Abstract</strong>:<br>
+The Super Learner (SL) is a widely used ensemble method that combines predictions from a library of learners based on their predictive performance. Interval predictions are of considerable practical interest because they allow uncertainty in predictions produced by an individual learner or an ensemble to be quantified. Several methods have been proposed for constructing interval predictions based on the SL, however, these approaches are typically justified using asymptotic arguments or rely on computationally intensive procedures such as the bootstrap. Conformal prediction (CP) is a machine learning framework for constructing prediction intervals with finite-sample and asymptotic coverage guarantees under mild conditions. We propose coupling CP with the SL through a natural construction that mirrors the original SL framework, using individual learner weights and combining learner-specific conformity scores via a weighted majority vote. We characterize the properties of the resulting SL-based prediction intervals for continuous outcomes. We cover settings under exchangeability, potential violations of exchangeability, and data-generating mechanisms exhibiting heteroscedasticity, sparsity, and other forms of distributional heterogeneity. A comprehensive simulation study shows that the conformalized SL achieves valid finite-sample coverage with competitive performance relative to the true data-generating mechanism. A central contribution of this work is an application to predicting creatinine levels using socio-demographic, biometric, and laboratory measurements. This example demonstrates the benefits of an ensemble with carefully selected learners designed to capture key aspects of complex regression functions, including non-linear effects, interactions, sparsity, heteroscedasticity, and robustness to outliers.R
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2026-04-23 — A Riesz Representer Perspective on Targeted Learning</strong></summary>
+
+<p>
+<strong>Authors</strong>: Salvador V. Balkus, C. Testa, N. Hejazi<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-04-23<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/7ddc578a75c3a585e209cea931fef41bff61e437">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: targeted minimum loss based estimation
+</p>
+<p><strong>Abstract</strong>:<br>
+As research in causal inference has sought to address more complex scientific questions, the number of specialized estimands in the field has proliferated. Recognition that many of these estimands share a common linear form has generated interest in simplifying estimation procedures using Riesz representers. In this work, we construct a targeted minimum loss-based estimation procedure for nested linear functionals, leveraging Riesz representers of a general recursive form. The proposed method unifies asymptotically efficient estimation for a variety of statistical estimands that originate in causal inference, including the effects of time-varying treatments under treatment-confounder feedback and direct and indirect effects from causal mediation analysis. We demonstrate how our proposal reduces the need for laborious and technically challenging mathematical derivations when constructing estimators of common statistical estimands under complex forms of censoring and sampling. We investigate and validate the properties of the proposed procedures in numerical experiments, discuss open-source software facilitating their implementation, and illustrate their application in a re-analysis of data from an HIV vaccine efficacy trial.
+</p>
+</details>
 
 <details class="paper-item">
   <summary><strong>2026-04-21 — Investigating Targeting Strategies and Truncation in TMLE for the Average Treatment Effect under Practical Positivity Violations</strong></summary>
@@ -1130,6 +1175,23 @@ Background: Interleukin-6 (IL-6) is a cytokine that plays a key role in systemic
 </p>
 <p><strong>Abstract</strong>:<br>
 128 Background: Men diagnosed with high-grade prostate cancer harbor increased rates of occult metastatic disease. We propose that features of the cancer in H&amp;E stained tissue sections from prostate needle biopsies can be used to predict metastatic disease at diagnosis. Methods: We analyzed 168 high-risk cases from the Greater Los Angeles VA (GLA VA), equally divided into non-metastatic with at least five years of follow-up after diagnosis (M0) or synchronous metastatic cases (M1), and 38 cases with metachronous metastases (M0-P). From each case we analyzed all available images of H&amp;E biopsies. Biases in the data were mitigated through supervised stratification and novel color augmentation strategies. Features were extracted from high-grade cancer tiles using 9 Foundation models. These embeddings served as input to a DTFT multiple instance learning (MIL) aggregator model that was trained de-novo to provide a metastatic risk (MR) score. The MR scores were combined with race, age and PSA clinical variables as a covariate in a linear regression or in a super learner to examine the contribution of each variable for the M1 prediction. Performance was assessed using 5-fold nested cross-validation. Results: The AUCs for prediction of metastasis at diagnosis ranged from 0.82 – 0.85. Addition of PSA and race further increased the AUC. A principle component analysis revealed explainable differences in the embeddings of M0 and M1 cases. Tiles used for M0/M1 discrimination by the aggregator model were further examined by analyzing the model’s attention on cancer and stroma regions. While the majority of the attention was in the cancer region in M0 cases, the attention in M1 cases was primarily in the stroma. Conclusions: We demonstrate that digital pathology slides from diagnostic prostate needle biopsies contain information for prostate cancer staging at diagnosis in a small, real-world cohort at VA. Using state-of-the-art Foundation models as feature extractors improves the accuracy of staging, in particular when the number of cases for training is small. Explainability of the feature embedding and classification tasks allows to examine what the models are learning and increases the confidence in the AI-generated results. Accuracy of metastasis prediction in VA cohort. Foundation model architecture MIL model MIL Model *AUC *Balanced Accuracy CONCH 80.86 ± 7.91 76.48 ± 5.77 HIBOU-B 85.82 ± 6.10 81.07 ± 6.20 MoCo v3 ResNetS0 80.36 ± 7.44 78.76 ± 5.81 Phikon 85.45 ± 5.70 80.59 ± 4.85 Phikon-v2 85.26 ± 6.25 80.83 ± 3.59 GigaPath (Prov-GigaPath) 85.17 ± 6.31 80.30 ± 4.21 UNI 86.03 ± 5.44 81.48 ± 4.33 UNl2-H 85.50 ± 7.45 82.02 ± 6.30 Virchow (1280d) 84.99 ± 6.51 83.12 ± 5.91 Virchow2 (1280d) 84.11 ± 6.87 78.64 ± 7.26 *Classification performance AUC and balanced accuracy (mean and std, %) using case-level bags on final tiles with a fixed feature setting and dino cls keep=4. Best result per column in bold.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2026-03-01 — Machine learning-based QSPR modeling for predicting the n-octanol/air partition coefficient of polybrominated diphenyl ethers</strong></summary>
+
+<p>
+<strong>Authors</strong>: Weimin Wu, Hao Chen, Zhaoqing Liu, Wanjun Yan, Daoming Wu, Jingfang Chen, Jun Liu, Zhilin Xing<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-03-01<br>
+<strong>Venue</strong>: iScience<br>
+<strong>DOI</strong>: 10.1016/j.isci.2026.115393<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/014bb38d08d1e533a06501dd3402ee96a650082c">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: super learner
+</p>
+<p><strong>Abstract</strong>:<br>
+Summary The n-octanol/air partition coefficient (KOA) governs the trans-media transport and exposure risk of polybrominated diphenyl ethers (PBDEs). This study utilizes a super learner ensemble—integrating random forest, support vector regression, and multiple linear regression—to predict KOA based on density functional theory (DFT) derived quantum-chemical descriptors. This framework estimates properties for 197 PBDE congeners within an applicability domain of log KOA 7.24–11.84. SHAP analysis identifies molecular polarizability and the most negative atomic charge as primary determinants, demonstrating that bromination modulates KOA via dispersion and electrostatic effects. The ensemble achieves a predictive accuracy of R2 = 0.981 and reduces extrapolation error by 32%–48% compared to individual algorithms. These findings provide high-precision estimates and mechanistic insights into the environmental fate of PBDEs, supporting hierarchical strategies for monitoring and managing high-mobility congeners effectively.
 </p>
 </details>
 
@@ -1509,6 +1571,22 @@ A targeted learning (TL) framework is developed to estimate the difference in th
 </p>
 <p><strong>Abstract</strong>:<br>
 Importance Clinical trials have produced inconclusive results regarding the optimal glucose range for a patient with sepsis in the intensive care unit (ICU) receiving insulin treatment. Objective To investigate the optimal glucose range in patients with sepsis in the ICU independent of confounding covariates. Design Targeted trial emulation of glucose ranges using causal inference targeted maximum likelihood estimation and longitudinal mixed-effects models combined with survival models. Setting Single-centre, academic referral hospital in Boston, Massachusetts, USA. Participants Adults fulfilling sepsis 3 criteria with at least three glucose readings and insulin treatment from the Medical Information Mart for Intensive Care (MIMIC)-IV database (2008–2019). Exposure Five predefined glucose distributions with means at 100, 130, 160 (baseline), 190 and 220 mg/dL mimicking current guidelines’ recommendations (140–180 mg/dL). Main outcome and measure The primary outcome was in-hospital mortality. Modified counterfactual treatment-policy risks across distinct time-weighted glucose ranges were estimated. Results Of 73 181 eligible patients, 8002 patients with a median age of 66 years (41% women, 67% white ethnicity, 57% diabetes) were included. There was a U-shaped curve between glucose range and mortality in patients without diabetes, but overall, this association was not significant (mean glucose at 100 mg/dL with 21% mortality and mean glucose at 220 mg/dL with 26% mortality, p-for-trend 0.26). Mortality was lowest at 17%, with mean glucose between 130 and 160 mg/dL. Hypoglycaemic events (&lt;80 mg/dL) became increasingly more frequent with tighter glucose control 16% at 220 mg/dL compared with 77% at 100 mg/dL (p-for-trend 0.01). Joint modelling corroborated these results and did not identify covariates that would favour lower glucose ranges in subsets of patients. Conclusion and relevance Our data suggest a U-shaped association of glucose and mortality with an optimal average glucose between 160 and 190 mg/dL. These results confirm current guideline recommendations. Together with recent results from randomised controlled trials, intensivists should aim for a liberal glucose range in most patients.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2026 — Water Depth Inversion by Fusion of Active and Passive Remote Sensing Imagery with Waves under the Super Learner-Neural ODE Framework</strong></summary>
+
+<p>
+<strong>Authors</strong>: Aijun Cui, Yi Ma, Jingyu Zhang, Ruifu Wang<br>
+<strong>Year</strong>: 2026<br>
+<strong>Venue</strong>: IEEE Transactions on Geoscience and Remote Sensing<br>
+<strong>DOI</strong>: 10.1109/tgrs.2026.3686415<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/ca866adb000099c3b4f1a55268f16726f53129fe">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: super learner
+</p>
+<p><strong>Abstract</strong>:<br>
+Abstract unavailable from Semantic Scholar.
 </p>
 </details>
 
@@ -2324,17 +2402,19 @@ Securing mobile communication channels is increasingly vital due to the growing 
 </details>
 
 <details class="paper-item">
-  <summary><strong>2025-10-25 — Causal Effect Estimation with TMLE: Handling Missing Data and Near-Violations of Positivity</strong></summary>
+  <summary><strong>2025-10-25 — Causal Effect Estimation With TMLE: Handling Missing Data and Near Violations of Positivity</strong></summary>
 
 <p>
-<strong>Authors</strong>: Christoph Wiederkehr, Christian Heumann, Michael L. Stein Dept. of Statistics, Ludwig-Maximilian-University Munich, Centre for Integrated Data, Epidemiological Research, C. Town, Institute of Health, Medical Decision Making, Health Technology Assessment, U. -. U. F. H. Sciences, Medical Informatics, Technology, Hall in Tirol, Munich Center for Machine Learning<br>
+<strong>Authors</strong>: Christoph Wiederkehr, C. Heumann, Michael Schomaker<br>
 <strong>Year</strong>: 2025<br>
 <strong>Publication Date</strong>: 2025-10-25<br>
+<strong>Venue</strong>: Biometrical Journal. Biometrische Zeitschrift<br>
+<strong>DOI</strong>: 10.1002/bimj.70134<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/8ff72ddadfc64382d00247dbc48ec1a0231d9990">Semantic Scholar</a><br>
 <strong>Matched Keywords</strong>: highly adaptive lasso, targeted maximum likelihood estimation, tmle
 </p>
 <p><strong>Abstract</strong>:<br>
-We evaluate the performance of targeted maximum likelihood estimation (TMLE) for estimating the average treatment effect in missing data scenarios under varying levels of positivity violations. We employ model- and design-based simulations, with the latter using undersmoothed highly adaptive lasso on the&#x27;WASH Benefits Bangladesh&#x27;dataset to mimic real-world complexities. Five missingness-directed acyclic graphs are considered, capturing common missing data mechanisms in epidemiological research, particularly in one-point exposure studies. These mechanisms include also not-at-random missingness in the exposure, outcome, and confounders. We compare eight missing data methods in conjunction with TMLE as the analysis method, distinguishing between non-multiple imputation (non-MI) and multiple imputation (MI) approaches. The MI approaches use both parametric and machine-learning models. Results show that non-MI methods, particularly complete cases with TMLE incorporating an outcome-missingness model, exhibit lower bias compared to all other evaluated missing data methods and greater robustness against positivity violations across. In Comparison MI with classification and regression trees (CART) achieve lower root mean squared error, while often maintaining nominal coverage rates. Our findings highlight the trade-offs between bias and coverage, and we recommend using complete cases with TMLE incorporating an outcome-missingness model for bias reduction and MI CART when accurate confidence intervals are the priority.
+ABSTRACT We evaluate the performance of targeted maximum likelihood estimation (TMLE) for estimating the average treatment effect in missing data scenarios under varying levels of positivity violations. We employ model‐ and design‐based simulations, with the latter using undersmoothed highly adaptive lasso on the “WASH Benefits Bangladesh” data set to mimic real‐world complexities. Five missingness‐directed acyclic graphs are considered, capturing common missing data mechanisms in epidemiological research, particularly in one‐point exposure studies. These mechanisms include also not‐at‐random missingness in the exposure, outcome, and confounders. We compare eight missing data methods in conjunction with TMLE as the analysis method, distinguishing between non‐multiple imputation (non‐MI) and multiple imputation (MI) approaches. The MI approaches use both parametric and machine learning models. Results show that non‐MI methods, particularly complete cases with TMLE incorporating an outcome‐missingness model, exhibit lower bias compared to all other evaluated missing data methods and greater robustness against positivity violations across. In comparison MI with classification and regression trees (CART) achieve lower root mean squared error, while often maintaining nominal coverage rates. Our findings highlight the trade‐offs between bias and coverage, and we recommend using complete cases with TMLE incorporating an outcome‐missingness model for bias reduction and MI CART when accurate confidence intervals are the priority.
 </p>
 </details>
 
@@ -5695,7 +5775,7 @@ The development of acute kidney injury (AKI) after the acute respiratory distres
   <summary><strong>2024-06-11 — A targeted likelihood estimation comparing cefepime and piperacillin/tazobactam in critically ill patients with community-acquired pneumonia (CAP)</strong></summary>
 
 <p>
-<strong>Authors</strong>: Cristian C Serrano-Mayorga, Sara Duque, Elsa D. Ibáñez-Prada, Esteban Garcia-Gallo, María P Rojas Arrieta, Alirio Bastidas, Alejandro Rodríguez, I. Martín-Loeches, L. F. Reyes<br>
+<strong>Authors</strong>: Cristian C Serrano-Mayorga, Sara Duque, Elsa D. Ibáñez-Prada, Esteban Garcia-Gallo, María P Rojas Arrieta, Alirio Bastidas, Alejandro Rodríguez, I. Martín-Loeches, Luis F. Reyes<br>
 <strong>Year</strong>: 2024<br>
 <strong>Publication Date</strong>: 2024-06-11<br>
 <strong>Venue</strong>: Scientific Reports<br>
@@ -8180,7 +8260,7 @@ In the contemporary world of increasingly data driven business, decision makers 
   <summary><strong>2023-03-20 — Antibiotic prescribing in remote versus face-to-face consultations for acute respiratory infections in English primary care: An observational study using TMLE</strong></summary>
 
 <p>
-<strong>Authors</strong>: E. Vestesson, K. de Corte, P. Chappell, E. Crellin, G. Clarke<br>
+<strong>Authors</strong>: E. Vestesson, K. D. De Corte, P. Chappell, E. Crellin, G. Clarke<br>
 <strong>Year</strong>: 2023<br>
 <strong>Publication Date</strong>: 2023-03-20<br>
 <strong>Venue</strong>: medRxiv<br>
