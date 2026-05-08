@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T07:00:26Z",
+  "generated_at": "2026-05-08T07:00:37Z",
   "source": "Semantic Scholar Graph API",
   "unauthenticated": true,
   "mode": "bulk",
@@ -18,7 +18,7 @@
   "query_stats": [
     {
       "keyword": "tmle",
-      "fetched_raw_count": 470
+      "fetched_raw_count": 475
     },
     {
       "keyword": "targeted maximum likelihood estimation",
@@ -26,11 +26,11 @@
     },
     {
       "keyword": "targeted minimum loss based estimation",
-      "fetched_raw_count": 337
+      "fetched_raw_count": 341
     },
     {
       "keyword": "super learner",
-      "fetched_raw_count": 999
+      "fetched_raw_count": 1000
     },
     {
       "keyword": "super learning",
@@ -38,85 +38,129 @@
     },
     {
       "keyword": "highly adaptive lasso",
-      "fetched_raw_count": 233
+      "fetched_raw_count": 234
     }
   ],
   "query_errors": [],
   "incomplete": false,
-  "fetched_paper_count": 846,
-  "newly_appended_count": 5,
-  "updated_existing_count": 3,
+  "fetched_paper_count": 853,
+  "newly_appended_count": 6,
+  "updated_existing_count": 4,
   "existing_blocked_removed": 0,
   "existing_duplicates_removed": 0,
   "newly_added_papers": [
     {
-      "title": "A Riesz Representer Perspective on Targeted Learning",
+      "title": "A CV-TMLE global test approach to improve power in rare disease clinical studies with multiple-component endpoints",
       "year": 2026,
       "authors": [
-        "Salvador V. Balkus",
-        "C. Testa",
-        "N. Hejazi"
+        "Tianyue Zhou",
+        "Susan Gruber",
+        "Hana Lee",
+        "Wonyul Lee",
+        "Lei Nie",
+        "M. V. D. Laan"
       ],
-      "publication_date": "2026-04-23",
+      "publication_date": "2026-05-04",
       "doi": null,
-      "paper_id": "7ddc578a75c3a585e209cea931fef41bff61e437"
+      "paper_id": "3d795c192e5d5d6a5eccc37c65db5f0f79a3b28d"
     },
     {
-      "title": "Conformalized Super Learner",
+      "title": "Adaptive Targeted Maximum Likelihood Estimation of the Mean Potential Outcome under a Treatment Rule",
       "year": 2026,
       "authors": [
-        "Zhan Wu",
-        "Fabrizio Leisen",
-        "M. Luque-fernandez",
-        "F. Rubio"
+        "Yichen Xu",
+        "M. V. D. Laan"
       ],
-      "publication_date": "2026-04-24",
+      "publication_date": "2026-05-03",
       "doi": null,
-      "paper_id": "99f409586d407c5c9aeb81619bdb6d69ea46ec06"
+      "paper_id": "0a62df0cdaac67f3b74b877b07978ecf5789972c"
     },
     {
-      "title": "Generative Synthetic Data for Causal Inference: Pitfalls, Remedies, and Opportunities",
+      "title": "Causal effect estimates of online e-cigarette marketing exposure on future e-cigarette harm perception and use",
       "year": 2026,
       "authors": [
-        "Yichen Xu"
+        "P. Harrell",
+        "Nicholas T Williams",
+        "Kara E. Rudolph",
+        "Rachel Ayala Guzman",
+        "Ateeqa Ijaz",
+        "N. Rychagov",
+        "Aaron Null",
+        "Silvia S. Martins"
       ],
-      "publication_date": "2026-04-26",
+      "publication_date": "2026-04-01",
+      "doi": "10.1016/j.dadr.2026.100436",
+      "paper_id": "2aab894560720feb123a1096f523445f1f2ab7ab"
+    },
+    {
+      "title": "Data-Adaptive and Model-Robust Covariate Adjustment for Time-to-Event Outcomes in Stratified Randomized Trials",
+      "year": 2026,
+      "authors": [
+        "Raphael C. Kim",
+        "Brian Gilbert",
+        "R. Zabih",
+        "Michele Santacatterina",
+        "Iván Díaz"
+      ],
+      "publication_date": "2026-04-30",
       "doi": null,
-      "paper_id": "ae53fb69d7c6be4b47095a785bbd89f586f42123"
+      "paper_id": "50437ae1e90e0dd78e926e22f5337f9405145c47"
     },
     {
-      "title": "Machine learning-based QSPR modeling for predicting the n-octanol/air partition coefficient of polybrominated diphenyl ethers",
+      "title": "Estimation of treatment effects in presence of differential use of post-randomization concomitant medication with time-to-event outcomes",
       "year": 2026,
-      "authors": [
-        "Weimin Wu",
-        "Hao Chen",
-        "Zhaoqing Liu",
-        "Wanjun Yan",
-        "Daoming Wu",
-        "Jingfang Chen",
-        "Jun Liu",
-        "Zhilin Xing"
-      ],
-      "publication_date": "2026-03-01",
-      "doi": "10.1016/j.isci.2026.115393",
-      "paper_id": "014bb38d08d1e533a06501dd3402ee96a650082c"
+      "authors": [],
+      "publication_date": "2026-05-07",
+      "doi": null,
+      "paper_id": "11326f95dd90214407a8d6b730ab076d65a4c4bc"
     },
     {
-      "title": "Water Depth Inversion by Fusion of Active and Passive Remote Sensing Imagery with Waves under the Super Learner-Neural ODE Framework",
+      "title": "Long-term dynamic effect of body mass index on adverse cardiovascular outcomes with targeted maximum likelihood estimation method: result from the KNOW-CKD study",
       "year": 2026,
       "authors": [
-        "Aijun Cui",
-        "Yi Ma",
-        "Jingyu Zhang",
-        "Ruifu Wang"
+        "Y. Oh",
+        "Jayoun Kim",
+        "Suah Sung",
+        "Soo Wan Kim",
+        "Yeong Hoon Kim",
+        "Kook-Hwan Oh",
+        "W. Chung",
+        "Young Yul Hyun",
+        "Ji Yong Jung"
       ],
-      "publication_date": null,
-      "doi": "10.1109/tgrs.2026.3686415",
-      "paper_id": "ca866adb000099c3b4f1a55268f16726f53129fe"
+      "publication_date": "2026-03-20",
+      "doi": "10.1038/s41598-026-45135-7",
+      "paper_id": "dfe21f34388d2e9f38c18cd1656d23bb4c79a18e"
     }
   ],
-  "paper_count": 988,
+  "paper_count": 994,
   "papers": [
+    {
+      "title": "A CV-TMLE global test approach to improve power in rare disease clinical studies with multiple-component endpoints",
+      "authors": [
+        "Tianyue Zhou",
+        "Susan Gruber",
+        "Hana Lee",
+        "Wonyul Lee",
+        "Lei Nie",
+        "M. V. D. Laan"
+      ],
+      "abstract": "Rare disease trials face unique statistical challenges due to limited patient populations and heterogeneous clinical manifestations among patients. Multiple endpoints are often necessary to comprehensively capture treatment benefits. A global test is an approach for evaluating whether a treatment has any beneficial effect across multiple endpoints. We propose a new global test based on a weighted composite endpoint. The proposed global test employs shrinkage-based cross-validated targeted maximum likelihood estimation (CV-TMLE) to learn data-adaptive weights that maximize power while maintaining Type I error control. Shrinkage can be tailored to incorporate existing domain knowledge, such as anticipated relative effect sizes. In simulation studies designed to reflect real rare disease trial settings, the proposed procedure demonstrated improved power over standard multiplicity adjustments and classical global tests (such as the O'Brien test), while maintaining nominal Type I error, when effects are heterogeneous across endpoints. The proposed method simultaneously learns an optimal weighted composite outcome and provides an unbiased and efficient targeted maximum likelihood estimator (TMLE) for the average treatment effect (ATE) on that weighted outcome, with valid inference taking into account that the ATE is data dependent.",
+      "year": 2026,
+      "publication_date": "2026-05-04",
+      "paper_id": "3d795c192e5d5d6a5eccc37c65db5f0f79a3b28d",
+      "url": "https://www.semanticscholar.org/paper/3d795c192e5d5d6a5eccc37c65db5f0f79a3b28d",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ]
+    },
     {
       "title": "A Riesz Representer Perspective on Targeted Learning",
       "authors": [
@@ -225,6 +269,54 @@
       ],
       "source_queries": [
         "super learner"
+      ]
+    },
+    {
+      "title": "Adaptive Targeted Maximum Likelihood Estimation of the Mean Potential Outcome under a Treatment Rule",
+      "authors": [
+        "Yichen Xu",
+        "M. V. D. Laan"
+      ],
+      "abstract": "Estimating the mean counterfactual outcome under a treatment rule is a central problem in causal inference and policy evaluation. Standard estimators, including inverse probability weighting (IPW), augmented IPW (AIPW), and targeted maximum likelihood estimation (TMLE), can become unstable under practical positivity violations because their targeting or weighting steps depend on inverse propensity scores. We propose an adaptive targeted maximum likelihood estimation (A-TMLE) framework that uses a data-adaptive working model for the conditional average treatment effect (CATE). This working model induces a projected policy-value parameter, which coincides with the nonparametric mean potential outcome when the CATE is well represented by the adaptive basis. We derive the efficient influence function for the projected parameter and characterize its second-order remainder. We also introduce a regularized TMLE that targets the nonparametric policy value using a stabilized targeting covariate obtained by projecting the standard TMLE clever covariate onto the score space induced by the CATE working model. We quantify the first-order plug-in bias of regularized TMLE relative to the nonparametric target. The resulting targeting steps avoid direct inverse propensity score weighting, improving stability under limited overlap. In simulations, A-TMLE and regularized TMLE achieve lower mean squared error and improved coverage compared with IPW, AIPW, and standard TMLE under practical positivity violations, while remaining competitive when treatment overlap is strong. A real-data application to the Right Heart Catheterization study illustrates that the adaptive estimators produce stable policy-value estimates with substantially shorter confidence intervals than IPW and AIPW.",
+      "year": 2026,
+      "publication_date": "2026-05-03",
+      "paper_id": "0a62df0cdaac67f3b74b877b07978ecf5789972c",
+      "url": "https://www.semanticscholar.org/paper/0a62df0cdaac67f3b74b877b07978ecf5789972c",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ]
+    },
+    {
+      "title": "Causal effect estimates of online e-cigarette marketing exposure on future e-cigarette harm perception and use",
+      "authors": [
+        "P. Harrell",
+        "Nicholas T Williams",
+        "Kara E. Rudolph",
+        "Rachel Ayala Guzman",
+        "Ateeqa Ijaz",
+        "N. Rychagov",
+        "Aaron Null",
+        "Silvia S. Martins"
+      ],
+      "abstract": "Background Globally, over 10 million youth use e-cigarettes; United States use, in particular, dramatically rose in the late 2010’s, exceeding year-over-year increases from any other substance in over four decades. This rise has been partially attributed to youth online e-cigarette marketing exposure, but has not been appropriately studied. Methods We examined youth data from the Population Assessment of Tobacco and Health (PATH) spanning the dramatic increase period (Waves 4, 4.5, and 5; 2016–2019). We estimated average risk differences (RD) for Wave 5 e-cigarette harmfulness perception and use comparing all youth versus no youth reporting past-month online e-cigarette marketing exposure in Waves 4 and 4.5. We used a doubly robust, nonparametric targeted minimum loss-based estimator (TMLE) to estimate RD, incorporating PATH survey weights. Initial analyses adjusted for demographics, mental health issues, and other forms of e-cigarette marketing. Subsequent analyses adjusted for frequency of social media use, other substance use, and tobacco (non-e-cigarette) use. Results Initial analyses estimated that online marketing was associated with a 9% decrease in e-cigarette harmfulness perception (RD=-0.09, 95% C=-0.12, −0.05), or a Risk Ratio (RR) of 0.85 (95% CI=0.80, 0.91), as well as a 4% increase in current e-cigarette use (RD=0.04, 95% CI=0.02, 0.06; RR=1.36, 95% CI=1.15, 1.62). However, after adjusting for additional potential time-varying confounding variables, point estimates were close to null with 95% confidence intervals spanning the null. Discussion Frequency of social media use, other substance use, and/or tobacco use may be important confounding variables related to marketing and e-cigarette use that require further investigation.",
+      "year": 2026,
+      "publication_date": "2026-04-01",
+      "paper_id": "2aab894560720feb123a1096f523445f1f2ab7ab",
+      "url": "https://www.semanticscholar.org/paper/2aab894560720feb123a1096f523445f1f2ab7ab",
+      "venue": "Drug and Alcohol Dependence Reports",
+      "doi": "10.1016/j.dadr.2026.100436",
+      "matched_keywords": [
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
       ]
     },
     {
@@ -361,6 +453,29 @@
       "source_queries": [
         "super learner",
         "super learning"
+      ]
+    },
+    {
+      "title": "Data-Adaptive and Model-Robust Covariate Adjustment for Time-to-Event Outcomes in Stratified Randomized Trials",
+      "authors": [
+        "Raphael C. Kim",
+        "Brian Gilbert",
+        "R. Zabih",
+        "Michele Santacatterina",
+        "Iván Díaz"
+      ],
+      "abstract": "Time-to-event outcomes are commonly used as primary endpoints in randomized clinical trials. Despite this, relatively little work incorporates baseline covariate information while also accounting for stratified randomization, a common form of randomization. Moreover, leveraging efficiency gains using these approaches typically requires pre-specifying a subset of covariates that are most predictive of the outcome -- a challenging task in practice, as most trials collect dozens of potentially prognostic baseline variables. In this work, we build on existing literature to propose a data-adaptive and model-robust covariate adjustment method for time-to-event outcomes. Our approach, based on targeted minimum loss-based estimation, allows for data-adaptive covariate selection and model-robust efficient inference on functionals of the survival curve while accounting for stratification. Through extensive simulations and analysis, we showcase the simplicity and improved precision of our method when the covariate set is not known a priori.",
+      "year": 2026,
+      "publication_date": "2026-04-30",
+      "paper_id": "50437ae1e90e0dd78e926e22f5337f9405145c47",
+      "url": "https://www.semanticscholar.org/paper/50437ae1e90e0dd78e926e22f5337f9405145c47",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "targeted minimum loss based estimation"
+      ],
+      "source_queries": [
+        "targeted minimum loss based estimation"
       ]
     },
     {
@@ -615,6 +730,24 @@
       ]
     },
     {
+      "title": "Estimation of treatment effects in presence of differential use of post-randomization concomitant medication with time-to-event outcomes",
+      "authors": [],
+      "abstract": "In placebo-controlled randomized trials, the post-randomization use of concomitant medications may be higher in the placebo arm than in the treatment arm. This may dilute the full benefits of the randomized drug as estimated by the intention-to-treat analysis. We focus on cardiovascular outcomes trials in type-2 diabetes patients of glucose-lowering treatments where patients in the placebo arm are more likely to add other glucose-lowering agents with established cardio-protective properties. As a supplement to the intention-to-treat analysis, we propose a class of estimands within a causal framework that isolates the specific impact of the treatment being studied from that of concomitant treatment use. These estimands are defined under time-dependent treatment interventions to balance exposure to additional medications across intervention arms. We advocate for specific stochastic interventions to achieve this balance while minimizing positivity violations, which arise when certain treatment combinations or characteristics are not sufficiently represented in the data. We employ targeted minimum loss-based estimation (TMLE) to optimize the estimation procedure for our estimands while allowing for flexible adjustments for time-dependent covariates from follow-up visits. Finally, we demonstrate the application of the methods through a simulation study and a real-world example from the LEADER cardiovascular outcomes trial, which assessed cardiovascular risk for liraglutide versus placebo.",
+      "year": 2026,
+      "publication_date": "2026-05-07",
+      "paper_id": "11326f95dd90214407a8d6b730ab076d65a4c4bc",
+      "url": "https://www.semanticscholar.org/paper/11326f95dd90214407a8d6b730ab076d65a4c4bc",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "targeted minimum loss based estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "targeted minimum loss based estimation"
+      ]
+    },
+    {
       "title": "Evaluating the impact of longitudinal treatment strategies in the presence of informative monitoring and time-dependent confounding",
       "authors": [
         "Leah Pirondini",
@@ -768,7 +901,7 @@
         "M. V. D. Laan",
         "Carlos García-Meixide"
       ],
-      "abstract": "The Highly Adaptive Lasso (HAL) is a nonparametric regression method that achieves almost dimension-free convergence rates under minimal smoothness assumptions, but its implementation can be computationally prohibitive in high dimensions due to the large basis matrix it requires. The Highly Adaptive Ridge (HAR) has been proposed as a scalable alternative. Building on both procedures, we introduce the Principal Component based Highly Adaptive Lasso (PCHAL) and Principal Component based Highly Adaptive Ridge (PCHAR). These estimators constitute an outcome-blind dimension reduction which offer substantial gains in computational efficiency and match the empirical performances of HAL and HAR. We also uncover a striking spectral link between the leading principal components of the HAL/HAR Gram operator and a discrete sinusoidal basis, revealing an explicit Fourier-type structure underlying the PC truncation.",
+      "abstract": "The Highly Adaptive Lasso (HAL) is a nonparametric regression method that achieves almost dimension-free convergence rates under minimal smoothness assumptions, but its implementation can be computationally prohibitive in high dimensions due to the large design matrix it requires. The Highly Adaptive Ridge (HAR) has been proposed as a related ridge-regularized analogue. Building on both procedures, we introduce the Principal Component Highly Adaptive Lasso (PCHAL) and Principal Component Highly Adaptive Ridge (PCHAR). These estimators use an outcome-blind principal-component reduction of the HAL basis, offering substantial computational gains over HAL while achieving empirical performance comparable to HAL and HAR. We also describe an early-stopped gradient descent variant, which provides a convenient form of smooth spectral regularization without explicitly selecting a hard principal-component cutoff. Finally, we uncover that under special circumstances, the HAL kernel is identical to the covariance function of Brownian motion.",
       "year": 2026,
       "publication_date": "2026-02-11",
       "paper_id": "dd7e57a2dfd645e4a11e88d7c6ee884af835df89",
@@ -877,6 +1010,34 @@
       ],
       "source_queries": [
         "targeted maximum likelihood estimation",
+        "tmle"
+      ]
+    },
+    {
+      "title": "Long-term dynamic effect of body mass index on adverse cardiovascular outcomes with targeted maximum likelihood estimation method: result from the KNOW-CKD study",
+      "authors": [
+        "Y. Oh",
+        "Jayoun Kim",
+        "Suah Sung",
+        "Soo Wan Kim",
+        "Yeong Hoon Kim",
+        "Kook-Hwan Oh",
+        "W. Chung",
+        "Young Yul Hyun",
+        "Ji Yong Jung"
+      ],
+      "abstract": "The relationship between body mass index (BMI) and cardiovascular outcomes in chronic kidney disease (CKD) remains controversial. While the obesity paradox has been observed in this population, the impact of longitudinal BMI patterns over time is not well established. In this study, we investigated the association between BMI trajectories and the risk of cardiovascular events (CVEs) using data from 1061 patients enrolled in the Korean Cohort Study for Outcome in Patients With Chronic Kidney Disease (KNOW-CKD). BMI was categorized as high (≥ 23 kg/m2) or low (< 23 kg/m2), and assessed at three time points over a 7-year period. We applied targeted maximum likelihood estimation (TMLE) and marginal structural models (MSMs) to adjust for time-varying covariates, including estimated glomerular filtration rate, blood pressure, hemoglobin, albumin, and C-reactive protein, as well as baseline demographic and clinical characteristics. Patients with persistently high BMI had a significantly reduced risk of CVEs (relative risk 0.279; 95% CI 0.143–0.546; P < 0.001) compared to those with consistently low BMI. Transient increases or decreases in BMI did not show the same benefit. Our findings suggest that sustained high BMI may be protective against cardiovascular events in patients with CKD, challenging current weight management recommendations and supporting individualized approaches based on long-term risk profiles. Supplementary Information The online version contains supplementary material available at 10.1038/s41598-026-45135-7.",
+      "year": 2026,
+      "publication_date": "2026-03-20",
+      "paper_id": "dfe21f34388d2e9f38c18cd1656d23bb4c79a18e",
+      "url": "https://www.semanticscholar.org/paper/dfe21f34388d2e9f38c18cd1656d23bb4c79a18e",
+      "venue": "Scientific Reports",
+      "doi": "10.1038/s41598-026-45135-7",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
         "tmle"
       ]
     },
@@ -19482,7 +19643,7 @@
     {
       "title": "Machine learning in the estimation of causal effects: targeted minimum loss-based estimation and double/debiased machine learning.",
       "authors": [
-        "I. Díaz"
+        "Iván Díaz"
       ],
       "abstract": "In recent decades, the fields of statistical and machine learning have seen a revolution in the development of data-adaptive regression methods that have optimal performance under flexible, sometimes minimal, assumptions on the true regression functions. These developments have impacted all areas of applied and theoretical statistics and have allowed data analysts to avoid the biases incurred under the pervasive practice of parametric model misspecification. In this commentary, I discuss issues around the use of data-adaptive regression in estimation of causal inference parameters. To ground ideas, I focus on two estimation approaches with roots in semi-parametric estimation theory: targeted minimum loss-based estimation (TMLE; van der Laan and Rubin, 2006) and double/debiased machine learning (DML; Chernozhukov and others, 2018). This commentary is not comprehensive, the literature on these topics is rich, and there are many subtleties and developments which I do not address. These two frameworks represent only a small fraction of an increasingly large number of methods for causal inference using machine learning. To my knowledge, they are the only methods grounded in statistical semi-parametric theory that also allow unrestricted use of data-adaptive regression techniques.",
       "year": 2019,
@@ -22513,7 +22674,7 @@
     {
       "title": "Efficient Estimation of Quantiles in Missing Data Models",
       "authors": [
-        "I. Díaz"
+        "Iván Díaz"
       ],
       "abstract": "We propose a novel targeted maximum likelihood estimator (TMLE) for quantiles in semiparametric missing data models. Our proposed estimator is locally efficient, $\\sqrt{n}$-consistent, asymptotically normal, and doubly robust, under regularity conditions. We use Monte Carlo simulation to compare our proposed method to existing estimators. The TMLE is superior to all competitors, with relative efficiency up to three times smaller than the inverse probability weighted estimator (IPW), and up to two times smaller than the augmented IPW. This research is motivated by a causal inference research question with highly variable treatment assignment probabilities, and a heavy tailed, highly variable outcome. Estimation of causal effects on the mean is a hard problem in such scenarios because the information bound is generally small. In our application, the efficiency bound for estimating the effect on the mean is possibly infinite. This rules out $\\sqrt{n}$-consistent inference and reduces the power for testing hypothesis of no treatment effect on the mean. In our simulations, using the effect on the median allows us to test a location-shift hypothesis with 30\\% more power. This allows us to make claims about the effectiveness of treatment that would have hard to make for the effect on the mean. We provide R code to implement the proposed estimators.",
       "year": 2015,
@@ -22647,7 +22808,7 @@
     {
       "title": "Second-Order Inference for the Mean of a Variable Missing at Random",
       "authors": [
-        "I. Díaz",
+        "Iván Díaz",
         "M. Carone",
         "M. J. van der Laan"
       ],
