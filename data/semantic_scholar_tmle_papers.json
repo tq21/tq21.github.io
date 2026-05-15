@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T07:00:37Z",
+  "generated_at": "2026-05-15T07:00:32Z",
   "source": "Semantic Scholar Graph API",
   "unauthenticated": true,
   "mode": "bulk",
@@ -18,7 +18,7 @@
   "query_stats": [
     {
       "keyword": "tmle",
-      "fetched_raw_count": 475
+      "fetched_raw_count": 479
     },
     {
       "keyword": "targeted maximum likelihood estimation",
@@ -30,7 +30,7 @@
     },
     {
       "keyword": "super learner",
-      "fetched_raw_count": 1000
+      "fetched_raw_count": 1005
     },
     {
       "keyword": "super learning",
@@ -43,97 +43,80 @@
   ],
   "query_errors": [],
   "incomplete": false,
-  "fetched_paper_count": 853,
-  "newly_appended_count": 6,
-  "updated_existing_count": 4,
+  "fetched_paper_count": 858,
+  "newly_appended_count": 5,
+  "updated_existing_count": 5,
   "existing_blocked_removed": 0,
   "existing_duplicates_removed": 0,
   "newly_added_papers": [
     {
-      "title": "A CV-TMLE global test approach to improve power in rare disease clinical studies with multiple-component endpoints",
+      "title": "Early Dexmedetomidine in Ventilated Acute Myocardial Infarction: A Target Trial Emulation Using MIMIC‐IV",
       "year": 2026,
       "authors": [
-        "Tianyue Zhou",
-        "Susan Gruber",
-        "Hana Lee",
-        "Wonyul Lee",
-        "Lei Nie",
-        "M. V. D. Laan"
+        "Shengkai Wang",
+        "Dong Chang",
+        "Fang Peng",
+        "Yiping He"
       ],
-      "publication_date": "2026-05-04",
-      "doi": null,
-      "paper_id": "3d795c192e5d5d6a5eccc37c65db5f0f79a3b28d"
+      "publication_date": "2026-01-01",
+      "doi": "10.1155/joic/5946180",
+      "paper_id": "a9c24f7578dcc7df45e25ea3a06470a22157fffc"
     },
     {
-      "title": "Adaptive Targeted Maximum Likelihood Estimation of the Mean Potential Outcome under a Treatment Rule",
+      "title": "Estimating depression risk differences between sexual minority and heterosexual young adults using targeted maximum likelihood estimation and Super Learner",
       "year": 2026,
       "authors": [
-        "Yichen Xu",
-        "M. V. D. Laan"
+        "J. Lu",
+        "David H. Rehkopf",
+        "M. Odden"
       ],
-      "publication_date": "2026-05-03",
-      "doi": null,
-      "paper_id": "0a62df0cdaac67f3b74b877b07978ecf5789972c"
+      "publication_date": "2026-06-01",
+      "doi": "10.1016/j.ssmmh.2026.100649",
+      "paper_id": "79560fa0d65fd0feb538a0fd3ec950b314e5e7f6"
     },
     {
-      "title": "Causal effect estimates of online e-cigarette marketing exposure on future e-cigarette harm perception and use",
+      "title": "PS1-10. Causal Inference Analysis of Full- vs. Half-dose PRRS Vaccination Protocols on Nursery Feed Conversion and Mortality in One Swine Production System",
       "year": 2026,
       "authors": [
-        "P. Harrell",
-        "Nicholas T Williams",
-        "Kara E. Rudolph",
-        "Rachel Ayala Guzman",
-        "Ateeqa Ijaz",
-        "N. Rychagov",
-        "Aaron Null",
-        "Silvia S. Martins"
+        "L. Clemente",
+        "A. P. S. P. Silva",
+        "Daniel Linhares",
+        "Edison S Magalhães"
       ],
       "publication_date": "2026-04-01",
-      "doi": "10.1016/j.dadr.2026.100436",
-      "paper_id": "2aab894560720feb123a1096f523445f1f2ab7ab"
+      "doi": "10.1093/jas/skag107.320",
+      "paper_id": "eb4186ec57abbc9edb17f0b9f3320d683fe1fdef"
     },
     {
-      "title": "Data-Adaptive and Model-Robust Covariate Adjustment for Time-to-Event Outcomes in Stratified Randomized Trials",
+      "title": "XAI Based Early Menopause Detection using Super Learner and Discriminant Analysis",
       "year": 2026,
       "authors": [
-        "Raphael C. Kim",
-        "Brian Gilbert",
-        "R. Zabih",
-        "Michele Santacatterina",
-        "Iván Díaz"
+        "Mercy Paul Selvan",
+        "S. Sahana",
+        "D. KalaivaniS",
+        "S. Lekhana",
+        "Kalyani Parida",
+        "S. Prince"
       ],
-      "publication_date": "2026-04-30",
-      "doi": null,
-      "paper_id": "50437ae1e90e0dd78e926e22f5337f9405145c47"
+      "publication_date": "2026-03-26",
+      "doi": "10.1109/icdsaai69492.2026.11505151",
+      "paper_id": "661cc645e7ecaa207203f5fddb6b28f5640a5b63"
     },
     {
-      "title": "Estimation of treatment effects in presence of differential use of post-randomization concomitant medication with time-to-event outcomes",
-      "year": 2026,
-      "authors": [],
-      "publication_date": "2026-05-07",
-      "doi": null,
-      "paper_id": "11326f95dd90214407a8d6b730ab076d65a4c4bc"
-    },
-    {
-      "title": "Long-term dynamic effect of body mass index on adverse cardiovascular outcomes with targeted maximum likelihood estimation method: result from the KNOW-CKD study",
-      "year": 2026,
+      "title": "Data-Adaptive Selection of the Propensity Score Truncation Level for Inverse Probability Weighted and Targeted Maximum Likelihood Estimators of Marginal Point Treatment Effects.",
+      "year": 2022,
       "authors": [
-        "Y. Oh",
-        "Jayoun Kim",
-        "Suah Sung",
-        "Soo Wan Kim",
-        "Yeong Hoon Kim",
-        "Kook-Hwan Oh",
-        "W. Chung",
-        "Young Yul Hyun",
-        "Ji Yong Jung"
+        "Susan Gruber",
+        "Rachael V. Phillips",
+        "Hana Lee",
+        "M. J. van der Laan"
       ],
-      "publication_date": "2026-03-20",
-      "doi": "10.1038/s41598-026-45135-7",
-      "paper_id": "dfe21f34388d2e9f38c18cd1656d23bb4c79a18e"
+      "publication_date": "2022-05-04",
+      "doi": "10.1093/aje/kwac087",
+      "paper_id": "af0b42dc7d2244060d0cb0d35e74068b5a07a777"
     }
   ],
-  "paper_count": 994,
+  "paper_count": 999,
   "papers": [
     {
       "title": "A CV-TMLE global test approach to improve power in rare disease clinical studies with multiple-component endpoints",
@@ -562,6 +545,29 @@
       ]
     },
     {
+      "title": "Early Dexmedetomidine in Ventilated Acute Myocardial Infarction: A Target Trial Emulation Using MIMIC‐IV",
+      "authors": [
+        "Shengkai Wang",
+        "Dong Chang",
+        "Fang Peng",
+        "Yiping He"
+      ],
+      "abstract": "Sedation choice may influence outcomes in acute myocardial infarction (AMI) patients requiring invasive mechanical ventilation (IMV). Dexmedetomidine (DEX) provides arousable sedation with sympatholytic effects and is guideline‐endorsed, but data in ventilated AMI patients—particularly for intermediate‐term mortality—are limited. To evaluate the association between early DEX initiation and 90‐day all‐cause mortality among AMI patients starting IMV. Retrospective cohort and target trial emulation using the MIMIC‐IV database. Adults with AMI admitted to the ICU who initiated their first IMV episode within 7 days were included. Time zero (t0) was the start of IMV. Admissions involving cardiac surgery procedures were excluded. The final analytic cohort comprised 2024 patients (266 received early DEX). Early DEX, defined as initiation within 24 h after t0, versus no early DEX. The primary outcome was 90‐day all‐cause mortality from t0. The secondary outcome was ventilator‐free days to Day 28 (VFD‐28). The primary analysis used a covariate‐balancing propensity score (CBPS) with stabilized inverse probability weights and a weighted Cox model with robust, patient‐clustered standard errors. Prespecified sensitivity analyses included IPTW‐Cox with weight truncation, targeted maximum likelihood estimation (TMLE), 30‐day mortality, and exclusion of out‐of‐hospital cardiac arrest (OHCA). Among 2024 eligible patients, early DEX use was associated with a lower hazard of 90‐day mortality (HR 0.572; 95% CI 0.441–0.742; p < 0.001) and more ventilator‐free days (mean difference 4.94 days; 95% CI 3.49–6.40; p < 0.001). Sensitivity analyses were directionally consistent, and postweighting covariate balance met prespecified targets. In this target trial emulation of AMI patients requiring IMV, early initiation of DEX within 24 h was associated with lower 90‐day mortality and more ventilator‐free days. Findings were consistent across multiple analytic approaches and cohort restrictions but remain observational and should not be interpreted as establishing causality. Prospective studies are warranted to confirm causality, define safety boundaries, and guide patient selection.",
+      "year": 2026,
+      "publication_date": "2026-01-01",
+      "paper_id": "a9c24f7578dcc7df45e25ea3a06470a22157fffc",
+      "url": "https://www.semanticscholar.org/paper/a9c24f7578dcc7df45e25ea3a06470a22157fffc",
+      "venue": "Journal of interventional cardiology",
+      "doi": "10.1155/joic/5946180",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
+      ]
+    },
+    {
       "title": "Effects of long-term time-weighted fine particulate matter components and ozone exposure on incident cardiovascular disease and the mediating roles of metabolic risk factors.",
       "authors": [
         "F. Wen",
@@ -682,6 +688,29 @@
       ]
     },
     {
+      "title": "Estimating depression risk differences between sexual minority and heterosexual young adults using targeted maximum likelihood estimation and Super Learner",
+      "authors": [
+        "J. Lu",
+        "David H. Rehkopf",
+        "M. Odden"
+      ],
+      "abstract": "",
+      "year": 2026,
+      "publication_date": "2026-06-01",
+      "paper_id": "79560fa0d65fd0feb538a0fd3ec950b314e5e7f6",
+      "url": "https://www.semanticscholar.org/paper/79560fa0d65fd0feb538a0fd3ec950b314e5e7f6",
+      "venue": "SSM - Mental Health",
+      "doi": "10.1016/j.ssmmh.2026.100649",
+      "matched_keywords": [
+        "super learner",
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "super learner",
+        "targeted maximum likelihood estimation"
+      ]
+    },
+    {
       "title": "Estimating optimal interpretable individualized treatment regimes from a classification perspective using adaptive LASSO",
       "authors": [
         "Yunshu Zhang",
@@ -731,7 +760,14 @@
     },
     {
       "title": "Estimation of treatment effects in presence of differential use of post-randomization concomitant medication with time-to-event outcomes",
-      "authors": [],
+      "authors": [
+        "H. Rytgaard",
+        "E. Fong",
+        "J. Tarp",
+        "Thomas A. Gerds",
+        "M. V. D. Laan",
+        "Henrik Ravn"
+      ],
       "abstract": "In placebo-controlled randomized trials, the post-randomization use of concomitant medications may be higher in the placebo arm than in the treatment arm. This may dilute the full benefits of the randomized drug as estimated by the intention-to-treat analysis. We focus on cardiovascular outcomes trials in type-2 diabetes patients of glucose-lowering treatments where patients in the placebo arm are more likely to add other glucose-lowering agents with established cardio-protective properties. As a supplement to the intention-to-treat analysis, we propose a class of estimands within a causal framework that isolates the specific impact of the treatment being studied from that of concomitant treatment use. These estimands are defined under time-dependent treatment interventions to balance exposure to additional medications across intervention arms. We advocate for specific stochastic interventions to achieve this balance while minimizing positivity violations, which arise when certain treatment combinations or characteristics are not sufficiently represented in the data. We employ targeted minimum loss-based estimation (TMLE) to optimize the estimation procedure for our estimands while allowing for flexible adjustments for time-dependent covariates from follow-up visits. Finally, we demonstrate the application of the methods through a simulation study and a real-world example from the LEADER cardiovascular outcomes trial, which assessed cardiovascular risk for liraglutide versus placebo.",
       "year": 2026,
       "publication_date": "2026-05-07",
@@ -744,7 +780,8 @@
         "tmle"
       ],
       "source_queries": [
-        "targeted minimum loss based estimation"
+        "targeted minimum loss based estimation",
+        "tmle"
       ]
     },
     {
@@ -1249,6 +1286,29 @@
       ]
     },
     {
+      "title": "PS1-10. Causal Inference Analysis of Full- vs. Half-dose PRRS Vaccination Protocols on Nursery Feed Conversion and Mortality in One Swine Production System",
+      "authors": [
+        "L. Clemente",
+        "A. P. S. P. Silva",
+        "Daniel Linhares",
+        "Edison S Magalhães"
+      ],
+      "abstract": "Porcine Reproductive and Respiratory Syndrome (PRRS) causes major economic losses in swine production through reduced growth and increased mortality. While modified live virus (MLV) vaccination is common, some producers opt for a half-dose protocol as a cost-saving practice in low prevalence scenarios. This study evaluated the impact of switching from a half-dose to a full-dose sow vaccination on nursery mortality and feed conversion ratio (FCR). A retrospective cohort study was conducted for one U.S. swine company, analyzing 4,880 finisher batches (approximately 4,400,000 piglets) marketed between June 2024 and August 2025. The study included 49 Midwest sow farms that transitioned from half-dose to full-dose PRRS MLV vaccine during a period of high disease pressure (Full: 870 batches, Half: 4,010 batches). First, we developed a data pipeline to integrate historical data from these farms, creating a master table where each record represented a complete wean-to-finish batch. Subsequently, for the causal inference analysis, we define the PRRS vaccination protocol as the exposure, and nursery mortality and FCR as the outcomes. We employed Targeted Maximum Likelihood Estimation (TMLE) to adjust for confounders. The model included sow farm data, such as season, pre-wean mortality, abortion rate, gilt litters ratio, weaning age, female mortality, disease diagnosis, PRRS status and PRRSV lineage. In nurseries, unadjusted mortality favored half-dose vaccination (Full: 0.099 vs Half: 0.079). However, after TMLE adjustment, there was evidence of a significant decline in mortality between groups (Adj. Mortality: Full: 0.053 vs Half: 0.084, p = 0.03). For FCR, unadjusted means favored full-dose vaccination (Full: 1.415 vs Half: 1.443), but TMLE adjustment found no statistical evidence of a difference (Adj. FCR: Full: 1.47 vs Half: 1.44, p = 0.07). The low R-squared values (2.49% for FCR and 28.07% for mortality) indicate that the models explain a small portion of the total variance in FCR. This is expected in pig production, where these complex traits are influenced by numerous genetic, microbial, nutritional, and environmental factors not fully captured by the model. These findings reinforce the limitation of relying on raw means for decision-making. A decision based on unadjusted data would have failed to detect the significant improvement in nursery mortality associated with the full-dose protocol. This demonstrates that causal inference methodologies are indispensable for accurately evaluating production interventions in the field. The results provide a clear directive: the full-dose protocol significantly reduces nursery mortality without compromising feed efficiency, establishing it as a superior strategic choice.",
+      "year": 2026,
+      "publication_date": "2026-04-01",
+      "paper_id": "eb4186ec57abbc9edb17f0b9f3320d683fe1fdef",
+      "url": "https://www.semanticscholar.org/paper/eb4186ec57abbc9edb17f0b9f3320d683fe1fdef",
+      "venue": "Journal of Animal Science",
+      "doi": "10.1093/jas/skag107.320",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
+      ]
+    },
+    {
       "title": "Sodium Correction Rates and Associated Outcomes Among Patients With Severe Hyponatremia : A Retrospective Cohort Study.",
       "authors": [
         "D. G. Mark",
@@ -1377,20 +1437,20 @@
       ]
     },
     {
-      "title": "Water Depth Inversion by Fusion of Active and Passive Remote Sensing Imagery with Waves under the Super Learner-Neural ODE Framework",
+      "title": "Water Depth Inversion by Fusion of Active and Passive Remote Sensing Imagery With Waves Under the Super Learner–Neural ODE Framework",
       "authors": [
         "Aijun Cui",
         "Yi Ma",
         "Jingyu Zhang",
         "Ruifu Wang"
       ],
-      "abstract": "",
+      "abstract": "Most active and passive remote sensing imagery acquired over marine areas contains wave textures, presenting both challenges and opportunities for water depth retrieval. Although wave phenomena hinder water depth estimation via optical radiative transfer in passive remote sensing, they form the foundation of bathymetric methods based on wave texture analysis. The synergistic use of active and passive imagery with wave textures helps to mitigate these adverse effects in certain inversion approaches. By integrating the inversion results from both data types—accounting for their distinct imaging mechanisms and depth detection theories—their complementary advantages can be effectively combined. To this end, a new fusion method based on a super learner–neural ODE (SL-NODE) ensemble is proposed. This two-stage framework implements a decision-level fusion strategy: multiple classical machine learning models act as base learners in the first stage, and the neural ordinary differential equation (Neural ODE) serves as the metalearner in the second. Outputs from the first-stage models are combined via cross validation and subsequently refined by the neural ODE to produce the final water depth estimates. In the range of 0–40-m depth range, the fused results exhibit reductions of over 17% in mean relative error (MRE) and more than 3 m in mean absolute error (MAE) compared to those from individual inversion methods. Moreover, the proposed ensemble achieves superior fusion accuracy to any single-classical machine learning model. The integration of multisource data and diverse inversion techniques significantly enhances the accuracy and utility of water depth retrieval from imagery with wave phenomena.",
       "year": 2026,
       "publication_date": null,
       "paper_id": "ca866adb000099c3b4f1a55268f16726f53129fe",
       "url": "https://www.semanticscholar.org/paper/ca866adb000099c3b4f1a55268f16726f53129fe",
       "venue": "IEEE Transactions on Geoscience and Remote Sensing",
-      "doi": "10.1109/tgrs.2026.3686415",
+      "doi": "10.1109/TGRS.2026.3686415",
       "matched_keywords": [
         "super learner"
       ],
@@ -1423,6 +1483,30 @@
       ],
       "source_queries": [
         "targeted maximum likelihood estimation"
+      ]
+    },
+    {
+      "title": "XAI Based Early Menopause Detection using Super Learner and Discriminant Analysis",
+      "authors": [
+        "Mercy Paul Selvan",
+        "S. Sahana",
+        "D. KalaivaniS",
+        "S. Lekhana",
+        "Kalyani Parida",
+        "S. Prince"
+      ],
+      "abstract": "The early detection of menopause is essential for ensuring women’s good health status. This paper presents an Explainable Artificial Intelligence-based machine learning approach for predicting the early onset of menopause using various types of data, including physiological, biochemical, psychological, lifestyle, and text information. The machine learning techniques we will apply include Linear Discriminant Analysis (LDA), Quadratic Discriminant Analysis (QDA), Random Forest (RF), and Super Learner (SL), because they account for complex relationships among features. The main biological and psychological characteristics taken into account in our research include weight fluctuations, anxiety disorders, irritability, insomnia, irregular menstrual periods, and hot flashes. Additionally, our study will cover biochemical markers including estrogen, follicle-stimulating hormone (FSH), and body mass index (BMI). Moreover, we will investigate the effects of smoking, drinking alcohol, and physical exercise. To select appropriate features, we will adopt the LASSO approach. To achieve model interpretability, the SHAP framework will be employed. SHAP stands for Shapley Additive Explanations, a method for interpreting machine learning model outputs based on feature contributions. We will evaluate the performance of our models in terms of accuracy, precision, recall, F1-score, and the Receiver Operating Characteristic (ROC) Area Under the Curve (AUC). The experimental results reveal the superiority of the Super Learner ensembles over single machine learning algorithms, thus illustrating the applicability of the ensemble learning approach for predicting early menopause onset. The experimental results show that the Explainable Artificial Intelligence approach is vital for making machine learning models more understandable and trustworthy for medical applications.",
+      "year": 2026,
+      "publication_date": "2026-03-26",
+      "paper_id": "661cc645e7ecaa207203f5fddb6b28f5640a5b63",
+      "url": "https://www.semanticscholar.org/paper/661cc645e7ecaa207203f5fddb6b28f5640a5b63",
+      "venue": "2026 International Conference on Data Science, Agents and Artificial Intelligence (ICDSAAI)",
+      "doi": "10.1109/ICDSAAI69492.2026.11505151",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
       ]
     },
     {
@@ -1589,16 +1673,16 @@
       "title": "A Comparative Analysis in a Clinical Cohort: Multiple Imputation by Chained Equations and a Novel Super Learner-Based Imputation Approach",
       "authors": [
         "Tony Zbysinski",
-        "PhD Lezhou Wu",
-        "PhD Justin Dale",
-        "James Coates",
-        "MS Karan Sapiah",
-        "MS Jamie Reuben",
+        "Lezhou Wu",
+        "J. Dale",
+        "J. Coates",
+        "K. Sapiah",
+        "J. Reuben",
         "F. Markson",
         "U. Kulkarni",
         "Nazmul Islam"
       ],
-      "abstract": "",
+      "abstract": "BackgroundMissing data is a challenge in clinical research, especially in real-world data (RWD), where complete case analysis can bias results and reduce power. Ensemble learning approaches like Super Learner (SL) show strong numerical performance for prediction problems, but their use for missing value imputation (MVI) in oncology datasets is unexplored. We sought to develop and evaluate a novel SL-based imputation function that can impute multiple variables and quantify uncertainty. MethodsWe analyzed two independent cohorts of acute myeloid leukemia patients (n=1641). The SL-based MVI function includes data processing, predictor selection, binary and continuous variable pipelines, and performance measurement. Performance was compared to multiple imputation by chained equations (MICE) using balanced accuracy, F1-score, root mean square error (RMSE), and visualizations. ResultsIn a numerical experiment with 9 clinically important features, the proposed MVI function imputed and achieved higher balanced accuracy than MICE for 7/9 variables (mean balanced accuracy 89.04% vs 80.75%) with comparable performance for other variables. The continuous variable SL ensemble showed comparable RMSE (582) relative to MICE (597). ConclusionsThis study demonstrates that the SL-based imputation function improves accuracy over MICE in high-dimensional RWD while providing novel, observation-level uncertainty quantification.",
       "year": 2025,
       "publication_date": "2025-11-28",
       "paper_id": "5c8c312d97885add07e70e3037540302843ea30f",
@@ -1609,8 +1693,7 @@
         "super learner"
       ],
       "source_queries": [
-        "super learner",
-        "super learning"
+        "super learner"
       ]
     },
     {
@@ -11089,7 +11172,7 @@
       "authors": [
         "H. Rytgaard",
         "A. Møller",
-        "Thomas Gerds"
+        "Thomas A. Gerds"
       ],
       "abstract": "In situations with non-manipulable exposures, interventions can be targeted to shift the distribution of intermediate variables between exposure groups to define interventional disparity indirect effects. In this work, we present a theoretical study of identification and nonparametric estimation of the interventional disparity indirect effect among the exposed. The targeted estimand is intended for applications examining the outcome risk among an exposed population for which the risk is expected to be reduced if the distribution of a mediating variable was changed by a (hypothetical) policy or health intervention that targets the exposed population specifically. We derive the nonparametric efficient influence function, study its double robustness properties and present a targeted minimum loss-based estimation (TMLE) procedure. All theoretical results and algorithms are provided for both uncensored and right-censored survival outcomes. With offset in the ongoing discussion of the interpretation of non-manipulable exposures, we discuss relevant interpretations of the estimand under different sets of assumptions of no unmeasured confounding and provide a comparison of our estimand to other related estimands within the framework of interventional (disparity) effects. Small-sample performance and double robustness properties of our estimation procedure are investigated and illustrated in a simulation study.",
       "year": 2023,
@@ -11917,7 +12000,7 @@
         "Ze-Yu Wang",
         "L. Laan",
         "M. Petersen",
-        "Thomas Gerds",
+        "Thomas A. Gerds",
         "K. Kvist",
         "M. Laan"
       ],
@@ -13185,6 +13268,29 @@
       "source_queries": [
         "super learner",
         "super learning"
+      ]
+    },
+    {
+      "title": "Data-Adaptive Selection of the Propensity Score Truncation Level for Inverse Probability Weighted and Targeted Maximum Likelihood Estimators of Marginal Point Treatment Effects.",
+      "authors": [
+        "Susan Gruber",
+        "Rachael V. Phillips",
+        "Hana Lee",
+        "M. J. van der Laan"
+      ],
+      "abstract": "Inverse probability weighting (IPW) and targeted maximum likelihood estimation (TMLE) are methodologies that can adjust for confounding and selection bias that are often used for causal inference. Both estimators rely on the positivity assumption that within strata of confounders there is a positive probability of receiving treatment at all levels under consideration. Practical applications of IPW require finite IP weights. TMLE requires propensity scores (PS) be bounded away from zero and one. Although truncation can improve variance and finite sample bias, this artificial distortion of the IP weights and PS distribution introduces asymptotic bias. As sample size grows, truncation-induced bias eventually swamps variance, rendering nominal confidence interval coverage and hypothesis tests invalid. We present a simple truncation strategy based on the sample size, $n$, that sets the upper bound on IP weights at $\\sqrt{n}\\ln n/5$. For TMLE, the lower bound on the PS should be set to $5/\\left(\\sqrt{n}\\ln n\\right)$). Our strategy was designed to optimize mean squared error (MSE) of the parameter estimate. It naturally extends to data structures with missing outcomes. Simulation studies and a data analysis demonstrate our strategy's ability to minimize both bias and MSE compared to other common strategies, including the popular, but flawed, quantile-based heuristic.",
+      "year": 2022,
+      "publication_date": "2022-05-04",
+      "paper_id": "af0b42dc7d2244060d0cb0d35e74068b5a07a777",
+      "url": "https://www.semanticscholar.org/paper/af0b42dc7d2244060d0cb0d35e74068b5a07a777",
+      "venue": "American Journal of Epidemiology",
+      "doi": "10.1093/aje/kwac087",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
       ]
     },
     {
