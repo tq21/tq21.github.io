@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T07:00:32Z",
+  "generated_at": "2026-05-22T15:01:53Z",
   "source": "Semantic Scholar Graph API",
   "unauthenticated": true,
   "mode": "bulk",
@@ -18,7 +18,7 @@
   "query_stats": [
     {
       "keyword": "tmle",
-      "fetched_raw_count": 479
+      "fetched_raw_count": 481
     },
     {
       "keyword": "targeted maximum likelihood estimation",
@@ -43,80 +43,484 @@
   ],
   "query_errors": [],
   "incomplete": false,
-  "fetched_paper_count": 858,
-  "newly_appended_count": 5,
-  "updated_existing_count": 5,
+  "fetched_paper_count": 887,
+  "newly_appended_count": 34,
+  "updated_existing_count": 26,
   "existing_blocked_removed": 0,
   "existing_duplicates_removed": 0,
   "newly_added_papers": [
     {
-      "title": "Early Dexmedetomidine in Ventilated Acute Myocardial Infarction: A Target Trial Emulation Using MIMIC‐IV",
+      "title": "Comparative Effectiveness of Individual Sodium Glucose Transporter 2 Inhibitors on Cardiovascular Outcomes in Type 2 Diabetes With Moderate Cardiovascular Risk: Emulation of a Target Trial",
       "year": 2026,
       "authors": [
-        "Shengkai Wang",
-        "Dong Chang",
-        "Fang Peng",
-        "Yiping He"
+        "Anum Zehra",
+        "Yihong Deng",
+        "K. Swarna",
+        "Jeph Herrin",
+        "Eric C. Polley",
+        "Joshua J. Neumiller",
+        "Rodolfo J. Galindo",
+        "Guillermo E. Umpierrez",
+        "Joseph S. Ross",
+        "Juan P. Brito",
+        "V. Montori",
+        "Bijan J. Borah",
+        "Bradley A. Maron",
+        "Mindy M. Mickelson",
+        "Rozalina G. McCoy"
       ],
-      "publication_date": "2026-01-01",
-      "doi": "10.1155/joic/5946180",
-      "paper_id": "a9c24f7578dcc7df45e25ea3a06470a22157fffc"
+      "publication_date": "2026-05-14",
+      "doi": "10.1161/jaha.125.046238",
+      "paper_id": "83706933b4de9bbd88581955c0dcb2fb86cfb2b4"
     },
     {
-      "title": "Estimating depression risk differences between sexual minority and heterosexual young adults using targeted maximum likelihood estimation and Super Learner",
+      "title": "Improving the Efficiency of Subgroup Analysis in Randomized Controlled Trials with TMLE",
       "year": 2026,
       "authors": [
-        "J. Lu",
-        "David H. Rehkopf",
-        "M. Odden"
-      ],
-      "publication_date": "2026-06-01",
-      "doi": "10.1016/j.ssmmh.2026.100649",
-      "paper_id": "79560fa0d65fd0feb538a0fd3ec950b314e5e7f6"
-    },
-    {
-      "title": "PS1-10. Causal Inference Analysis of Full- vs. Half-dose PRRS Vaccination Protocols on Nursery Feed Conversion and Mortality in One Swine Production System",
-      "year": 2026,
-      "authors": [
-        "L. Clemente",
-        "A. P. S. P. Silva",
-        "Daniel Linhares",
-        "Edison S Magalhães"
-      ],
-      "publication_date": "2026-04-01",
-      "doi": "10.1093/jas/skag107.320",
-      "paper_id": "eb4186ec57abbc9edb17f0b9f3320d683fe1fdef"
-    },
-    {
-      "title": "XAI Based Early Menopause Detection using Super Learner and Discriminant Analysis",
-      "year": 2026,
-      "authors": [
-        "Mercy Paul Selvan",
-        "S. Sahana",
-        "D. KalaivaniS",
-        "S. Lekhana",
-        "Kalyani Parida",
-        "S. Prince"
-      ],
-      "publication_date": "2026-03-26",
-      "doi": "10.1109/icdsaai69492.2026.11505151",
-      "paper_id": "661cc645e7ecaa207203f5fddb6b28f5640a5b63"
-    },
-    {
-      "title": "Data-Adaptive Selection of the Propensity Score Truncation Level for Inverse Probability Weighted and Targeted Maximum Likelihood Estimators of Marginal Point Treatment Effects.",
-      "year": 2022,
-      "authors": [
-        "Susan Gruber",
+        "Sky Qiu",
+        "Nerissa Nance",
         "Rachael V. Phillips",
-        "Hana Lee",
+        "J. Tarp",
+        "Maya L. Petersen",
+        "M. V. D. Laan"
+      ],
+      "publication_date": "2026-05-14",
+      "doi": null,
+      "paper_id": "68b87b0322cd71546c41997d541b5365c52d68e0"
+    },
+    {
+      "title": "Perceived Social Support, Contact Violence Experience, and Sexually Transmitted Infection Risk among Gambian Female Sex Workers: A LASSO-Guided, Causal Inference, and Multilevel Analysis",
+      "year": 2026,
+      "authors": [
+        "A. Barrow",
+        "B. Abatan",
+        "T. A. Omotosho",
+        "A. Adebayo",
+        "E. Sanyang",
+        "P. Bass"
+      ],
+      "publication_date": "2026-02-25",
+      "doi": "10.1007/s44197-026-00521-2",
+      "paper_id": "9a6d8a5d66f303a3a97b3d43a4ae37378be426dd"
+    },
+    {
+      "title": "Prognostic score methods for the estimation of the average causal effect",
+      "year": 2026,
+      "authors": [
+        "Chamika Porage",
+        "Ingeborg Waernbaum"
+      ],
+      "publication_date": "2026-05-15",
+      "doi": "10.1515/ijb-2024-0034",
+      "paper_id": "f6bd06300efc161e8252abb2b077a9bd0c5d3568"
+    },
+    {
+      "title": "Toward a practical handbook for choosing among causal inference methods in non-randomized studies with binary outcomes: A simulation study for applied researchers",
+      "year": 2026,
+      "authors": [
+        "Adri'an Aurensanz-Crespo",
+        "C. Rodríguez-Leal",
+        "Rosario Susi",
+        "Jorge Castillo-Mateo",
+        "Jesús Asín",
+        "J. M. Ramírez",
+        "Teresa Pérez"
+      ],
+      "publication_date": "2026-05-13",
+      "doi": null,
+      "paper_id": "21897e6193f9fc556dd45da8bf50ac680591475e"
+    },
+    {
+      "title": "Persistent severe acute kidney injury is a major modifiable determinant of outcome during critical illness",
+      "year": 2025,
+      "authors": [
+        "H. Gómez",
+        "Xinlei Chen",
+        "John S Minturn",
+        "Ivan E Saraiva",
+        "Natsumi Hamahata",
+        "Arsalan Zaidi",
+        "Ankit Sakhuja",
+        "Chung-Chou H. Chang",
+        "Gilles Clermont",
+        "Alex Zarbock",
+        "J. Kellum"
+      ],
+      "publication_date": "2025-02-18",
+      "doi": "10.1007/s00134-025-07821-4",
+      "paper_id": "69a64d54b04519741f79fc4c211c1eef8ec08f67"
+    },
+    {
+      "title": "Unbound bilirubin and risk of severe neurodevelopmental impairment in extremely low birthweight newborns",
+      "year": 2025,
+      "authors": [
+        "Cody C. Arnold",
+        "Ivana Marić",
+        "Ronald J. Wong",
+        "Jon E. Tyson",
+        "David K. Stevenson"
+      ],
+      "publication_date": "2025-01-23",
+      "doi": "10.1038/s41390-025-03872-x",
+      "paper_id": "d65a0c3db62d925e58d01e1430e83a20a42ba5d4"
+    },
+    {
+      "title": "Racial difference in the association between non-alcoholic fatty liver disease and incident type 2 diabetes: findings from the CARDIA study",
+      "year": 2023,
+      "authors": [
+        "Yuichi Hatano",
+        "L. VanWagner",
+        "M. Carnethon",
+        "M. Bancks",
+        "April P. Carson",
+        "D. Lloyd-Jones",
+        "Truls Østbye",
+        "A. Viera",
+        "Y. Yano"
+      ],
+      "publication_date": "2023-03-21",
+      "doi": "10.1007/s00125-023-05903-w",
+      "paper_id": "b5f8464374bfefa173628a321a43837cd2d52d89"
+    },
+    {
+      "title": "Automated analyses: Because we can, does it mean we should?",
+      "year": 2020,
+      "authors": [
+        "S. Shortreed",
+        "E. Moodie"
+      ],
+      "publication_date": "2020-08-01",
+      "doi": "10.1214/20-sts773",
+      "paper_id": "1745ce17f05bf094e6901b3ccf26af87aca328ec"
+    },
+    {
+      "title": "Constrained binary classification using ensemble learning: an application to cost-efficient targeted PrEP strategies",
+      "year": 2017,
+      "authors": [
+        "Wenjing Zheng",
+        "L. Balzer",
+        "M. J. van der Laan",
+        "M. Petersen"
+      ],
+      "publication_date": "2017-04-06",
+      "doi": "10.1002/sim.7296",
+      "paper_id": "859b32ceff2bf9c35c61a8246e9870875bdf9300"
+    },
+    {
+      "title": "Contemporary Trends and Outcomes Associated with the Pre-Procedural Use of Oral P2Y12 Inhibitors in Patients Undergoing Percutaneous Coronary Intervention: Insights from the Blue Cross Blue Shield of Michigan Cardiovascular Consortium (BMC2)",
+      "year": 2017,
+      "authors": [
+        "D. Sukul",
+        "Milan Seth",
+        "S. Dixon",
+        "A. Khandelwal",
+        "Thomas A Lalonde",
+        "H. Gurm"
+      ],
+      "publication_date": "2017-04-15",
+      "doi": null,
+      "paper_id": "269ac52561e0763f4c05ac8c33a400087de42802"
+    },
+    {
+      "title": "Joint mixed-effects models for causal inference with longitudinal data",
+      "year": 2017,
+      "authors": [
+        "M. Shardell",
+        "L. Ferrucci"
+      ],
+      "publication_date": "2017-12-04",
+      "doi": "10.1002/sim.7567",
+      "paper_id": "3496cbf067af713223e4c2925480bca4fea14825"
+    },
+    {
+      "title": "Predicting Posttraumatic Stress Disorder Following a Natural Disaster",
+      "year": 2017,
+      "authors": [
+        "A. Rosellini",
+        "Francisca Dussaillant",
+        "J. Zubizarreta",
+        "R. Kessler",
+        "Sherri Rose"
+      ],
+      "publication_date": "2017-09-08",
+      "doi": "10.1016/j.jpsychires.2017.09.010",
+      "paper_id": "73eec4afc474d661e326b3c52d959dea27799618"
+    },
+    {
+      "title": "Adaptive Pre-specification in Randomized Trials With and Without Pair-Matching",
+      "year": 2016,
+      "authors": [
+        "L. Balzer",
+        "M. J. van der Laan",
+        "M. Petersen"
+      ],
+      "publication_date": "2016-07-19",
+      "doi": "10.1002/sim.7023",
+      "paper_id": "798ffb5f9949da03ffd6a51a979e22c7b0b446cf"
+    },
+    {
+      "title": "AUC-Maximizing Ensembles through Metalearning",
+      "year": 2016,
+      "authors": [
+        "E. LeDell",
+        "M. J. van der Laan",
+        "Maya Peterson"
+      ],
+      "publication_date": "2016-05-01",
+      "doi": "10.1515/ijb-2015-0035",
+      "paper_id": "d787edb5ce204012c2f695315752c0fd12a338ef"
+    },
+    {
+      "title": "Doubly Robust and Efficient Estimation of Marginal Structural Models for the Hazard Function",
+      "year": 2016,
+      "authors": [
+        "Wenjing Zheng",
+        "Maya L Petersen",
         "M. J. van der Laan"
       ],
-      "publication_date": "2022-05-04",
-      "doi": "10.1093/aje/kwac087",
-      "paper_id": "af0b42dc7d2244060d0cb0d35e74068b5a07a777"
+      "publication_date": "2016-05-01",
+      "doi": "10.1515/ijb-2015-0036",
+      "paper_id": "fe88ecf240782077d68d21cdbf2a78673e6a0e7a"
+    },
+    {
+      "title": "Estimating Effects with Rare Outcomes and High Dimensional Covariates: Knowledge is Power",
+      "year": 2016,
+      "authors": [
+        "L. Balzer",
+        "J. Ahern",
+        "S. Galea",
+        "M. J. van der Laan"
+      ],
+      "publication_date": "2016-05-24",
+      "doi": "10.1515/em-2014-0020",
+      "paper_id": "ef295cd94e97c2cb8d2ced1fbce174325a09576b"
+    },
+    {
+      "title": "Evaluating the Impact of a HIV Low-Risk Express Care Task-Shifting Program: A Case Study of the Targeted Learning Roadmap",
+      "year": 2016,
+      "authors": [
+        "Linh Tran",
+        "C. Yiannoutsos",
+        "B. Musick",
+        "K. Wools-Kaloustian",
+        "A. Siika",
+        "S. Kimaiyo",
+        "M. J. van der Laan",
+        "M. Petersen"
+      ],
+      "publication_date": "2016-11-10",
+      "doi": "10.1515/em-2016-0004",
+      "paper_id": "593b5721b9cfb272805e330ebb8dd03b41ed073e"
+    },
+    {
+      "title": "Pathway analysis of genome-wide association study in childhood leukemia among Hispanics",
+      "year": 2016,
+      "authors": [
+        "L. Hsu",
+        "F. Briggs",
+        "Xiaorong Shao",
+        "C. Metayer",
+        "J. Wiemels",
+        "A. Chokkalingam",
+        "L. Barcellos"
+      ],
+      "publication_date": "2016-03-03",
+      "doi": "10.1158/1055-9965.epi-15-0528",
+      "paper_id": "1007af7b926cc3a952d441293820e8e2ead193bc"
+    },
+    {
+      "title": "Targeted estimation and inference for the sample average treatment effect in trials with and without pair-matching",
+      "year": 2016,
+      "authors": [
+        "L. Balzer",
+        "M. Petersen",
+        "M. J. van der Laan"
+      ],
+      "publication_date": "2016-04-18",
+      "doi": "10.1002/sim.6965",
+      "paper_id": "471d5ee0ed22d73e9aedc0160300e27ab765e74e"
+    },
+    {
+      "title": "Increasing Sample Size in Prospective Birth Cohorts: Back-Extrapolating Prenatal Levels of Persistent Organic Pollutants in Newly Enrolled Children",
+      "year": 2015,
+      "authors": [
+        "M. Verner",
+        "F. Gaspar",
+        "J. Chevrier",
+        "R. Gunier",
+        "A. Sjödin",
+        "A. Bradman",
+        "B. Eskenazi"
+      ],
+      "publication_date": "2015-02-27",
+      "doi": "10.1021/acs.est.5b00322",
+      "paper_id": "1ae6c7ee89221cc292bc63413dccf1a964688131"
+    },
+    {
+      "title": "Propensity score and doubly robust methods for estimating the effect of treatment on censored cost",
+      "year": 2015,
+      "authors": [
+        "Jiaqi Li",
+        "E. Handorf",
+        "J. Bekelman",
+        "N. Mitra"
+      ],
+      "publication_date": "2015-12-17",
+      "doi": "10.1002/sim.6842",
+      "paper_id": "1cf066309981205579aa682e88fe7e214516a55b"
+    },
+    {
+      "title": "Targeted Learning of the Mean Outcome under an Optimal Dynamic Treatment Rule",
+      "year": 2015,
+      "authors": [
+        "M. J. van der Laan",
+        "Alexander Luedtke"
+      ],
+      "publication_date": "2015-03-01",
+      "doi": "10.1515/jci-2013-0022",
+      "paper_id": "afd9cc8b618d998e92e9d5bb2b18db2aa9050ffa"
+    },
+    {
+      "title": "Adaptive pair-matching in randomized trials with unbiased and efficient effect estimation",
+      "year": 2014,
+      "authors": [
+        "L.B Balzer",
+        "Maya L Petersen",
+        "M. J. van der Laan"
+      ],
+      "publication_date": "2014-11-25",
+      "doi": "10.1002/sim.6380",
+      "paper_id": "a4d1443a5b0bc8ccbd2c1db9de0e799201570306"
+    },
+    {
+      "title": "Causal Inference for a Population of Causally Connected Units",
+      "year": 2014,
+      "authors": [
+        "M. J. van der Laan"
+      ],
+      "publication_date": "2014-01-14",
+      "doi": "10.1515/jci-2013-0002",
+      "paper_id": "9263f291f0e50212fb62aeb43a4d59088f188a12"
+    },
+    {
+      "title": "Ensemble learning of inverse probability weights for marginal structural modeling in large observational datasets",
+      "year": 2014,
+      "authors": [
+        "Susan Gruber",
+        "R. Logan",
+        "I. Jarrín",
+        "S. Monge",
+        "Miguel A. Hern'an"
+      ],
+      "publication_date": "2014-10-15",
+      "doi": "10.1002/sim.6322",
+      "paper_id": "40edd2914cd6b53375cede94b68430a8845c8617"
+    },
+    {
+      "title": "Evaluating treatment effectiveness under model misspecification: A comparison of targeted maximum likelihood estimation with bias-corrected matching",
+      "year": 2014,
+      "authors": [
+        "N. Kreif",
+        "Susan Gruber",
+        "Rosalba Radice",
+        "R. Grieve",
+        "J. Sekhon"
+      ],
+      "publication_date": "2014-02-12",
+      "doi": "10.1177/0962280214521341",
+      "paper_id": "3f369f8ef085279b977e4ccf8a0b6270b9c1f04c"
+    },
+    {
+      "title": "Mortality prediction in the ICU: can we do better? Results from the Super ICU Learner Algorithm (SICULA) project, a population-based study",
+      "year": 2014,
+      "authors": [
+        "R. Pirracchio",
+        "M. Petersen",
+        "M. Carone",
+        "M. Rigon",
+        "S. Chevret",
+        "M. J. van der Laan"
+      ],
+      "publication_date": "2014-11-24",
+      "doi": "10.1016/s2213-2600(14)70239-5",
+      "paper_id": "f04bd4457a59c4a4393ad1609895ca4c9ec54943"
+    },
+    {
+      "title": "Semiparametric Estimation of the Impacts of Longitudinal Interventions on Adolescent Obesity using Targeted Maximum-Likelihood: Accessible Estimation with the ltmle Package",
+      "year": 2014,
+      "authors": [
+        "Anna Decker",
+        "A. Hubbard",
+        "C. Crespi",
+        "E. Seto",
+        "May-Choo Wang"
+      ],
+      "publication_date": "2014-03-01",
+      "doi": "10.1515/jci-2013-0025",
+      "paper_id": "13f296ca76d6dc86b2bab469b87192c30b88b7fa"
+    },
+    {
+      "title": "Targeted Estimation of Binary Variable Importance Measures with Interval-Censored Outcomes",
+      "year": 2014,
+      "authors": [
+        "S. Sapp",
+        "M. J. van der Laan",
+        "K. Page"
+      ],
+      "publication_date": "2014-05-01",
+      "doi": "10.1515/ijb-2013-0009",
+      "paper_id": "14ad02c8dc2ce8cec6420b763121c25453ee64bd"
+    },
+    {
+      "title": "Identification and efficient estimation of the natural direct effect among the untreated",
+      "year": 2013,
+      "authors": [
+        "S. Lendle",
+        "M. Subbaraman",
+        "M. J. van der Laan"
+      ],
+      "publication_date": "2013-04-23",
+      "doi": "10.1111/biom.12022",
+      "paper_id": "3545ed7e755b931cd0884ca4bcff834a5efd4f3c"
+    },
+    {
+      "title": "Adjusting for Perception and Unmasking Effects in Longitudinal Clinical Trials",
+      "year": 2012,
+      "authors": [
+        "A. Hubbard",
+        "F. Jamshidian",
+        "N. Jewell"
+      ],
+      "publication_date": "2012-12-31",
+      "doi": "10.2202/1557-4679.1376",
+      "paper_id": "d7446da402e7c6ce0c35b3c91ae778542e359b6f"
+    },
+    {
+      "title": "Population Intervention Causal Effects Based on Stochastic Interventions",
+      "year": 2011,
+      "authors": [
+        "I. D. Muñoz",
+        "M. J. van der Laan"
+      ],
+      "publication_date": "2011-10-06",
+      "doi": "10.1111/j.1541-0420.2011.01685.x",
+      "paper_id": "e1e4b3098fa1a962e135e5f831907638318fcb0b"
+    },
+    {
+      "title": "Robust extraction of covariate information to improve estimation efficiency in randomized trials",
+      "year": 2011,
+      "authors": [
+        "Kelly L. Moore",
+        "R. Neugebauer",
+        "T. Valappil",
+        "M. J. van der Laan"
+      ],
+      "publication_date": "2011-07-12",
+      "doi": "10.1002/sim.4301",
+      "paper_id": "28f67133452b15e2df01920e12000b52a5173ce1"
     }
   ],
-  "paper_count": 999,
+  "paper_count": 1033,
   "papers": [
     {
       "title": "A CV-TMLE global test approach to improve power in rare disease clinical studies with multiple-component endpoints",
@@ -300,6 +704,39 @@
       ],
       "source_queries": [
         "tmle"
+      ]
+    },
+    {
+      "title": "Comparative Effectiveness of Individual Sodium Glucose Transporter 2 Inhibitors on Cardiovascular Outcomes in Type 2 Diabetes With Moderate Cardiovascular Risk: Emulation of a Target Trial",
+      "authors": [
+        "Anum Zehra",
+        "Yihong Deng",
+        "K. Swarna",
+        "Jeph Herrin",
+        "Eric C. Polley",
+        "Joshua J. Neumiller",
+        "Rodolfo J. Galindo",
+        "Guillermo E. Umpierrez",
+        "Joseph S. Ross",
+        "Juan P. Brito",
+        "V. Montori",
+        "Bijan J. Borah",
+        "Bradley A. Maron",
+        "Mindy M. Mickelson",
+        "Rozalina G. McCoy"
+      ],
+      "abstract": "SGLT2 (sodium‐glucose cotransporter 2) inhibitors reduce major adverse cardiovascular events (MACE) in type 2 diabetes. However, no direct comparison of individual SGLT2 inhibitor drugs has been conducted, particularly among adults with moderate cardiovascular risk who comprise most people with type 2 diabetes. We used data for commercial, Medicare Advantage, and Medicare fee‐for‐service beneficiaries to emulate a target trial of adults (≥21 years) with type 2 diabetes and moderate cardiovascular risk who started canagliflozin, dapagliflozin, or empagliflozin between 2015 and 2020. We estimated propensity scores using the super learner ensemble method and incorporated them as inverse probability of treatment weights into Cox models, estimating risk of MACE, expanded MACE, and hyperglycemic and hypoglycemic crises through December 31, 2022. The weighted cohort, balanced on all baseline covariates, included 137 232 patients (mean age 65.7 years [SD, 8.1], 75.3% non‐Hispanic White, 57.0% male, 81.9% on metformin, 11.4% on glucagon‐like peptide‐1 receptor agonists) starting canagliflozin (N=42 877), dapagliflozin (N=17 871), or empagliflozin (N=7648). The risk of MACE was lower among patients starting empagliflozin versus canagliflozin (hazard ratio [HR], 0.92 [95% CI, 0.87–0.97]), driven by reduced risk of all‐cause mortality (HR, 0.86 [95% CI, 0.80–0.94]). There was no difference in MACE between empagliflozin versus dapagliflozin or dapagliflozin versus canagliflozin therapy. There was no difference in remaining outcomes between the three drugs. The 3 most used SGLT2 inhibitor medications demonstrate similar effectiveness on cardiovascular outcomes among patients with type 2 diabetes at moderate cardiovascular risk, with differences between these drugs small in magnitude. Clinicians and health systems should prioritize enhancing access to these cardioprotective therapies.",
+      "year": 2026,
+      "publication_date": "2026-05-14",
+      "paper_id": "83706933b4de9bbd88581955c0dcb2fb86cfb2b4",
+      "url": "https://www.semanticscholar.org/paper/83706933b4de9bbd88581955c0dcb2fb86cfb2b4",
+      "venue": "Journal of the American Heart Association : Cardiovascular and Cerebrovascular Disease",
+      "doi": "10.1161/jaha.125.046238",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
       ]
     },
     {
@@ -832,7 +1269,7 @@
       "authors": [
         "Yichen Xu"
       ],
-      "abstract": "Synthetic data offers a promising tool for privacy-preserving data release, augmentation, and simulation, but its use in causal inference requires preserving more than predictive fidelity. We show that fully generative tabular synthesizers, including GAN- and LLM-based models, can achieve strong train-on-synthetic-test-on-real performance while substantially distorting causal estimands such as the average treatment effect (ATE). We formalize this failure through sensitivity and tradeoff results showing that ATE preservation requires control of both the generated covariate law and the treatment-effect contrast in the outcome regression. Motivated by this observation, we propose a hybrid synthetic-data framework that generates covariates separately from the treatment and outcome mechanisms, using distance-to-closest-record diagnostics to monitor covariate synthesis and separately learned nuisance models to construct (W, A, Y) triplets. We further study targeted synthetic augmentation for practical positivity problems and characterize when added overlap support helps by improving conditional-effect estimation more than it shifts the covariate distribution. Finally, we develop a synthetic simulation engine for pre-analysis estimator evaluation, enabling finite-sample comparison of OR, IPW, AIPW, and TMLE under realistic covariate structure. Across experiments, hybrid synthetic data substantially improve ATE preservation relative to fully generative baselines and provide a practical diagnostic tool for robust causal analysis.",
+      "abstract": "Synthetic tabular data are often evaluated by distributional similarity, privacy distance, or train-on-synthetic-test-on-real predictive performance, but these criteria do not ensure validity for causal inference. We show that fully generative tabular synthesizers, including GAN- and LLM-based models, can preserve predictive utility while distorting average treatment effect (ATE) estimates. The failure is structural: ATE preservation requires both a realistic covariate law and an accurate treatment-effect contrast, whereas prediction loss penalizes treatment-effect error only through an overlap-weighted term. We formalize this mismatch through sensitivity and loss-decomposition results, and identify an analogous decomposition in block-level next-token prediction under log loss. Motivated by the tabular causal analysis, we propose a hybrid synthetic-data framework that generates covariates while modeling treatment and outcome mechanisms separately, allowing causal-purpose treatment assignment such as randomized synthetic assignment. We evaluate this framework in three settings: ATE preservation under fully generative versus hybrid synthesis, targeted augmentation for practical positivity problems, and synthetic simulation engines for comparing OR, IPW, AIPW, and TMLE before real-data analysis. Across synthetic and ACTG experiments, hybrid synthesis improves causal fidelity relative to fully generative baselines; LLM-based hybrid synthesis is often more faithful than CTGAN for ATE preservation and finite-sample estimator benchmarking.",
       "year": 2026,
       "publication_date": "2026-04-26",
       "paper_id": "ae53fb69d7c6be4b47095a785bbd89f586f42123",
@@ -982,6 +1419,31 @@
       ]
     },
     {
+      "title": "Improving the Efficiency of Subgroup Analysis in Randomized Controlled Trials with TMLE",
+      "authors": [
+        "Sky Qiu",
+        "Nerissa Nance",
+        "Rachael V. Phillips",
+        "J. Tarp",
+        "Maya L. Petersen",
+        "M. V. D. Laan"
+      ],
+      "abstract": "Subgroup analyses within randomized controlled trials are often underpowered due to limited sample sizes. We address this challenge by leveraging trial participants outside the subgroup of interest to augment estimation within the subgroup. Specifically, we study two Targeted Maximum Likelihood Estimators (TMLEs) that borrow information from non-subgroup participants within the same trial: a TMLE with pooled regression (TMLE-PR) and an Adaptive Targeted Maximum Likelihood Estimator (A-TMLE). Both estimators enable information sharing without relying on any external real-world data, thereby capitalizing on key strengths of the trial: most importantly, the protection against bias afforded by the randomized treatment, but also harmonized data collection, and consistent treatment and outcome definitions. The general strategy proposed here directly advances the priorities of key regulatory agencies, including the FDA, by improving the precision of subgroup-specific treatment effect estimates without introducing external sources of bias, thereby facilitating rigorous inference to support equitable labeling, access, and post-market evaluation. In a case study based on analysis of data from a cardiovascular outcome trial (LEADER, NCT01179048), we estimate the risk reduction of major adverse cardiac events (MACE) under liraglutide treatment among Black and Asian subgroups -- each comprising less than 10\\% of the trial population -- using the proposed estimators that borrow information from the remainder of the trial. Using A-TMLE, in particular, we find estimated absolute MACE risk reductions of 1.6, 1.5, and 1.5 percentage points among Asian participants and 2.1, 2.0, and 2.1 percentage points among Black participants at 365, 540, and 730 days, respectively, with 95\\% confidence intervals excluding the null at each time point.",
+      "year": 2026,
+      "publication_date": "2026-05-14",
+      "paper_id": "68b87b0322cd71546c41997d541b5365c52d68e0",
+      "url": "https://www.semanticscholar.org/paper/68b87b0322cd71546c41997d541b5365c52d68e0",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "tmle"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ]
+    },
+    {
       "title": "Integrating causal inference and machine learning to quantify climate-malaria relationships: Evidence of temperature and rainfall thresholds from Colombian municipalities",
       "authors": [
         "Juan David Gutiérrez"
@@ -1032,7 +1494,7 @@
       "title": "Investigating Targeting Strategies and Truncation in TMLE for the Average Treatment Effect under Practical Positivity Violations",
       "authors": [
         "Yichen Xu",
-        "S. Gruber",
+        "Susan Gruber",
         "M. V. D. Laan"
       ],
       "abstract": "Estimating average treatment effects from observational data is challenging under practical violations of the positivity assumption. Targeted Maximum Likelihood Estimators (TMLEs) are widely used because of their double robustness and efficiency, but they can remain sensitive to such violations. We conduct extensive simulation studies to examine how targeting strategies and truncation levels affect TMLE performance under varying degrees of outcome regression misspecification and practical positivity stress. We show that loss-weighted targeting can induce substantial systematic bias relative to clever-covariate-scaled targeting, while insufficient truncation for clever-covariate-scaled targeting leads to inflated variance and unstable estimation. We further find that fixed truncation rules of the form c/(sqrt(n) log n), especially with c = 5 or c = 6, provide robust practical defaults in many settings, although the optimal choice varies with sample size. Motivated by the limitations of standard Lepski selection, we propose a Lepski-type adaptive truncation procedure with a brake mechanism that improves stability in data-adaptive tuning. We also compare variance estimators and find that targeted bootstrap variance estimation provides a stable alternative across truncation levels.",
@@ -1178,6 +1640,31 @@
       ]
     },
     {
+      "title": "Perceived Social Support, Contact Violence Experience, and Sexually Transmitted Infection Risk among Gambian Female Sex Workers: A LASSO-Guided, Causal Inference, and Multilevel Analysis",
+      "authors": [
+        "A. Barrow",
+        "B. Abatan",
+        "T. A. Omotosho",
+        "A. Adebayo",
+        "E. Sanyang",
+        "P. Bass"
+      ],
+      "abstract": "Female sex workers (FSWs) face disproportionate risks of sexually transmitted infections (STIs) including HIV/AIDS and various forms of violence. Although social support is generally considered protective against adverse health outcomes, its relationship with STI risk in high-risk population remains unclear. This study was conducted to determine and quantify key determinants of lifetime STI occurrence among FSWs in The Gambia, with a particular focus on violence experience and social support. A cross-sectional design was used, with secondary analysis of data from 429 FSWs recruited via snowball and venue-based non-probability sampling methods in urban and peri-urban areas of The Gambia. Lifetime STI occurrence, lifetime contact violence experience (physical or sexual), and perceived social support (using the Multidimensional Scale of Perceived Social Support) were assessed through structured interviews. Multiple analytical approaches, including LASSO-guided variable selection, conventional logistic regression, marginal structural models using inverse probability weighting, targeted maximum likelihood estimation (TMLE), and multilevel modeling, were employed to address potential confounding and clustering effects. The prevalence of lifetime STI occurence was 71.8%, and 69.2% of the participants reported ever experienced contact violence. LASSO penalized regression identified eight key predictors of STI occurence, with contact violence experience and perceived social support consistently emerging as significant factors. Contact violence experience was strongly associated with STI occurrence across all analytical approaches: conventional logistic regression (aOR = 7.55, 95% CI [3.05–19.43]), inverse probability-weighted models (aOR = 1.99, 95% CI [1.26–3.14]), and TMLE (risk difference = 0.206, 95% CI [0.129–0.283]). Contrary to our hypothesis, higher perceived social support was associated with increased STI risk (aOR = 1.57, 95% CI [1.14–2.19]). Multilevel analysis revealed significant geographical clustering, with 12.0% of variance in STI experience attributable to residential area. Sensitivity analyses using E-values indicated that findings were robust to potential unmeasured confounding, particularly for violence experience (E-value = 21.27, CI bound = 9.27). This study reveals a counterintuitive positive relationship between social support and STI risk among Gambian FSWs, potentially reflecting limitations of Western-derived measurement instruments in capturing culturally specific support structures among stigmatized populations. The robust association between contact violence experience and STI occurrence highlights the urgent need for integrated interventions that address violence prevention alongside STI screening and treatment within sexual health services for FSWs. Interventions leveraging peer networks should carefully assess network norms to ensure they reinforce protective rather than risk-enhancing behaviors.",
+      "year": 2026,
+      "publication_date": "2026-02-25",
+      "paper_id": "9a6d8a5d66f303a3a97b3d43a4ae37378be426dd",
+      "url": "https://www.semanticscholar.org/paper/9a6d8a5d66f303a3a97b3d43a4ae37378be426dd",
+      "venue": "Journal of Epidemiology and Global Health",
+      "doi": "10.1007/s44197-026-00521-2",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
+      ]
+    },
+    {
       "title": "Predicting the risk of prostate cancer metastasis at diagnosis in the VA Health Care System from H&E slides of the prostate needle biopsies.",
       "authors": [
         "Beatrice S. Knudsen",
@@ -1283,6 +1770,27 @@
       ],
       "source_queries": [
         "targeted maximum likelihood estimation"
+      ]
+    },
+    {
+      "title": "Prognostic score methods for the estimation of the average causal effect",
+      "authors": [
+        "Chamika Porage",
+        "Ingeborg Waernbaum"
+      ],
+      "abstract": "The prognostic score (PGS) is a function of observed covariates that summarizes covariates’ association with potential responses. In the current study, we propose a full prognostic score (FPGS), an extension of the PGS that integrates individual prognostic scores to account for confounding adjustments in causal inference. Under effect modification, we show that FPGS and a version of FPGS using conditional expectations of the outcomes, meet the sufficiency condition for confounding adjustment to estimate the average causal effect. We present a general algorithm to implement the FPGS approach for estimation by applying linear regression, random forest regression, and XGBoost regression. When determining the average causal effect, we incorporate FPGS into semiparametric estimators including regression imputation, simple stratification, and targeted maximum likelihood estimation (TMLE). The finite-sample properties of the estimators are compared through three simulation studies. Based on the findings of the FPGS estimators, the mean squared error of the linear regression imputation estimator and the TMLE estimator comprised of linearly regressed PGS is smaller than the mean squared error of alternative estimators. In an empirical study, we analyze data from the National Health and Nutrition Examination Survey (NHANES, 2007–2008) to determine the effect of smoking on blood lead levels.",
+      "year": 2026,
+      "publication_date": "2026-05-15",
+      "paper_id": "f6bd06300efc161e8252abb2b077a9bd0c5d3568",
+      "url": "https://www.semanticscholar.org/paper/f6bd06300efc161e8252abb2b077a9bd0c5d3568",
+      "venue": "The International Journal of Biostatistics",
+      "doi": "10.1515/ijb-2024-0034",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
       ]
     },
     {
@@ -1402,6 +1910,31 @@
       ],
       "source_queries": [
         "targeted minimum loss based estimation"
+      ]
+    },
+    {
+      "title": "Toward a practical handbook for choosing among causal inference methods in non-randomized studies with binary outcomes: A simulation study for applied researchers",
+      "authors": [
+        "Adri'an Aurensanz-Crespo",
+        "C. Rodríguez-Leal",
+        "Rosario Susi",
+        "Jorge Castillo-Mateo",
+        "Jesús Asín",
+        "J. M. Ramírez",
+        "Teresa Pérez"
+      ],
+      "abstract": "Applied researchers in biomedicine and related fields are often interested in estimating the causal effect of a treatment or intervention. Although randomized clinical trials are considered the gold standard for establishing causal effects, they are not always feasible, and real-world data may represent the only available source of evidence. In such settings, causal effects must be estimated using statistical methods applied to observational data. Over the last few decades, modern causal inference methods based on the potential outcomes framework have emerged as useful tools in this field. However, many such techniques exist, and their performance depends on factors such as sample size, the proportion of treated patients, the proportion of patients experiencing the outcome, the magnitude of the treatment effect, the target estimand, and potential violations of the fundamental assumptions of causal inference. Given the wide range of available methods, selecting an appropriate approach can be challenging for applied researchers. This study uses a large-scale simulation experiment to address this issue and provide researchers with a guide in the form of a handbook for a binary treatment and a binary outcome. Particularly, we test four popular statistical techniques: propensity score matching (full matching), inverse of the probability weighting, G-computation, and targeted maximum likelihood estimation. The proposed handbook is applied to two real-world datasets to assess its practical utility: one comprising vulnerable patients with mild COVID-19 (n=534 patients and more than 50% treated), and another of patients undergoing colorectal surgery (n=3635 patients and about 20% treated).",
+      "year": 2026,
+      "publication_date": "2026-05-13",
+      "paper_id": "21897e6193f9fc556dd45da8bf50ac680591475e",
+      "url": "https://www.semanticscholar.org/paper/21897e6193f9fc556dd45da8bf50ac680591475e",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
       ]
     },
     {
@@ -1537,6 +2070,74 @@
       ],
       "source_queries": [
         "targeted maximum likelihood estimation",
+        "tmle"
+      ]
+    },
+    {
+      "title": "12-Month Results from the CISTO Study Comparing Radical Cystectomy Versus Bladder-Sparing Therapy for Recurrent High-Grade Non-Muscle Invasive Bladder Cancer",
+      "authors": [
+        "John L. Gore",
+        "Erika M Wolff",
+        "Michael G Nash",
+        "Bryan A. Comstock",
+        "Scott M. Gilbert",
+        "Sam S. Chang",
+        "Stephanie Chisolm",
+        "Doug B MacLean",
+        "Jonathan L Wright",
+        "Max Kates",
+        "Kamal S. Pohar",
+        "Thomas J. Guzzo",
+        "T. Bivalacqua",
+        "K. Nepple",
+        "Jeffrey S. Montgomery",
+        "K. Scarpato",
+        "S. Woldu",
+        "Viraj A Master",
+        "David Y T Chen",
+        "M. Mossanen",
+        "S. Daneshmand",
+        "Brock B O'Neil",
+        "Mark D Tyson",
+        "Mary E. Westerman",
+        "Ashish M. Kamat",
+        "A. Mansour",
+        "K. Chamie",
+        "Stephen B. Riggs",
+        "J. Kukreja",
+        "Parth K. Modi",
+        "Tullika Garg",
+        "C.C. Peyton",
+        "Jeffrey W. Nix",
+        "Rian J. Dickstein",
+        "A. Gadzinski",
+        "Alex Sankin",
+        "N. Shore",
+        "Brian R Lane",
+        "J. Bassett",
+        "Sanjay Patel",
+        "David S. Morris",
+        "L. Macleod",
+        "Eugene K Lee",
+        "Chad R Ritch",
+        "Kristin M Follmer",
+        "Jenney R. Lee",
+        "Sung Min Kim",
+        "Larry G Kessler",
+        "Angela B. Smith"
+      ],
+      "abstract": "Purpose: To compare patient-reported and clinical outcomes between radical cystectomy (RC) and bladder-sparing therapy (BST) in patients with recurrent high-grade non-muscle invasive bladder cancer (NMIBC). Patients and Methods: This pragmatic, prospective observational cohort study was designed with patients, who selected and prioritized outcomes. Eligible adults were candidates for both RC or BST, had prior induction Bacillus Calmette-Guérin (BCG), and received their last treatment within12 months. The primary outcome was the EORTC-QLQ-C30 physical function scale at 12 months. Secondary outcomes included other EORTC-QLQ-C30 scales, depression, anxiety, bladder cancer-specific quality of life (QOL), financial burden, and cancer-specific outcomes. Targeted maximum likelihood estimation (TMLE) was used to calculate Average Treatment Effect (ATE) estimates between arms. Inverse probability weighted risk ratios (wRR) were calculated using quasi-Poisson regression. Results: Of 570 participants (mean age 71.4 years; 21% female), 371 selected BST and 199 selected RC. Physical function was significantly worse in the RC arm at 3 months; by 9 months, there was no difference between arms, and at 12 months, physical function did not differ (ATE 0.9; 95% CI: –0.6 to 2.4; P = 0.22). RC was associated with better emotional function, generic health-related QOL, and financial burden, and lower depression and anxiety, while BST was associated with better bowel and sexual health. Cancer-specific survival was 99% for BST vs 96% for RC (wRR: 0.99; 95% CI: 0.97 to 1.01). RC was associated with a higher risk of adverse events and serious adverse events, including a 90-day mortality rate of 2.5%. Conclusion: Most patient-prioritized outcomes were similar or better among participants who chose RC compared with BST. These findings support the continued role of RC in managing recurrent high-grade NMIBC. Trial Registration: ClinicalTrials.gov NCT03933826",
+      "year": 2025,
+      "publication_date": "2025-12-15",
+      "paper_id": "f00706812be9d95478737fc54625dff560ffbd5b",
+      "url": "https://www.semanticscholar.org/paper/f00706812be9d95478737fc54625dff560ffbd5b",
+      "venue": "Journal of Clinical Oncology",
+      "doi": "10.1200/JCO-25-01324",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
         "tmle"
       ]
     },
@@ -1937,7 +2538,7 @@
         "Sheetal S Sawant",
         "Stephen C. De Rosa",
         "Kristen W. Cohen",
-        "D. Morris",
+        "Daryl E. Morris",
         "S. Grant",
         "A. Randhawa",
         "Maurine D. Miner",
@@ -3935,7 +4536,7 @@
         "M. Vrablik",
         "P. P. Filardi",
         "S. Gruber",
-        "M. Van der Laan",
+        "M. J. van der Laan",
         "K. Andrade",
         "Z. Lou",
         "K. Pol",
@@ -4520,6 +5121,35 @@
       ]
     },
     {
+      "title": "Persistent severe acute kidney injury is a major modifiable determinant of outcome during critical illness",
+      "authors": [
+        "H. Gómez",
+        "Xinlei Chen",
+        "John S Minturn",
+        "Ivan E Saraiva",
+        "Natsumi Hamahata",
+        "Arsalan Zaidi",
+        "Ankit Sakhuja",
+        "Chung-Chou H. Chang",
+        "Gilles Clermont",
+        "Alex Zarbock",
+        "J. Kellum"
+      ],
+      "abstract": "Most cases of acute kidney injury (AKI) resolve within 72 h. However, a small number of patients with persistent severe AKI have significantly worse outcomes. We sought to describe the occurrence, impact on outcome and risk factors associated with persistent severe AKI in critically ill patients using a standardized definition. Retrospective cohort study, investigating critically ill patients admitted to one of 16 hospitals from October 2010 to June 2018. We defined persistent severe AKI as Kidney Disease: Improving Global Outcomes stage 2–3 AKI that progressed to and persisted at stage 3 for ≥ 72 h. Risk factors for persistent severe AKI and its association with outcomes were assessed using the super learner algorithm, integrating LASSO logistic regression and XGBoost, and multivariate logistic regression or Cox proportional hazards models, using no persistent severe AKI as the comparator. Of 65,119/190,550 (34.2%) patients with stage 2–3 AKI, 8,059 (12.4%) had persistent severe AKI. Severe, early community-acquired AKI, high fluid balance, multiple organ dysfunction, sepsis and shock were important risk factors. Persistent severe AKI was associated with an increased risk of 90-day mortality (HR 1.5, 95% CI 1.4–1.6), hospital readmission (OR 2.0, 95% CI 1.8–2.3), and with a lower probability of renal recovery (OR 0.14, 95% CI 0.13, 0.15). Persistent severe AKI is an uncommon, but important complication in critically ill patients, associated with an increased risk of renal non-recovery, hospital readmission and death, and an important target for therapeutic development.",
+      "year": 2025,
+      "publication_date": "2025-02-18",
+      "paper_id": "69a64d54b04519741f79fc4c211c1eef8ec08f67",
+      "url": "https://www.semanticscholar.org/paper/69a64d54b04519741f79fc4c211c1eef8ec08f67",
+      "venue": "Intensive Care Medicine",
+      "doi": "10.1007/s00134-025-07821-4",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
       "title": "Pharmacokinetic interaction assessment of an HIV broadly neutralizing monoclonal antibody VRC07-523LS: a cross-protocol analysis of three phase 1 trials in people without HIV",
       "authors": [
         "T. D. Chawana",
@@ -4855,7 +5485,7 @@
       "authors": [
         "Emily F. Liu",
         "Shelley Jung",
-        "Kara E Rudolph",
+        "Kara E. Rudolph",
         "M. Mujahid",
         "William H Dow",
         "Dana E. Goin",
@@ -5638,75 +6268,6 @@
       ]
     },
     {
-      "title": "Twelve-Month Results From the CISTO Study Comparing Radical Cystectomy Versus Bladder-Sparing Therapy for Recurrent High-Grade Non–Muscle-Invasive Bladder Cancer",
-      "authors": [
-        "John L. Gore",
-        "Erika M Wolff",
-        "Michael G Nash",
-        "Bryan A. Comstock",
-        "Scott M. Gilbert",
-        "Sam S. Chang",
-        "Stephanie Chisolm",
-        "Doug B MacLean",
-        "Jonathan L Wright",
-        "Max Kates",
-        "Kamal S. Pohar",
-        "Thomas J. Guzzo",
-        "T. Bivalacqua",
-        "K. Nepple",
-        "Jeffrey S. Montgomery",
-        "K. Scarpato",
-        "S. Woldu",
-        "Viraj A Master",
-        "David Y T Chen",
-        "M. Mossanen",
-        "S. Daneshmand",
-        "Brock B O'Neil",
-        "Mark D Tyson",
-        "Mary E. Westerman",
-        "Ashish M. Kamat",
-        "Ahmed M. Mansour",
-        "K. Chamie",
-        "Stephen B. Riggs",
-        "J. Kukreja",
-        "Parth K. Modi",
-        "Tullika Garg",
-        "C.C. Peyton",
-        "Jeffrey W. Nix",
-        "Rian J. Dickstein",
-        "A. Gadzinski",
-        "Alex Sankin",
-        "Neal D. Shore",
-        "Brian R Lane",
-        "J. C. Bassett",
-        "Sanjay Patel",
-        "David S. Morris",
-        "L. Macleod",
-        "Eugene K Lee",
-        "Chad R Ritch",
-        "Kristin M Follmer",
-        "Jenney R. Lee",
-        "Sung Min Kim",
-        "Larry G Kessler",
-        "Angela B. Smith"
-      ],
-      "abstract": "PURPOSE To compare patient-reported and clinical outcomes between radical cystectomy (RC) and bladder-sparing therapy (BST) in patients with recurrent high-grade non–muscle-invasive bladder cancer (NMIBC). PATIENTS AND METHODS This pragmatic, prospective observational cohort study was designed with patients, who selected and prioritized outcomes. Eligible adults were candidates for both RC or BST, had previous induction Bacillus Calmette-Guérin (BCG), and received their last treatment within 12 months. The primary outcome was the EORTC-QLQ-C30 physical function scale at 12 months. Secondary outcomes included other EORTC-QLQ-C30 scales, depression, anxiety, bladder cancer–specific quality of life (QOL), financial burden, and cancer-specific outcomes. Targeted maximum likelihood estimation (TMLE) was used to calculate average treatment effect (ATE) estimates between arms. Inverse probability weighted risk ratios (wRR) were calculated using quasi-Poisson regression. RESULTS Of 570 participants (mean age 71.4 years; 21% female), 371 selected BST and 199 selected RC. Physical function was significantly worse in the RC arm at 3 months; by 9 months, there was no difference between arms, and at 12 months, physical function did not differ (ATE, 0.9; 95% CI, –0.6 to 2.4; P = .22). RC was associated with better emotional function, generic health-related QOL, and financial burden, and lower depression and anxiety, while BST was associated with better bowel and sexual health. Cancer-specific survival was 99% for BST versus 96% for RC (wRR, 0.99; 95% CI, 0.97 to 1.01). RC was associated with a higher risk of adverse events and serious adverse events, including a 90-day mortality rate of 2.5%. CONCLUSION Most patient-prioritized outcomes were similar or better among participants who chose RC compared with BST. These findings support the continued role of RC in managing recurrent high-grade NMIBC.",
-      "year": 2025,
-      "publication_date": "2025-12-15",
-      "paper_id": "f00706812be9d95478737fc54625dff560ffbd5b",
-      "url": "https://www.semanticscholar.org/paper/f00706812be9d95478737fc54625dff560ffbd5b",
-      "venue": "Journal of Clinical Oncology",
-      "doi": "10.1200/JCO-25-01324",
-      "matched_keywords": [
-        "targeted maximum likelihood estimation",
-        "tmle"
-      ],
-      "source_queries": [
-        "targeted maximum likelihood estimation",
-        "tmle"
-      ]
-    },
-    {
       "title": "Two-stage targeted minimum-loss based estimation for non-negative two-part outcomes",
       "authors": [
         "Nicholas T Williams",
@@ -5786,6 +6347,30 @@
       "source_queries": [
         "super learner",
         "super learning"
+      ]
+    },
+    {
+      "title": "Unbound bilirubin and risk of severe neurodevelopmental impairment in extremely low birthweight newborns",
+      "authors": [
+        "Cody C. Arnold",
+        "Ivana Marić",
+        "Ronald J. Wong",
+        "Jon E. Tyson",
+        "David K. Stevenson"
+      ],
+      "abstract": "Unbound bilirubin (UB) was measured on day 5 ± 1 in 1101 ELBW newborns in the Aggressive vs Conservative Phototherapy randomized controlled trial. We accessed this dataset to quantify the UB-mediated risk of severe neurodevelopmental impairment (sNDI) in extremely low birthweight (ELBW) newborns. UB levels were standardized within laboratories as z-score percentiles. A dichotomous UB exposure variable was based on sharply increased risk of sNDI at the 85th percentile (UBz>85th). Targeted maximum likelihood estimation with ensemble machine learning (TMLE + ML) and logistic regression (LR) were used to estimate sNDI risk attributable to UBz>85th. UB - total bilirubin correlation was poor: R2 0.24, 95% CI: 0.19, 0.30. The UB level corresponding to the UBz>85th cut-point in this cohort was estimated to be between 0.56 and 0.79 µg/dL. In 825 survivors with known sNDI status the crude risk difference (RD) associated with UBz>85th was 19.5%. With TMLE + ML, the RD was 14.4% (95% CI: 5.7%, 23.1%) corresponding to a number need to harm (NNH) of 7 (95% CI: 4, 18). LR results were similar: RD 12.4% (95% CI: 4.7%, 20.1%), NNH 8 (95% CI: 5, 21). Exposure to UBz>85th was associated with a large increase in risk of sNDI in ELBW newborns. Accessing the only large dataset with measures of unbound bilirubin (UB) and neurodevelopmental outcomes in extremely low birthweight (ELBW) newborns we found poor correlation between UB and total bilirubin (TB). The risk of severe neurodevelopmental impairment (sNDI) associated with UB rose non-linearly with an inflection point at UB z-score 85th percentile (UBz>85th), increasing the risk of sNDI by an estimated 14% (number need to harm: 7). The current incidence of exposure to harmful UB levels in very premature newborns is unlikely to be rare. TB levels provide a false sense of security to clinicians caring for very premature newborns. Accessing the only large dataset with measures of unbound bilirubin (UB) and neurodevelopmental outcomes in extremely low birthweight (ELBW) newborns we found poor correlation between UB and total bilirubin (TB). The risk of severe neurodevelopmental impairment (sNDI) associated with UB rose non-linearly with an inflection point at UB z-score 85th percentile (UBz>85th), increasing the risk of sNDI by an estimated 14% (number need to harm: 7). The current incidence of exposure to harmful UB levels in very premature newborns is unlikely to be rare. TB levels provide a false sense of security to clinicians caring for very premature newborns.",
+      "year": 2025,
+      "publication_date": "2025-01-23",
+      "paper_id": "d65a0c3db62d925e58d01e1430e83a20a42ba5d4",
+      "url": "https://www.semanticscholar.org/paper/d65a0c3db62d925e58d01e1430e83a20a42ba5d4",
+      "venue": "Pediatric Research",
+      "doi": "10.1038/s41390-025-03872-x",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
       ]
     },
     {
@@ -9565,19 +10150,19 @@
       ]
     },
     {
-      "title": "A comparative effectiveness study of carotid intervention for long-term stroke prevention in patients with severe asymptomatic stenosis from a large integrated health system.",
+      "title": "A comparative effectiveness study of carotid intervention for long-term stroke prevention in patients with severe asymptomatic stenosis from a large integrated health system",
       "authors": [
         "R. Chang",
         "N. Pimentel",
         "Lue-Yen Tucker",
         "Kara A. Rothenberg",
         "A. Avins",
-        "A. Flint",
+        "A. C. Flint",
         "R. Faruqi",
         "Mai N. Nguyen-Huynh",
         "R. Neugebauer"
       ],
-      "abstract": "OBJECTIVE The results of current prospective trials comparing the effectiveness of carotid endarterectomy (CEA) versus standard medical therapy for long-term stroke prevention in patients with asymptomatic carotid stenosis (ACS) will not be available for several years. In this study, we compared the observed effectiveness of CEA and standard medical therapy versus standard medical therapy alone to prevent ipsilateral stroke in a contemporary cohort of patients with ACS. METHODS This cohort study was conducted in a large integrated health system in adult subjects with 70-99% ACS (no neurologic symptom within 6 months) with no prior ipsilateral carotid artery intervention. Causal inference methods were used to emulate a conceptual randomized trial using data from 1/1/2008 through 12/31/2017 for comparing the event-free survival over 96 months between two treatment strategies: 1) CEA within 12 months from cohort entry versus 2) no CEA (standard medical therapy alone). To account for both baseline and time-dependent confounding, Inverse Probability Weighting estimation was used to derive adjusted hazard ratios and cumulative risk differences were assessed based on two logistic marginal structural models for counterfactual hazards. Propensity scores were data-adaptively estimated using Super Learning. The primary outcome was ipsilateral anterior ischemic stroke. RESULTS The cohort included 3824 eligible patients with ACS (mean age: 73.7 years, 57.9% male, 12.3% active smokers), of whom 1467 underwent CEA in the first year, while 2297 never underwent CEA. Median follow-up was 68 months. 1760 participants (46%) died, 445 (12%) were lost to follow-up and 158 (4%) patients experienced ipsilateral stroke. The cumulative risk differences for each year of follow-up showed a protective effect of CEA starting in year 2 (risk difference = 1.1%, 95% Confidence Interval (CI): 0.5%-1.6%) persisting to year 8 (2.6%, 95% CI: 0.3%-4.8%) compared with patients not receiving CEA. CONCLUSIONS In this contemporary cohort study of patients with ACS utilizing rigorous analytic methodology, CEA appears to have a small but statistically significant effect on stroke prevention out to 8 years. Further study is needed to appropriately select the subset of patients most likely to benefit from intervention.",
+      "abstract": "Objective: The results of current prospective trials comparing the effectiveness of carotid endarterectomy (CEA) versus standard medical therapy for long-term stroke prevention in patients with asymptomatic carotid stenosis (ACS) will not be available for several years. In this study, we compared the observed effectiveness of CEA and standard medical therapy versus standard medical therapy alone to prevent ipsilateral stroke in a contemporary cohort of patients with ACS. Methods: This cohort study was conducted in a large integrated health system in adult subjects with 70–99% ACS (no neurologic symptom within 6 months) with no prior ipsilateral carotid artery intervention. Causal inference methods were used to emulate a conceptual randomized trial using data from 1/1/2008 through 12/31/2017 for comparing the event-free survival over 96 months between two treatment strategies: 1) CEA within 12 months from cohort entry versus 2) no CEA (standard medical therapy alone). To account for both baseline and time-dependent confounding, Inverse Probability Weighting estimation was used to derive adjusted hazard ratios and cumulative risk differences were assessed based on two logistic marginal structural models for counterfactual hazards. Propensity scores were data-adaptively estimated using Super Learning. The primary outcome was ipsilateral anterior ischemic stroke. Results: The cohort included 3824 eligible patients with ACS (mean age: 73.7 years, 57.9% male, 12.3% active smokers), of whom 1467 underwent CEA in the first year, while 2297 never underwent CEA. Median follow-up was 68 months. 1760 participants (46%) died, 445 (12%) were lost to follow-up and 158 (4%) patients experienced ipsilateral stroke. The cumulative risk differences for each year of follow-up showed a protective effect of CEA starting in year 2 (risk difference = 1.1%, 95% Confidence Interval (CI): 0.5%–1.6%) persisting to year 8 (2.6%, 95% CI: 0.3%–4.8%) compared with patients not receiving CEA. Conclusions: In this contemporary cohort study of patients with ACS utilizing rigorous analytic methodology, CEA appears to have a small but statistically significant effect on stroke prevention out to 8 years. Further study is needed to appropriately select the subset of patients most likely to benefit from intervention.",
       "year": 2023,
       "publication_date": "2023-07-01",
       "paper_id": "11cedc8d6fc2d5b67f6f989b9b5913c0f443bdd3",
@@ -10321,7 +10906,7 @@
       ]
     },
     {
-      "title": "Development and evaluation of a risk algorithm predicting alcohol dependence after early onset of regular alcohol use.",
+      "title": "Development and evaluation of a risk algorithm predicting alcohol dependence after early onset of regular alcohol use",
       "authors": [
         "C. Bharat",
         "M. Glantz",
@@ -10355,7 +10940,7 @@
         "R. Kessler",
         "L. Degenhardt"
       ],
-      "abstract": "AIM Likelihood of alcohol dependence (AD) is increased among people who transition to greater levels of alcohol involvement at a younger age. Indicated interventions delivered early may be effective in reducing risk but could be costly. One way to increase cost-effectiveness would be to develop a prediction model that targeted interventions to the subset of youth with early alcohol use who are at highest risk of subsequent AD. DESIGN A prediction model was developed for DSM-IV AD onset by age 25 using an ensemble machine learning algorithm known as super learner. Shapley additive explanations (SHAP) assessed variable importance. SETTING AND PARTICIPANTS Respondents reporting early onset of regular alcohol use (i.e., by 17 years of age) who were aged 25 years or older at interview from 14 representative community surveys conducted in 13 countries as part of WHO's World Mental Health Surveys. MEASUREMENTS The primary outcome to be predicted was onset of lifetime DSM-IV AD by age 25 as measured using the Composite International Diagnostic Interview, a fully structured diagnostic interview FINDINGS: AD prevalence by age 25 was 5.1% across the 10,687 individuals who reported drinking alcohol regularly by age 17. The prediction model achieved an external area under the curve (0.78; 95% confidence interval [CI] 0.74-0.81) higher than any individual candidate risk model (0.73-0.77) and an area under the precision-recall curve of 0.22. Overall calibration was good (ICI, 1.05%), however, miscalibration was observed at the extreme ends of the distribution of predicted probabilities. Interventions provided to the 20% of people with highest risk would identify 49% of AD cases and require treating four people without AD to reach one with AD. Important predictors of increased risk included younger onset of alcohol use, males, higher cohort alcohol use and more mental disorders. CONCLUSION A risk algorithm can be created using data collected at the onset of regular alcohol use to target youth at highest risk of alcohol dependence by early adulthood. Important considerations remain for advancing the development and practical implementation of such models.",
+      "abstract": "Aim: Likelihood of alcohol dependence (AD) is increased among people who transition to greater levels of alcohol involvement at a younger age. Indicated interventions delivered early may be effective in reducing risk but could be costly. One way to increase cost-effectiveness would be to develop a prediction model that targeted interventions to the subset of youth with early alcohol use who are at highest risk of subsequent AD. Design: A prediction model was developed for DSM-IV AD onset by age 25 using an ensemble machine learning algorithm known as super learner. Shapley additive explanations (SHAP) assessed variable importance. Setting and participants: Respondents reporting early onset of regular alcohol use (i.e., by 17 years of age) who were aged 25 years or older at interview from 14 representative community surveys conducted in 13 countries as part of WHO’s World Mental Health Surveys. Measurements: The primary outcome to be predicted was onset of lifetime DSM-IV AD by age 25 as measured using the Composite International Diagnostic Interview, a fully structured diagnostic interview Findings: AD prevalence by age 25 was 5.1% across the 10,687 individuals who reported drinking alcohol regularly by age 17. The prediction model achieved an external area under the curve (0.78; 95% confidence interval [CI] 0.74–0.81) higher than any individual candidate risk model (0.73–0.77) and an area under the precision-recall curve of 0.22. Overall calibration was good (ICI, 1.05%), however, miscalibration was observed at the extreme ends of the distribution of predicted probabilities. Interventions provided to the 20% of people with highest risk would identify 49% of AD cases and require treating four people without AD to reach one with AD. Important predictors of increased risk included younger onset of alcohol use, males, higher cohort alcohol use and more mental disorders. Conclusion: A risk algorithm can be created using data collected at the onset of regular alcohol use to target youth at highest risk of alcohol dependence by early adulthood. Important considerations remain for advancing the development and practical implementation of such models.",
       "year": 2023,
       "publication_date": "2023-01-07",
       "paper_id": "a7c156a5208fe619ffe88d862c990b22ce361b8b",
@@ -10366,8 +10951,7 @@
         "super learner"
       ],
       "source_queries": [
-        "super learner",
-        "super learning"
+        "super learner"
       ]
     },
     {
@@ -10426,13 +11010,13 @@
       ]
     },
     {
-      "title": "Does heterogeneity underlie differences in treatment effects estimated from SuperLearner versus logistic regression? An application in nutritional epidemiology.",
+      "title": "Does heterogeneity underlie differences in treatment effects estimated from SuperLearner versus logistic regression? An application in nutritional epidemiology",
       "authors": [
         "Julie M Petersen",
         "A. Naimi",
         "L. Bodnar"
       ],
-      "abstract": "PURPOSE A strength of SuperLearner is that it may accommodate key interactions between model variables without a priori specification. In prior research, protective associations between fruit intake and preeclampsia were stronger when estimated using SuperLearner with targeted maximum likelihood estimation (TMLE) compared with multivariable logistic regression without any interaction terms. We explored whether heterogeneity (i.e., differences in the effect estimate due to interactions between fruit intake and covariates) may partly explain differences in estimates from these two models. METHODS Using a US prospective pregnancy cohort (2010-2013, n=7781), we estimated preeclampsia risk differences (RDs) for higher versus lower fruit density using multivariable logistic regression and included 2-way statistical interactions between fruit density and each of the 25 model covariates. We compared the RDs with those from SuperLearner with TMLE (gold standard) and logistic regression with no interaction. RESULTS From the logistic regression models with 2-way statistical interactions, 48% of the preeclampsia RDs were ≤-0.02 (closer to SuperLearner with TMLE estimate); 40% equaled -0.01 (same as logistic regression with no interaction estimate); the minority were at or crossed the null. CONCLUSIONS Our exploratory analysis provided preliminary evidence that heterogeneity may partly explain differences in estimates from logistic regression versus SuperLearner with TMLE.",
+      "abstract": "Purpose: A strength of SuperLearner is that it may accommodate key interactions between model variables without a priori specification. In prior research, protective associations between fruit intake and preeclampsia were stronger when estimated using SuperLearner with targeted maximum likelihood estimation (TMLE) compared with multivariable logistic regression without any interaction terms. We explored whether heterogeneity (i.e., differences in the effect estimate due to interactions between fruit intake and covariates) may partly explain differences in estimates from these two models. Methods: Using a US prospective pregnancy cohort (2010–2013, n=7781), we estimated preeclampsia risk differences (RDs) for higher versus lower fruit density using multivariable logistic regression and included 2-way statistical interactions between fruit density and each of the 25 model covariates. We compared the RDs with those from SuperLearner with TMLE (gold standard) and logistic regression with no interaction. Results: From the logistic regression models with 2-way statistical interactions, 48% of the preeclampsia RDs were ≤−0.02 (closer to SuperLearner with TMLE estimate); 40% equaled −0.01 (same as logistic regression with no interaction estimate); the minority were at or crossed the null. Conclusions: Our exploratory analysis provided preliminary evidence that heterogeneity may partly explain differences in estimates from logistic regression versus SuperLearner with TMLE.",
       "year": 2023,
       "publication_date": "2023-04-01",
       "paper_id": "daba92b3d0a7cab0a19b5e8645d04bc5864e2a5d",
@@ -11777,6 +12361,34 @@
       ],
       "source_queries": [
         "super learning"
+      ]
+    },
+    {
+      "title": "Racial difference in the association between non-alcoholic fatty liver disease and incident type 2 diabetes: findings from the CARDIA study",
+      "authors": [
+        "Yuichi Hatano",
+        "L. VanWagner",
+        "M. Carnethon",
+        "M. Bancks",
+        "April P. Carson",
+        "D. Lloyd-Jones",
+        "Truls Østbye",
+        "A. Viera",
+        "Y. Yano"
+      ],
+      "abstract": "Aims/hypothesis Type 2 diabetes and non-alcoholic fatty liver disease (NAFLD) are prevalent diseases of metabolic origin. We examined the association between NAFLD and the development of type 2 diabetes among non-Asian adults, and whether the association differs by race. Methods We analysed data from the Coronary Artery Risk Development in Young Adults (CARDIA) study, a population-based prospective cohort study. Participants underwent non-contrast abdominal computed tomography (CT) at baseline (2010–2011) and assessment of glucose measures at the follow-up exam (2015–2016). NAFLD was defined as liver attenuation ≤51 Hounsfield units on CT images after exclusion for other liver fat causes. Race was self-reported. We used targeted maximum likelihood estimation (TMLE) with machine-learning algorithms to estimate difference in type 2 diabetes risk between the NAFLD and non-NAFLD groups. Results Of the 1995 participants without type 2 diabetes at baseline (mean age±SD, 50.0±3.6 years; 59% women; 55.0% White and 45.0% Black), 21.7% of White and 16.8% of Black participants had NAFLD at baseline, and 3.7% of White and 8.0% of Black participants developed type 2 diabetes at follow up. After multivariable adjustment, risk difference for type 2 diabetes associated with NAFLD vs no NAFLD was 4.1% (95% CI 0.3%, 7.9%) among White participants and −1.9% (95% CI −5.7%, 2.0%) in Black participants. Conclusions/interpretation NAFLD was associated with a higher risk of type 2 diabetes among White participants but not among Black participants. This finding suggests that the effect of liver fat on impaired glucose metabolism may be smaller in Black than in White individuals. Graphical abstract",
+      "year": 2023,
+      "publication_date": "2023-03-21",
+      "paper_id": "b5f8464374bfefa173628a321a43837cd2d52d89",
+      "url": "https://www.semanticscholar.org/paper/b5f8464374bfefa173628a321a43837cd2d52d89",
+      "venue": "Diabetologia",
+      "doi": "10.1007/s00125-023-05903-w",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
       ]
     },
     {
@@ -15256,7 +15868,7 @@
         "P. Heagerty",
         "David C. Benkeser"
       ],
-      "abstract": "",
+      "abstract": "To improve the estimation of healthcare expenditures by introducing a novel method that is well-suited to situations where data exhibit strong skewness and zero-inflation. Simulations, and two real-world datasets: the 2016–2017 Medical Expenditure Panel Survey; the Back Pain Outcomes using Longitudinal Data. Super learner is an ensemble machine learning approach that can combine several algorithms to improve estimation. We propose a two-stage super learner that is well suited for healthcare expenditure data by separately estimating the probability of any healthcare expenditure and the mean amount of healthcare expenditure conditional on having healthcare expenditures. These estimates can then be combined to yield a single estimate of expenditures for each observation. The analytical strategy can flexibly incorporate a range of individual estimation approaches for each stage of estimation, including both regression-based approaches and machine learning algorithms such as random forests. We compare the performance of the two-stage super learner with a one-stage super learner, and with multiple individual algorithms for estimation of healthcare cost under a broad range of data settings in simulated and real data. The predictive performance was compared using Mean Squared Error and R2. Our results indicate that the two-stage super learner has better performance compared with a one-stage super learner and individual algorithms, for healthcare cost estimation under a wide variety of settings in simulations and in empirical analyses. The improvement of the two-stage super learner over the one-stage super learner was particularly evident in settings when zero-inflation is high.",
       "year": 2021,
       "publication_date": "2021-03-29",
       "paper_id": "67c11a303cf7eba81b3c5f6fca342a7ff4560a03",
@@ -15267,8 +15879,7 @@
         "super learner"
       ],
       "source_queries": [
-        "super learner",
-        "super learning"
+        "super learner"
       ]
     },
     {
@@ -17742,6 +18353,27 @@
       ]
     },
     {
+      "title": "Automated analyses: Because we can, does it mean we should?",
+      "authors": [
+        "S. Shortreed",
+        "E. Moodie"
+      ],
+      "abstract": "We commend Benkeser, Cai and van der Laan (2019) for their interesting proposal and efforts to further automate the machinery of collaborative targeted minimum loss estimation (TMLE). Reducing human impact on an analysis, i.e. to circumvent the need for analysts to “select an increasingly complex sequence of estimators [...] and implement each of these” is an important goal that could bring us closer to reproducible and transparent research. We agree that striving for estimators which have stable properties is a benefit, and practical positivity violations can render many estimators “erratic” or “non-robust”. In the examples, the authors showcase success in constructing data-specific robust estimators with well-behaved properties. Petersen et al. (2010) describe TMLE as “an explicit trade-off [that is ideally] made in a systematic way rather than on an ad hoc basis at the discretion of the investigator.” No statistical or machine learning-based approach is exempt from human-made decisions. For example, in ensemble-based machine learning methods, often used in conjunction with TMLE, the analyst must choose which methods to include in the ensemble learner, select hyperparameter values (e.g. random forests minimum node size), and select the number of folds for cross-validation. The question then arises as to whether it does, or should, trouble the scientific community that TMLE is less automated than we might think. Here we wish to probe two fundamental questions: Should automation and data-driven analyses be preferred when inferential, rather than predictive, analyses are undertaken? For example, is a data-adaptive estimand or an a priori human-defined estimand preferred? What do we lose by automating an increasing number of steps of scientific discovery?",
+      "year": 2020,
+      "publication_date": "2020-08-01",
+      "paper_id": "1745ce17f05bf094e6901b3ccf26af87aca328ec",
+      "url": "https://www.semanticscholar.org/paper/1745ce17f05bf094e6901b3ccf26af87aca328ec",
+      "venue": "Statistical Science",
+      "doi": "10.1214/20-sts773",
+      "matched_keywords": [
+        "tmle"
+      ],
+      "source_queries": [
+        "targeted minimum loss based estimation",
+        "tmle"
+      ]
+    },
+    {
       "title": "Bootstrap Bias Corrected Cross Validation Applied to Super Learning",
       "authors": [
         "Krzysztof Mnich",
@@ -17955,14 +18587,14 @@
       ]
     },
     {
-      "title": "Ensemble machine learning for the prediction of patient-level outcomes following thyroidectomy.",
+      "title": "Ensemble Machine Learning for the Prediction of Patient-Level Outcomes Following Thyroidectomy",
       "authors": [
         "C. Seib",
         "James P. Roose",
         "A. Hubbard",
         "Insoo Suh"
       ],
-      "abstract": "BACKGROUND Accurate prediction of thyroidectomy complications is necessary to inform treatment decisions. Ensemble machine learning provides one approach to improve prediction. METHODS We applied the Super Learner (SL) algorithm to the 2016-2018 thyroidectomy-specific NSQIP database to predict complications following thyroidectomy. Cross-validation was used to assess model discrimination and precision. RESULTS For the 17,987 patients undergoing thyroidectomy, rates of recurrent laryngeal nerve injury, post-operative hypocalcemia prior to discharge or within 30 days, and neck hematoma were 6.1%, 6.4%, 9.0%, and 1.8%, respectively. SL improved prediction of thyroidectomy-specific outcomes when compared with benchmark logistic regression approaches. For postoperative hypocalcemia prior to discharge, SL improved the cross-validated AUROC to 0.72 (95%CI 0.70-0.74) compared to 0.70 (95%CI 0.68-0.72; p < 0.001) when using a manually curated logistic regression algorithm. CONCLUSION Ensemble machine learning modestly improves prediction for thyroidectomy-specific outcomes. SL holds promise to provide more accurate patient-level risk prediction to inform treatment decisions.",
+      "abstract": "Background: Accurate prediction of thyroidectomy complications is necessary to inform treatment decisions. Ensemble machine learning provides one approach to improve prediction. Methods: We applied the Super Learner (SL) algorithm to the 2016–2018 thyroidectomy-specific NSQIP database to predict complications following thyroidectomy. Cross-validation was used to assess model discrimination and precision. Results: For the 17,987 patients undergoing thyroidectomy, rates of recurrent laryngeal nerve injury, post-operative hypocalcemia prior to discharge or within 30 days, and neck hematoma were 6.1%, 6.4%, 9.0%, and 1.8%, respectively. SL improved prediction of thyroidectomy-specific outcomes when compared with benchmark logistic regression approaches. For postoperative hypocalcemia prior to discharge, SL improved the cross-validated AUROC to 0.72 (95%CI 0.70–0.74) compared to 0.70 (95%CI 0.68–0.72; p<0.001) when using a manually curated logistic regression algorithm. Conclusion: Ensemble machine learning modestly improves prediction for thyroidectomy-specific outcomes. SL holds promise to provide more accurate patient-level risk prediction to inform treatment decisions.",
       "year": 2020,
       "publication_date": "2020-12-03",
       "paper_id": "36829d34f2ae1763b40bfb6550b4873aa5aca80d",
@@ -18512,13 +19144,13 @@
       ]
     },
     {
-      "title": "Schistosoma mansoni infection is associated with a higher probability of tuberculosis disease in HIV-infected adults in Kenya.",
+      "title": "Schistosoma mansoni infection is associated with a higher probability of tuberculosis disease in HIV-infected adults in Kenya",
       "authors": [
         "Taryn A McLaughlin",
         "A. Nizam",
         "Felix Odhiambo Hayara",
         "G. Ouma",
-        "A. Campbell",
+        "Angela Campbell",
         "Jeremiah Khayumbi",
         "Joshua Ongalo",
         "S. Ouma",
@@ -18533,7 +19165,7 @@
         "C. Day",
         "D. Benkeser"
       ],
-      "abstract": "BACKGROUND Helminth infections can modulate immunity to Mycobacterium tuberculosis (Mtb). However, the effect of helminths, including Schistosoma mansoni (SM), on Mtb infection outcomes is less clear. Furthermore, HIV is a known risk factor for tuberculosis (TB) disease and has been implicated in SM pathogenesis. Therefore, it is important to evaluate whether HIV modifies the association between SM and Mtb infection. SETTING HIV-infected and HIV-uninfected adults were enrolled in Kisumu County, Kenya between 2014 and 2017 and categorized into three groups based on Mtb infection status: Mtb-uninfected healthy controls (HC), latent TB infection (LTBI), and active TB disease. Participants were subsequently evaluated for infection with SM. METHODS We used targeted minimum loss estimation and super learning to estimate a covariate-adjusted association between SM and Mtb infection outcomes, defined as the probability of being HC, LTBI or TB. HIV status was evaluated as an effect modifier of this association. RESULTS SM was not associated with differences in baseline demographic or clinical features of participants in this study, nor with additional parasitic infections. Covariate-adjusted analyses indicated that infection with SM was associated with a 4% higher estimated proportion of active TB cases in HIV-uninfected individuals and a 14% higher estimated proportion of active TB cases in HIV-infected individuals. There were no differences in estimated proportions of LTBI cases. CONCLUSIONS We provide evidence that SM infection is associated with a higher probability of active TB disease, particularly in HIV-infected individuals.",
+      "abstract": "Background: Helminth infections can modulate immunity to Mycobacterium tuberculosis (Mtb). However, the effect of helminths, including Schistosoma mansoni (SM), on Mtb infection outcomes is less clear. Furthermore, HIV is a known risk factor for tuberculosis (TB) disease and has been implicated in SM pathogenesis. Therefore, it is important to evaluate whether HIV modifies the association between SM and Mtb infection. Setting: HIV-infected and HIV-uninfected adults were enrolled in Kisumu County, Kenya between 2014 and 2017 and categorized into three groups based on Mtb infection status: Mtb-uninfected healthy controls (HC), latent TB infection (LTBI), and active TB disease. Participants were subsequently evaluated for infection with SM. Methods: We used targeted minimum loss estimation and super learning to estimate a covariate-adjusted association between SM and Mtb infection outcomes, defined as the probability of being HC, LTBI or TB. HIV status was evaluated as an effect modifier of this association. Results: SM was not associated with differences in baseline demographic or clinical features of participants in this study, nor with additional parasitic infections. Covariate-adjusted analyses indicated that infection with SM was associated with a 4% higher estimated proportion of active TB cases in HIV-uninfected individuals and a 14% higher estimated proportion of active TB cases in HIV-infected individuals. There were no differences in estimated proportions of LTBI cases. Conclusions: We provide evidence that SM infection is associated with a higher probability of active TB disease, particularly in HIV-infected individuals.",
       "year": 2020,
       "publication_date": "2020-10-14",
       "paper_id": "8d92862eb6b1dd2aaf4aa043a64d8846ca09378a",
@@ -18544,7 +19176,6 @@
         "super learning"
       ],
       "source_queries": [
-        "super learning",
         "targeted minimum loss based estimation"
       ]
     },
@@ -18796,7 +19427,7 @@
         "H. Prozesky",
         "R. Wood",
         "F. Tanser",
-        "M. Davies",
+        "Mary-Ann Davies",
         "M. Schomaker"
       ],
       "abstract": "Little is known about the functional relationship of delaying second-line treatment initiation for HIV-positive patients and mortality, given a patient's immune status. We included 7255 patients starting antiretroviral therapy between 2004-2017, from 9 South African cohorts, with virological failure and complete baseline data. We estimated the impact of switch time on the hazard of death using inverse probability of treatment weighting (IPTW) of marginal structural models. The non-linear relationship between month of switch and the 5-year survival probability, stratified by CD4 count at failure, was estimated with targeted maximum likelihood estimation (TMLE). We adjusted for measured time-varying confounding by CD4 count, viral load and visit frequency. 5-year mortality was estimated as 10.5% (2.2%; 18.8%) for immediate switch and as 26.6% (20.9%; 32.3%) for no switch (49.9% if CD4 count<100 cells/mm3). The hazard of death was estimated to be 0.40 (95%CI: 0.33-0.48) times lower if everyone had been switched immediately compared to never. The shorter the delay in switching, the lower the hazard of death, e.g. delaying 30-60 days reduced the hazard 0.52 (0.41-0.65) times, and 60-120 days 0.56 (0.47-0.66) times. Early treatment switch is particularly important for patients with low CD4 counts at failure.",
@@ -19599,7 +20230,7 @@
     {
       "title": "Exercise During the First Trimester and Infant Size at Birth: Targeted Maximum Likelihood Estimation of the Causal Risk Difference.",
       "authors": [
-        "S. Ehrlich",
+        "Samantha F. Ehrlich",
         "R. Neugebauer",
         "Juanran Feng",
         "M. Hedderson",
@@ -19648,16 +20279,16 @@
       ]
     },
     {
-      "title": "Having an Adult Child in the United States, Physical Functioning, and Unmet Needs for Care Among Older Mexican Adults.",
+      "title": "Having an adult child in the US, physical functioning, and unmet needs for care among older Mexican adults",
       "authors": [
         "Jacqueline M. Torres",
         "Kara E. Rudolph",
         "Oleg Sofrygin",
         "R. Wong",
-        "Louise C. Walter",
+        "Louise C Walter",
         "M. Glymour"
       ],
-      "abstract": "BACKGROUND Migration of adult children may impact the health of aging parents who remain in low- and middle-income countries. Prior studies have uncovered mixed associations between adult child migration status and physical functioning of older parents; none to our knowledge has examined the impact on unmet caregiving needs. METHODS Data come from a population-based study of Mexican adults ≥50 years. We used longitudinal targeted maximum likelihood estimation to estimate associations between having an adult child US migrant and lower-body functional limitations, and both needs and unmet needs for assistance with basic or instrumental activities of daily living (ADLs/IADLs) for 11,806 respondents surveyed over an 11-year period. RESULTS For women, having an adult child US migrant at baseline and 2-year follow-up was associated with fewer lower-body functional limitations [marginal risk difference (RD) = -0.14, 95% confidence interval (CI) = -0.26, -0.01] and ADLs/IADLs (RD = -0.08, 95% CI = -0.16, -0.001) at 2-year follow-up. Having an adult child US migrant at all waves was associated with a higher prevalence of functional limitations at 11-year follow-up (RD = 0.04, 95% CI = 0.01, 0.06). Having an adult child US migrant was associated with a higher prevalence of unmet needs for assistance at 2 (RD = 0.13, 95% CI = 0.04, 0.21) and 11-year follow-up for women (RD = 0.07, 95% CI = -0.02, 0.15) and 11-year follow-up for men (RD = 0.08, 95% CI = 0.00, 0.16). CONCLUSION Having an adult child US migrant had mixed associations with physical functioning, but substantial adverse associations with unmet caregiving needs for a cohort of older adults in Mexico.",
+      "abstract": "Background: Migration of adult children may impact the health of aging parents who remain in low- and middle-income countries. Prior studies have uncovered mixed associations between adult child migration status and physical functioning of older parents; none to our knowledge has examined the impact on unmet caregiving needs. Methods: Data come from a population-based study of Mexican adults >50 years old. We analyzed 11806 respondents surveyed over an 11-year period. We used longitudinal targeted maximum likelihood estimation to estimate associations between having an adult child in the US and lower-body functional limitations, and both needs and unmet needs for assistance with basic or instrumental activities of daily living (ADLs/IADLs). Results: For women, having an adult child in the US at baseline and 2-year follow-up was associated with fewer lower body functional limitations (marginal risk difference (RD): −0.14, 95% CI: −0.26, −0.01) and fewer ADLs/IADLs (RD: −0.08, 95% CI: −0.16, −0.001) at 2-year follow-up. Having an adult child in the US at all three study waves was associated with more lower-body functional limitations at 11-year follow-up (RD: 0.04, 95% CI: 0.01, 0.06). Having an adult child in the US was associated with a higher prevalence of unmet needs for assistance at two (RD: 0.13, 95% CI: 0.04, 0.21) and 11-year follow-up for women (RD: 0.07, 95% CI: −0.02, 0.15) and 11-year follow-up for men (RD: 0.08, 95% CI: 0.00, 0.16). Conclusion: Having an adult child in the US had either null or modestly positive associations with physical functioning, but substantial adverse associations with unmet caregiving needs for a cohort of older adults in Mexico.",
       "year": 2019,
       "publication_date": "2019-07-01",
       "paper_id": "607ac9bc335e7d7960dbe04787bbfc6c587ceb09",
@@ -19809,8 +20440,8 @@
       "authors": [
         "Monika A. Izano",
         "Oleg Sofrygin",
-        "Sally Picciotto",
-        "P. Bradshaw",
+        "S. Picciotto",
+        "Patrick T. Bradshaw",
         "E. Eisen"
       ],
       "abstract": "Background: Metalworking fluids (MWFs) are a class of complex mixtures of chemicals and oils, including several known carcinogens that may pose a cancer hazard to millions of workers. Reports on the relation between MWFs and incident colon cancer have been mixed. Methods: We investigated the relation between exposure to straight, soluble, and synthetic MWFs and the incidence of colon cancer in a cohort of automobile manufacturing industry workers, adjusting for time-varying confounding affected by prior exposure to reduce healthy worker survivor bias. We used longitudinal targeted minimum loss-based estimation (TMLE) to estimate the difference in the cumulative incidence of colon cancer comparing counterfactual outcomes if always exposed above to always exposed below an exposure cutoff while at work. Exposure concentration cutoffs were selected a priori at the 90th percentile of total particulate matter for each fluid type: 0.034, 0.400, and 0.003 for straight, soluble, and synthetic MWFs, respectively. Results: The estimated 25-year risk differences were 3.8% (95% confidence interval [CI] = 0.7, 7.0) for straight, 1.3% (95% CI = −2.3, 4.8) for soluble, and 0.2% (95% CI = −3.3, 3.7) for synthetic MWFs, respectively. The corresponding risk ratios were 2.39 (1.12, 5.08), 1.43 (0.67, 3.04), and 1.08 (0.51, 2.30) for straight, soluble, and synthetic MWFs, respectively. Conclusions: By controlling for time-varying confounding affected by prior exposure, a key feature of occupational cohorts, we were able to provide evidence for a causal effect of straight MWF exposure on colon cancer risk that was not found using standard analytical techniques in previous reports.",
@@ -20264,7 +20895,7 @@
       ]
     },
     {
-      "title": "Unconventional natural gas development and adverse birth outcomes in Pennsylvania: The potential mediating role of antenatal anxiety and depression.",
+      "title": "Unconventional natural gas development and adverse birth outcomes in Pennsylvania: the potential mediating role of antenatal anxiety and depression",
       "authors": [
         "J. Casey",
         "Dana E. Goin",
@@ -20275,9 +20906,9 @@
         "E. Eisen",
         "R. Morello-Frosch"
       ],
-      "abstract": "BACKGROUND Studies have reported associations between unconventional natural gas development (UNGD) and adverse birth outcomes. None have evaluated potential mediating mechanisms. OBJECTIVES To evaluate associations between (1) UNGD and antenatal anxiety and depression and (2) antenatal anxiety and depression and preterm birth (<37 weeks gestation) and reduced term birth weight, (3) stochastic direct and indirect effects of UNGD on preterm birth and term birth weight operating through antenatal anxiety and depression, and (4) effect modification by family-level socioeconomic status. METHODS This retrospective cohort study included mothers without prevalent anxiety or depression at time of conception, who delivered at Geisinger in Pennsylvania between January 2009-January 2013. We assembled phase-specific UNGD activity data from public sources. Mothers were categorized as exposed (quartile 4) or unexposed (quartiles 1-3) based on average daily inverse distance-squared UNGD activity metric between conception and the week prior to anxiety or depression (cases) or the pregnancy-average daily metric (non-cases). We estimated associations with a doubly robust estimator (targeted minimum loss-based estimation) and adjusted for potential individual- and community-level confounding variables. RESULTS Analyses included 8,371 births to 7,715 mothers, 12.2% of whom had antenatal anxiety or depression. We found 4.3 additional cases of antenatal anxiety or depression per 100 women (95% CI: 1.5, 7.0) under the scenario where all mothers lived in the highest quartile of UNGD activity versus quartiles 1-3. The risk difference appeared larger among mothers receiving Medical Assistance (indicator of low family income) compared to those who did not, 5.6 (95% CI: 0.5, 10.6) versus 2.9 (95% CI: -0.7, 6.5) additional cases of antenatal anxiety or depression per 100 women. We found no relationship between antenatal anxiety or depression and adverse birth outcomes and no mediation effect either overall or when stratifying by Medical Assistance. CONCLUSION We observed a relationship between UNGD activity and antenatal anxiety and depression, which did not mediate the overall association between UNGD activity and adverse birth outcomes.",
+      "abstract": "Background Studies have reported associations between unconventional natural gas development (UNGD) and adverse birth outcomes. None have evaluated potential mediating mechanisms. Objectives To evaluate associations between (1) UNGD and antenatal anxiety and depression and (2) antenatal anxiety and depression and preterm birth (< 37 weeks gestation) and reduced term birth weight, (3) stochastic direct and indirect effects of UNGD on preterm birth and term birth weight operating through antenatal anxiety and depression, and (4) effect modification by family-level socioeconomic status. Methods This retrospective cohort study included mothers without prevalent anxiety or depression at time of conception, who delivered at Geisinger in Pennsylvania between January 2009–January 2013. We assembled phase-specific UNGD activity data from public sources. Mothers were categorized as exposed (quartile 4) or unexposed (quartiles 1–3) based on average daily inverse distance-squared UNGD activity metric between conception and the week prior to anxiety or depression (cases) or the pregnancy-average daily metric (non-cases). We estimated associations with a doubly robust estimator (targeted minimum loss-based estimation) and adjusted for potential individual- and community-level confounding variables. Results Analyses included 8,371 births to 7,715 mothers, 12.2% of whom had antenatal anxiety or depression. We found 4.3 additional cases of antenatal anxiety or depression per 100 women (95% CI: 1.5, 7.0) under the scenario where all mothers lived in the highest quartile of UNGD activity versus quartiles 1–3. The risk difference appeared larger among mothers receiving Medical Assistance (indicator of low family income) compared to those who did not, 5.6 (95% CI: 0.5, 10.6) versus 2.9 (95% CI: −0.7, 6.5) additional cases of antenatal anxiety or depression per 100 women. We found no relationship between antenatal anxiety or depression and adverse birth outcomes and no mediation effect either overall or when stratifying by Medical Assistance. Conclusion We observed a relationship between UNGD activity and antenatal anxiety and depression, which did not mediate the overall association between UNGD activity and adverse birth outcomes.",
       "year": 2019,
-      "publication_date": "2019-10-01",
+      "publication_date": "2019-07-23",
       "paper_id": "40317a95598bc762d8a89e260c07cde0d1947ee6",
       "url": "https://www.semanticscholar.org/paper/40317a95598bc762d8a89e260c07cde0d1947ee6",
       "venue": "Environmental Research",
@@ -21138,7 +21769,7 @@
       "authors": [
         "L. Gensler",
         "Milena Gianfrancesco",
-        "M. H. Weisman",
+        "Michael H. Weisman",
         "Matthew A. Brown",
         "Minjae Lee",
         "Thomas Learch",
@@ -21627,7 +22258,7 @@
       "authors": [
         "M. J. van der Laan"
       ],
-      "abstract": "",
+      "abstract": "Abstract Suppose we observe n $n$ independent and identically distributed observations of a finite dimensional bounded random variable. This article is concerned with the construction of an efficient targeted minimum loss-based estimator (TMLE) of a pathwise differentiable target parameter of the data distribution based on a realistic statistical model. The only smoothness condition we will enforce on the statistical model is that the nuisance parameters of the data distribution that are needed to evaluate the canonical gradient of the pathwise derivative of the target parameter are multivariate real valued cadlag functions (right-continuous and left-hand limits, (G. Neuhaus. On weak convergence of stochastic processes with multidimensional time parameter. Ann Stat 1971;42:1285–1295.) and have a finite supremum and (sectional) variation norm. Each nuisance parameter is defined as a minimizer of the expectation of a loss function over over all functions it its parameter space. For each nuisance parameter, we propose a new minimum loss based estimator that minimizes the loss-specific empirical risk over the functions in its parameter space under the additional constraint that the variation norm of the function is bounded by a set constant. The constant is selected with cross-validation. We show such an MLE can be represented as the minimizer of the empirical risk over linear combinations of indicator basis functions under the constraint that the sum of the absolute value of the coefficients is bounded by the constant: i.e., the variation norm corresponds with this L1 $L_1$-norm of the vector of coefficients. We will refer to this estimator as the highly adaptive Lasso (HAL)-estimator. We prove that for all models the HAL-estimator converges to the true nuisance parameter value at a rate that is faster than n−1/4 $n^{-1/4}$ w.r.t. square-root of the loss-based dissimilarity. We also show that if this HAL-estimator is included in the library of an ensemble super-learner, then the super-learner will at minimal achieve the rate of convergence of the HAL, but, by previous results, it will actually be asymptotically equivalent with the oracle (i.e., in some sense best) estimator in the library. Subsequently, we establish that a one-step TMLE using such a super-learner as initial estimator for each of the nuisance parameters is asymptotically efficient at any data generating distribution in the model, under weak structural conditions on the target parameter mapping and model and a strong positivity assumption (e.g., the canonical gradient is uniformly bounded). We demonstrate our general theorem by constructing such a one-step TMLE of the average causal effect in a nonparametric model, and establishing that it is asymptotically efficient.",
       "year": 2017,
       "publication_date": "2017-10-12",
       "paper_id": "209928f2019676a868b7f0becd4da023e77a086c",
@@ -21635,7 +22266,8 @@
       "venue": "The International Journal of Biostatistics",
       "doi": "10.1515/ijb-2015-0097",
       "matched_keywords": [
-        "highly adaptive lasso"
+        "highly adaptive lasso",
+        "tmle"
       ],
       "source_queries": [
         "highly adaptive lasso",
@@ -21777,6 +22409,28 @@
       ]
     },
     {
+      "title": "Constrained binary classification using ensemble learning: an application to cost-efficient targeted PrEP strategies",
+      "authors": [
+        "Wenjing Zheng",
+        "L. Balzer",
+        "M. J. van der Laan",
+        "M. Petersen"
+      ],
+      "abstract": "Binary classification problems are ubiquitous in health and social sciences. In many cases, one wishes to balance two competing optimality considerations for a binary classifier. For instance, in resource‐limited settings, an human immunodeficiency virus prevention program based on offering pre‐exposure prophylaxis (PrEP) to select high‐risk individuals must balance the sensitivity of the binary classifier in detecting future seroconverters (and hence offering them PrEP regimens) with the total number of PrEP regimens that is financially and logistically feasible for the program. In this article, we consider a general class of constrained binary classification problems wherein the objective function and the constraint are both monotonic with respect to a threshold. These include the minimization of the rate of positive predictions subject to a minimum sensitivity, the maximization of sensitivity subject to a maximum rate of positive predictions, and the Neyman–Pearson paradigm, which minimizes the type II error subject to an upper bound on the type I error. We propose an ensemble approach to these binary classification problems based on the Super Learner methodology. This approach linearly combines a user‐supplied library of scoring algorithms, with combination weights and a discriminating threshold chosen to minimize the constrained optimality criterion. We then illustrate the application of the proposed classifier to develop an individualized PrEP targeting strategy in a resource‐limited setting, with the goal of minimizing the number of PrEP offerings while achieving a minimum required sensitivity. This proof of concept data analysis uses baseline data from the ongoing Sustainable East Africa Research in Community Health study. Copyright © 2017 John Wiley & Sons, Ltd.",
+      "year": 2017,
+      "publication_date": "2017-04-06",
+      "paper_id": "859b32ceff2bf9c35c61a8246e9870875bdf9300",
+      "url": "https://www.semanticscholar.org/paper/859b32ceff2bf9c35c61a8246e9870875bdf9300",
+      "venue": "Statistics in Medicine",
+      "doi": "10.1002/sim.7296",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
       "title": "Construction of environmental risk score beyond standard linear models using machine learning methods: application to metal mixtures, oxidative stress and cardiovascular disease in NHANES",
       "authors": [
         "S. Park",
@@ -21796,6 +22450,30 @@
       "source_queries": [
         "super learner",
         "super learning"
+      ]
+    },
+    {
+      "title": "Contemporary Trends and Outcomes Associated with the Pre-Procedural Use of Oral P2Y12 Inhibitors in Patients Undergoing Percutaneous Coronary Intervention: Insights from the Blue Cross Blue Shield of Michigan Cardiovascular Consortium (BMC2)",
+      "authors": [
+        "D. Sukul",
+        "Milan Seth",
+        "S. Dixon",
+        "A. Khandelwal",
+        "Thomas A Lalonde",
+        "H. Gurm"
+      ],
+      "abstract": "Objectives We sought to describe trends in the use of pre-procedural P2Y12 inhibitors and their clinical impact in patients undergoing percutaneous coronary intervention (PCI). Background Oral P2Y12 inhibitors are ubiquitously used medications; however, the specific timing of initial P2Y12 inhibitor administration remains intensely debated. Methods Our study population comprised 74,053 consecutive patients undergoing PCI at 47 hospitals in Michigan from January 2013 through June 2015. In-hospital outcomes included stent thrombosis, bleeding, need for transfusion, and death. Hierarchical logistic regression, propensity matching, and targeted maximum likelihood estimation were used to adjust for baseline patient differences, clustering, and to minimize bias. Results Of 24,733 patients who received a pre-procedural P2Y12 inhibitor, 82% received clopidogrel, 8% prasugrel, and 10% ticagrelor. Pre-procedural administration of P2Y12 inhibitors declined during the study (49.3% to 24.8%; P <0.001), and varied greatly across hospitals (14.5% – 95.9%). No significant differences in outcomes were observed between patients receiving pre-procedural clopidogrel and a matched cohort of those not receiving any pre-procedural P2Y12 inhibitor [adjusted odds ratio (95% confidence interval)] for stent thrombosis: 1.55 (0.30–7.84); bleeding: 0.96 (0.63–1.46); transfusion: 1.03 (0.69–1.55); death: 0.95 (0.38–2.37)]. Similar findings were demonstrated for pre-procedural ticagrelor and prasugrel. Results from a subgroup analysis of patients with non-ST-segment elevation acute coronary syndrome (n=28,072) were consistent with the overall findings. Conclusions There was a substantial decline in the rate of pre-procedural P2Y12 inhibitor administration during the study period. Furthermore, there were no significant differences in outcomes between patients treated with pre-procedural P2Y12 inhibitors and those that were not.",
+      "year": 2017,
+      "publication_date": "2017-04-15",
+      "paper_id": "269ac52561e0763f4c05ac8c33a400087de42802",
+      "url": "https://www.semanticscholar.org/paper/269ac52561e0763f4c05ac8c33a400087de42802",
+      "venue": "The Journal of invasive cardiology",
+      "doi": null,
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
       ]
     },
     {
@@ -21955,6 +22633,26 @@
       ]
     },
     {
+      "title": "Joint mixed-effects models for causal inference with longitudinal data",
+      "authors": [
+        "M. Shardell",
+        "L. Ferrucci"
+      ],
+      "abstract": "Causal inference with observational longitudinal data and time‐varying exposures is complicated due to the potential for time‐dependent confounding and unmeasured confounding. Most causal inference methods that handle time‐dependent confounding rely on either the assumption of no unmeasured confounders or the availability of an unconfounded variable that is associated with the exposure (eg, an instrumental variable). Furthermore, when data are incomplete, validity of many methods often depends on the assumption of missing at random. We propose an approach that combines a parametric joint mixed‐effects model for the study outcome and the exposure with g‐computation to identify and estimate causal effects in the presence of time‐dependent confounding and unmeasured confounding. G‐computation can estimate participant‐specific or population‐average causal effects using parameters of the joint model. The joint model is a type of shared parameter model where the outcome and exposure‐selection models share common random effect(s). We also extend the joint model to handle missing data and truncation by death when missingness is possibly not at random. We evaluate the performance of the proposed method using simulation studies and compare the method to both linear mixed‐ and fixed‐effects models combined with g‐computation as well as to targeted maximum likelihood estimation. We apply the method to an epidemiologic study of vitamin D and depressive symptoms in older adults and include code using SAS PROC NLMIXED software to enhance the accessibility of the method to applied researchers.",
+      "year": 2017,
+      "publication_date": "2017-12-04",
+      "paper_id": "3496cbf067af713223e4c2925480bca4fea14825",
+      "url": "https://www.semanticscholar.org/paper/3496cbf067af713223e4c2925480bca4fea14825",
+      "venue": "Statistics in Medicine",
+      "doi": "10.1002/sim.7567",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
+      ]
+    },
+    {
       "title": "Longitudinal Mediation Analysis with Time-varying Mediators and Exposures, with Application to Survival Outcomes",
       "authors": [
         "Wenjing Zheng",
@@ -22017,6 +22715,30 @@
       "source_queries": [
         "targeted maximum likelihood estimation",
         "tmle"
+      ]
+    },
+    {
+      "title": "Predicting Posttraumatic Stress Disorder Following a Natural Disaster",
+      "authors": [
+        "A. Rosellini",
+        "Francisca Dussaillant",
+        "J. Zubizarreta",
+        "R. Kessler",
+        "Sherri Rose"
+      ],
+      "abstract": "Earthquakes are a common and deadly natural disaster, with roughly one-quarter of survivors subsequently developing posttraumatic stress disorder (PTSD). Despite progress identifying risk factors, limited research has examined how to combine variables into an optimized post-earthquake PTSD prediction tool that could be used to triage survivors to mental health services. The current study developed a post-earthquake PTSD risk tool using machine learning methods designed to optimize prediction. The data were from a two-wave survey of Chileans exposed to the 8.8 magnitude earthquake that occurred in February 2010. Respondents (n=23,907) were interviewed roughly three months prior to and again three months after the earthquake. Probable post-earthquake PTSD was assessed using the Davidson Trauma Scale. We applied super learning, an ensembling machine learning method, to develop the PTSD risk tool from 67 risk factors that could be assessed within one week of earthquake occurrence. The super learner algorithm had better cross-validated performance than the 39 individual algorithms from which it was developed, including conventional logistic regression. The super learner also had a better area under the receiver operating characteristic curve (0.79) than existing post-disaster PTSD risk tools. Individuals in the top 5%, 10%, and 20% of the predicted risk distribution accounted for 17.5%, 32.2%, and 51.4% of all probable cases of PTSD, respectively. In addition to developing a tool that could be implemented after the next earthquake, these results more broadly support the utility of super learning to develop optimized prediction functions for mental health outcomes.",
+      "year": 2017,
+      "publication_date": "2017-09-08",
+      "paper_id": "73eec4afc474d661e326b3c52d959dea27799618",
+      "url": "https://www.semanticscholar.org/paper/73eec4afc474d661e326b3c52d959dea27799618",
+      "venue": "Journal of Psychiatric Research",
+      "doi": "10.1016/j.jpsychires.2017.09.010",
+      "matched_keywords": [
+        "super learner",
+        "super learning"
+      ],
+      "source_queries": [
+        "super learner"
       ]
     },
     {
@@ -22359,6 +23081,27 @@
       ]
     },
     {
+      "title": "Adaptive Pre-specification in Randomized Trials With and Without Pair-Matching",
+      "authors": [
+        "L. Balzer",
+        "M. J. van der Laan",
+        "M. Petersen"
+      ],
+      "abstract": "In randomized trials, adjustment for measured covariates during the analysis can reduce variance and increase power. To avoid misleading inference, the analysis plan must be pre‐specified. However, it is often unclear a priori which baseline covariates (if any) should be adjusted for in the analysis. Consider, for example, the Sustainable East Africa Research in Community Health (SEARCH) trial for HIV prevention and treatment. There are 16 matched pairs of communities and many potential adjustment variables, including region, HIV prevalence, male circumcision coverage, and measures of community‐level viral load. In this paper, we propose a rigorous procedure to data‐adaptively select the adjustment set, which maximizes the efficiency of the analysis. Specifically, we use cross‐validation to select from a pre‐specified library the candidate targeted maximum likelihood estimator (TMLE) that minimizes the estimated variance. For further gains in precision, we also propose a collaborative procedure for estimating the known exposure mechanism. Our small sample simulations demonstrate the promise of the methodology to maximize study power, while maintaining nominal confidence interval coverage. We show how our procedure can be tailored to the scientific question (intervention effect for the study sample vs. for the target population) and study design (pair‐matched or not). Copyright © 2016 John Wiley & Sons, Ltd.",
+      "year": 2016,
+      "publication_date": "2016-07-19",
+      "paper_id": "798ffb5f9949da03ffd6a51a979e22c7b0b446cf",
+      "url": "https://www.semanticscholar.org/paper/798ffb5f9949da03ffd6a51a979e22c7b0b446cf",
+      "venue": "Statistics in Medicine",
+      "doi": "10.1002/sim.7023",
+      "matched_keywords": [
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
+      ]
+    },
+    {
       "title": "Application of targeted maximum likelihood estimation technique to assess the impact of prenatal exposure to nitrogen dioxide and ozone on stillbirth in a California cohort study",
       "authors": [
         "V. Sarovar",
@@ -22401,6 +23144,27 @@
       ]
     },
     {
+      "title": "AUC-Maximizing Ensembles through Metalearning",
+      "authors": [
+        "E. LeDell",
+        "M. J. van der Laan",
+        "Maya Peterson"
+      ],
+      "abstract": "Abstract Area Under the ROC Curve (AUC) is often used to measure the performance of an estimator in binary classification problems. An AUC-maximizing classifier can have significant advantages in cases where ranking correctness is valued or if the outcome is rare. In a Super Learner ensemble, maximization of the AUC can be achieved by the use of an AUC-maximining metalearning algorithm. We discuss an implementation of an AUC-maximization technique that is formulated as a nonlinear optimization problem. We also evaluate the effectiveness of a large number of different nonlinear optimization algorithms to maximize the cross-validated AUC of the ensemble fit. The results provide evidence that AUC-maximizing metalearners can, and often do, out-perform non-AUC-maximizing metalearning methods, with respect to ensemble AUC. The results also demonstrate that as the level of imbalance in the training data increases, the Super Learner ensemble outperforms the top base algorithm by a larger degree.",
+      "year": 2016,
+      "publication_date": "2016-05-01",
+      "paper_id": "d787edb5ce204012c2f695315752c0fd12a338ef",
+      "url": "https://www.semanticscholar.org/paper/d787edb5ce204012c2f695315752c0fd12a338ef",
+      "venue": "The International Journal of Biostatistics",
+      "doi": "10.1515/ijb-2015-0035",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
       "title": "Causal Conference Program 2016 Causal Conference Titles and Abstracts Title: Efficient Inference of Average Treatment Effects in High Dimensions via Approximate Residual Balancing Title: One-step Targeted Mle and the Highly Adaptive Lasso",
       "authors": [
         "M. Laan",
@@ -22435,6 +23199,27 @@
       ]
     },
     {
+      "title": "Doubly Robust and Efficient Estimation of Marginal Structural Models for the Hazard Function",
+      "authors": [
+        "Wenjing Zheng",
+        "Maya L Petersen",
+        "M. J. van der Laan"
+      ],
+      "abstract": "Abstract In social and health sciences, many research questions involve understanding the causal effect of a longitudinal treatment on mortality (or time-to-event outcomes in general). Often, treatment status may change in response to past covariates that are risk factors for mortality, and in turn, treatment status may also affect such subsequent covariates. In these situations, Marginal Structural Models (MSMs), introduced by Robins (1997. Marginal structural models Proceedings of the American Statistical Association. Section on Bayesian Statistical Science, 1–10), are well-established and widely used tools to account for time-varying confounding. In particular, a MSM can be used to specify the intervention-specific counterfactual hazard function, i. e. the hazard for the outcome of a subject in an ideal experiment where he/she was assigned to follow a given intervention on their treatment variables. The parameters of this hazard MSM are traditionally estimated using the Inverse Probability Weighted estimation Robins (1999. Marginal structural models versus structural nested models as tools for causal inference. In: Statistical models in epidemiology: the environment and clinical trials. Springer-Verlag, 1999:95–134), Robins et al. (2000), (IPTW, van der Laan and Petersen (2007. Causal effect models for realistic individualized treatment and intention to treat rules. Int J Biostat 2007;3:Article 3), Robins et al. (2008. Estimaton and extrapolation of optimal treatment and testing strategies. Statistics in Medicine 2008;27(23):4678–721)). This estimator is easy to implement and admits Wald-type confidence intervals. However, its consistency hinges on the correct specification of the treatment allocation probabilities, and the estimates are generally sensitive to large treatment weights (especially in the presence of strong confounding), which are difficult to stabilize for dynamic treatment regimes. In this paper, we present a pooled targeted maximum likelihood estimator (TMLE, van der Laan and Rubin (2006. Targeted maximum likelihood learning. The International Journal of Biostatistics 2006;2:1–40)) for MSM for the hazard function under longitudinal dynamic treatment regimes. The proposed estimator is semiparametric efficient and doubly robust, offering bias reduction over the incumbent IPTW estimator when treatment probabilities may be misspecified. Moreover, the substitution principle rooted in the TMLE potentially mitigates the sensitivity to large treatment weights in IPTW. We compare the performance of the proposed estimator with the IPTW and a on-targeted substitution estimator in a simulation study.",
+      "year": 2016,
+      "publication_date": "2016-05-01",
+      "paper_id": "fe88ecf240782077d68d21cdbf2a78673e6a0e7a",
+      "url": "https://www.semanticscholar.org/paper/fe88ecf240782077d68d21cdbf2a78673e6a0e7a",
+      "venue": "The International Journal of Biostatistics",
+      "doi": "10.1515/ijb-2015-0036",
+      "matched_keywords": [
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
+      ]
+    },
+    {
       "title": "Effect Estimation in Point-Exposure Studies with Binary Outcomes and High-Dimensional Covariate Data – A Comparison of Targeted Maximum Likelihood Estimation and Inverse Probability of Treatment Weighting",
       "authors": [
         "Menglan Pang",
@@ -22457,6 +23242,56 @@
       "source_queries": [
         "targeted maximum likelihood estimation",
         "tmle"
+      ]
+    },
+    {
+      "title": "Estimating Effects with Rare Outcomes and High Dimensional Covariates: Knowledge is Power",
+      "authors": [
+        "L. Balzer",
+        "J. Ahern",
+        "S. Galea",
+        "M. J. van der Laan"
+      ],
+      "abstract": "Abstract Many of the secondary outcomes in observational studies and randomized trials are rare. Methods for estimating causal effects and associations with rare outcomes, however, are limited, and this represents a missed opportunity for investigation. In this article, we construct a new targeted minimum loss-based estimator (TMLE) for the effect or association of an exposure on a rare outcome. We focus on the causal risk difference and statistical models incorporating bounds on the conditional mean of the outcome, given the exposure and measured confounders. By construction, the proposed estimator constrains the predicted outcomes to respect this model knowledge. Theoretically, this bounding provides stability and power to estimate the exposure effect. In finite sample simulations, the proposed estimator performed as well, if not better, than alternative estimators, including a propensity score matching estimator, inverse probability of treatment weighted (IPTW) estimator, augmented-IPTW and the standard TMLE algorithm. The new estimator yielded consistent estimates if either the conditional mean outcome or the propensity score was consistently estimated. As a substitution estimator, TMLE guaranteed the point estimates were within the parameter range. We applied the estimator to investigate the association between permissive neighborhood drunkenness norms and alcohol use disorder. Our results highlight the potential for double robust, semiparametric efficient estimation with rare events and high dimensional covariates.",
+      "year": 2016,
+      "publication_date": "2016-05-24",
+      "paper_id": "ef295cd94e97c2cb8d2ced1fbce174325a09576b",
+      "url": "https://www.semanticscholar.org/paper/ef295cd94e97c2cb8d2ced1fbce174325a09576b",
+      "venue": "Epidemiologic Methods",
+      "doi": "10.1515/em-2014-0020",
+      "matched_keywords": [
+        "tmle"
+      ],
+      "source_queries": [
+        "targeted minimum loss based estimation",
+        "tmle"
+      ]
+    },
+    {
+      "title": "Evaluating the Impact of a HIV Low-Risk Express Care Task-Shifting Program: A Case Study of the Targeted Learning Roadmap",
+      "authors": [
+        "Linh Tran",
+        "C. Yiannoutsos",
+        "B. Musick",
+        "K. Wools-Kaloustian",
+        "A. Siika",
+        "S. Kimaiyo",
+        "M. J. van der Laan",
+        "M. Petersen"
+      ],
+      "abstract": "Abstract In conducting studies on an exposure of interest, a systematic roadmap should be applied for translating causal questions into statistical analyses and interpreting the results. In this paper we describe an application of one such roadmap applied to estimating the joint effect of both time to availability of a nurse-based triage system (low risk express care (LREC)) and individual enrollment in the program among HIV patients in East Africa. Our study population is comprised of 16,513 subjects found eligible for this task-shifting program within 15 clinics in Kenya between 2006 and 2009, with each clinic starting the LREC program between 2007 and 2008. After discretizing follow-up into 90-day time intervals, we targeted the population mean counterfactual outcome (i. e. counterfactual probability of either dying or being lost to follow up) at up to 450 days after initial LREC eligibility under three fixed treatment interventions. These were (i) under no program availability during the entire follow-up, (ii) under immediate program availability at initial eligibility, but non-enrollment during the entire follow-up, and (iii) under immediate program availability and enrollment at initial eligibility. We further estimated the controlled direct effect of immediate program availability compared to no program availability, under a hypothetical intervention to prevent individual enrollment in the program. Targeted minimum loss-based estimation was used to estimate the mean outcome, while Super Learning was implemented to estimate the required nuisance parameters. Analyses were conducted with the ltmle R package; analysis code is available at an online repository as an R package. Results showed that at 450 days, the probability of in-care survival for subjects with immediate availability and enrollment was 0.93 (95 % CI: 0.91, 0.95) and 0.87 (95 % CI: 0.86, 0.87) for subjects with immediate availability never enrolling. For subjects without LREC availability, it was 0.91 (95 % CI: 0.90, 0.92). Immediate program availability without individual enrollment, compared to no program availability, was estimated to slightly albeit significantly decrease survival by 4 % (95 % CI 0.03,0.06, p < 0.01). Immediately availability and enrollment resulted in a 7 % higher in-care survival compared to immediate availability with non-enrollment after 450 days (95 % CI –0.08,–0.05, p < 0.01). The results are consistent with a fairly small impact of both availability and enrollment in the LREC program on in-care survival.",
+      "year": 2016,
+      "publication_date": "2016-11-10",
+      "paper_id": "593b5721b9cfb272805e330ebb8dd03b41ed073e",
+      "url": "https://www.semanticscholar.org/paper/593b5721b9cfb272805e330ebb8dd03b41ed073e",
+      "venue": "Epidemiologic Methods",
+      "doi": "10.1515/em-2016-0004",
+      "matched_keywords": [
+        "super learning",
+        "targeted minimum loss based estimation"
+      ],
+      "source_queries": [
+        "targeted minimum loss based estimation"
       ]
     },
     {
@@ -22528,6 +23363,31 @@
       ]
     },
     {
+      "title": "Pathway analysis of genome-wide association study in childhood leukemia among Hispanics",
+      "authors": [
+        "L. Hsu",
+        "F. Briggs",
+        "Xiaorong Shao",
+        "C. Metayer",
+        "J. Wiemels",
+        "A. Chokkalingam",
+        "L. Barcellos"
+      ],
+      "abstract": "Background: The incidence of acute lymphoblastic leukemia (ALL) is nearly 20% higher among Hispanics than non-Hispanic Whites. Previous studies have shown evidence for association between risk of ALL and variation within IKZF1, ARID5B, CEBPE, CDKN2A, GATA3, and BM1-PIP4K2A genes. However, variants identified only account for <10% of the genetic risk of ALL. Methods: We applied pathway-based analyses to genome-wide association study (GWAS) data from the California Childhood Leukemia Study to determine whether different biologic pathways were overrepresented in childhood ALL and major ALL subtypes. Furthermore, we applied causal inference and data reduction methods to prioritize candidate genes within each identified overrepresented pathway, while accounting for correlation among SNPs. Results: Pathway analysis results indicate that different ALL subtypes may involve distinct biologic mechanisms. Focal adhesion is a shared mechanism across the different disease subtypes. For ALL, the top five overrepresented Kyoto Encyclopedia of Genes and Genomes pathways include axon guidance, protein digestion and absorption, melanogenesis, leukocyte transendothelial migration, and focal adhesion (PFDR < 0.05). Notably, these pathways are connected to downstream MAPK or Wnt signaling pathways which have been linked to B-cell malignancies. Several candidate genes for ALL, such as COL6A6 and COL5A1, were identified through targeted maximum likelihood estimation. Conclusions: This is the first study to show distinct biologic pathways are overrepresented in different ALL subtypes using pathway-based approaches, and identified potential gene candidates using causal inference methods. Impact: The findings demonstrate that newly developed bioinformatics tools and causal inference methods can provide insights to furthering our understanding of the pathogenesis of leukemia. Cancer Epidemiol Biomarkers Prev; 25(5); 815–22. ©2016 AACR.",
+      "year": 2016,
+      "publication_date": "2016-03-03",
+      "paper_id": "1007af7b926cc3a952d441293820e8e2ead193bc",
+      "url": "https://www.semanticscholar.org/paper/1007af7b926cc3a952d441293820e8e2ead193bc",
+      "venue": "Cancer Epidemiology, Biomarkers and Prevention",
+      "doi": "10.1158/1055-9965.EPI-15-0528",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
+      ]
+    },
+    {
       "title": "Practical targeted learning from large data sets by survey sampling",
       "authors": [
         "P. Bertail",
@@ -22579,6 +23439,29 @@
       "url": "https://www.semanticscholar.org/paper/d17be597228d45799dae46531faee5eec97b80ef",
       "venue": "Journal of Causal Inference",
       "doi": "10.1515/jci-2016-0003",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ]
+    },
+    {
+      "title": "Targeted estimation and inference for the sample average treatment effect in trials with and without pair-matching",
+      "authors": [
+        "L. Balzer",
+        "M. Petersen",
+        "M. J. van der Laan"
+      ],
+      "abstract": "In cluster randomized trials, the study units usually are not a simple random sample from some clearly defined target population. Instead, the target population tends to be hypothetical or ill‐defined, and the selection of study units tends to be systematic, driven by logistical and practical considerations. As a result, the population average treatment effect (PATE) may be neither well defined nor easily interpretable. In contrast, the sample average treatment effect (SATE) is the mean difference in the counterfactual outcomes for the study units. The sample parameter is easily interpretable and arguably the most relevant when the study units are not sampled from some specific super‐population of interest. Furthermore, in most settings, the sample parameter will be estimated more efficiently than the population parameter. To the best of our knowledge, this is the first paper to propose using targeted maximum likelihood estimation (TMLE) for estimation and inference of the sample effect in trials with and without pair‐matching. We study the asymptotic and finite sample properties of the TMLE for the sample effect and provide a conservative variance estimator. Finite sample simulations illustrate the potential gains in precision and power from selecting the sample effect as the target of inference. This work is motivated by the Sustainable East Africa Research in Community Health (SEARCH) study, a pair‐matched, community randomized trial to estimate the effect of population‐based HIV testing and streamlined ART on the 5‐year cumulative HIV incidence (NCT01864603). The proposed methodology will be used in the primary analysis for the SEARCH trial. Copyright © 2016 John Wiley & Sons, Ltd.",
+      "year": 2016,
+      "publication_date": "2016-04-18",
+      "paper_id": "471d5ee0ed22d73e9aedc0160300e27ab765e74e",
+      "url": "https://www.semanticscholar.org/paper/471d5ee0ed22d73e9aedc0160300e27ab765e74e",
+      "venue": "Statistics in Medicine",
+      "doi": "10.1002/sim.6965",
       "matched_keywords": [
         "targeted maximum likelihood estimation",
         "tmle"
@@ -22656,9 +23539,9 @@
         "David C. Benkeser",
         "M. J. Laan"
       ],
-      "abstract": "",
+      "abstract": "Estimation of a regression functions is a common goal of statistical learning. We propose a novel nonparametric regression estimator that, in contrast to many existing methods, does not rely on local smoothness assumptions nor is it constructed using local smoothing techniques. Instead, our estimator respects global smoothness constraints by virtue of falling in a class of right-hand continuous functions with left-hand limits that have variation norm bounded by a constant. Using empirical process theory, we establish a fast minimal rate of convergence of our proposed estimator and illustrate how such an estimator can be constructed using standard software. In simulations, we show that the finite-sample performance of our estimator is competitive with other popular machine learning techniques across a variety of data generating mechanisms. We also illustrate competitive performance in real data examples using several publicly available data sets.",
       "year": 2016,
-      "publication_date": null,
+      "publication_date": "2016-12-26",
       "paper_id": "3c9a535f6be3e0ed39e643105beb2418aa022503",
       "url": "https://www.semanticscholar.org/paper/3c9a535f6be3e0ed39e643105beb2418aa022503",
       "venue": "International Conference on Data Science and Advanced Analytics",
@@ -22762,15 +23645,16 @@
         "B. Fireman",
         "M. J. van der Laan"
       ],
-      "abstract": "",
+      "abstract": "Abstract Adjusting for a balancing score is sufficient for bias reduction when estimating causal effects including the average treatment effect and effect among the treated. Estimators that adjust for the propensity score in a nonparametric way, such as matching on an estimate of the propensity score, can be consistent when the estimated propensity score is not consistent for the true propensity score but converges to some other balancing score. We call this property the balancing score property, and discuss a class of estimators that have this property. We introduce a targeted minimum loss-based estimator (TMLE) for a treatment-specific mean with the balancing score property that is additionally locally efficient and doubly robust. We investigate the new estimator’s performance relative to other estimators, including another TMLE, a propensity score matching estimator, an inverse probability of treatment weighted estimator, and a regression-based estimator in simulation studies.",
       "year": 2015,
-      "publication_date": "2015-09-01",
+      "publication_date": "2015-01-10",
       "paper_id": "9a7bc66aefd0cf953b1e89734ee3a65ed0b291b4",
       "url": "https://www.semanticscholar.org/paper/9a7bc66aefd0cf953b1e89734ee3a65ed0b291b4",
       "venue": "Journal of Causal Inference",
       "doi": "10.1515/jci-2012-0012",
       "matched_keywords": [
-        "targeted minimum loss based estimation"
+        "targeted minimum loss based estimation",
+        "tmle"
       ],
       "source_queries": [
         "targeted minimum loss based estimation",
@@ -22817,6 +23701,31 @@
       "source_queries": [
         "super learner",
         "super learning"
+      ]
+    },
+    {
+      "title": "Increasing Sample Size in Prospective Birth Cohorts: Back-Extrapolating Prenatal Levels of Persistent Organic Pollutants in Newly Enrolled Children",
+      "authors": [
+        "M. Verner",
+        "F. Gaspar",
+        "J. Chevrier",
+        "R. Gunier",
+        "A. Sjödin",
+        "A. Bradman",
+        "B. Eskenazi"
+      ],
+      "abstract": "Study sample size in prospective birth cohorts of prenatal exposure to persistent organic pollutants (POPs) is limited by costs and logistics of follow-up. Increasing sample size at the time of health assessment would be beneficial if predictive tools could reliably back-extrapolate prenatal levels in newly enrolled children. We evaluated the performance of three approaches to back-extrapolate prenatal levels of p,p′-dichlorodiphenyltrichloroethane (DDT), p,p′-dichlorodiphenyldichloroethylene (DDE) and four polybrominated diphenyl ether (PBDE) congeners from maternal and/or child levels 9 years after delivery: a pharmacokinetic model and predictive models using deletion/substitution/addition or Super Learner algorithms. Model performance was assessed using the root mean squared error (RMSE), R2, and slope and intercept of the back-extrapolated versus measured levels. Super Learner outperformed the other approaches with RMSEs of 0.10 to 0.31, R2s of 0.58 to 0.97, slopes of 0.42 to 0.93 and intercepts of 0.08 to 0.60. Typically, models performed better for p,p′-DDT/E than PBDE congeners. The pharmacokinetic model performed well when back-extrapolating prenatal levels from maternal levels for compounds with longer half-lives like p,p′-DDE and BDE-153. Results demonstrate the ability to reliably back-extrapolate prenatal POP levels from maternal levels 9 years after delivery, with Super Learner performing best based on our fit criteria.",
+      "year": 2015,
+      "publication_date": "2015-02-27",
+      "paper_id": "1ae6c7ee89221cc292bc63413dccf1a964688131",
+      "url": "https://www.semanticscholar.org/paper/1ae6c7ee89221cc292bc63413dccf1a964688131",
+      "venue": "Environmental Science and Technology",
+      "doi": "10.1021/acs.est.5b00322",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
       ]
     },
     {
@@ -22893,6 +23802,28 @@
       ]
     },
     {
+      "title": "Propensity score and doubly robust methods for estimating the effect of treatment on censored cost",
+      "authors": [
+        "Jiaqi Li",
+        "E. Handorf",
+        "J. Bekelman",
+        "N. Mitra"
+      ],
+      "abstract": "The estimation of treatment effects on medical costs is complicated by the need to account for informative censoring, skewness, and the effects of confounders. Because medical costs are often collected from observational claims data, we investigate propensity score (PS) methods such as covariate adjustment, stratification, and inverse probability weighting taking into account informative censoring of the cost outcome. We compare these more commonly used methods with doubly robust (DR) estimation. We then use a machine learning approach called super learner (SL) to choose among conventional cost models to estimate regression parameters in the DR approach and to choose among various model specifications for PS estimation. Our simulation studies show that when the PS model is correctly specified, weighting and DR perform well. When the PS model is misspecified, the combined approach of DR with SL can still provide unbiased estimates. SL is especially useful when the underlying cost distribution comes from a mixture of different distributions or when the true PS model is unknown. We apply these approaches to a cost analysis of two bladder cancer treatments, cystectomy versus bladder preservation therapy, using SEER‐Medicare data. Copyright © 2015 John Wiley & Sons, Ltd.",
+      "year": 2015,
+      "publication_date": "2015-12-17",
+      "paper_id": "1cf066309981205579aa682e88fe7e214516a55b",
+      "url": "https://www.semanticscholar.org/paper/1cf066309981205579aa682e88fe7e214516a55b",
+      "venue": "Statistics in Medicine",
+      "doi": "10.1002/sim.6842",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
       "title": "Sample R code for rare outcomes TMLE",
       "authors": [
         "L. Balzer"
@@ -22935,7 +23866,7 @@
       ]
     },
     {
-      "title": "Super Learner Analysis of Electronic Adherence Data Improves Viral Prediction and May Provide Strategies for Selective HIV RNA Monitoring",
+      "title": "Super learner analysis of electronic adherence data improves viral prediction and may provide strategies for selective HIV RNA monitoring",
       "authors": [
         "M. Petersen",
         "E. LeDell",
@@ -22949,7 +23880,7 @@
         "J. Arnsten",
         "M. Rosen",
         "R. Remien",
-        "David Etoori",
+        "D. Etoori",
         "I. Wilson",
         "J. Simoni",
         "J. Erlen",
@@ -22957,7 +23888,7 @@
         "Honghu Liu",
         "D. Bangsberg"
       ],
-      "abstract": "",
+      "abstract": "Objective:Regular HIV RNA testing for all HIV-positive patients on antiretroviral therapy (ART) is expensive and has low yield since most tests are undetectable. Selective testing of those at higher risk of failure may improve efficiency. We investigated whether a novel analysis of adherence data could correctly classify virological failure and potentially inform a selective testing strategy. Design:Multisite prospective cohort consortium. Methods:We evaluated longitudinal data on 1478 adult patients treated with ART and monitored using the Medication Event Monitoring System (MEMS) in 16 US cohorts contributing to the MACH14 consortium. Because the relationship between adherence and virological failure is complex and heterogeneous, we applied a machine-learning algorithm (Super Learner) to build a model for classifying failure and evaluated its performance using cross-validation. Results:Application of the Super Learner algorithm to MEMS data, combined with data on CD4+ T-cell counts and ART regimen, significantly improved classification of virological failure over a single MEMS adherence measure. Area under the receiver operating characteristic curve, evaluated on data not used in model fitting, was 0.78 (95% confidence interval: 0.75 to 0.80) and 0.79 (95% confidence interval: 0.76 to 0.81) for failure defined as single HIV RNA level >1000 copies per milliliter or >400 copies per milliliter, respectively. Our results suggest that 25%–31% of viral load tests could be avoided while maintaining sensitivity for failure detection at or above 95%, for a cost savings of $16–$29 per person-month. Conclusions:Our findings provide initial proof of concept for the potential use of electronic medication adherence data to reduce costs through behavior-driven HIV RNA testing.",
       "year": 2015,
       "publication_date": "2015-05-01",
       "paper_id": "7406b59baced21f39354f6429630e08dca7b6442",
@@ -22968,8 +23899,28 @@
         "super learner"
       ],
       "source_queries": [
-        "super learner",
-        "super learning"
+        "super learner"
+      ]
+    },
+    {
+      "title": "Targeted Learning of the Mean Outcome under an Optimal Dynamic Treatment Rule",
+      "authors": [
+        "M. J. van der Laan",
+        "Alexander Luedtke"
+      ],
+      "abstract": "Abstract We consider estimation of and inference for the mean outcome under the optimal dynamic two time-point treatment rule defined as the rule that maximizes the mean outcome under the dynamic treatment, where the candidate rules are restricted to depend only on a user-supplied subset of the baseline and intermediate covariates. This estimation problem is addressed in a statistical model for the data distribution that is nonparametric beyond possible knowledge about the treatment and censoring mechanism. This contrasts from the current literature that relies on parametric assumptions. We establish that the mean of the counterfactual outcome under the optimal dynamic treatment is a pathwise differentiable parameter under conditions, and develop a targeted minimum loss-based estimator (TMLE) of this target parameter. We establish asymptotic linearity and statistical inference for this estimator under specified conditions. In a sequentially randomized trial the statistical inference relies upon a second-order difference between the estimator of the optimal dynamic treatment and the optimal dynamic treatment to be asymptotically negligible, which may be a problematic condition when the rule is based on multivariate time-dependent covariates. To avoid this condition, we also develop TMLEs and statistical inference for data adaptive target parameters that are defined in terms of the mean outcome under the estimate of the optimal dynamic treatment. In particular, we develop a novel cross-validated TMLE approach that provides asymptotic inference under minimal conditions, avoiding the need for any empirical process conditions. We offer simulation results to support our theoretical findings.",
+      "year": 2015,
+      "publication_date": "2015-03-01",
+      "paper_id": "afd9cc8b618d998e92e9d5bb2b18db2aa9050ffa",
+      "url": "https://www.semanticscholar.org/paper/afd9cc8b618d998e92e9d5bb2b18db2aa9050ffa",
+      "venue": "Journal of Causal Inference",
+      "doi": "10.1515/jci-2013-0022",
+      "matched_keywords": [
+        "tmle"
+      ],
+      "source_queries": [
+        "targeted minimum loss based estimation",
+        "tmle"
       ]
     },
     {
@@ -23033,6 +23984,48 @@
       ]
     },
     {
+      "title": "Adaptive pair-matching in randomized trials with unbiased and efficient effect estimation",
+      "authors": [
+        "L.B Balzer",
+        "Maya L Petersen",
+        "M. J. van der Laan"
+      ],
+      "abstract": "In randomized trials, pair‐matching is an intuitive design strategy to protect study validity and to potentially increase study power. In a common design, candidate units are identified, and their baseline characteristics used to create the best n/2 matched pairs. Within the resulting pairs, the intervention is randomized, and the outcomes measured at the end of follow‐up. We consider this design to be adaptive, because the construction of the matched pairs depends on the baseline covariates of all candidate units. As a consequence, the observed data cannot be considered as n/2 independent, identically distributed pairs of units, as common practice assumes. Instead, the observed data consist of n dependent units. This paper explores the consequences of adaptive pair‐matching in randomized trials for estimation of the average treatment effect, conditional the baseline covariates of the n study units. By avoiding estimation of the covariate distribution, estimators of this conditional effect will often be more precise than estimators of the marginal effect. We contrast the unadjusted estimator with targeted minimum loss based estimation and show substantial efficiency gains from matching and further gains with adjustment. This work is motivated by the Sustainable East Africa Research in Community Health study, an ongoing community randomized trial to evaluate the impact of immediate and streamlined antiretroviral therapy on HIV incidence in rural East Africa. Copyright © 2014 John Wiley & Sons, Ltd.",
+      "year": 2014,
+      "publication_date": "2014-11-25",
+      "paper_id": "a4d1443a5b0bc8ccbd2c1db9de0e799201570306",
+      "url": "https://www.semanticscholar.org/paper/a4d1443a5b0bc8ccbd2c1db9de0e799201570306",
+      "venue": "Statistics in Medicine",
+      "doi": "10.1002/sim.6380",
+      "matched_keywords": [
+        "targeted minimum loss based estimation"
+      ],
+      "source_queries": [
+        "targeted minimum loss based estimation"
+      ]
+    },
+    {
+      "title": "Causal Inference for a Population of Causally Connected Units",
+      "authors": [
+        "M. J. van der Laan"
+      ],
+      "abstract": "Abstract Suppose that we observe a population of causally connected units. On each unit at each time-point on a grid we observe a set of other units the unit is potentially connected with, and a unit-specific longitudinal data structure consisting of baseline and time-dependent covariates, a time-dependent treatment, and a final outcome of interest. The target quantity of interest is defined as the mean outcome for this group of units if the exposures of the units would be probabilistically assigned according to a known specified mechanism, where the latter is called a stochastic intervention. Causal effects of interest are defined as contrasts of the mean of the unit-specific outcomes under different stochastic interventions one wishes to evaluate. This covers a large range of estimation problems from independent units, independent clusters of units, and a single cluster of units in which each unit has a limited number of connections to other units. The allowed dependence includes treatment allocation in response to data on multiple units and so called causal interference as special cases. We present a few motivating classes of examples, propose a structural causal model, define the desired causal quantities, address the identification of these quantities from the observed data, and define maximum likelihood based estimators based on cross-validation. In particular, we present maximum likelihood based super-learning for this network data. Nonetheless, such smoothed/regularized maximum likelihood estimators are not targeted and will thereby be overly bias w.r.t. the target parameter, and, as a consequence, generally not result in asymptotically normally distributed estimators of the statistical target parameter. To formally develop estimation theory, we focus on the simpler case in which the longitudinal data structure is a point-treatment data structure. We formulate a novel targeted maximum likelihood estimator of this estimand and show that the double robustness of the efficient influence curve implies that the bias of the targeted minimum loss-based estimation (TMLE) will be a second-order term involving squared differences of two nuisance parameters. In particular, the TMLE will be consistent if either one of these nuisance parameters is consistently estimated. Due to the causal dependencies between units, the data set may correspond with the realization of a single experiment, so that establishing a (e.g. normal) limit distribution for the targeted maximum likelihood estimators, and corresponding statistical inference, is a challenging topic. We prove two formal theorems establishing the asymptotic normality using advances in weak-convergence theory. We conclude with a discussion and refer to an accompanying technical report for extensions to general longitudinal data structures.",
+      "year": 2014,
+      "publication_date": "2014-01-14",
+      "paper_id": "9263f291f0e50212fb62aeb43a4d59088f188a12",
+      "url": "https://www.semanticscholar.org/paper/9263f291f0e50212fb62aeb43a4d59088f188a12",
+      "venue": "Journal of Causal Inference",
+      "doi": "10.1515/JCI-2013-0002",
+      "matched_keywords": [
+        "targeted minimum loss based estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "targeted minimum loss based estimation",
+        "tmle"
+      ]
+    },
+    {
       "title": "Cervical Cancer Precursors and Hormonal Contraceptive Use in HIV-Positive Women: Application of a Causal Model and Semi-Parametric Estimation Methods",
       "authors": [
         "H. Leslie",
@@ -23082,6 +24075,52 @@
       ]
     },
     {
+      "title": "Ensemble learning of inverse probability weights for marginal structural modeling in large observational datasets",
+      "authors": [
+        "Susan Gruber",
+        "R. Logan",
+        "I. Jarrín",
+        "S. Monge",
+        "Miguel A. Hern'an"
+      ],
+      "abstract": "Inverse probability weights used to fit marginal structural models are typically estimated using logistic regression. However, a data‐adaptive procedure may be able to better exploit information available in measured covariates. By combining predictions from multiple algorithms, ensemble learning offers an alternative to logistic regression modeling to further reduce bias in estimated marginal structural model parameters. We describe the application of two ensemble learning approaches to estimating stabilized weights: super learning (SL), an ensemble machine learning approach that relies on V‐fold cross validation, and an ensemble learner (EL) that creates a single partition of the data into training and validation sets. Longitudinal data from two multicenter cohort studies in Spain (CoRIS and CoRIS‐MD) were analyzed to estimate the mortality hazard ratio for initiation versus no initiation of combined antiretroviral therapy among HIV positive subjects. Both ensemble approaches produced hazard ratio estimates further away from the null, and with tighter confidence intervals, than logistic regression modeling. Computation time for EL was less than half that of SL. We conclude that ensemble learning using a library of diverse candidate algorithms offers an alternative to parametric modeling of inverse probability weights when fitting marginal structural models. With large datasets, EL provides a rich search over the solution space in less time than SL with comparable results. Copyright © 2014 John Wiley & Sons, Ltd.",
+      "year": 2014,
+      "publication_date": "2014-10-15",
+      "paper_id": "40edd2914cd6b53375cede94b68430a8845c8617",
+      "url": "https://www.semanticscholar.org/paper/40edd2914cd6b53375cede94b68430a8845c8617",
+      "venue": "Statistics in Medicine",
+      "doi": "10.1002/sim.6322",
+      "matched_keywords": [
+        "super learning"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
+      "title": "Evaluating treatment effectiveness under model misspecification: A comparison of targeted maximum likelihood estimation with bias-corrected matching",
+      "authors": [
+        "N. Kreif",
+        "Susan Gruber",
+        "Rosalba Radice",
+        "R. Grieve",
+        "J. Sekhon"
+      ],
+      "abstract": "Statistical approaches for estimating treatment effectiveness commonly model the endpoint, or the propensity score, using parametric regressions such as generalised linear models. Misspecification of these models can lead to biased parameter estimates. We compare two approaches that combine the propensity score and the endpoint regression, and can make weaker modelling assumptions, by using machine learning approaches to estimate the regression function and the propensity score. Targeted maximum likelihood estimation is a double-robust method designed to reduce bias in the estimate of the parameter of interest. Bias-corrected matching reduces bias due to covariate imbalance between matched pairs by using regression predictions. We illustrate the methods in an evaluation of different types of hip prosthesis on the health-related quality of life of patients with osteoarthritis. We undertake a simulation study, grounded in the case study, to compare the relative bias, efficiency and confidence interval coverage of the methods. We consider data generating processes with non-linear functional form relationships, normal and non-normal endpoints. We find that across the circumstances considered, bias-corrected matching generally reported less bias, but higher variance than targeted maximum likelihood estimation. When either targeted maximum likelihood estimation or bias-corrected matching incorporated machine learning, bias was much reduced, compared to using misspecified parametric models.",
+      "year": 2014,
+      "publication_date": "2014-02-12",
+      "paper_id": "3f369f8ef085279b977e4ccf8a0b6270b9c1f04c",
+      "url": "https://www.semanticscholar.org/paper/3f369f8ef085279b977e4ccf8a0b6270b9c1f04c",
+      "venue": "Statistical Methods in Medical Research",
+      "doi": "10.1177/0962280214521341",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
+      ]
+    },
+    {
       "title": "Higher-order Targeted Minimum Loss-based Estimation",
       "authors": [
         "M. Carone",
@@ -23128,6 +24167,30 @@
       ]
     },
     {
+      "title": "Mortality prediction in the ICU: can we do better? Results from the Super ICU Learner Algorithm (SICULA) project, a population-based study",
+      "authors": [
+        "R. Pirracchio",
+        "M. Petersen",
+        "M. Carone",
+        "M. Rigon",
+        "S. Chevret",
+        "M. J. van der Laan"
+      ],
+      "abstract": "Background Improved mortality prediction for patients in intensive care units (ICU) remains an important challenge. Many severity scores have been proposed but validation studies have concluded that they are not adequately calibrated. Many flexible algorithms are available, yet none of these individually outperform all others regardless of context. In contrast, the Super Learner (SL), an ensemble machine learning technique that leverages on multiple learning algorithms to obtain better prediction performance, has been shown to perform at least as well as the optimal member of its library. It might provide an ideal opportunity to construct a novel severity score with an improved performance profile. The aim of the present study was to provide a new mortality prediction algorithm for ICU patients using an implementation of the Super Learner, and to assess its performance relative to prediction based on the SAPS II, APACHE II and SOFA scores. Methods We used the Multiparameter Intelligent Monitoring in Intensive Care II (MIMIC-II) database (v26) including all patients admitted to an ICU at Boston’s Beth Israel Deaconess Medical Center from 2001 to 2008. The calibration, discrimination and risk classification of predicted hospital mortality based on SAPS II, on APACHE II, on SOFA and on our Super Learned-based proposal were evaluated. Performance measures were calculated using cross-validation to avoid making biased assessments. Our proposed score was then externally validated on a dataset of 200 randomly selected patients admitted at the ICU of Hôpital Européen Georges-Pompidou in Paris, France between September 2013 and June 2014. The primary outcome was hospital mortality. The explanatory variables were the same as those included in the SAPS II score. Results 24,508 patients were included, with median SAPS II 38 (IQR: 27–51), median SOFA 5 (IQR: 2–8). A total of 3,002/24,508(12.2%) patients died in the hospital. The two versions of our Super Learner-based proposal yielded average predicted probabilities of death of 0.12 (IQR: 0.02–0.16) and 0.13 (IQR: 0.01–0.19), whereas the corresponding values for the SOFA and SAPS II scores were, respectively, 0.12 (IQR: 0.05–0.15) and 0.30 (IQR: 0.08–0.48). The cross-validated area under the receiver operating characteristics curve (AUROC) for SAPS II and SOFA were 0.78(95%CI: 0.77–0.78) and 0.71 (95%CI: 0.71–0.72), respectively. Our proposal reached an AUROC of 0.85 (95%CI: 0.84–0.85) when the explanatory variables were categorized as in SAPS II, and of 0.88 (95%CI: 0.87–0.89) when the same explanatory variables were included without any transformation. In addition, it exhibited better calibration properties than previous score systems. On the external validation dataset, the AUROC was 0.94 (95%CI: 0.90–0.98) and calibration properties were good. Interpretation As compared to conventional severity scores, our Super Learner-based proposal offers improved performance for predicting hospital mortality in ICU patients. A user-friendly implementation is available online and should prove useful to clinicians seeking to validate our score. Funding Fulbright Foundation, Assistance Publique – Hôpitaux de Paris (RP); Doris Duke Clinical Scientist Development Award (MP) and NIH Grant # 2R01AI074345-06A1(MvdL).",
+      "year": 2014,
+      "publication_date": "2014-11-24",
+      "paper_id": "f04bd4457a59c4a4393ad1609895ca4c9ec54943",
+      "url": "https://www.semanticscholar.org/paper/f04bd4457a59c4a4393ad1609895ca4c9ec54943",
+      "venue": "The Lancet Respiratory Medicine",
+      "doi": "10.1016/S2213-2600(14)70239-5",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
       "title": "Nouveautés en modélisation non paramétrique - Apports du Super Learner",
       "authors": [
         "R. Pirracchio"
@@ -23171,6 +24234,30 @@
       ]
     },
     {
+      "title": "Semiparametric Estimation of the Impacts of Longitudinal Interventions on Adolescent Obesity using Targeted Maximum-Likelihood: Accessible Estimation with the ltmle Package",
+      "authors": [
+        "Anna Decker",
+        "A. Hubbard",
+        "C. Crespi",
+        "E. Seto",
+        "May-Choo Wang"
+      ],
+      "abstract": "Abstract While child and adolescent obesity is a serious public health concern, few studies have utilized parameters based on the causal inference literature to examine the potential impacts of early intervention. The purpose of this analysis was to estimate the causal effects of early interventions to improve physical activity and diet during adolescence on body mass index (BMI), a measure of adiposity, using improved techniques. The most widespread statistical method in studies of child and adolescent obesity is multivariable regression, with the parameter of interest being the coefficient on the variable of interest. This approach does not appropriately adjust for time-dependent confounding, and the modeling assumptions may not always be met. An alternative parameter to estimate is one motivated by the causal inference literature, which can be interpreted as the mean change in the outcome under interventions to set the exposure of interest. The underlying data-generating distribution, upon which the estimator is based, can be estimated via a parametric or semi-parametric approach. Using data from the National Heart, Lung, and Blood Institute Growth and Health Study, a 10-year prospective cohort study of adolescent girls, we estimated the longitudinal impact of physical activity and diet interventions on 10-year BMI z-scores via a parameter motivated by the causal inference literature, using both parametric and semi-parametric estimation approaches. The parameters of interest were estimated with a recently released R package, ltmle, for estimating means based upon general longitudinal treatment regimes. We found that early, sustained intervention on total calories had a greater impact than a physical activity intervention or non-sustained interventions. Multivariable linear regression yielded inflated effect estimates compared to estimates based on targeted maximum-likelihood estimation and data-adaptive super learning. Our analysis demonstrates that sophisticated, optimal semiparametric estimation of longitudinal treatment-specific means via ltmle provides an incredibly powerful, yet easy-to-use tool, removing impediments for putting theory into practice.",
+      "year": 2014,
+      "publication_date": "2014-03-01",
+      "paper_id": "13f296ca76d6dc86b2bab469b87192c30b88b7fa",
+      "url": "https://www.semanticscholar.org/paper/13f296ca76d6dc86b2bab469b87192c30b88b7fa",
+      "venue": "Journal of Causal Inference",
+      "doi": "10.1515/jci-2013-0025",
+      "matched_keywords": [
+        "super learning"
+      ],
+      "source_queries": [
+        "super learning",
+        "targeted maximum likelihood estimation"
+      ]
+    },
+    {
       "title": "Super Learning Day at Harrogate Grammar School",
       "authors": [
         "T. Cook"
@@ -23187,6 +24274,28 @@
       ],
       "source_queries": [
         "super learning"
+      ]
+    },
+    {
+      "title": "Targeted Estimation of Binary Variable Importance Measures with Interval-Censored Outcomes",
+      "authors": [
+        "S. Sapp",
+        "M. J. van der Laan",
+        "K. Page"
+      ],
+      "abstract": "Abstract In most experimental and observational studies, participants are not followed in continuous time. Instead, data is collected about participants only at certain monitoring times. These monitoring times are random and often participant specific. As a result, outcomes are only known up to random time intervals, resulting in interval-censored data. In contrast, when estimating variable importance measures on interval-censored outcomes, practitioners often ignore the presence of interval censoring, and instead treat the data as continuous or right-censored, applying ad hoc approaches to mask the true interval censoring. In this article, we describe targeted minimum loss–based estimation (TMLE) methods tailored for estimation of binary variable importance measures with interval-censored outcomes. We demonstrate the performance of the interval-censored TMLE procedure through simulation studies and apply the method to analyze the effects of a variety of variables on spontaneous hepatitis C virus clearance among injection drug users, using data from the “International Collaboration of Incident HIV and HCV in Injecting Cohorts” project.",
+      "year": 2014,
+      "publication_date": "2014-05-01",
+      "paper_id": "14ad02c8dc2ce8cec6420b763121c25453ee64bd",
+      "url": "https://www.semanticscholar.org/paper/14ad02c8dc2ce8cec6420b763121c25453ee64bd",
+      "venue": "The International Journal of Biostatistics",
+      "doi": "10.1515/ijb-2013-0009",
+      "matched_keywords": [
+        "tmle"
+      ],
+      "source_queries": [
+        "targeted minimum loss based estimation",
+        "tmle"
       ]
     },
     {
@@ -23218,7 +24327,7 @@
         "M. Schomaker",
         "M. J. van der Laan"
       ],
-      "abstract": "",
+      "abstract": "Abstract This paper describes a targeted maximum likelihood estimator (TMLE) for the parameters of longitudinal static and dynamic marginal structural models. We consider a longitudinal data structure consisting of baseline covariates, time-dependent intervention nodes, intermediate time-dependent covariates, and a possibly time-dependent outcome. The intervention nodes at each time point can include a binary treatment as well as a right-censoring indicator. Given a class of dynamic or static interventions, a marginal structural model is used to model the mean of the intervention-specific counterfactual outcome as a function of the intervention, time point, and possibly a subset of baseline covariates. Because the true shape of this function is rarely known, the marginal structural model is used as a working model. The causal quantity of interest is defined as the projection of the true function onto this working model. Iterated conditional expectation double robust estimators for marginal structural model parameters were previously proposed by Robins (2000, 2002) and Bang and Robins (2005). Here we build on this work and present a pooled TMLE for the parameters of marginal structural working models. We compare this pooled estimator to a stratified TMLE (Schnitzer et al. 2014) that is based on estimating the intervention-specific mean separately for each intervention of interest. The performance of the pooled TMLE is compared to the performance of the stratified TMLE and the performance of inverse probability weighted (IPW) estimators using simulations. Concepts are illustrated using an example in which the aim is to estimate the causal effect of delayed switch following immunological failure of first line antiretroviral therapy among HIV-infected patients. Data from the International Epidemiological Databases to Evaluate AIDS, Southern Africa are analyzed to investigate this question using both TML and IPW estimators. Our results demonstrate practical advantages of the pooled TMLE over an IPW estimator for working marginal structural models for survival, as well as cases in which the pooled TMLE is superior to its stratified counterpart.",
       "year": 2014,
       "publication_date": "2014-06-18",
       "paper_id": "89a9f10a089555b5a91619cc7e863c7952bec1d0",
@@ -23226,10 +24335,10 @@
       "venue": "Journal of Causal Inference",
       "doi": "10.1515/jci-2013-0007",
       "matched_keywords": [
-        "targeted maximum likelihood estimation"
+        "targeted maximum likelihood estimation",
+        "tmle"
       ],
       "source_queries": [
-        "targeted maximum likelihood estimation",
         "tmle"
       ]
     },
@@ -23318,6 +24427,27 @@
       "source_queries": [
         "super learner",
         "super learning"
+      ]
+    },
+    {
+      "title": "Identification and efficient estimation of the natural direct effect among the untreated",
+      "authors": [
+        "S. Lendle",
+        "M. Subbaraman",
+        "M. J. van der Laan"
+      ],
+      "abstract": "The natural direct effect (NDE), or the effect of an exposure on an outcome if an intermediate variable was set to the level it would have been in the absence of the exposure, is often of interest to investigators. In general, the statistical parameter associated with the NDE is difficult to estimate in the non‐parametric model, particularly when the intermediate variable is continuous or high dimensional. In this article, we introduce a new causal parameter called the natural direct effect among the untreated, discus identifiability assumptions, propose a sensitivity analysis for some of the assumptions, and show that this new parameter is equivalent to the NDE in a randomized controlled trial. We also present a targeted minimum loss estimator (TMLE), a locally efficient, double robust substitution estimator for the statistical parameter associated with this causal parameter. The TMLE can be applied to problems with continuous and high dimensional intermediate variables, and can be used to estimate the NDE in a randomized controlled trial with such data. Additionally, we define and discuss the estimation of three related causal parameters: the natural direct effect among the treated, the indirect effect among the untreated and the indirect effect among the treated.",
+      "year": 2013,
+      "publication_date": "2013-04-23",
+      "paper_id": "3545ed7e755b931cd0884ca4bcff834a5efd4f3c",
+      "url": "https://www.semanticscholar.org/paper/3545ed7e755b931cd0884ca4bcff834a5efd4f3c",
+      "venue": "Biometrics",
+      "doi": "10.1111/biom.12022",
+      "matched_keywords": [
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
       ]
     },
     {
@@ -23504,6 +24634,28 @@
       ]
     },
     {
+      "title": "Adjusting for Perception and Unmasking Effects in Longitudinal Clinical Trials",
+      "authors": [
+        "A. Hubbard",
+        "F. Jamshidian",
+        "N. Jewell"
+      ],
+      "abstract": "A blinded clinical trial design requires masking of patients to prevent measurement of their outcome from being influenced by knowledge of treatment assignment. However, during the course of a trial, some patients may be practically unmasked either due to experiencing treatment related side effects in the treatment arm, or lack of efficacy in the placebo arm. In a recent paper, we introduced concepts of perception, unmasking, and placebo effects for point treatment studies. In this paper, we generalize these concepts to longitudinal studies, and use recent advancements in causal inference and semi-parametric efficient estimation to define and estimate perception and unmasking effects. This allows differentiation of the impact on measured outcomes of `early‘ versus `late‘ unmasking. In particular, two semi-parametric, substitution methods, one based only on the prediction model (G-computation) and an augmented version of that model for targeted bias-reduction (Targeted Maximum Likelihood Estimation; TMLE), are used for estimation of perception and treatment effects. We motivate our discussion by analyzing data from a recent longitudinal study on the effect of gabapentin on pain among diabetic patients experiencing painful neuropathy.",
+      "year": 2012,
+      "publication_date": "2012-12-31",
+      "paper_id": "d7446da402e7c6ce0c35b3c91ae778542e359b6f",
+      "url": "https://www.semanticscholar.org/paper/d7446da402e7c6ce0c35b3c91ae778542e359b6f",
+      "venue": "The International Journal of Biostatistics",
+      "doi": "10.2202/1557-4679.1376",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
+      ]
+    },
+    {
       "title": "Application of Targeted Maximum Likelihood Estimation to the Meta-Analysis of Safety Data",
       "authors": [
         "Susan Gruber",
@@ -23597,7 +24749,7 @@
         "P. Chaffee",
         "M. J. van der Laan"
       ],
-      "abstract": "",
+      "abstract": "Abstract Sequential Randomized Controlled Trials (SRCTs) are rapidly becoming essential tools in the search for optimized treatment regimes in ongoing treatment settings. Analyzing data for multiple time-point treatments with a view toward optimal treatment regimes is of interest in many types of afflictions: HIV infection, Attention Deficit Hyperactivity Disorder in children, leukemia, prostate cancer, renal failure, and many others. Methods for analyzing data from SRCTs exist but they are either inefficient or suffer from the drawbacks of estimating equation methodology. We describe an estimation procedure, targeted maximum likelihood estimation (TMLE), which has been fully developed and implemented in point treatment settings, including time to event outcomes, binary outcomes and continuous outcomes. Here we develop and implement TMLE in the SRCT setting. As in the former settings, the TMLE procedure is targeted toward a pre-specified parameter of the distribution of the observed data, and thereby achieves important bias reduction in estimation of that parameter. As with the so-called Augmented Inverse Probability of Censoring Weight (A-IPCW) estimator, TMLE is double-robust and locally efficient. We report simulation results corresponding to two data-generating distributions from a longitudinal data structure.",
       "year": 2012,
       "publication_date": "2012-06-22",
       "paper_id": "2edc363b9b5ac16c7eac6e57950c8ad8bbb95cd6",
@@ -23605,7 +24757,8 @@
       "venue": "The International Journal of Biostatistics",
       "doi": "10.1515/1557-4679.1406",
       "matched_keywords": [
-        "targeted maximum likelihood estimation"
+        "targeted maximum likelihood estimation",
+        "tmle"
       ],
       "source_queries": [
         "targeted maximum likelihood estimation",
@@ -23619,7 +24772,7 @@
         "M. J. van der Laan",
         "A. Go"
       ],
-      "abstract": "",
+      "abstract": "Abstract Estimators of the conditional expectation, i.e., prediction, function involve a global bias-variance trade off. In some cases, an estimator that yields unbiased estimates of the conditional expectation for a particular partitioning of the data may be desirable. Such estimators are calibrated with respect to the partitioning. We identify the conditional expectation given a particular partitioning as a smooth parameter of the distribution of the data, where the partitioning may be defined on the covariate space or on the prediction space of the estimator. We propose a targeted maximum likelihood estimation (TMLE) procedure that updates an initial prediction estimator such that the updated estimator yields an unbiased and efficient estimator of this smooth parameter in the nonparametric statistical model. When the partitioning is defined on the prediction space of the estimator, our TMLE involves enforcing an implicit constraint on the estimator itself. We show that our resulting estimator of the smooth parameter is equal to the empirical estimator, which is also known to be unbiased and efficient in the nonparametric statistical model. We derive the TMLE for single time-point prediction and also time-dependent prediction in a counting process framework.",
       "year": 2012,
       "publication_date": "2012-10-31",
       "paper_id": "4ff698c36a414594b32ee35ff150daa4d6a2e47c",
@@ -23627,7 +24780,8 @@
       "venue": "The International Journal of Biostatistics",
       "doi": "10.1515/1557-4679.1385",
       "matched_keywords": [
-        "targeted maximum likelihood estimation"
+        "targeted maximum likelihood estimation",
+        "tmle"
       ],
       "source_queries": [
         "targeted maximum likelihood estimation",
@@ -23884,6 +25038,26 @@
       ]
     },
     {
+      "title": "Population Intervention Causal Effects Based on Stochastic Interventions",
+      "authors": [
+        "I. D. Muñoz",
+        "M. J. van der Laan"
+      ],
+      "abstract": "Summary Estimating the causal effect of an intervention on a population typically involves defining parameters in a nonparametric structural equation model ( Pearl, 2000 , Causality: Models, Reasoning, and Inference) in which the treatment or exposure is deterministically assigned in a static or dynamic way. We define a new causal parameter that takes into account the fact that intervention policies can result in stochastically assigned exposures. The statistical parameter that identifies the causal parameter of interest is established. Inverse probability of treatment weighting (IPTW), augmented IPTW (A‐IPTW), and targeted maximum likelihood estimators (TMLE) are developed. A simulation study is performed to demonstrate the properties of these estimators, which include the double robustness of the A‐IPTW and the TMLE. An application example using physical activity data is presented.",
+      "year": 2011,
+      "publication_date": "2011-10-06",
+      "paper_id": "e1e4b3098fa1a962e135e5f831907638318fcb0b",
+      "url": "https://www.semanticscholar.org/paper/e1e4b3098fa1a962e135e5f831907638318fcb0b",
+      "venue": "Biometrics",
+      "doi": "10.1111/j.1541-0420.2011.01685.x",
+      "matched_keywords": [
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
+      ]
+    },
+    {
       "title": "Propensity-Score-Based Estimators and C-TMLE",
       "authors": [
         "J. Sekhon",
@@ -23903,6 +25077,28 @@
       ],
       "source_queries": [
         "tmle"
+      ]
+    },
+    {
+      "title": "Robust extraction of covariate information to improve estimation efficiency in randomized trials",
+      "authors": [
+        "Kelly L. Moore",
+        "R. Neugebauer",
+        "T. Valappil",
+        "M. J. van der Laan"
+      ],
+      "abstract": "In randomized trials, investigators typically rely upon an unadjusted estimate of the mean outcome within each treatment arm to draw causal inferences. Statisticians have underscored the gain in efficiency that can be achieved from covariate adjustment in randomized trials with a focus on problems involving linear models. Despite recent theoretical advances, there has been a reluctance to adjust for covariates based on two primary reasons: (i) covariate‐adjusted estimates based on conditional logistic regression models have been shown to be less precise and (ii) concern over the opportunity to manipulate the model selection process for covariate adjustments to obtain favorable results. In this paper, we address these two issues and summarize recent theoretical results on which is based a proposed general methodology for covariate adjustment under the framework of targeted maximum likelihood estimation in trials with two arms where the probability of treatment is 50%. The proposed methodology provides an estimate of the true causal parameter of interest representing the population‐level treatment effect. It is compared with the estimates based on conditional logistic modeling, which only provide estimates of subgroup‐level treatment effects rather than marginal (unconditional) treatment effects. We provide a clear criterion for determining whether a gain in efficiency can be achieved with covariate adjustment over the unadjusted method. We illustrate our strategy using a resampled clinical trial dataset from a placebo controlled phase 4 study. Results demonstrate that gains in efficiency can be achieved even with binary outcomes through covariate adjustment leading to increased statistical power. Copyright © 2011 John Wiley & Sons, Ltd.",
+      "year": 2011,
+      "publication_date": "2011-07-12",
+      "paper_id": "28f67133452b15e2df01920e12000b52a5173ce1",
+      "url": "https://www.semanticscholar.org/paper/28f67133452b15e2df01920e12000b52a5173ce1",
+      "venue": "Statistics in Medicine",
+      "doi": "10.1002/sim.4301",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
       ]
     },
     {
@@ -24345,21 +25541,21 @@
     {
       "title": "Covariate adjustment in randomized trials with binary outcomes: Targeted maximum likelihood estimation",
       "authors": [
-        "K. Moore",
-        "M. J. Laan"
+        "Kelly L. Moore",
+        "M. V. D. Laan"
       ],
-      "abstract": "",
+      "abstract": "Covariate adjustment using linear models for continuous outcomes in randomized trials has been shown to increase efficiency and power over the unadjusted method in estimating the marginal effect of treatment. However, for binary outcomes, investigators generally rely on the unadjusted estimate as the literature indicates that covariate‐adjusted estimates based on the logistic regression models are less efficient. The crucial step that has been missing when adjusting for covariates is that one must integrate/average the adjusted estimate over those covariates in order to obtain the marginal effect. We apply the method of targeted maximum likelihood estimation (tMLE) to obtain estimators for the marginal effect using covariate adjustment for binary outcomes. We show that the covariate adjustment in randomized trials using the logistic regression models can be mapped, by averaging over the covariate(s), to obtain a fully robust and efficient estimator of the marginal effect, which equals a targeted maximum likelihood estimator. This tMLE is obtained by simply adding a clever covariate to a fixed initial regression. We present simulation studies that demonstrate that this tMLE increases efficiency and power over the unadjusted method, particularly for smaller sample sizes, even when the regression model is mis‐specified. Copyright © 2008 John Wiley & Sons, Ltd.",
       "year": 2009,
       "publication_date": "2009-01-15",
-      "paper_id": "b48609393ea572b7c728840e291dfadf0273f81d",
-      "url": "https://www.semanticscholar.org/paper/b48609393ea572b7c728840e291dfadf0273f81d",
+      "paper_id": "add8b3fdc1e3af30e3605074a1bd5d7e041f1148",
+      "url": "https://www.semanticscholar.org/paper/add8b3fdc1e3af30e3605074a1bd5d7e041f1148",
       "venue": "Statistics in Medicine",
       "doi": "10.1002/sim.3445",
       "matched_keywords": [
-        "targeted maximum likelihood estimation"
+        "targeted maximum likelihood estimation",
+        "tmle"
       ],
       "source_queries": [
-        "targeted maximum likelihood estimation",
         "tmle"
       ]
     },
