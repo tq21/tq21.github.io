@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T15:01:53Z",
+  "generated_at": "2026-05-23T18:59:55Z",
   "source": "Semantic Scholar Graph API",
   "unauthenticated": true,
   "mode": "bulk",
@@ -30,7 +30,7 @@
     },
     {
       "keyword": "super learner",
-      "fetched_raw_count": 1005
+      "fetched_raw_count": 1007
     },
     {
       "keyword": "super learning",
@@ -43,484 +43,49 @@
   ],
   "query_errors": [],
   "incomplete": false,
-  "fetched_paper_count": 887,
-  "newly_appended_count": 34,
-  "updated_existing_count": 26,
+  "fetched_paper_count": 889,
+  "newly_appended_count": 2,
+  "updated_existing_count": 2,
   "existing_blocked_removed": 0,
   "existing_duplicates_removed": 0,
   "newly_added_papers": [
     {
-      "title": "Comparative Effectiveness of Individual Sodium Glucose Transporter 2 Inhibitors on Cardiovascular Outcomes in Type 2 Diabetes With Moderate Cardiovascular Risk: Emulation of a Target Trial",
+      "title": "Comparative effectiveness of sulfonylureas on kidney outcomes in adults with type 2 diabetes and moderate cardiovascular risk: a target trial emulation",
       "year": 2026,
       "authors": [
-        "Anum Zehra",
-        "Yihong Deng",
-        "K. Swarna",
+        "Stacey Sklepinski",
+        "A. Ratzki-Leewing",
         "Jeph Herrin",
+        "K. Swarna",
+        "Yihong Deng",
         "Eric C. Polley",
         "Joshua J. Neumiller",
-        "Rodolfo J. Galindo",
+        "R. J. Galindo",
         "Guillermo E. Umpierrez",
         "Joseph S. Ross",
         "Juan P. Brito",
         "V. Montori",
-        "Bijan J. Borah",
-        "Bradley A. Maron",
         "Mindy M. Mickelson",
         "Rozalina G. McCoy"
       ],
-      "publication_date": "2026-05-14",
-      "doi": "10.1161/jaha.125.046238",
-      "paper_id": "83706933b4de9bbd88581955c0dcb2fb86cfb2b4"
+      "publication_date": "2026-05-01",
+      "doi": "10.1136/bmjdrc-2025-005775",
+      "paper_id": "5117e750d8eca8c000b81f6d7166c1de33dee904"
     },
     {
-      "title": "Improving the Efficiency of Subgroup Analysis in Randomized Controlled Trials with TMLE",
-      "year": 2026,
-      "authors": [
-        "Sky Qiu",
-        "Nerissa Nance",
-        "Rachael V. Phillips",
-        "J. Tarp",
-        "Maya L. Petersen",
-        "M. V. D. Laan"
-      ],
-      "publication_date": "2026-05-14",
-      "doi": null,
-      "paper_id": "68b87b0322cd71546c41997d541b5365c52d68e0"
-    },
-    {
-      "title": "Perceived Social Support, Contact Violence Experience, and Sexually Transmitted Infection Risk among Gambian Female Sex Workers: A LASSO-Guided, Causal Inference, and Multilevel Analysis",
-      "year": 2026,
-      "authors": [
-        "A. Barrow",
-        "B. Abatan",
-        "T. A. Omotosho",
-        "A. Adebayo",
-        "E. Sanyang",
-        "P. Bass"
-      ],
-      "publication_date": "2026-02-25",
-      "doi": "10.1007/s44197-026-00521-2",
-      "paper_id": "9a6d8a5d66f303a3a97b3d43a4ae37378be426dd"
-    },
-    {
-      "title": "Prognostic score methods for the estimation of the average causal effect",
-      "year": 2026,
-      "authors": [
-        "Chamika Porage",
-        "Ingeborg Waernbaum"
-      ],
-      "publication_date": "2026-05-15",
-      "doi": "10.1515/ijb-2024-0034",
-      "paper_id": "f6bd06300efc161e8252abb2b077a9bd0c5d3568"
-    },
-    {
-      "title": "Toward a practical handbook for choosing among causal inference methods in non-randomized studies with binary outcomes: A simulation study for applied researchers",
-      "year": 2026,
-      "authors": [
-        "Adri'an Aurensanz-Crespo",
-        "C. Rodríguez-Leal",
-        "Rosario Susi",
-        "Jorge Castillo-Mateo",
-        "Jesús Asín",
-        "J. M. Ramírez",
-        "Teresa Pérez"
-      ],
-      "publication_date": "2026-05-13",
-      "doi": null,
-      "paper_id": "21897e6193f9fc556dd45da8bf50ac680591475e"
-    },
-    {
-      "title": "Persistent severe acute kidney injury is a major modifiable determinant of outcome during critical illness",
+      "title": "Educational data integration andmachine learning for academic performance prediction",
       "year": 2025,
       "authors": [
-        "H. Gómez",
-        "Xinlei Chen",
-        "John S Minturn",
-        "Ivan E Saraiva",
-        "Natsumi Hamahata",
-        "Arsalan Zaidi",
-        "Ankit Sakhuja",
-        "Chung-Chou H. Chang",
-        "Gilles Clermont",
-        "Alex Zarbock",
-        "J. Kellum"
+        "Leonardo Emiro Contreras Bravo",
+        "Héctor Javier Fuentes López",
+        "Nayive Nieves Pimiento"
       ],
-      "publication_date": "2025-02-18",
-      "doi": "10.1007/s00134-025-07821-4",
-      "paper_id": "69a64d54b04519741f79fc4c211c1eef8ec08f67"
-    },
-    {
-      "title": "Unbound bilirubin and risk of severe neurodevelopmental impairment in extremely low birthweight newborns",
-      "year": 2025,
-      "authors": [
-        "Cody C. Arnold",
-        "Ivana Marić",
-        "Ronald J. Wong",
-        "Jon E. Tyson",
-        "David K. Stevenson"
-      ],
-      "publication_date": "2025-01-23",
-      "doi": "10.1038/s41390-025-03872-x",
-      "paper_id": "d65a0c3db62d925e58d01e1430e83a20a42ba5d4"
-    },
-    {
-      "title": "Racial difference in the association between non-alcoholic fatty liver disease and incident type 2 diabetes: findings from the CARDIA study",
-      "year": 2023,
-      "authors": [
-        "Yuichi Hatano",
-        "L. VanWagner",
-        "M. Carnethon",
-        "M. Bancks",
-        "April P. Carson",
-        "D. Lloyd-Jones",
-        "Truls Østbye",
-        "A. Viera",
-        "Y. Yano"
-      ],
-      "publication_date": "2023-03-21",
-      "doi": "10.1007/s00125-023-05903-w",
-      "paper_id": "b5f8464374bfefa173628a321a43837cd2d52d89"
-    },
-    {
-      "title": "Automated analyses: Because we can, does it mean we should?",
-      "year": 2020,
-      "authors": [
-        "S. Shortreed",
-        "E. Moodie"
-      ],
-      "publication_date": "2020-08-01",
-      "doi": "10.1214/20-sts773",
-      "paper_id": "1745ce17f05bf094e6901b3ccf26af87aca328ec"
-    },
-    {
-      "title": "Constrained binary classification using ensemble learning: an application to cost-efficient targeted PrEP strategies",
-      "year": 2017,
-      "authors": [
-        "Wenjing Zheng",
-        "L. Balzer",
-        "M. J. van der Laan",
-        "M. Petersen"
-      ],
-      "publication_date": "2017-04-06",
-      "doi": "10.1002/sim.7296",
-      "paper_id": "859b32ceff2bf9c35c61a8246e9870875bdf9300"
-    },
-    {
-      "title": "Contemporary Trends and Outcomes Associated with the Pre-Procedural Use of Oral P2Y12 Inhibitors in Patients Undergoing Percutaneous Coronary Intervention: Insights from the Blue Cross Blue Shield of Michigan Cardiovascular Consortium (BMC2)",
-      "year": 2017,
-      "authors": [
-        "D. Sukul",
-        "Milan Seth",
-        "S. Dixon",
-        "A. Khandelwal",
-        "Thomas A Lalonde",
-        "H. Gurm"
-      ],
-      "publication_date": "2017-04-15",
-      "doi": null,
-      "paper_id": "269ac52561e0763f4c05ac8c33a400087de42802"
-    },
-    {
-      "title": "Joint mixed-effects models for causal inference with longitudinal data",
-      "year": 2017,
-      "authors": [
-        "M. Shardell",
-        "L. Ferrucci"
-      ],
-      "publication_date": "2017-12-04",
-      "doi": "10.1002/sim.7567",
-      "paper_id": "3496cbf067af713223e4c2925480bca4fea14825"
-    },
-    {
-      "title": "Predicting Posttraumatic Stress Disorder Following a Natural Disaster",
-      "year": 2017,
-      "authors": [
-        "A. Rosellini",
-        "Francisca Dussaillant",
-        "J. Zubizarreta",
-        "R. Kessler",
-        "Sherri Rose"
-      ],
-      "publication_date": "2017-09-08",
-      "doi": "10.1016/j.jpsychires.2017.09.010",
-      "paper_id": "73eec4afc474d661e326b3c52d959dea27799618"
-    },
-    {
-      "title": "Adaptive Pre-specification in Randomized Trials With and Without Pair-Matching",
-      "year": 2016,
-      "authors": [
-        "L. Balzer",
-        "M. J. van der Laan",
-        "M. Petersen"
-      ],
-      "publication_date": "2016-07-19",
-      "doi": "10.1002/sim.7023",
-      "paper_id": "798ffb5f9949da03ffd6a51a979e22c7b0b446cf"
-    },
-    {
-      "title": "AUC-Maximizing Ensembles through Metalearning",
-      "year": 2016,
-      "authors": [
-        "E. LeDell",
-        "M. J. van der Laan",
-        "Maya Peterson"
-      ],
-      "publication_date": "2016-05-01",
-      "doi": "10.1515/ijb-2015-0035",
-      "paper_id": "d787edb5ce204012c2f695315752c0fd12a338ef"
-    },
-    {
-      "title": "Doubly Robust and Efficient Estimation of Marginal Structural Models for the Hazard Function",
-      "year": 2016,
-      "authors": [
-        "Wenjing Zheng",
-        "Maya L Petersen",
-        "M. J. van der Laan"
-      ],
-      "publication_date": "2016-05-01",
-      "doi": "10.1515/ijb-2015-0036",
-      "paper_id": "fe88ecf240782077d68d21cdbf2a78673e6a0e7a"
-    },
-    {
-      "title": "Estimating Effects with Rare Outcomes and High Dimensional Covariates: Knowledge is Power",
-      "year": 2016,
-      "authors": [
-        "L. Balzer",
-        "J. Ahern",
-        "S. Galea",
-        "M. J. van der Laan"
-      ],
-      "publication_date": "2016-05-24",
-      "doi": "10.1515/em-2014-0020",
-      "paper_id": "ef295cd94e97c2cb8d2ced1fbce174325a09576b"
-    },
-    {
-      "title": "Evaluating the Impact of a HIV Low-Risk Express Care Task-Shifting Program: A Case Study of the Targeted Learning Roadmap",
-      "year": 2016,
-      "authors": [
-        "Linh Tran",
-        "C. Yiannoutsos",
-        "B. Musick",
-        "K. Wools-Kaloustian",
-        "A. Siika",
-        "S. Kimaiyo",
-        "M. J. van der Laan",
-        "M. Petersen"
-      ],
-      "publication_date": "2016-11-10",
-      "doi": "10.1515/em-2016-0004",
-      "paper_id": "593b5721b9cfb272805e330ebb8dd03b41ed073e"
-    },
-    {
-      "title": "Pathway analysis of genome-wide association study in childhood leukemia among Hispanics",
-      "year": 2016,
-      "authors": [
-        "L. Hsu",
-        "F. Briggs",
-        "Xiaorong Shao",
-        "C. Metayer",
-        "J. Wiemels",
-        "A. Chokkalingam",
-        "L. Barcellos"
-      ],
-      "publication_date": "2016-03-03",
-      "doi": "10.1158/1055-9965.epi-15-0528",
-      "paper_id": "1007af7b926cc3a952d441293820e8e2ead193bc"
-    },
-    {
-      "title": "Targeted estimation and inference for the sample average treatment effect in trials with and without pair-matching",
-      "year": 2016,
-      "authors": [
-        "L. Balzer",
-        "M. Petersen",
-        "M. J. van der Laan"
-      ],
-      "publication_date": "2016-04-18",
-      "doi": "10.1002/sim.6965",
-      "paper_id": "471d5ee0ed22d73e9aedc0160300e27ab765e74e"
-    },
-    {
-      "title": "Increasing Sample Size in Prospective Birth Cohorts: Back-Extrapolating Prenatal Levels of Persistent Organic Pollutants in Newly Enrolled Children",
-      "year": 2015,
-      "authors": [
-        "M. Verner",
-        "F. Gaspar",
-        "J. Chevrier",
-        "R. Gunier",
-        "A. Sjödin",
-        "A. Bradman",
-        "B. Eskenazi"
-      ],
-      "publication_date": "2015-02-27",
-      "doi": "10.1021/acs.est.5b00322",
-      "paper_id": "1ae6c7ee89221cc292bc63413dccf1a964688131"
-    },
-    {
-      "title": "Propensity score and doubly robust methods for estimating the effect of treatment on censored cost",
-      "year": 2015,
-      "authors": [
-        "Jiaqi Li",
-        "E. Handorf",
-        "J. Bekelman",
-        "N. Mitra"
-      ],
-      "publication_date": "2015-12-17",
-      "doi": "10.1002/sim.6842",
-      "paper_id": "1cf066309981205579aa682e88fe7e214516a55b"
-    },
-    {
-      "title": "Targeted Learning of the Mean Outcome under an Optimal Dynamic Treatment Rule",
-      "year": 2015,
-      "authors": [
-        "M. J. van der Laan",
-        "Alexander Luedtke"
-      ],
-      "publication_date": "2015-03-01",
-      "doi": "10.1515/jci-2013-0022",
-      "paper_id": "afd9cc8b618d998e92e9d5bb2b18db2aa9050ffa"
-    },
-    {
-      "title": "Adaptive pair-matching in randomized trials with unbiased and efficient effect estimation",
-      "year": 2014,
-      "authors": [
-        "L.B Balzer",
-        "Maya L Petersen",
-        "M. J. van der Laan"
-      ],
-      "publication_date": "2014-11-25",
-      "doi": "10.1002/sim.6380",
-      "paper_id": "a4d1443a5b0bc8ccbd2c1db9de0e799201570306"
-    },
-    {
-      "title": "Causal Inference for a Population of Causally Connected Units",
-      "year": 2014,
-      "authors": [
-        "M. J. van der Laan"
-      ],
-      "publication_date": "2014-01-14",
-      "doi": "10.1515/jci-2013-0002",
-      "paper_id": "9263f291f0e50212fb62aeb43a4d59088f188a12"
-    },
-    {
-      "title": "Ensemble learning of inverse probability weights for marginal structural modeling in large observational datasets",
-      "year": 2014,
-      "authors": [
-        "Susan Gruber",
-        "R. Logan",
-        "I. Jarrín",
-        "S. Monge",
-        "Miguel A. Hern'an"
-      ],
-      "publication_date": "2014-10-15",
-      "doi": "10.1002/sim.6322",
-      "paper_id": "40edd2914cd6b53375cede94b68430a8845c8617"
-    },
-    {
-      "title": "Evaluating treatment effectiveness under model misspecification: A comparison of targeted maximum likelihood estimation with bias-corrected matching",
-      "year": 2014,
-      "authors": [
-        "N. Kreif",
-        "Susan Gruber",
-        "Rosalba Radice",
-        "R. Grieve",
-        "J. Sekhon"
-      ],
-      "publication_date": "2014-02-12",
-      "doi": "10.1177/0962280214521341",
-      "paper_id": "3f369f8ef085279b977e4ccf8a0b6270b9c1f04c"
-    },
-    {
-      "title": "Mortality prediction in the ICU: can we do better? Results from the Super ICU Learner Algorithm (SICULA) project, a population-based study",
-      "year": 2014,
-      "authors": [
-        "R. Pirracchio",
-        "M. Petersen",
-        "M. Carone",
-        "M. Rigon",
-        "S. Chevret",
-        "M. J. van der Laan"
-      ],
-      "publication_date": "2014-11-24",
-      "doi": "10.1016/s2213-2600(14)70239-5",
-      "paper_id": "f04bd4457a59c4a4393ad1609895ca4c9ec54943"
-    },
-    {
-      "title": "Semiparametric Estimation of the Impacts of Longitudinal Interventions on Adolescent Obesity using Targeted Maximum-Likelihood: Accessible Estimation with the ltmle Package",
-      "year": 2014,
-      "authors": [
-        "Anna Decker",
-        "A. Hubbard",
-        "C. Crespi",
-        "E. Seto",
-        "May-Choo Wang"
-      ],
-      "publication_date": "2014-03-01",
-      "doi": "10.1515/jci-2013-0025",
-      "paper_id": "13f296ca76d6dc86b2bab469b87192c30b88b7fa"
-    },
-    {
-      "title": "Targeted Estimation of Binary Variable Importance Measures with Interval-Censored Outcomes",
-      "year": 2014,
-      "authors": [
-        "S. Sapp",
-        "M. J. van der Laan",
-        "K. Page"
-      ],
-      "publication_date": "2014-05-01",
-      "doi": "10.1515/ijb-2013-0009",
-      "paper_id": "14ad02c8dc2ce8cec6420b763121c25453ee64bd"
-    },
-    {
-      "title": "Identification and efficient estimation of the natural direct effect among the untreated",
-      "year": 2013,
-      "authors": [
-        "S. Lendle",
-        "M. Subbaraman",
-        "M. J. van der Laan"
-      ],
-      "publication_date": "2013-04-23",
-      "doi": "10.1111/biom.12022",
-      "paper_id": "3545ed7e755b931cd0884ca4bcff834a5efd4f3c"
-    },
-    {
-      "title": "Adjusting for Perception and Unmasking Effects in Longitudinal Clinical Trials",
-      "year": 2012,
-      "authors": [
-        "A. Hubbard",
-        "F. Jamshidian",
-        "N. Jewell"
-      ],
-      "publication_date": "2012-12-31",
-      "doi": "10.2202/1557-4679.1376",
-      "paper_id": "d7446da402e7c6ce0c35b3c91ae778542e359b6f"
-    },
-    {
-      "title": "Population Intervention Causal Effects Based on Stochastic Interventions",
-      "year": 2011,
-      "authors": [
-        "I. D. Muñoz",
-        "M. J. van der Laan"
-      ],
-      "publication_date": "2011-10-06",
-      "doi": "10.1111/j.1541-0420.2011.01685.x",
-      "paper_id": "e1e4b3098fa1a962e135e5f831907638318fcb0b"
-    },
-    {
-      "title": "Robust extraction of covariate information to improve estimation efficiency in randomized trials",
-      "year": 2011,
-      "authors": [
-        "Kelly L. Moore",
-        "R. Neugebauer",
-        "T. Valappil",
-        "M. J. van der Laan"
-      ],
-      "publication_date": "2011-07-12",
-      "doi": "10.1002/sim.4301",
-      "paper_id": "28f67133452b15e2df01920e12000b52a5173ce1"
+      "publication_date": "2025-05-11",
+      "doi": "10.16925/2357-6014.2025.02.07",
+      "paper_id": "2388df4c46d7d37c58b8b1a69a67774c0c213bd4"
     }
   ],
-  "paper_count": 1033,
+  "paper_count": 1035,
   "papers": [
     {
       "title": "A CV-TMLE global test approach to improve power in rare disease clinical studies with multiple-component endpoints",
@@ -732,6 +297,38 @@
       "url": "https://www.semanticscholar.org/paper/83706933b4de9bbd88581955c0dcb2fb86cfb2b4",
       "venue": "Journal of the American Heart Association : Cardiovascular and Cerebrovascular Disease",
       "doi": "10.1161/jaha.125.046238",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
+      "title": "Comparative effectiveness of sulfonylureas on kidney outcomes in adults with type 2 diabetes and moderate cardiovascular risk: a target trial emulation",
+      "authors": [
+        "Stacey Sklepinski",
+        "A. Ratzki-Leewing",
+        "Jeph Herrin",
+        "K. Swarna",
+        "Yihong Deng",
+        "Eric C. Polley",
+        "Joshua J. Neumiller",
+        "R. J. Galindo",
+        "Guillermo E. Umpierrez",
+        "Joseph S. Ross",
+        "Juan P. Brito",
+        "V. Montori",
+        "Mindy M. Mickelson",
+        "Rozalina G. McCoy"
+      ],
+      "abstract": "To assess the within-class variation in kidney outcomes following initiation of sulfonylurea therapy. We used claims data of enrollees in commercial, Medicare Advantage, and traditional Medicare health plans between 2014 and 2021 to emulate a target trial including adults ≥21 years with type 2 diabetes at moderate cardiovascular risk to compare initiation of glimepiride, glipizide, or glyburide on the incidence of chronic kidney disease (CKD) stage 3 or worse, including initiation of kidney replacement therapy (primary outcome); secondary outcomes examined incident CKD stages 3-4, kidney failure (including kidney replacement therapy), all-cause mortality, and hypoglycemia requiring emergency department or hospital care. Random treatment assignment was emulated using propensity scores, estimated using the super learner ensemble method, and incorporated as inverse probability of treatment weights into proportional hazards models. The weighted study cohort included 295 092 individuals starting glimepiride (n=134 926), glipizide (n=145 984), and glyburide (n=14 182). One year after treatment initiation, stage 3 or worse CKD developed in 2.1% of patients in the glimepiride group, 2.2% in the glipizide group, and 1.8% in the glyburide group. Glyburide was associated with a lower risk of kidney complications compared with both glimepiride (HR 0.84, 95% CI 0.76 to 0.92) and glipizide (HR 0.81, 95% CI 0.73 to 0.89), despite a higher risk of severe hypoglycemia (HR 1.47, 95% CI 1.27 to 1.71 vs glipizide and HR 1.22, 95% CI 1.05 to 1.42 vs glimepiride). In contrast, the risk of kidney complications was modestly increased with glipizide compared with glimepiride use (HR 1.04, 95% CI 1.00 to 1.07). Glyburide was associated with a modestly lower risk of kidney complications, despite a higher risk of hypoglycemia, while glipizide was associated with a higher risk of kidney complications. These hypothesis-generating findings suggest important within-class differences that warrant consideration in clinical decision-making and future research. Despite rigorous prespecified causal inference analytic methods, the risk of unmeasured confounding and bias by indication with the use of observational data remains. NCT05214573 .",
+      "year": 2026,
+      "publication_date": "2026-05-01",
+      "paper_id": "5117e750d8eca8c000b81f6d7166c1de33dee904",
+      "url": "https://www.semanticscholar.org/paper/5117e750d8eca8c000b81f6d7166c1de33dee904",
+      "venue": "BMJ Open Diabetes Research &amp; Care",
+      "doi": "10.1136/bmjdrc-2025-005775",
       "matched_keywords": [
         "super learner"
       ],
@@ -2533,7 +2130,7 @@
         "Chenchen Yu",
         "Z. Moodie",
         "D. Stieh",
-        "N. Yates",
+        "Nicole L. Yates",
         "Lu Zhang",
         "Sheetal S Sawant",
         "Stephen C. De Rosa",
@@ -3613,6 +3210,27 @@
       ],
       "source_queries": [
         "targeted minimum loss based estimation"
+      ]
+    },
+    {
+      "title": "Educational data integration andmachine learning for academic performance prediction",
+      "authors": [
+        "Leonardo Emiro Contreras Bravo",
+        "Héctor Javier Fuentes López",
+        "Nayive Nieves Pimiento"
+      ],
+      "abstract": "Introduction: This article is the result of the research project “Integration of Educational Data and Machine Learning Techniques for the Prediction of Student Academic Performance”, conducted at Universidad Distrital Francisco José de Caldas between 2021 and 2023. Problem: When processed with appropriate tools, educational data can be used to predict, prevent, and take action to improve students' academic performance. Objective: The aim of this study is to predict academic performance in three engineering programs using machine learning techniques. The dataset comprises a total of 7,000 student records. Methodology: Approximately 325 variables were analyzed in each run. The most influential variables were selected for each academic semester. Feature selection methods revealed standard variables that consistently influence academic performance, regardless of the type of engineering program. Results: The prediction models were evaluated using supervised learning algorithms (SVC, KNN, Decision Tree, LDA) and ensemble methods, including Bagging techniques (RandomForest, ExtraTreesClassifier), Boosting techniques (AdaBoost, GBM, XGBoost, CatBoost, LightGBM), and Voting techniques (Blending, Stacking). Conclusion: The proposed model, which uses a super learner algorithm (in one- and two-stage configurations), yielded the highest prediction accuracy for academic performance, followed by Stacking and Blending algorithms. The models achieved average accuracy scores of 85% for training and 75% for testing. Originality of the Study: This study stands out for its integration of heterogeneous sources of academic, administrative, and socioeconomic data, combined with statistical analysis and advanced machine learning techniques, to generate predictive models tailored to the Colombian educational context. Limitations: The study identified limitations in the availability and quality of historical data, as well as the absence of certain contextual variables not captured by institutional information systems. These factors may affect the generalizability of the models to other educational contexts.",
+      "year": 2025,
+      "publication_date": "2025-05-11",
+      "paper_id": "2388df4c46d7d37c58b8b1a69a67774c0c213bd4",
+      "url": "https://www.semanticscholar.org/paper/2388df4c46d7d37c58b8b1a69a67774c0c213bd4",
+      "venue": "Ingeniería solidaria",
+      "doi": "10.16925/2357-6014.2025.02.07",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
       ]
     },
     {
@@ -10347,10 +9965,10 @@
       "title": "Antibiotic prescribing in remote versus face-to-face consultations for acute respiratory infections in English primary care: An observational study using TMLE",
       "authors": [
         "E. Vestesson",
-        "K. D. De Corte",
+        "K. D. Corte",
         "P. Chappell",
-        "E. Crellin",
-        "G. Clarke"
+        "Elizabeth Crellin",
+        "Geraldine M. Clarke"
       ],
       "abstract": "Background The COVID-19 pandemic has led to an ongoing increase in the use of remote consultations in general practice in England. Though the evidence is limited, there are concerns that the increase in remote consultations could lead to more antibiotic prescribing. Methods We used patient-level primary care data from the Clinical Practice Research Datalink to estimate the association between consultation mode (remote vs face-to-face) and antibiotic prescribing in England for acute respiratory infections (ARI) between April 2021 - March 2022. We used targeted maximum likelihood estimation, a causal machine learning method with adjustment for patient-, clinician- and practice-level factors. Findings There were 45,997 ARI consultations (34,555 unique patients), of which 28,127 were remote and 17,870 face-to-face. For children, 48% of consultations were remote whereas for adults 66% were remote. For children, 42% of remote and 43% face-to-face consultations led to an antibiotic prescription; the equivalent in adults was 52% of remote and 42% face-to-face. Adults with a remote consultation had 23% (Odds Ratio (OR) 1.23 95% Confidence Interval (CI): 1.18-1.29) higher chance of being prescribed antibiotics compared to if they had been seen face-to-face. We found no significant association between consultation mode and antibiotic prescribing in children (OR 1.04 95% CI 0.98-1.11). Interpretation This study uses rich patient-level data and robust statistical methods and represents an important contribution to the evidence base on antibiotic prescribing in post-COVID primary care. The higher rates of antibiotic prescribing in remote consultations for adults are cause for concern. We see no significant difference in antibiotic prescribing between consultation mode for children. These findings should inform antimicrobial stewardship activities for health care professionals and policy makers. Future research should examine differences in guideline-compliance between remote and face-to-face consultations to understand the factors driving antibiotic prescribing in different consultation modes. Funding No external funding. Keywords general practice; England; antibiotics; remote consultations; telehealth; telemedicine; TMLE; causal inference; machine learning; acute respiratory infections; antimicrobial resistance; covid; ARTI; ARI; antibiotic prescribing; primary care",
       "year": 2023,
