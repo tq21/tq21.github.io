@@ -7,7 +7,7 @@ Auto-updated list of TMLE-related papers tracked from Semantic Scholar queries.
 
 _Note: this list is not complete and may include irrelevant articles; it will be refined over time._
 
-Last refreshed: 2026-05-23T18:59:55Z
+Last refreshed: 2026-05-23T19:07:22Z
 
 Keywords queried: tmle, targeted maximum likelihood estimation, targeted minimum loss based estimation, super learner, super learning, highly adaptive lasso
 

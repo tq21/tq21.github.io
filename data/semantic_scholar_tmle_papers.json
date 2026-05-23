@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T18:59:55Z",
+  "generated_at": "2026-05-23T19:07:22Z",
   "source": "Semantic Scholar Graph API",
   "unauthenticated": true,
   "mode": "bulk",
@@ -44,47 +44,11 @@
   "query_errors": [],
   "incomplete": false,
   "fetched_paper_count": 889,
-  "newly_appended_count": 2,
-  "updated_existing_count": 2,
+  "newly_appended_count": 0,
+  "updated_existing_count": 0,
   "existing_blocked_removed": 0,
   "existing_duplicates_removed": 0,
-  "newly_added_papers": [
-    {
-      "title": "Comparative effectiveness of sulfonylureas on kidney outcomes in adults with type 2 diabetes and moderate cardiovascular risk: a target trial emulation",
-      "year": 2026,
-      "authors": [
-        "Stacey Sklepinski",
-        "A. Ratzki-Leewing",
-        "Jeph Herrin",
-        "K. Swarna",
-        "Yihong Deng",
-        "Eric C. Polley",
-        "Joshua J. Neumiller",
-        "R. J. Galindo",
-        "Guillermo E. Umpierrez",
-        "Joseph S. Ross",
-        "Juan P. Brito",
-        "V. Montori",
-        "Mindy M. Mickelson",
-        "Rozalina G. McCoy"
-      ],
-      "publication_date": "2026-05-01",
-      "doi": "10.1136/bmjdrc-2025-005775",
-      "paper_id": "5117e750d8eca8c000b81f6d7166c1de33dee904"
-    },
-    {
-      "title": "Educational data integration andmachine learning for academic performance prediction",
-      "year": 2025,
-      "authors": [
-        "Leonardo Emiro Contreras Bravo",
-        "Héctor Javier Fuentes López",
-        "Nayive Nieves Pimiento"
-      ],
-      "publication_date": "2025-05-11",
-      "doi": "10.16925/2357-6014.2025.02.07",
-      "paper_id": "2388df4c46d7d37c58b8b1a69a67774c0c213bd4"
-    }
-  ],
+  "newly_added_papers": [],
   "paper_count": 1035,
   "papers": [
     {
