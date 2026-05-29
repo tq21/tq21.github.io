@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T19:07:22Z",
+  "generated_at": "2026-05-29T15:01:38Z",
   "source": "Semantic Scholar Graph API",
   "unauthenticated": true,
   "mode": "bulk",
@@ -30,7 +30,7 @@
     },
     {
       "keyword": "super learner",
-      "fetched_raw_count": 1007
+      "fetched_raw_count": 1012
     },
     {
       "keyword": "super learning",
@@ -43,13 +43,64 @@
   ],
   "query_errors": [],
   "incomplete": false,
-  "fetched_paper_count": 889,
-  "newly_appended_count": 0,
-  "updated_existing_count": 0,
+  "fetched_paper_count": 893,
+  "newly_appended_count": 4,
+  "updated_existing_count": 5,
   "existing_blocked_removed": 0,
   "existing_duplicates_removed": 0,
-  "newly_added_papers": [],
-  "paper_count": 1035,
+  "newly_added_papers": [
+    {
+      "title": "Enhancing Early Detection of Liver Disease Through a Meta-Learning Approach Using Super Learner and Model Interpretability",
+      "year": 2026,
+      "authors": [
+        "N. Kumar",
+        "N. Bhuvaneswari",
+        "K. Dhanalakshmi",
+        "Balasankar Karavadi",
+        "R. Velvizhi",
+        "V. Dharani"
+      ],
+      "publication_date": "2026-04-28",
+      "doi": "10.1109/icaiss68683.2026.11525509",
+      "paper_id": "48b0e9de2c23309711631e90691ea2a20a5754f1"
+    },
+    {
+      "title": "Reliability Evaluation of Cable Truss Structures Based on an Interpretable Super Learner Ensemble Learning",
+      "year": 2026,
+      "authors": [
+        "Guoliang Shi",
+        "Zhuohang Zhang",
+        "Zhansheng Liu"
+      ],
+      "publication_date": "2026-05-01",
+      "doi": "10.1016/j.tws.2026.115168",
+      "paper_id": "367b9b84ce124d65f9ef8c545af060af2adb2902"
+    },
+    {
+      "title": "Targeted maximum likelihood estimation of vaccine effectiveness and immune correlates in test-negative design studies with missing data",
+      "year": 2026,
+      "authors": [
+        "Leah I B Andrews",
+        "L. Laan",
+        "Peter B Gilbert"
+      ],
+      "publication_date": "2026-05-20",
+      "doi": null,
+      "paper_id": "545af3e51e5dd8f3b3399b6d0448fb41e8500add"
+    },
+    {
+      "title": "Targeted Minimum Loss Based Estimator that Outperforms a given Estimator",
+      "year": 2012,
+      "authors": [
+        "Susan Gruber",
+        "M. J. van der Laan"
+      ],
+      "publication_date": "2012-05-18",
+      "doi": "10.1515/1557-4679.1332",
+      "paper_id": "e57e8b54a102ab2677825d22cb8403a16bf5fccd"
+    }
+  ],
+  "paper_count": 1039,
   "papers": [
     {
       "title": "A CV-TMLE global test approach to improve power in rare disease clinical studies with multiple-component endpoints",
@@ -213,7 +264,7 @@
       "title": "Causal effect estimates of online e-cigarette marketing exposure on future e-cigarette harm perception and use",
       "authors": [
         "P. Harrell",
-        "Nicholas T Williams",
+        "Nicholas T. Williams",
         "Kara E. Rudolph",
         "Rachel Ayala Guzman",
         "Ateeqa Ijaz",
@@ -286,12 +337,12 @@
         "Mindy M. Mickelson",
         "Rozalina G. McCoy"
       ],
-      "abstract": "To assess the within-class variation in kidney outcomes following initiation of sulfonylurea therapy. We used claims data of enrollees in commercial, Medicare Advantage, and traditional Medicare health plans between 2014 and 2021 to emulate a target trial including adults ≥21 years with type 2 diabetes at moderate cardiovascular risk to compare initiation of glimepiride, glipizide, or glyburide on the incidence of chronic kidney disease (CKD) stage 3 or worse, including initiation of kidney replacement therapy (primary outcome); secondary outcomes examined incident CKD stages 3-4, kidney failure (including kidney replacement therapy), all-cause mortality, and hypoglycemia requiring emergency department or hospital care. Random treatment assignment was emulated using propensity scores, estimated using the super learner ensemble method, and incorporated as inverse probability of treatment weights into proportional hazards models. The weighted study cohort included 295 092 individuals starting glimepiride (n=134 926), glipizide (n=145 984), and glyburide (n=14 182). One year after treatment initiation, stage 3 or worse CKD developed in 2.1% of patients in the glimepiride group, 2.2% in the glipizide group, and 1.8% in the glyburide group. Glyburide was associated with a lower risk of kidney complications compared with both glimepiride (HR 0.84, 95% CI 0.76 to 0.92) and glipizide (HR 0.81, 95% CI 0.73 to 0.89), despite a higher risk of severe hypoglycemia (HR 1.47, 95% CI 1.27 to 1.71 vs glipizide and HR 1.22, 95% CI 1.05 to 1.42 vs glimepiride). In contrast, the risk of kidney complications was modestly increased with glipizide compared with glimepiride use (HR 1.04, 95% CI 1.00 to 1.07). Glyburide was associated with a modestly lower risk of kidney complications, despite a higher risk of hypoglycemia, while glipizide was associated with a higher risk of kidney complications. These hypothesis-generating findings suggest important within-class differences that warrant consideration in clinical decision-making and future research. Despite rigorous prespecified causal inference analytic methods, the risk of unmeasured confounding and bias by indication with the use of observational data remains. NCT05214573 .",
+      "abstract": "Abstract Introduction To assess the within-class variation in kidney outcomes following initiation of sulfonylurea therapy. Research design and methods We used claims data of enrollees in commercial, Medicare Advantage, and traditional Medicare health plans between 2014 and 2021 to emulate a target trial including adults ≥21 years with type 2 diabetes at moderate cardiovascular risk to compare initiation of glimepiride, glipizide, or glyburide on the incidence of chronic kidney disease (CKD) stage 3 or worse, including initiation of kidney replacement therapy (primary outcome); secondary outcomes examined incident CKD stages 3-4, kidney failure (including kidney replacement therapy), all-cause mortality, and hypoglycemia requiring emergency department or hospital care. Random treatment assignment was emulated using propensity scores, estimated using the super learner ensemble method, and incorporated as inverse probability of treatment weights into proportional hazards models. Results The weighted study cohort included 295 092 individuals starting glimepiride (n=134 926), glipizide (n=145 984), and glyburide (n=14 182). One year after treatment initiation, stage 3 or worse CKD developed in 2.1% of patients in the glimepiride group, 2.2% in the glipizide group, and 1.8% in the glyburide group. Glyburide was associated with a lower risk of kidney complications compared with both glimepiride (HR 0.84, 95% CI 0.76 to 0.92) and glipizide (HR 0.81, 95% CI 0.73 to 0.89), despite a higher risk of severe hypoglycemia (HR 1.47, 95% CI 1.27 to 1.71 vs glipizide and HR 1.22, 95% CI 1.05 to 1.42 vs glimepiride). In contrast, the risk of kidney complications was modestly increased with glipizide compared with glimepiride use (HR 1.04, 95% CI 1.00 to 1.07). Conclusions Glyburide was associated with a modestly lower risk of kidney complications, despite a higher risk of hypoglycemia, while glipizide was associated with a higher risk of kidney complications. These hypothesis-generating findings suggest important within-class differences that warrant consideration in clinical decision-making and future research. Despite rigorous prespecified causal inference analytic methods, the risk of unmeasured confounding and bias by indication with the use of observational data remains. Trial registration number NCT05214573.",
       "year": 2026,
       "publication_date": "2026-05-01",
       "paper_id": "5117e750d8eca8c000b81f6d7166c1de33dee904",
       "url": "https://www.semanticscholar.org/paper/5117e750d8eca8c000b81f6d7166c1de33dee904",
-      "venue": "BMJ Open Diabetes Research &amp; Care",
+      "venue": "BMJ Open Diabetes Research & Care",
       "doi": "10.1136/bmjdrc-2025-005775",
       "matched_keywords": [
         "super learner"
@@ -633,6 +684,31 @@
       ],
       "source_queries": [
         "tmle"
+      ]
+    },
+    {
+      "title": "Enhancing Early Detection of Liver Disease Through a Meta-Learning Approach Using Super Learner and Model Interpretability",
+      "authors": [
+        "N. Kumar",
+        "N. Bhuvaneswari",
+        "K. Dhanalakshmi",
+        "Balasankar Karavadi",
+        "R. Velvizhi",
+        "V. Dharani"
+      ],
+      "abstract": "The liver disease is a significant community health issue, whose prevalence is on the rise due to alcohol intoxication, intake of contaminated food and drugs as well as environmental toxins. Primary diagnosis and management are significant to postpone the disease process and the health care burden. This paper will suggest a predictive model of liver disease classification using the Super Learning based Ensemble machine-learning that is an advanced meta-learning method that optimizes predictive accuracy with multiple base learners on a dataset provided by North East region of India on both liver and non-liver disease cases. Among the features of such a test are demographic data (age, gender) as well as biochemical indicators of liver diseases (bilirubin), liver enzymes, proteins and albumin: globulin ratios. Super Learning operates by training a variety of different underlying learners (logistic regression, decision trees, random forests, support vector machines, and gradient boosting machines) and then learning the best weighted combination of underlying learners to a meta-learner, which typically is a logistic regression model. The concept of stacked generalization is that the combination of both models and compensating the weaknesses of each model will help the Super Learner to be more generalized and stronger on unseen data. The Explainable AI (XAI) methods of SHAP (SHapley Additive Explanations) and LIME (Local Interpretable Model-Agnostic Explanations) are implemented into the end-to-end modelling pipeline to give interpretable information and support clinical decision making. These tools may assist in determining the most valuable features to the predictions of the model and provide the healthcare professionals with a chance to interpret and rely on the results.",
+      "year": 2026,
+      "publication_date": "2026-04-28",
+      "paper_id": "48b0e9de2c23309711631e90691ea2a20a5754f1",
+      "url": "https://www.semanticscholar.org/paper/48b0e9de2c23309711631e90691ea2a20a5754f1",
+      "venue": "2026 Fourth International Conference on Augmented Intelligence and Sustainable Systems (ICAISS)",
+      "doi": "10.1109/ICAISS68683.2026.11525509",
+      "matched_keywords": [
+        "super learner",
+        "super learning"
+      ],
+      "source_queries": [
+        "super learner"
       ]
     },
     {
@@ -1378,6 +1454,27 @@
       ]
     },
     {
+      "title": "Reliability Evaluation of Cable Truss Structures Based on an Interpretable Super Learner Ensemble Learning",
+      "authors": [
+        "Guoliang Shi",
+        "Zhuohang Zhang",
+        "Zhansheng Liu"
+      ],
+      "abstract": "",
+      "year": 2026,
+      "publication_date": "2026-05-01",
+      "paper_id": "367b9b84ce124d65f9ef8c545af060af2adb2902",
+      "url": "https://www.semanticscholar.org/paper/367b9b84ce124d65f9ef8c545af060af2adb2902",
+      "venue": "Thin-walled structures",
+      "doi": "10.1016/j.tws.2026.115168",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
       "title": "Sodium Correction Rates and Associated Outcomes Among Patients With Severe Hyponatremia : A Retrospective Cohort Study.",
       "authors": [
         "D. G. Mark",
@@ -1451,6 +1548,27 @@
       ],
       "source_queries": [
         "targeted minimum loss based estimation"
+      ]
+    },
+    {
+      "title": "Targeted maximum likelihood estimation of vaccine effectiveness and immune correlates in test-negative design studies with missing data",
+      "authors": [
+        "Leah I B Andrews",
+        "L. Laan",
+        "Peter B Gilbert"
+      ],
+      "abstract": "The test-negative design (TND) is a resource-efficient observational study design that can assess vaccine effectiveness and exposure-proximal immune correlates of disease. The TND enrolls symptomatic individuals seeking diagnostic testing and compares case status by an exposure variable, such as vaccination status or immune marker level, that is measured at testing. While the TND reduces confounding by healthcare-seeking behavior, other sources of confounding may remain. TND studies may also have missing data in the exposure variable due to incomplete records or two-phase sampling designs. We present a targeted maximum likelihood estimation approach involving a semiparametric logistic regression model that targets a causal conditional risk ratio of symptomatic disease in the healthcare-seeking population. Under causal and missing at random assumptions, our method produces an efficient, asymptotically linear estimator that provides flexible, data-driven confounding control and valid causal inference when analyzing TND studies with missing exposure variable data. We evaluate our method's finite sample properties using plasmode simulations of a two-phase TND immune correlates study. We also apply our method to assess COVID-19 vaccine effectiveness and antibody marker correlates of COVID-19 from TND study cohorts derived from the Moderna Coronavirus Efficacy phase 3 trial.",
+      "year": 2026,
+      "publication_date": "2026-05-20",
+      "paper_id": "545af3e51e5dd8f3b3399b6d0448fb41e8500add",
+      "url": "https://www.semanticscholar.org/paper/545af3e51e5dd8f3b3399b6d0448fb41e8500add",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
       ]
     },
     {
@@ -5852,7 +5970,7 @@
     {
       "title": "Two-stage targeted minimum-loss based estimation for non-negative two-part outcomes",
       "authors": [
-        "Nicholas T Williams",
+        "Nicholas T. Williams",
         "Richard Liu",
         "Katherine L. Hoffman",
         "Sarah E Forrest",
@@ -8117,7 +8235,7 @@
       "title": "Longitudinal impact of different treatment sequences of second-generation antipsychotics on metabolic outcomes: a study using targeted maximum likelihood estimation",
       "authors": [
         "Yaning Feng",
-        "Kenneth C Y Wong",
+        "Kenneth C. Y. Wong",
         "Perry Bok-Man Leung",
         "Benedict K.W. Lee",
         "P. Sham",
@@ -9580,7 +9698,7 @@
     {
       "title": "Two-Step Targeted Minimum-Loss Based Estimation for Non-Negative Two-Part Outcomes",
       "authors": [
-        "Nicholas T Williams",
+        "Nicholas T. Williams",
         "Richard Liu",
         "Katherine L. Hoffman",
         "Sarah E Forrest",
@@ -24429,6 +24547,28 @@
       ],
       "source_queries": [
         "targeted maximum likelihood estimation",
+        "targeted minimum loss based estimation",
+        "tmle"
+      ]
+    },
+    {
+      "title": "Targeted Minimum Loss Based Estimator that Outperforms a given Estimator",
+      "authors": [
+        "Susan Gruber",
+        "M. J. van der Laan"
+      ],
+      "abstract": "Targeted minimum loss based estimation (TMLE) provides a template for the construction of semiparametric locally efficient double robust substitution estimators of the target parameter of the data generating distribution in a semiparametric censored data or causal inference model (van der Laan and Rubin (2006), van der Laan (2008), van der Laan and Rose (2011)). In this article we demonstrate how to construct a TMLE that also satisfies the property that it is at least as efficient as a user supplied asymptotically linear estimator. In particular it is shown that this type of TMLE can incorporate empirical efficiency maximization as in Rubin and van der Laan (2008), Tan (2008, 2010), Rotnitzky et al. (2012), and retain double robustness. For the sake of illustration we focus on estimation of the additive average causal effect of a point treatment on an outcome, adjusting for baseline covariates.",
+      "year": 2012,
+      "publication_date": "2012-05-18",
+      "paper_id": "e57e8b54a102ab2677825d22cb8403a16bf5fccd",
+      "url": "https://www.semanticscholar.org/paper/e57e8b54a102ab2677825d22cb8403a16bf5fccd",
+      "venue": "The International Journal of Biostatistics",
+      "doi": "10.1515/1557-4679.1332",
+      "matched_keywords": [
+        "targeted minimum loss based estimation",
+        "tmle"
+      ],
+      "source_queries": [
         "targeted minimum loss based estimation",
         "tmle"
       ]
