@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T15:01:38Z",
+  "generated_at": "2026-06-06T03:47:21Z",
   "source": "Semantic Scholar Graph API",
   "unauthenticated": true,
   "mode": "bulk",
@@ -26,7 +26,7 @@
     },
     {
       "keyword": "targeted minimum loss based estimation",
-      "fetched_raw_count": 341
+      "fetched_raw_count": 343
     },
     {
       "keyword": "super learner",
@@ -38,69 +38,67 @@
     },
     {
       "keyword": "highly adaptive lasso",
-      "fetched_raw_count": 234
+      "fetched_raw_count": 236
     }
   ],
   "query_errors": [],
   "incomplete": false,
-  "fetched_paper_count": 893,
-  "newly_appended_count": 4,
-  "updated_existing_count": 5,
+  "fetched_paper_count": 894,
+  "newly_appended_count": 3,
+  "updated_existing_count": 3,
   "existing_blocked_removed": 0,
   "existing_duplicates_removed": 0,
   "newly_added_papers": [
     {
-      "title": "Enhancing Early Detection of Liver Disease Through a Meta-Learning Approach Using Super Learner and Model Interpretability",
+      "title": "Accounting for non-adherence: A re-analysis of the Liraglutide Effect and Action in Diabetes: Evaluation of Cardiovascular Outcome Results trial",
       "year": 2026,
       "authors": [
-        "N. Kumar",
-        "N. Bhuvaneswari",
-        "K. Dhanalakshmi",
-        "Balasankar Karavadi",
-        "R. Velvizhi",
-        "V. Dharani"
+        "K. K. Sørensen",
+        "J. S. Ohlendorff",
+        "Anders Munch",
+        "P. Yazdanfard",
+        "M. P. Andersen",
+        "U. Pedersen-Bjergaard",
+        "B. Zareini",
+        "T. Gerds",
+        "C. Torp-Pedersen"
       ],
-      "publication_date": "2026-04-28",
-      "doi": "10.1109/icaiss68683.2026.11525509",
-      "paper_id": "48b0e9de2c23309711631e90691ea2a20a5754f1"
+      "publication_date": "2026-06-02",
+      "doi": "10.1177/17407745261449668",
+      "paper_id": "f9f927b590757d9ac664f3caf04e68282a9c0e52"
     },
     {
-      "title": "Reliability Evaluation of Cable Truss Structures Based on an Interpretable Super Learner Ensemble Learning",
+      "title": "Comparative Mortality Risk of Aripiprazole, Olanzapine, Quetiapine, and Risperidone in Alzheimer’s Disease: A Real‑World Retrospective Cohort Study with Treatment Effect Heterogeneity Analysis",
       "year": 2026,
       "authors": [
-        "Guoliang Shi",
-        "Zhuohang Zhang",
-        "Zhansheng Liu"
+        "Chen Jiang",
+        "J. Krivinko",
+        "Zeshui Yu",
+        "Robert A. Sweet",
+        "Lang Zeng",
+        "Hui Wang",
+        "Ying Ding",
+        "Zheng Zeng",
+        "Julia Kofler",
+        "Lirong Wang"
       ],
-      "publication_date": "2026-05-01",
-      "doi": "10.1016/j.tws.2026.115168",
-      "paper_id": "367b9b84ce124d65f9ef8c545af060af2adb2902"
+      "publication_date": "2026-03-28",
+      "doi": "10.1007/s40263-026-01286-9",
+      "paper_id": "16782d9ce76fc1000c4e1910a7db4c5649e6d381"
     },
     {
-      "title": "Targeted maximum likelihood estimation of vaccine effectiveness and immune correlates in test-negative design studies with missing data",
+      "title": "Higher-Order Efficient Estimators: A Review and Simulation-Based Benchmark Study",
       "year": 2026,
       "authors": [
-        "Leah I B Andrews",
-        "L. Laan",
-        "Peter B Gilbert"
+        "Ze Wang",
+        "M. V. D. Laan"
       ],
-      "publication_date": "2026-05-20",
+      "publication_date": "2026-06-01",
       "doi": null,
-      "paper_id": "545af3e51e5dd8f3b3399b6d0448fb41e8500add"
-    },
-    {
-      "title": "Targeted Minimum Loss Based Estimator that Outperforms a given Estimator",
-      "year": 2012,
-      "authors": [
-        "Susan Gruber",
-        "M. J. van der Laan"
-      ],
-      "publication_date": "2012-05-18",
-      "doi": "10.1515/1557-4679.1332",
-      "paper_id": "e57e8b54a102ab2677825d22cb8403a16bf5fccd"
+      "paper_id": "8e51c573125a6c41c9f76d9a00a441eaceb6378a"
     }
   ],
-  "paper_count": 1039,
+  "paper_count": 1042,
   "papers": [
     {
       "title": "A CV-TMLE global test approach to improve power in rare disease clinical studies with multiple-component endpoints",
@@ -239,6 +237,33 @@
       ]
     },
     {
+      "title": "Accounting for non-adherence: A re-analysis of the Liraglutide Effect and Action in Diabetes: Evaluation of Cardiovascular Outcome Results trial",
+      "authors": [
+        "K. K. Sørensen",
+        "J. S. Ohlendorff",
+        "Anders Munch",
+        "P. Yazdanfard",
+        "M. P. Andersen",
+        "U. Pedersen-Bjergaard",
+        "B. Zareini",
+        "T. Gerds",
+        "C. Torp-Pedersen"
+      ],
+      "abstract": "The Liraglutide Effect and Action in Diabetes: Evaluation of Cardiovascular Outcome Results trial randomized patients with diabetes to liraglutide or placebo. The per-protocol analysis conditioned on post-baseline adherence and therefore lacked a well-defined estimand. This study sought to evaluate a subset of Liraglutide Effect and Action in Diabetes: Evaluation of Cardiovascular Outcome Results to estimate the effect of sustained liraglutide exposure corresponding to a well-defined per-protocol analysis. We used the roadmap of targeting learning to define the estimand for the sustained treatment analysis and estimated it with longitudinal targeted minimum loss-based estimation, accounting for protocol deviations and censoring using post-baseline confounders. The results were compared to the intention-to-treat analysis. We report 3.5-year risks of the primary composite outcome (myocardial infarction, stroke, or cardiovascular mortality) and secondary outcomes (each of the primary outcome’s components, revascularization, unstable angina pectoris, heart failure, and all-cause mortality). The intention-to-treat analysis estimated 3.5-year risks for the primary composite outcome of 11.8% (95% confidence interval: 10.8 to 12.8) in the liraglutide arm and 13.3% (95% confidence interval: 12.3 to 14.3) in the placebo arm, with a risk difference of 1.5% (95% confidence interval: 0.1 to 2.9). Accounting for post-baseline confounders, the sustained treatment analysis estimated 3.5-year risks of 11.4% (95% confidence interval: 10.4 to 12.5) for sustained exposure to liraglutide versus 12.6% (95% confidence interval: 11.5 to 13.7) for sustained exposure to placebo, yielding a risk difference of 1.1% (95% confidence interval: −0.4 to 2.6). Sustained exposure to liraglutide showed no statistically significant difference compared with sustained exposure to placebo for any secondary outcomes at 3.5 years. We used contemporary methods for causal inference to define and estimate the sustained treatment effects of the Liraglutide Effect and Action in Diabetes: Evaluation of Cardiovascular Outcome Results study by accounting for both baseline and time-varying confounders. The results were consistent with the findings of the original Liraglutide Effect and Action in Diabetes: Evaluation of Cardiovascular Outcome Results trial.",
+      "year": 2026,
+      "publication_date": "2026-06-02",
+      "paper_id": "f9f927b590757d9ac664f3caf04e68282a9c0e52",
+      "url": "https://www.semanticscholar.org/paper/f9f927b590757d9ac664f3caf04e68282a9c0e52",
+      "venue": "Clinical Trials",
+      "doi": "10.1177/17407745261449668",
+      "matched_keywords": [
+        "targeted minimum loss based estimation"
+      ],
+      "source_queries": [
+        "targeted minimum loss based estimation"
+      ]
+    },
+    {
       "title": "Adaptive Targeted Maximum Likelihood Estimation of the Mean Potential Outcome under a Treatment Rule",
       "authors": [
         "Yichen Xu",
@@ -349,6 +374,34 @@
       ],
       "source_queries": [
         "super learner"
+      ]
+    },
+    {
+      "title": "Comparative Mortality Risk of Aripiprazole, Olanzapine, Quetiapine, and Risperidone in Alzheimer’s Disease: A Real‑World Retrospective Cohort Study with Treatment Effect Heterogeneity Analysis",
+      "authors": [
+        "Chen Jiang",
+        "J. Krivinko",
+        "Zeshui Yu",
+        "Robert A. Sweet",
+        "Lang Zeng",
+        "Hui Wang",
+        "Ying Ding",
+        "Zheng Zeng",
+        "Julia Kofler",
+        "Lirong Wang"
+      ],
+      "abstract": "Background Second-generation antipsychotics (SGAs) are frequently used off-label to manage behavioral symptoms in Alzheimer’s disease (AD), despite ongoing concerns about their safety. Comparative evidence on mortality risk across specific SGAs remains limited. In this study, we aim to compare all-cause mortality among patients with AD treated with one of the commonly prescribed SGAs and to explore treatment effect heterogeneity using causal machine learning. Methods We conducted a retrospective cohort study using deidentified electronic health records from the Truveta platform. Patients with incident AD initiating treatment with aripiprazole, risperidone, quetiapine, or olanzapine were identified using a new-user design. Exposure was modeled as a time-varying covariate in Cox proportional hazards models, with propensity score matching applied to control for confounding. Causal tree and targeted maximum likelihood estimation were used to identify subgroups with heterogeneous treatment effects. Results Among 17,004 patients with AD, aripiprazole was associated with significantly lower mortality than olanzapine (adjusted hazard ratio [AHR] 0.667, 95% confidence interval [CI] 0.472–0.941) and quetiapine (AHR 0.677, 95% CI 0.462–0.990). Quetiapine was also associated with lower mortality than olanzapine (AHR 0.833, 95% CI 0.702–0.990) and risperidone (AHR 0.830, 95% CI 0.705–0.978). Causal tree analysis revealed treatment effect heterogeneity by clinical characteristics, particularly among patients using type 2 diabetes mellitus (T2DM) medications. In subgroup analyses, aripiprazole remained protective in T2DM users (AHR = 0.604 versus the combined group of quetiapine and risperidone, p = 0.002). Conclusions Mortality risks vary substantially across SGAs in patients with AD with single-medication usage. Aripiprazole and quetiapine were associated with lower mortality compared with olanzapine and risperidone. Treatment effect heterogeneity suggests the need for individualized prescribing based on patient characteristics such as comorbid T2DM. Supplementary Information The online version contains supplementary material available at 10.1007/s40263-026-01286-9.",
+      "year": 2026,
+      "publication_date": "2026-03-28",
+      "paper_id": "16782d9ce76fc1000c4e1910a7db4c5649e6d381",
+      "url": "https://www.semanticscholar.org/paper/16782d9ce76fc1000c4e1910a7db4c5649e6d381",
+      "venue": "CNS Drugs",
+      "doi": "10.1007/s40263-026-01286-9",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
       ]
     },
     {
@@ -980,6 +1033,27 @@
       "source_queries": [
         "targeted maximum likelihood estimation",
         "tmle"
+      ]
+    },
+    {
+      "title": "Higher-Order Efficient Estimators: A Review and Simulation-Based Benchmark Study",
+      "authors": [
+        "Ze Wang",
+        "M. V. D. Laan"
+      ],
+      "abstract": "Higher-order efficient estimators extend standard first-order semiparametric estimators by replacing second-order residuals with third- or higher-order terms, potentially enabling asymptotic efficiency under slower nuisance function convergence rates and improving finite-sample performance. Existing methods achieve higher-order expansions through structurally different approximation strategies, including basis truncation, kernel smoothing, and highly adaptive lasso (HAL) representations, making direct theoretical and practical comparison difficult. In this manuscript, we provide a focused review and a simulation-based empirical benchmark for second-order efficient estimators, using treatment-specific mean estimation as a canonical causal inference and missing data problem. We compare how higher-order influence function (HOIF) estimators, kernel-based higher-order targeted minimum loss-based estimator (HOTMLE), and HAL-based HOTMLE construct higher-order expansions and the approximation or regularization burdens they introduce. The asymptotic and numerical study evaluates first-order and empirical second-order estimators under controlled nuisance errors with constant or increasing sectional variation complexity. Results show that higher-order debiasing can substantially reduce first-order estimation bias; however, gains depend strongly on stability of the approximation or regularization required for higher-order correction. Empirical HAL-based HOTMLE shows relatively stable performance, while empirical HOIF remains sensitive to basis truncation and tuning choices. Overall, this manuscript clarifies when higher-order asymptotic improvements are attained in theory, when they may be practically visible, and when implementation instability may offset theoretical advantages.",
+      "year": 2026,
+      "publication_date": "2026-06-01",
+      "paper_id": "8e51c573125a6c41c9f76d9a00a441eaceb6378a",
+      "url": "https://www.semanticscholar.org/paper/8e51c573125a6c41c9f76d9a00a441eaceb6378a",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "highly adaptive lasso"
+      ],
+      "source_queries": [
+        "highly adaptive lasso",
+        "targeted minimum loss based estimation"
       ]
     },
     {
@@ -2399,16 +2473,16 @@
       "authors": [
         "X. Ou",
         "Xinwei He",
-        "D. Benkeser",
+        "David Benkeser",
         "Razieh Nabi"
       ],
-      "abstract": "Racial disparities in healthcare expenditures are well-documented, yet the underlying drivers remain complex. This study develops a framework to decompose such disparities through shifts in the distributions of mediating variables, rather than treating race itself as a manipulable exposure. We define disparities as differences in covariate-adjusted outcome distributions across racial groups, and decompose the total disparity into a component attributable to differences in mediator distributions, and a residual component that remains after equalizing those distributions. Using data from the Medical Expenditures Panel Survey (MEPS), we examine the extent to which expenditure disparities would persist or be reduced if mediators such as socioeconomic status (SES), insurance access, health behaviors, or health status were equalized across racial groups. To ensure valid inference, we derive asymptotically linear estimators based on influence-function techniques and flexible machine learning, including super learners and a two-part model designed for the zero-inflated, right-skewed nature of expenditure data. Applying this framework to MEPS data from 2009 and 2016, substantial disparities were observed across all pairwise racial comparisons, with the largest gaps observed between non-Hispanic Whites and Hispanics in both years. Differences in SES and health status were the largest contributors to these disparities, with insurance access also playing a meaningful role, particularly for Hispanic populations, whereas health behaviors contributed minimally. Residual disparities persisted, especially in comparisons involving non-Hispanic Whites, suggesting the influence of unmeasured or structural factors.",
+      "abstract": "Racial disparities in healthcare expenditures are well‐documented, yet the underlying drivers remain complex. This study develops a framework to decompose such disparities through shifts in the distributions of mediating variables, rather than treating race itself as a manipulable exposure. We define disparities as differences in covariate‐adjusted outcome distributions across racial groups, and decompose the total disparity into a component attributable to differences in mediator distributions, and a residual component that remains after equalizing those distributions. Using data from the medical expenditures panel survey (MEPS), we examine the extent to which expenditure disparities would persist or be reduced if mediators such as socioeconomic status (SES), insurance access, health behaviors, or health status were equalized across racial groups. To ensure valid inference, we derive asymptotically linear estimators based on influence‐function techniques and flexible machine learning, including super learners and a two‐part model designed for the zero‐inflated, right‐skewed nature of expenditure data. Applying this framework to MEPS data from 2009 to 2016, substantial disparities were observed across all pairwise racial comparisons, with the largest gaps observed between non‐Hispanic Whites and Hispanics in both years. Differences in SES and health status were the largest contributors to these disparities, with insurance access also playing a meaningful role, particularly for Hispanic populations, whereas health behaviors contributed minimally. Residual disparities persisted, especially in comparisons involving non‐Hispanic Whites, suggesting the influence of unmeasured or structural factors.",
       "year": 2025,
       "publication_date": "2025-04-30",
-      "paper_id": "b7ef7ea9a15ee129bc90427c82077058d295ec77",
-      "url": "https://www.semanticscholar.org/paper/b7ef7ea9a15ee129bc90427c82077058d295ec77",
-      "venue": null,
-      "doi": null,
+      "paper_id": "b37001637f24036ca30b0530e7c0bf5ade7dd13d",
+      "url": "https://www.semanticscholar.org/paper/b37001637f24036ca30b0530e7c0bf5ade7dd13d",
+      "venue": "Statistics in Medicine",
+      "doi": "10.1002/sim.70606",
       "matched_keywords": [
         "super learner"
       ],
@@ -5181,7 +5255,7 @@
       ]
     },
     {
-      "title": "Racial and ethnic differences in the relationship of SARS-CoV-2 infection and the COVID-19 pandemic period with perinatal health in California.",
+      "title": "Racial and ethnic differences in the relationship of SARS-CoV-2 infection and the COVID-19 pandemic period with perinatal health in California",
       "authors": [
         "Emily F. Liu",
         "Shelley Jung",
@@ -5192,7 +5266,7 @@
         "R. Morello-Frosch",
         "Jennifer Ahern"
       ],
-      "abstract": "BACKGROUND In this paper, we test the hypothesis that SARS-CoV-2 infection and the COVID-19 pandemic period had stronger adverse implications for perinatal outcomes among marginalized racial and ethnic groups in California. METHODS We used California birth certificate and hospital data from 2019-2021 to estimate marginal risk differences for SARS-CoV-2 infection and the COVID-19 pandemic period in relation to perinatal outcomes for Asian, Black, Hispanic, Multiracial, and White pregnant people using targeted maximum likelihood estimation. RESULTS Among 849,401 deliveries, there were racial and ethnic disparities in the burden of SARS-CoV-2 infection and perinatal outcomes, and in the magnitudes of risk associated with SARS-CoV-2 infection and the COVID-19 pandemic. Hispanic pregnant people had the highest incidence of SARS-CoV-2 infection. Asian and Black pregnant people had the greatest marginal risk differences for multiple outcomes, particularly outcomes already disproportionately experienced by these groups. CONCLUSIONS Risks from SARS-CoV-2 infection and the COVID-19 pandemic period on perinatal outcomes were disproportionately experienced by marginalized racial and ethnic groups. Differential burdens of infection and larger risks experienced with pandemic exposures were associated with worse perinatal outcomes for Asian, Black, and Hispanic pregnant people in California compared with those for White pregnant people.",
+      "abstract": "Background. In this paper, we test the hypothesis that SARS-CoV-2 infection and the COVID-19 pandemic period had stronger adverse implications for perinatal outcomes among marginalized racial and ethnic groups in California. Methods. We used California birth certificate and hospital data from 2019–2021 to estimate marginal risk differences for SARS-CoV-2 infection and the COVID-19 pandemic period in relation to perinatal outcomes for Asian, Black, Hispanic, Multiracial, and White pregnant people using targeted maximum likelihood estimation. Results. Among 849,401 deliveries, there were racial and ethnic disparities in the burden of SARS-CoV-2 infection and perinatal outcomes, and in the magnitudes of risk associated with SARS-CoV-2 infection and the COVID-19 pandemic. Hispanic pregnant people had the highest incidence of SARS-CoV-2 infection. Asian and Black pregnant people had the greatest marginal risk differences for multiple outcomes, particularly outcomes already disproportionately experienced by these groups. Conclusions. Risks from SARS-CoV-2 infection and the COVID-19 pandemic period on perinatal outcomes were disproportionately experienced by marginalized racial and ethnic groups. Differential burdens of infection and larger risks experienced with pandemic exposures were associated with worse perinatal outcomes for Asian, Black, and Hispanic pregnant people in California compared with those for White pregnant people.",
       "year": 2025,
       "publication_date": "2025-05-28",
       "paper_id": "1247441f15422a719e2c0270ce0d9805889a8263",
@@ -13075,7 +13149,7 @@
       "title": "Adaptive selection of the optimal strategy to improve precision and power in randomized trials",
       "authors": [
         "L. Balzer",
-        "E. Cai",
+        "Erica Cai",
         "Lucas Godoy Garraza",
         "Pracheta Amaranath"
       ],
