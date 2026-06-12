@@ -7,17 +7,17 @@ Auto-updated list of TMLE-related papers tracked from Semantic Scholar queries.
 
 _Note: this list is not complete and may include irrelevant articles; it will be refined over time._
 
-Last refreshed: 2026-06-06T03:47:21Z
+Last refreshed: 2026-06-12T15:03:07Z
 
 Keywords queried: tmle, targeted maximum likelihood estimation, targeted minimum loss based estimation, super learner, super learning, highly adaptive lasso
 
-Total tracked papers: **1042**
+Total tracked papers: **1052**
 
 <!-- monthly-chart:start -->
 
 ## Yearly Papers Trend
 
-Number of papers per year from **2006** to **2025** (coverage: **961/1042** papers with year metadata in range).
+Number of papers per year from **2006** to **2025** (coverage: **962/1052** papers with year metadata in range).
 
 ```{=html}
 <style>
@@ -30,40 +30,40 @@ Number of papers per year from **2006** to **2025** (coverage: **961/1042** pape
 <svg class="yearly-chart-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 280" width="720" height="280" role="img" aria-label="Papers per year line chart">
 <line x1="56" y1="236.00" x2="702" y2="236.00" stroke="#e5e7eb" stroke-width="1"/>
 <text x="48" y="239.00" text-anchor="end">0</text>
-<line x1="56" y1="190.97" x2="702" y2="190.97" stroke="#e5e7eb" stroke-width="1"/>
-<text x="48" y="193.97" text-anchor="end">35</text>
-<line x1="56" y1="145.94" x2="702" y2="145.94" stroke="#e5e7eb" stroke-width="1"/>
-<text x="48" y="148.94" text-anchor="end">70</text>
-<line x1="56" y1="100.91" x2="702" y2="100.91" stroke="#e5e7eb" stroke-width="1"/>
-<text x="48" y="103.91" text-anchor="end">105</text>
-<line x1="56" y1="55.88" x2="702" y2="55.88" stroke="#e5e7eb" stroke-width="1"/>
-<text x="48" y="58.88" text-anchor="end">140</text>
+<line x1="56" y1="191.23" x2="702" y2="191.23" stroke="#e5e7eb" stroke-width="1"/>
+<text x="48" y="194.23" text-anchor="end">35</text>
+<line x1="56" y1="146.47" x2="702" y2="146.47" stroke="#e5e7eb" stroke-width="1"/>
+<text x="48" y="149.47" text-anchor="end">70</text>
+<line x1="56" y1="101.70" x2="702" y2="101.70" stroke="#e5e7eb" stroke-width="1"/>
+<text x="48" y="104.70" text-anchor="end">105</text>
+<line x1="56" y1="56.93" x2="702" y2="56.93" stroke="#e5e7eb" stroke-width="1"/>
+<text x="48" y="59.93" text-anchor="end">140</text>
 <line x1="56" y1="16.00" x2="702" y2="16.00" stroke="#e5e7eb" stroke-width="1"/>
-<text x="48" y="19.00" text-anchor="end">171</text>
+<text x="48" y="19.00" text-anchor="end">172</text>
 <line x1="56" y1="16" x2="56" y2="236" stroke="#374151" stroke-width="1.2"/>
 <line x1="56" y1="236" x2="702" y2="236" stroke="#374151" stroke-width="1.2"/>
-<polygon points="56.00,236.00 56.00,234.71 90.00,236.00 124.00,234.71 158.00,224.42 192.00,226.99 226.00,211.56 260.00,215.42 294.00,221.85 328.00,214.13 362.00,216.70 396.00,202.55 430.00,189.68 464.00,162.67 498.00,169.10 532.00,152.37 566.00,107.35 600.00,100.91 634.00,91.91 668.00,54.60 702.00,16.00 702.00,236.00" fill="#93c5fd" opacity="0.26"/>
-<polyline points="56.00,234.71 90.00,236.00 124.00,234.71 158.00,224.42 192.00,226.99 226.00,211.56 260.00,215.42 294.00,221.85 328.00,214.13 362.00,216.70 396.00,202.55 430.00,189.68 464.00,162.67 498.00,169.10 532.00,152.37 566.00,107.35 600.00,100.91 634.00,91.91 668.00,54.60 702.00,16.00" fill="none" stroke="#1d4ed8" stroke-width="2"/>
-<circle cx="56.00" cy="234.71" r="2.2" fill="#1d4ed8"><title>2006: 1 papers</title></circle>
+<polygon points="56.00,236.00 56.00,234.72 90.00,236.00 124.00,234.72 158.00,224.49 192.00,227.05 226.00,211.70 260.00,215.53 294.00,221.93 328.00,214.26 362.00,216.81 396.00,202.74 430.00,189.95 464.00,163.09 498.00,169.49 532.00,152.86 566.00,108.09 600.00,101.70 634.00,92.74 668.00,55.65 702.00,16.00 702.00,236.00" fill="#93c5fd" opacity="0.26"/>
+<polyline points="56.00,234.72 90.00,236.00 124.00,234.72 158.00,224.49 192.00,227.05 226.00,211.70 260.00,215.53 294.00,221.93 328.00,214.26 362.00,216.81 396.00,202.74 430.00,189.95 464.00,163.09 498.00,169.49 532.00,152.86 566.00,108.09 600.00,101.70 634.00,92.74 668.00,55.65 702.00,16.00" fill="none" stroke="#1d4ed8" stroke-width="2"/>
+<circle cx="56.00" cy="234.72" r="2.2" fill="#1d4ed8"><title>2006: 1 papers</title></circle>
 <circle cx="90.00" cy="236.00" r="2.2" fill="#1d4ed8"><title>2007: 0 papers</title></circle>
-<circle cx="124.00" cy="234.71" r="2.2" fill="#1d4ed8"><title>2008: 1 papers</title></circle>
-<circle cx="158.00" cy="224.42" r="2.2" fill="#1d4ed8"><title>2009: 9 papers</title></circle>
-<circle cx="192.00" cy="226.99" r="2.2" fill="#1d4ed8"><title>2010: 7 papers</title></circle>
-<circle cx="226.00" cy="211.56" r="2.2" fill="#1d4ed8"><title>2011: 19 papers</title></circle>
-<circle cx="260.00" cy="215.42" r="2.2" fill="#1d4ed8"><title>2012: 16 papers</title></circle>
-<circle cx="294.00" cy="221.85" r="2.2" fill="#1d4ed8"><title>2013: 11 papers</title></circle>
-<circle cx="328.00" cy="214.13" r="2.2" fill="#1d4ed8"><title>2014: 17 papers</title></circle>
-<circle cx="362.00" cy="216.70" r="2.2" fill="#1d4ed8"><title>2015: 15 papers</title></circle>
-<circle cx="396.00" cy="202.55" r="2.2" fill="#1d4ed8"><title>2016: 26 papers</title></circle>
-<circle cx="430.00" cy="189.68" r="2.2" fill="#1d4ed8"><title>2017: 36 papers</title></circle>
-<circle cx="464.00" cy="162.67" r="2.2" fill="#1d4ed8"><title>2018: 57 papers</title></circle>
-<circle cx="498.00" cy="169.10" r="2.2" fill="#1d4ed8"><title>2019: 52 papers</title></circle>
-<circle cx="532.00" cy="152.37" r="2.2" fill="#1d4ed8"><title>2020: 65 papers</title></circle>
-<circle cx="566.00" cy="107.35" r="2.2" fill="#1d4ed8"><title>2021: 100 papers</title></circle>
-<circle cx="600.00" cy="100.91" r="2.2" fill="#1d4ed8"><title>2022: 105 papers</title></circle>
-<circle cx="634.00" cy="91.91" r="2.2" fill="#1d4ed8"><title>2023: 112 papers</title></circle>
-<circle cx="668.00" cy="54.60" r="2.2" fill="#1d4ed8"><title>2024: 141 papers</title></circle>
-<circle cx="702.00" cy="16.00" r="2.2" fill="#1d4ed8"><title>2025: 171 papers</title></circle>
+<circle cx="124.00" cy="234.72" r="2.2" fill="#1d4ed8"><title>2008: 1 papers</title></circle>
+<circle cx="158.00" cy="224.49" r="2.2" fill="#1d4ed8"><title>2009: 9 papers</title></circle>
+<circle cx="192.00" cy="227.05" r="2.2" fill="#1d4ed8"><title>2010: 7 papers</title></circle>
+<circle cx="226.00" cy="211.70" r="2.2" fill="#1d4ed8"><title>2011: 19 papers</title></circle>
+<circle cx="260.00" cy="215.53" r="2.2" fill="#1d4ed8"><title>2012: 16 papers</title></circle>
+<circle cx="294.00" cy="221.93" r="2.2" fill="#1d4ed8"><title>2013: 11 papers</title></circle>
+<circle cx="328.00" cy="214.26" r="2.2" fill="#1d4ed8"><title>2014: 17 papers</title></circle>
+<circle cx="362.00" cy="216.81" r="2.2" fill="#1d4ed8"><title>2015: 15 papers</title></circle>
+<circle cx="396.00" cy="202.74" r="2.2" fill="#1d4ed8"><title>2016: 26 papers</title></circle>
+<circle cx="430.00" cy="189.95" r="2.2" fill="#1d4ed8"><title>2017: 36 papers</title></circle>
+<circle cx="464.00" cy="163.09" r="2.2" fill="#1d4ed8"><title>2018: 57 papers</title></circle>
+<circle cx="498.00" cy="169.49" r="2.2" fill="#1d4ed8"><title>2019: 52 papers</title></circle>
+<circle cx="532.00" cy="152.86" r="2.2" fill="#1d4ed8"><title>2020: 65 papers</title></circle>
+<circle cx="566.00" cy="108.09" r="2.2" fill="#1d4ed8"><title>2021: 100 papers</title></circle>
+<circle cx="600.00" cy="101.70" r="2.2" fill="#1d4ed8"><title>2022: 105 papers</title></circle>
+<circle cx="634.00" cy="92.74" r="2.2" fill="#1d4ed8"><title>2023: 112 papers</title></circle>
+<circle cx="668.00" cy="55.65" r="2.2" fill="#1d4ed8"><title>2024: 141 papers</title></circle>
+<circle cx="702.00" cy="16.00" r="2.2" fill="#1d4ed8"><title>2025: 172 papers</title></circle>
 <line x1="56.00" y1="236" x2="56.00" y2="240" stroke="#374151" stroke-width="1"/>
 <text x="56.00" y="252" text-anchor="middle">2006</text>
 <line x1="90.00" y1="236" x2="90.00" y2="240" stroke="#374151" stroke-width="1"/>
@@ -116,7 +116,7 @@ Number of papers per year from **2006** to **2025** (coverage: **961/1042** pape
 
 ## Contributor Ranking
 
-Bars show contributors with at least 2 papers, sorted left to right by paper count. Total shown: **805**.
+Bars show contributors with at least 2 papers, sorted left to right by paper count. Total shown: **809**.
 
 ```{=html}
 <style>
@@ -133,145 +133,157 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
 </style>
 <div class="contrib-bars-wrap">
   <div class="contrib-bars">
-    <div class="contrib-item top" title="Mark van der Laan (the godfather himself): 199 papers"><div class="contrib-count"><span>199</span></div><div class="contrib-bar" style="height:260.00px"></div><div class="contrib-label"><span>Mark van der Laan (the godfather himself)</span></div></div>
-    <div class="contrib-item" title="Maya L. Petersen: 53 papers"><div class="contrib-count"><span>53</span></div><div class="contrib-bar" style="height:69.25px"></div><div class="contrib-label"><span>Maya L. Petersen</span></div></div>
-    <div class="contrib-item" title="Laura B. Balzer: 43 papers"><div class="contrib-count"><span>43</span></div><div class="contrib-bar" style="height:56.18px"></div><div class="contrib-label"><span>Laura B. Balzer</span></div></div>
-    <div class="contrib-item" title="Susan Gruber: 38 papers"><div class="contrib-count"><span>38</span></div><div class="contrib-bar" style="height:49.65px"></div><div class="contrib-label"><span>Susan Gruber</span></div></div>
-    <div class="contrib-item" title="Alan E. Hubbard: 33 papers"><div class="contrib-count"><span>33</span></div><div class="contrib-bar" style="height:43.12px"></div><div class="contrib-label"><span>Alan E. Hubbard</span></div></div>
-    <div class="contrib-item" title="David C. Benkeser: 21 papers"><div class="contrib-count"><span>21</span></div><div class="contrib-bar" style="height:27.44px"></div><div class="contrib-label"><span>David C. Benkeser</span></div></div>
-    <div class="contrib-item" title="M. Kamya: 19 papers"><div class="contrib-count"><span>19</span></div><div class="contrib-bar" style="height:24.82px"></div><div class="contrib-label"><span>M. Kamya</span></div></div>
-    <div class="contrib-item" title="Iván Díaz: 18 papers"><div class="contrib-count"><span>18</span></div><div class="contrib-bar" style="height:23.52px"></div><div class="contrib-label"><span>Iván Díaz</span></div></div>
-    <div class="contrib-item" title="Mireille E. Schnitzer: 17 papers"><div class="contrib-count"><span>17</span></div><div class="contrib-bar" style="height:22.21px"></div><div class="contrib-label"><span>Mireille E. Schnitzer</span></div></div>
-    <div class="contrib-item" title="Antoine Chambaz: 16 papers"><div class="contrib-count"><span>16</span></div><div class="contrib-bar" style="height:20.90px"></div><div class="contrib-label"><span>Antoine Chambaz</span></div></div>
-    <div class="contrib-item" title="Rachael V. Phillips: 16 papers"><div class="contrib-count"><span>16</span></div><div class="contrib-bar" style="height:20.90px"></div><div class="contrib-label"><span>Rachael V. Phillips</span></div></div>
-    <div class="contrib-item" title="G. Chamie: 15 papers"><div class="contrib-count"><span>15</span></div><div class="contrib-bar" style="height:19.60px"></div><div class="contrib-label"><span>G. Chamie</span></div></div>
-    <div class="contrib-item" title="R. Pirracchio: 15 papers"><div class="contrib-count"><span>15</span></div><div class="contrib-bar" style="height:19.60px"></div><div class="contrib-label"><span>R. Pirracchio</span></div></div>
-    <div class="contrib-item" title="Diane V. Havlir: 14 papers"><div class="contrib-count"><span>14</span></div><div class="contrib-bar" style="height:18.29px"></div><div class="contrib-label"><span>Diane V. Havlir</span></div></div>
-    <div class="contrib-item" title="Jane Kabami: 14 papers"><div class="contrib-count"><span>14</span></div><div class="contrib-bar" style="height:18.29px"></div><div class="contrib-label"><span>Jane Kabami</span></div></div>
-    <div class="contrib-item" title="Kara E. Rudolph: 14 papers"><div class="contrib-count"><span>14</span></div><div class="contrib-bar" style="height:18.29px"></div><div class="contrib-label"><span>Kara E. Rudolph</span></div></div>
-    <div class="contrib-item" title="Thomas A. Gerds: 14 papers"><div class="contrib-count"><span>14</span></div><div class="contrib-bar" style="height:18.29px"></div><div class="contrib-label"><span>Thomas A. Gerds</span></div></div>
-    <div class="contrib-item" title="Helene Charlotte Wiese Rytgaard: 13 papers"><div class="contrib-count"><span>13</span></div><div class="contrib-bar" style="height:16.98px"></div><div class="contrib-label"><span>Helene Charlotte Wiese Rytgaard</span></div></div>
-    <div class="contrib-item" title="J. Ayieko: 13 papers"><div class="contrib-count"><span>13</span></div><div class="contrib-bar" style="height:16.98px"></div><div class="contrib-label"><span>J. Ayieko</span></div></div>
-    <div class="contrib-item" title="Joshua Schwab: 13 papers"><div class="contrib-count"><span>13</span></div><div class="contrib-bar" style="height:16.98px"></div><div class="contrib-label"><span>Joshua Schwab</span></div></div>
-    <div class="contrib-item" title="N. Hejazi: 13 papers"><div class="contrib-count"><span>13</span></div><div class="contrib-bar" style="height:16.98px"></div><div class="contrib-label"><span>N. Hejazi</span></div></div>
-    <div class="contrib-item" title="Christian Torp-Pedersen: 11 papers"><div class="contrib-count"><span>11</span></div><div class="contrib-bar" style="height:14.37px"></div><div class="contrib-label"><span>Christian Torp-Pedersen</span></div></div>
-    <div class="contrib-item" title="Ivana Malenica: 11 papers"><div class="contrib-count"><span>11</span></div><div class="contrib-bar" style="height:14.37px"></div><div class="contrib-label"><span>Ivana Malenica</span></div></div>
-    <div class="contrib-item" title="Jeremy R Coyle: 11 papers"><div class="contrib-count"><span>11</span></div><div class="contrib-bar" style="height:14.37px"></div><div class="contrib-label"><span>Jeremy R Coyle</span></div></div>
-    <div class="contrib-item" title="Oleg Sofrygin: 11 papers"><div class="contrib-count"><span>11</span></div><div class="contrib-bar" style="height:14.37px"></div><div class="contrib-label"><span>Oleg Sofrygin</span></div></div>
-    <div class="contrib-item" title="Robert W Platt: 11 papers"><div class="contrib-count"><span>11</span></div><div class="contrib-bar" style="height:14.37px"></div><div class="contrib-label"><span>Robert W Platt</span></div></div>
-    <div class="contrib-item" title="Sherri Rose: 11 papers"><div class="contrib-count"><span>11</span></div><div class="contrib-bar" style="height:14.37px"></div><div class="contrib-label"><span>Sherri Rose</span></div></div>
-    <div class="contrib-item" title="Eric C. Polley: 10 papers"><div class="contrib-count"><span>10</span></div><div class="contrib-bar" style="height:13.07px"></div><div class="contrib-label"><span>Eric C. Polley</span></div></div>
-    <div class="contrib-item" title="Michael Schomaker: 10 papers"><div class="contrib-count"><span>10</span></div><div class="contrib-bar" style="height:13.07px"></div><div class="contrib-label"><span>Michael Schomaker</span></div></div>
-    <div class="contrib-item" title="S. Lendle: 10 papers"><div class="contrib-count"><span>10</span></div><div class="contrib-bar" style="height:13.07px"></div><div class="contrib-label"><span>S. Lendle</span></div></div>
-    <div class="contrib-item" title="Wenjing Zheng: 10 papers"><div class="contrib-count"><span>10</span></div><div class="contrib-bar" style="height:13.07px"></div><div class="contrib-label"><span>Wenjing Zheng</span></div></div>
-    <div class="contrib-item" title="Alejandro Schuler: 9 papers"><div class="contrib-count"><span>9</span></div><div class="contrib-bar" style="height:11.76px"></div><div class="contrib-label"><span>Alejandro Schuler</span></div></div>
-    <div class="contrib-item" title="Andrew N. Mertens: 9 papers"><div class="contrib-count"><span>9</span></div><div class="contrib-bar" style="height:11.76px"></div><div class="contrib-label"><span>Andrew N. Mertens</span></div></div>
-    <div class="contrib-item" title="Ashley I. Naimi: 9 papers"><div class="contrib-count"><span>9</span></div><div class="contrib-bar" style="height:11.76px"></div><div class="contrib-label"><span>Ashley I. Naimi</span></div></div>
-    <div class="contrib-item" title="E. Kakande: 9 papers"><div class="contrib-count"><span>9</span></div><div class="contrib-bar" style="height:11.76px"></div><div class="contrib-label"><span>E. Kakande</span></div></div>
-    <div class="contrib-item" title="Edwin D. Charlebois: 9 papers"><div class="contrib-count"><span>9</span></div><div class="contrib-bar" style="height:11.76px"></div><div class="contrib-label"><span>Edwin D. Charlebois</span></div></div>
-    <div class="contrib-item" title="Miguel Angel Luque Fernandez: 9 papers"><div class="contrib-count"><span>9</span></div><div class="contrib-bar" style="height:11.76px"></div><div class="contrib-label"><span>Miguel Angel Luque Fernandez</span></div></div>
-    <div class="contrib-item" title="Mohammad Ali Mansournia: 9 papers"><div class="contrib-count"><span>9</span></div><div class="contrib-bar" style="height:11.76px"></div><div class="contrib-label"><span>Mohammad Ali Mansournia</span></div></div>
-    <div class="contrib-item" title="Peter B. Gilbert: 9 papers"><div class="contrib-count"><span>9</span></div><div class="contrib-bar" style="height:11.76px"></div><div class="contrib-label"><span>Peter B. Gilbert</span></div></div>
-    <div class="contrib-item" title="Romain S. Neugebauer: 9 papers"><div class="contrib-count"><span>9</span></div><div class="contrib-bar" style="height:11.76px"></div><div class="contrib-label"><span>Romain S. Neugebauer</span></div></div>
-    <div class="contrib-item" title="Cheng Ju: 8 papers"><div class="contrib-count"><span>8</span></div><div class="contrib-bar" style="height:10.45px"></div><div class="contrib-label"><span>Cheng Ju</span></div></div>
-    <div class="contrib-item" title="J. Colford: 8 papers"><div class="contrib-count"><span>8</span></div><div class="contrib-bar" style="height:10.45px"></div><div class="contrib-label"><span>J. Colford</span></div></div>
-    <div class="contrib-item" title="Joshua R. Nugent: 8 papers"><div class="contrib-count"><span>8</span></div><div class="contrib-bar" style="height:10.45px"></div><div class="contrib-label"><span>Joshua R. Nugent</span></div></div>
-    <div class="contrib-item" title="Junming Shi: 8 papers"><div class="contrib-count"><span>8</span></div><div class="contrib-bar" style="height:10.45px"></div><div class="contrib-label"><span>Junming Shi</span></div></div>
-    <div class="contrib-item" title="Nicholas T. Williams: 8 papers"><div class="contrib-count"><span>8</span></div><div class="contrib-bar" style="height:10.45px"></div><div class="contrib-label"><span>Nicholas T. Williams</span></div></div>
-    <div class="contrib-item" title="Noémi Kreif: 8 papers"><div class="contrib-count"><span>8</span></div><div class="contrib-bar" style="height:10.45px"></div><div class="contrib-label"><span>Noémi Kreif</span></div></div>
-    <div class="contrib-item" title="Zachary Butzin-Dozier: 8 papers"><div class="contrib-count"><span>8</span></div><div class="contrib-bar" style="height:10.45px"></div><div class="contrib-label"><span>Zachary Butzin-Dozier</span></div></div>
-    <div class="contrib-item" title="Brian D. Williamson: 7 papers"><div class="contrib-count"><span>7</span></div><div class="contrib-bar" style="height:9.15px"></div><div class="contrib-label"><span>Brian D. Williamson</span></div></div>
-    <div class="contrib-item" title="David Y T Chen: 7 papers"><div class="contrib-count"><span>7</span></div><div class="contrib-bar" style="height:9.15px"></div><div class="contrib-label"><span>David Y T Chen</span></div></div>
-    <div class="contrib-item" title="K. Shiba: 7 papers"><div class="contrib-count"><span>7</span></div><div class="contrib-bar" style="height:9.15px"></div><div class="contrib-label"><span>K. Shiba</span></div></div>
-    <div class="contrib-item" title="Lina M. Montoya: 7 papers"><div class="contrib-count"><span>7</span></div><div class="contrib-bar" style="height:9.15px"></div><div class="contrib-label"><span>Lina M. Montoya</span></div></div>
-    <div class="contrib-item" title="Lisa M. Bodnar: 7 papers"><div class="contrib-count"><span>7</span></div><div class="contrib-bar" style="height:9.15px"></div><div class="contrib-label"><span>Lisa M. Bodnar</span></div></div>
-    <div class="contrib-item" title="M. Carone: 7 papers"><div class="contrib-count"><span>7</span></div><div class="contrib-bar" style="height:9.15px"></div><div class="contrib-label"><span>M. Carone</span></div></div>
-    <div class="contrib-item" title="Michael Rosenblum: 7 papers"><div class="contrib-count"><span>7</span></div><div class="contrib-bar" style="height:9.15px"></div><div class="contrib-label"><span>Michael Rosenblum</span></div></div>
-    <div class="contrib-item" title="Mohammad Ehsanul Karim: 7 papers"><div class="contrib-count"><span>7</span></div><div class="contrib-bar" style="height:9.15px"></div><div class="contrib-label"><span>Mohammad Ehsanul Karim</span></div></div>
-    <div class="contrib-item" title="Sky Qiu: 7 papers"><div class="contrib-count"><span>7</span></div><div class="contrib-bar" style="height:9.15px"></div><div class="contrib-label"><span>Sky Qiu</span></div></div>
-    <div class="contrib-item" title="Yunwen Ji: 7 papers"><div class="contrib-count"><span>7</span></div><div class="contrib-bar" style="height:9.15px"></div><div class="contrib-label"><span>Yunwen Ji</span></div></div>
-    <div class="contrib-item" title="A. Owaraganise: 6 papers"><div class="contrib-count"><span>6</span></div><div class="contrib-bar" style="height:7.84px"></div><div class="contrib-label"><span>A. Owaraganise</span></div></div>
-    <div class="contrib-item" title="Alexander Luedtke: 6 papers"><div class="contrib-count"><span>6</span></div><div class="contrib-bar" style="height:7.84px"></div><div class="contrib-label"><span>Alexander Luedtke</span></div></div>
-    <div class="contrib-item" title="Arthur Chatton: 6 papers"><div class="contrib-count"><span>6</span></div><div class="contrib-bar" style="height:7.84px"></div><div class="contrib-label"><span>Arthur Chatton</span></div></div>
-    <div class="contrib-item" title="Aurélien F. Bibaut: 6 papers"><div class="contrib-count"><span>6</span></div><div class="contrib-bar" style="height:7.84px"></div><div class="contrib-label"><span>Aurélien F. Bibaut</span></div></div>
-    <div class="contrib-item" title="C. S. Camlin: 6 papers"><div class="contrib-count"><span>6</span></div><div class="contrib-bar" style="height:7.84px"></div><div class="contrib-label"><span>C. S. Camlin</span></div></div>
-    <div class="contrib-item" title="Hana Lee: 6 papers"><div class="contrib-count"><span>6</span></div><div class="contrib-bar" style="height:7.84px"></div><div class="contrib-label"><span>Hana Lee</span></div></div>
-    <div class="contrib-item" title="Jennifer Ahern: 6 papers"><div class="contrib-count"><span>6</span></div><div class="contrib-bar" style="height:7.84px"></div><div class="contrib-label"><span>Jennifer Ahern</span></div></div>
-    <div class="contrib-item" title="Katherine L. Hoffman: 6 papers"><div class="contrib-count"><span>6</span></div><div class="contrib-bar" style="height:7.84px"></div><div class="contrib-label"><span>Katherine L. Hoffman</span></div></div>
-    <div class="contrib-item" title="Katsunori Kondo: 6 papers"><div class="contrib-count"><span>6</span></div><div class="contrib-bar" style="height:7.84px"></div><div class="contrib-label"><span>Katsunori Kondo</span></div></div>
-    <div class="contrib-item" title="L. A. Celi: 6 papers"><div class="contrib-count"><span>6</span></div><div class="contrib-bar" style="height:7.84px"></div><div class="contrib-label"><span>L. A. Celi</span></div></div>
-    <div class="contrib-item" title="Rena C. Patel: 6 papers"><div class="contrib-count"><span>6</span></div><div class="contrib-bar" style="height:7.84px"></div><div class="contrib-label"><span>Rena C. Patel</span></div></div>
-    <div class="contrib-item" title="Weixin Cai: 6 papers"><div class="contrib-count"><span>6</span></div><div class="contrib-bar" style="height:7.84px"></div><div class="contrib-label"><span>Weixin Cai</span></div></div>
-    <div class="contrib-item" title="Anders Munch: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.53px"></div><div class="contrib-label"><span>Anders Munch</span></div></div>
-    <div class="contrib-item" title="Catherine A Koss: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.53px"></div><div class="contrib-label"><span>Catherine A Koss</span></div></div>
-    <div class="contrib-item" title="Dana E. Goin: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.53px"></div><div class="contrib-label"><span>Dana E. Goin</span></div></div>
-    <div class="contrib-item" title="David McCoy: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.53px"></div><div class="contrib-label"><span>David McCoy</span></div></div>
-    <div class="contrib-item" title="E. Bukusi: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.53px"></div><div class="contrib-label"><span>E. Bukusi</span></div></div>
-    <div class="contrib-item" title="E. Moodie: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.53px"></div><div class="contrib-label"><span>E. Moodie</span></div></div>
-    <div class="contrib-item" title="Edward H. Kennedy: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.53px"></div><div class="contrib-label"><span>Edward H. Kennedy</span></div></div>
-    <div class="contrib-item" title="Herbert P Susmann: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.53px"></div><div class="contrib-label"><span>Herbert P Susmann</span></div></div>
-    <div class="contrib-item" title="J. Tarp: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.53px"></div><div class="contrib-label"><span>J. Tarp</span></div></div>
-    <div class="contrib-item" title="João Matos: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.53px"></div><div class="contrib-label"><span>João Matos</span></div></div>
-    <div class="contrib-item" title="Jun Aida: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.53px"></div><div class="contrib-label"><span>Jun Aida</span></div></div>
-    <div class="contrib-item" title="K. K. Sørensen: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.53px"></div><div class="contrib-label"><span>K. K. Sørensen</span></div></div>
-    <div class="contrib-item" title="Kajsa Kvist: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.53px"></div><div class="contrib-label"><span>Kajsa Kvist</span></div></div>
-    <div class="contrib-item" title="Krzysztof Mnich: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.53px"></div><div class="contrib-label"><span>Krzysztof Mnich</span></div></div>
-    <div class="contrib-item" title="M. P. Andersen: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.53px"></div><div class="contrib-label"><span>M. P. Andersen</span></div></div>
-    <div class="contrib-item" title="Margarita Moreno-Betancur: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.53px"></div><div class="contrib-label"><span>Margarita Moreno-Betancur</span></div></div>
-    <div class="contrib-item" title="Nahid Sultana: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.53px"></div><div class="contrib-label"><span>Nahid Sultana</span></div></div>
-    <div class="contrib-item" title="P. Yazdanfard: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.53px"></div><div class="contrib-label"><span>P. Yazdanfard</span></div></div>
-    <div class="contrib-item" title="R. Morello-Frosch: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.53px"></div><div class="contrib-label"><span>R. Morello-Frosch</span></div></div>
-    <div class="contrib-item" title="Tristan Struja: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.53px"></div><div class="contrib-label"><span>Tristan Struja</span></div></div>
-    <div class="contrib-item" title="U. Pedersen-Bjergaard: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.53px"></div><div class="contrib-label"><span>U. Pedersen-Bjergaard</span></div></div>
-    <div class="contrib-item" title="W. Rudnicki: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.53px"></div><div class="contrib-label"><span>W. Rudnicki</span></div></div>
-    <div class="contrib-item" title="Wenxin Zhang: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.53px"></div><div class="contrib-label"><span>Wenxin Zhang</span></div></div>
-    <div class="contrib-item" title="Yohann Foucher: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.53px"></div><div class="contrib-label"><span>Yohann Foucher</span></div></div>
-    <div class="contrib-item" title="Alan S. Go: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>Alan S. Go</span></div></div>
-    <div class="contrib-item" title="Amir Almasi-Hashiani: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>Amir Almasi-Hashiani</span></div></div>
-    <div class="contrib-item" title="Andrew Wilson: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>Andrew Wilson</span></div></div>
-    <div class="contrib-item" title="B. Mukherjee: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>B. Mukherjee</span></div></div>
-    <div class="contrib-item" title="B. Zareini: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>B. Zareini</span></div></div>
-    <div class="contrib-item" title="Benjamin F. Arnold: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>Benjamin F. Arnold</span></div></div>
-    <div class="contrib-item" title="Carina Marquez: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>Carina Marquez</span></div></div>
-    <div class="contrib-item" title="D. Bangsberg: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>D. Bangsberg</span></div></div>
-    <div class="contrib-item" title="D. Kwarisiima: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>D. Kwarisiima</span></div></div>
-    <div class="contrib-item" title="Dimitris Rizopoulos: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>Dimitris Rizopoulos</span></div></div>
-    <div class="contrib-item" title="E. LeDell: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>E. LeDell</span></div></div>
-    <div class="contrib-item" title="Eric Hurwitz: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>Eric Hurwitz</span></div></div>
-    <div class="contrib-item" title="F. Mwangwa: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>F. Mwangwa</span></div></div>
-    <div class="contrib-item" title="Geoffrey Ecoto: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>Geoffrey Ecoto</span></div></div>
-    <div class="contrib-item" title="Gihan M. Ali: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>Gihan M. Ali</span></div></div>
-    <div class="contrib-item" title="Haodong Li: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>Haodong Li</span></div></div>
-    <div class="contrib-item" title="Hossein Mozafar Saadati: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>Hossein Mozafar Saadati</span></div></div>
-    <div class="contrib-item" title="Ichiro Kawachi: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>Ichiro Kawachi</span></div></div>
-    <div class="contrib-item" title="Ira B. Wilson: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>Ira B. Wilson</span></div></div>
-    <div class="contrib-item" title="J. S. Ohlendorff: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>J. S. Ohlendorff</span></div></div>
-    <div class="contrib-item" title="Janice Litunya: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>Janice Litunya</span></div></div>
-    <div class="contrib-item" title="Jennifer L. Skeem: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>Jennifer L. Skeem</span></div></div>
-    <div class="contrib-item" title="Jonathan Levy: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>Jonathan Levy</span></div></div>
-    <div class="contrib-item" title="Judith Chung: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>Judith Chung</span></div></div>
-    <div class="contrib-item" title="Lu Zhang: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>Lu Zhang</span></div></div>
-    <div class="contrib-item" title="Lucia C. Petito: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>Lucia C. Petito</span></div></div>
-    <div class="contrib-item" title="M. Kartal: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>M. Kartal</span></div></div>
-    <div class="contrib-item" title="M. Resche-Rigon: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>M. Resche-Rigon</span></div></div>
-    <div class="contrib-item" title="Marcus Lind: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>Marcus Lind</span></div></div>
-    <div class="contrib-item" title="Masahiro Kato: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>Masahiro Kato</span></div></div>
-    <div class="contrib-item" title="Milena Gianfrancesco: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>Milena Gianfrancesco</span></div></div>
-    <div class="contrib-item" title="N. Sang: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>N. Sang</span></div></div>
-    <div class="contrib-item" title="Ori Stitelman: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>Ori Stitelman</span></div></div>
-    <div class="contrib-item" title="P. Chaffee: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>P. Chaffee</span></div></div>
-    <div class="contrib-item" title="Rachel Abbott: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>Rachel Abbott</span></div></div>
-    <div class="contrib-item" title="Ronald C Kessler: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>Ronald C Kessler</span></div></div>
-    <div class="contrib-item" title="Ronald Herrera: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>Ronald Herrera</span></div></div>
-    <div class="contrib-item" title="Ronald J. Wong: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>Ronald J. Wong</span></div></div>
-    <div class="contrib-item" title="S. Zakir Hossain: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>S. Zakir Hossain</span></div></div>
-    <div class="contrib-item" title="Serpil Kılıç Depren: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>Serpil Kılıç Depren</span></div></div>
-    <div class="contrib-item" title="Seyed Saeed Hashemi Nazari: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>Seyed Saeed Hashemi Nazari</span></div></div>
-    <div class="contrib-item" title="Stephen P Luby: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>Stephen P Luby</span></div></div>
-    <div class="contrib-item" title="T. Zewotir: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>T. Zewotir</span></div></div>
-    <div class="contrib-item" title="V. Sarovar: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>V. Sarovar</span></div></div>
-    <div class="contrib-item" title="Y. Matsuyama: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>Y. Matsuyama</span></div></div>
-    <div class="contrib-item" title="Yi Li: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.23px"></div><div class="contrib-label"><span>Yi Li</span></div></div>
+    <div class="contrib-item top" title="Mark van der Laan (the godfather himself): 201 papers"><div class="contrib-count"><span>201</span></div><div class="contrib-bar" style="height:260.00px"></div><div class="contrib-label"><span>Mark van der Laan (the godfather himself)</span></div></div>
+    <div class="contrib-item" title="Maya L. Petersen: 53 papers"><div class="contrib-count"><span>53</span></div><div class="contrib-bar" style="height:68.56px"></div><div class="contrib-label"><span>Maya L. Petersen</span></div></div>
+    <div class="contrib-item" title="Laura B. Balzer: 43 papers"><div class="contrib-count"><span>43</span></div><div class="contrib-bar" style="height:55.62px"></div><div class="contrib-label"><span>Laura B. Balzer</span></div></div>
+    <div class="contrib-item" title="Susan Gruber: 39 papers"><div class="contrib-count"><span>39</span></div><div class="contrib-bar" style="height:50.45px"></div><div class="contrib-label"><span>Susan Gruber</span></div></div>
+    <div class="contrib-item" title="Alan E. Hubbard: 33 papers"><div class="contrib-count"><span>33</span></div><div class="contrib-bar" style="height:42.69px"></div><div class="contrib-label"><span>Alan E. Hubbard</span></div></div>
+    <div class="contrib-item" title="David C. Benkeser: 21 papers"><div class="contrib-count"><span>21</span></div><div class="contrib-bar" style="height:27.16px"></div><div class="contrib-label"><span>David C. Benkeser</span></div></div>
+    <div class="contrib-item" title="M. Kamya: 19 papers"><div class="contrib-count"><span>19</span></div><div class="contrib-bar" style="height:24.58px"></div><div class="contrib-label"><span>M. Kamya</span></div></div>
+    <div class="contrib-item" title="Iván Díaz: 18 papers"><div class="contrib-count"><span>18</span></div><div class="contrib-bar" style="height:23.28px"></div><div class="contrib-label"><span>Iván Díaz</span></div></div>
+    <div class="contrib-item" title="Mireille E. Schnitzer: 17 papers"><div class="contrib-count"><span>17</span></div><div class="contrib-bar" style="height:21.99px"></div><div class="contrib-label"><span>Mireille E. Schnitzer</span></div></div>
+    <div class="contrib-item" title="Antoine Chambaz: 16 papers"><div class="contrib-count"><span>16</span></div><div class="contrib-bar" style="height:20.70px"></div><div class="contrib-label"><span>Antoine Chambaz</span></div></div>
+    <div class="contrib-item" title="Rachael V. Phillips: 16 papers"><div class="contrib-count"><span>16</span></div><div class="contrib-bar" style="height:20.70px"></div><div class="contrib-label"><span>Rachael V. Phillips</span></div></div>
+    <div class="contrib-item" title="G. Chamie: 15 papers"><div class="contrib-count"><span>15</span></div><div class="contrib-bar" style="height:19.40px"></div><div class="contrib-label"><span>G. Chamie</span></div></div>
+    <div class="contrib-item" title="R. Pirracchio: 15 papers"><div class="contrib-count"><span>15</span></div><div class="contrib-bar" style="height:19.40px"></div><div class="contrib-label"><span>R. Pirracchio</span></div></div>
+    <div class="contrib-item" title="Diane V. Havlir: 14 papers"><div class="contrib-count"><span>14</span></div><div class="contrib-bar" style="height:18.11px"></div><div class="contrib-label"><span>Diane V. Havlir</span></div></div>
+    <div class="contrib-item" title="Jane Kabami: 14 papers"><div class="contrib-count"><span>14</span></div><div class="contrib-bar" style="height:18.11px"></div><div class="contrib-label"><span>Jane Kabami</span></div></div>
+    <div class="contrib-item" title="Kara E. Rudolph: 14 papers"><div class="contrib-count"><span>14</span></div><div class="contrib-bar" style="height:18.11px"></div><div class="contrib-label"><span>Kara E. Rudolph</span></div></div>
+    <div class="contrib-item" title="Thomas A. Gerds: 14 papers"><div class="contrib-count"><span>14</span></div><div class="contrib-bar" style="height:18.11px"></div><div class="contrib-label"><span>Thomas A. Gerds</span></div></div>
+    <div class="contrib-item" title="Helene Charlotte Wiese Rytgaard: 13 papers"><div class="contrib-count"><span>13</span></div><div class="contrib-bar" style="height:16.82px"></div><div class="contrib-label"><span>Helene Charlotte Wiese Rytgaard</span></div></div>
+    <div class="contrib-item" title="J. Ayieko: 13 papers"><div class="contrib-count"><span>13</span></div><div class="contrib-bar" style="height:16.82px"></div><div class="contrib-label"><span>J. Ayieko</span></div></div>
+    <div class="contrib-item" title="Joshua Schwab: 13 papers"><div class="contrib-count"><span>13</span></div><div class="contrib-bar" style="height:16.82px"></div><div class="contrib-label"><span>Joshua Schwab</span></div></div>
+    <div class="contrib-item" title="N. Hejazi: 13 papers"><div class="contrib-count"><span>13</span></div><div class="contrib-bar" style="height:16.82px"></div><div class="contrib-label"><span>N. Hejazi</span></div></div>
+    <div class="contrib-item" title="Christian Torp-Pedersen: 11 papers"><div class="contrib-count"><span>11</span></div><div class="contrib-bar" style="height:14.23px"></div><div class="contrib-label"><span>Christian Torp-Pedersen</span></div></div>
+    <div class="contrib-item" title="Eric C. Polley: 11 papers"><div class="contrib-count"><span>11</span></div><div class="contrib-bar" style="height:14.23px"></div><div class="contrib-label"><span>Eric C. Polley</span></div></div>
+    <div class="contrib-item" title="Ivana Malenica: 11 papers"><div class="contrib-count"><span>11</span></div><div class="contrib-bar" style="height:14.23px"></div><div class="contrib-label"><span>Ivana Malenica</span></div></div>
+    <div class="contrib-item" title="Jeremy R Coyle: 11 papers"><div class="contrib-count"><span>11</span></div><div class="contrib-bar" style="height:14.23px"></div><div class="contrib-label"><span>Jeremy R Coyle</span></div></div>
+    <div class="contrib-item" title="Oleg Sofrygin: 11 papers"><div class="contrib-count"><span>11</span></div><div class="contrib-bar" style="height:14.23px"></div><div class="contrib-label"><span>Oleg Sofrygin</span></div></div>
+    <div class="contrib-item" title="Robert W Platt: 11 papers"><div class="contrib-count"><span>11</span></div><div class="contrib-bar" style="height:14.23px"></div><div class="contrib-label"><span>Robert W Platt</span></div></div>
+    <div class="contrib-item" title="Sherri Rose: 11 papers"><div class="contrib-count"><span>11</span></div><div class="contrib-bar" style="height:14.23px"></div><div class="contrib-label"><span>Sherri Rose</span></div></div>
+    <div class="contrib-item" title="Andrew N. Mertens: 10 papers"><div class="contrib-count"><span>10</span></div><div class="contrib-bar" style="height:12.94px"></div><div class="contrib-label"><span>Andrew N. Mertens</span></div></div>
+    <div class="contrib-item" title="Michael Schomaker: 10 papers"><div class="contrib-count"><span>10</span></div><div class="contrib-bar" style="height:12.94px"></div><div class="contrib-label"><span>Michael Schomaker</span></div></div>
+    <div class="contrib-item" title="S. Lendle: 10 papers"><div class="contrib-count"><span>10</span></div><div class="contrib-bar" style="height:12.94px"></div><div class="contrib-label"><span>S. Lendle</span></div></div>
+    <div class="contrib-item" title="Wenjing Zheng: 10 papers"><div class="contrib-count"><span>10</span></div><div class="contrib-bar" style="height:12.94px"></div><div class="contrib-label"><span>Wenjing Zheng</span></div></div>
+    <div class="contrib-item" title="Alejandro Schuler: 9 papers"><div class="contrib-count"><span>9</span></div><div class="contrib-bar" style="height:11.64px"></div><div class="contrib-label"><span>Alejandro Schuler</span></div></div>
+    <div class="contrib-item" title="Ashley I. Naimi: 9 papers"><div class="contrib-count"><span>9</span></div><div class="contrib-bar" style="height:11.64px"></div><div class="contrib-label"><span>Ashley I. Naimi</span></div></div>
+    <div class="contrib-item" title="E. Kakande: 9 papers"><div class="contrib-count"><span>9</span></div><div class="contrib-bar" style="height:11.64px"></div><div class="contrib-label"><span>E. Kakande</span></div></div>
+    <div class="contrib-item" title="Edwin D. Charlebois: 9 papers"><div class="contrib-count"><span>9</span></div><div class="contrib-bar" style="height:11.64px"></div><div class="contrib-label"><span>Edwin D. Charlebois</span></div></div>
+    <div class="contrib-item" title="Miguel Angel Luque Fernandez: 9 papers"><div class="contrib-count"><span>9</span></div><div class="contrib-bar" style="height:11.64px"></div><div class="contrib-label"><span>Miguel Angel Luque Fernandez</span></div></div>
+    <div class="contrib-item" title="Mohammad Ali Mansournia: 9 papers"><div class="contrib-count"><span>9</span></div><div class="contrib-bar" style="height:11.64px"></div><div class="contrib-label"><span>Mohammad Ali Mansournia</span></div></div>
+    <div class="contrib-item" title="Peter B. Gilbert: 9 papers"><div class="contrib-count"><span>9</span></div><div class="contrib-bar" style="height:11.64px"></div><div class="contrib-label"><span>Peter B. Gilbert</span></div></div>
+    <div class="contrib-item" title="Romain S. Neugebauer: 9 papers"><div class="contrib-count"><span>9</span></div><div class="contrib-bar" style="height:11.64px"></div><div class="contrib-label"><span>Romain S. Neugebauer</span></div></div>
+    <div class="contrib-item" title="Cheng Ju: 8 papers"><div class="contrib-count"><span>8</span></div><div class="contrib-bar" style="height:10.35px"></div><div class="contrib-label"><span>Cheng Ju</span></div></div>
+    <div class="contrib-item" title="David Y T Chen: 8 papers"><div class="contrib-count"><span>8</span></div><div class="contrib-bar" style="height:10.35px"></div><div class="contrib-label"><span>David Y T Chen</span></div></div>
+    <div class="contrib-item" title="J. Colford: 8 papers"><div class="contrib-count"><span>8</span></div><div class="contrib-bar" style="height:10.35px"></div><div class="contrib-label"><span>J. Colford</span></div></div>
+    <div class="contrib-item" title="Joshua R. Nugent: 8 papers"><div class="contrib-count"><span>8</span></div><div class="contrib-bar" style="height:10.35px"></div><div class="contrib-label"><span>Joshua R. Nugent</span></div></div>
+    <div class="contrib-item" title="Junming Shi: 8 papers"><div class="contrib-count"><span>8</span></div><div class="contrib-bar" style="height:10.35px"></div><div class="contrib-label"><span>Junming Shi</span></div></div>
+    <div class="contrib-item" title="Nicholas T. Williams: 8 papers"><div class="contrib-count"><span>8</span></div><div class="contrib-bar" style="height:10.35px"></div><div class="contrib-label"><span>Nicholas T. Williams</span></div></div>
+    <div class="contrib-item" title="Noémi Kreif: 8 papers"><div class="contrib-count"><span>8</span></div><div class="contrib-bar" style="height:10.35px"></div><div class="contrib-label"><span>Noémi Kreif</span></div></div>
+    <div class="contrib-item" title="Sky Qiu: 8 papers"><div class="contrib-count"><span>8</span></div><div class="contrib-bar" style="height:10.35px"></div><div class="contrib-label"><span>Sky Qiu</span></div></div>
+    <div class="contrib-item" title="Zachary Butzin-Dozier: 8 papers"><div class="contrib-count"><span>8</span></div><div class="contrib-bar" style="height:10.35px"></div><div class="contrib-label"><span>Zachary Butzin-Dozier</span></div></div>
+    <div class="contrib-item" title="Brian D. Williamson: 7 papers"><div class="contrib-count"><span>7</span></div><div class="contrib-bar" style="height:9.05px"></div><div class="contrib-label"><span>Brian D. Williamson</span></div></div>
+    <div class="contrib-item" title="K. Shiba: 7 papers"><div class="contrib-count"><span>7</span></div><div class="contrib-bar" style="height:9.05px"></div><div class="contrib-label"><span>K. Shiba</span></div></div>
+    <div class="contrib-item" title="Lina M. Montoya: 7 papers"><div class="contrib-count"><span>7</span></div><div class="contrib-bar" style="height:9.05px"></div><div class="contrib-label"><span>Lina M. Montoya</span></div></div>
+    <div class="contrib-item" title="Lisa M. Bodnar: 7 papers"><div class="contrib-count"><span>7</span></div><div class="contrib-bar" style="height:9.05px"></div><div class="contrib-label"><span>Lisa M. Bodnar</span></div></div>
+    <div class="contrib-item" title="M. Carone: 7 papers"><div class="contrib-count"><span>7</span></div><div class="contrib-bar" style="height:9.05px"></div><div class="contrib-label"><span>M. Carone</span></div></div>
+    <div class="contrib-item" title="Michael Rosenblum: 7 papers"><div class="contrib-count"><span>7</span></div><div class="contrib-bar" style="height:9.05px"></div><div class="contrib-label"><span>Michael Rosenblum</span></div></div>
+    <div class="contrib-item" title="Mohammad Ehsanul Karim: 7 papers"><div class="contrib-count"><span>7</span></div><div class="contrib-bar" style="height:9.05px"></div><div class="contrib-label"><span>Mohammad Ehsanul Karim</span></div></div>
+    <div class="contrib-item" title="Yunwen Ji: 7 papers"><div class="contrib-count"><span>7</span></div><div class="contrib-bar" style="height:9.05px"></div><div class="contrib-label"><span>Yunwen Ji</span></div></div>
+    <div class="contrib-item" title="A. Owaraganise: 6 papers"><div class="contrib-count"><span>6</span></div><div class="contrib-bar" style="height:7.76px"></div><div class="contrib-label"><span>A. Owaraganise</span></div></div>
+    <div class="contrib-item" title="Alexander Luedtke: 6 papers"><div class="contrib-count"><span>6</span></div><div class="contrib-bar" style="height:7.76px"></div><div class="contrib-label"><span>Alexander Luedtke</span></div></div>
+    <div class="contrib-item" title="Arthur Chatton: 6 papers"><div class="contrib-count"><span>6</span></div><div class="contrib-bar" style="height:7.76px"></div><div class="contrib-label"><span>Arthur Chatton</span></div></div>
+    <div class="contrib-item" title="Aurélien F. Bibaut: 6 papers"><div class="contrib-count"><span>6</span></div><div class="contrib-bar" style="height:7.76px"></div><div class="contrib-label"><span>Aurélien F. Bibaut</span></div></div>
+    <div class="contrib-item" title="C. S. Camlin: 6 papers"><div class="contrib-count"><span>6</span></div><div class="contrib-bar" style="height:7.76px"></div><div class="contrib-label"><span>C. S. Camlin</span></div></div>
+    <div class="contrib-item" title="Hana Lee: 6 papers"><div class="contrib-count"><span>6</span></div><div class="contrib-bar" style="height:7.76px"></div><div class="contrib-label"><span>Hana Lee</span></div></div>
+    <div class="contrib-item" title="J. Tarp: 6 papers"><div class="contrib-count"><span>6</span></div><div class="contrib-bar" style="height:7.76px"></div><div class="contrib-label"><span>J. Tarp</span></div></div>
+    <div class="contrib-item" title="Jennifer Ahern: 6 papers"><div class="contrib-count"><span>6</span></div><div class="contrib-bar" style="height:7.76px"></div><div class="contrib-label"><span>Jennifer Ahern</span></div></div>
+    <div class="contrib-item" title="Katherine L. Hoffman: 6 papers"><div class="contrib-count"><span>6</span></div><div class="contrib-bar" style="height:7.76px"></div><div class="contrib-label"><span>Katherine L. Hoffman</span></div></div>
+    <div class="contrib-item" title="Katsunori Kondo: 6 papers"><div class="contrib-count"><span>6</span></div><div class="contrib-bar" style="height:7.76px"></div><div class="contrib-label"><span>Katsunori Kondo</span></div></div>
+    <div class="contrib-item" title="L. A. Celi: 6 papers"><div class="contrib-count"><span>6</span></div><div class="contrib-bar" style="height:7.76px"></div><div class="contrib-label"><span>L. A. Celi</span></div></div>
+    <div class="contrib-item" title="Rena C. Patel: 6 papers"><div class="contrib-count"><span>6</span></div><div class="contrib-bar" style="height:7.76px"></div><div class="contrib-label"><span>Rena C. Patel</span></div></div>
+    <div class="contrib-item" title="Weixin Cai: 6 papers"><div class="contrib-count"><span>6</span></div><div class="contrib-bar" style="height:7.76px"></div><div class="contrib-label"><span>Weixin Cai</span></div></div>
+    <div class="contrib-item" title="Anders Munch: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.47px"></div><div class="contrib-label"><span>Anders Munch</span></div></div>
+    <div class="contrib-item" title="Catherine A Koss: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.47px"></div><div class="contrib-label"><span>Catherine A Koss</span></div></div>
+    <div class="contrib-item" title="Dana E. Goin: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.47px"></div><div class="contrib-label"><span>Dana E. Goin</span></div></div>
+    <div class="contrib-item" title="David McCoy: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.47px"></div><div class="contrib-label"><span>David McCoy</span></div></div>
+    <div class="contrib-item" title="E. Bukusi: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.47px"></div><div class="contrib-label"><span>E. Bukusi</span></div></div>
+    <div class="contrib-item" title="E. Moodie: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.47px"></div><div class="contrib-label"><span>E. Moodie</span></div></div>
+    <div class="contrib-item" title="Edward H. Kennedy: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.47px"></div><div class="contrib-label"><span>Edward H. Kennedy</span></div></div>
+    <div class="contrib-item" title="Herbert P Susmann: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.47px"></div><div class="contrib-label"><span>Herbert P Susmann</span></div></div>
+    <div class="contrib-item" title="João Matos: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.47px"></div><div class="contrib-label"><span>João Matos</span></div></div>
+    <div class="contrib-item" title="Jun Aida: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.47px"></div><div class="contrib-label"><span>Jun Aida</span></div></div>
+    <div class="contrib-item" title="K. K. Sørensen: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.47px"></div><div class="contrib-label"><span>K. K. Sørensen</span></div></div>
+    <div class="contrib-item" title="Kajsa Kvist: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.47px"></div><div class="contrib-label"><span>Kajsa Kvist</span></div></div>
+    <div class="contrib-item" title="Krzysztof Mnich: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.47px"></div><div class="contrib-label"><span>Krzysztof Mnich</span></div></div>
+    <div class="contrib-item" title="M. P. Andersen: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.47px"></div><div class="contrib-label"><span>M. P. Andersen</span></div></div>
+    <div class="contrib-item" title="Margarita Moreno-Betancur: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.47px"></div><div class="contrib-label"><span>Margarita Moreno-Betancur</span></div></div>
+    <div class="contrib-item" title="Nahid Sultana: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.47px"></div><div class="contrib-label"><span>Nahid Sultana</span></div></div>
+    <div class="contrib-item" title="P. Yazdanfard: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.47px"></div><div class="contrib-label"><span>P. Yazdanfard</span></div></div>
+    <div class="contrib-item" title="R. Morello-Frosch: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.47px"></div><div class="contrib-label"><span>R. Morello-Frosch</span></div></div>
+    <div class="contrib-item" title="Tristan Struja: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.47px"></div><div class="contrib-label"><span>Tristan Struja</span></div></div>
+    <div class="contrib-item" title="U. Pedersen-Bjergaard: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.47px"></div><div class="contrib-label"><span>U. Pedersen-Bjergaard</span></div></div>
+    <div class="contrib-item" title="W. Rudnicki: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.47px"></div><div class="contrib-label"><span>W. Rudnicki</span></div></div>
+    <div class="contrib-item" title="Wenxin Zhang: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.47px"></div><div class="contrib-label"><span>Wenxin Zhang</span></div></div>
+    <div class="contrib-item" title="Yohann Foucher: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.47px"></div><div class="contrib-label"><span>Yohann Foucher</span></div></div>
+    <div class="contrib-item" title="Alan S. Go: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Alan S. Go</span></div></div>
+    <div class="contrib-item" title="Amir Almasi-Hashiani: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Amir Almasi-Hashiani</span></div></div>
+    <div class="contrib-item" title="Andrew Wilson: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Andrew Wilson</span></div></div>
+    <div class="contrib-item" title="B. Mukherjee: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>B. Mukherjee</span></div></div>
+    <div class="contrib-item" title="B. Zareini: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>B. Zareini</span></div></div>
+    <div class="contrib-item" title="Benjamin F. Arnold: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Benjamin F. Arnold</span></div></div>
+    <div class="contrib-item" title="Carina Marquez: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Carina Marquez</span></div></div>
+    <div class="contrib-item" title="Catherine J. Lee: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Catherine J. Lee</span></div></div>
+    <div class="contrib-item" title="D. Bangsberg: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>D. Bangsberg</span></div></div>
+    <div class="contrib-item" title="D. Kwarisiima: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>D. Kwarisiima</span></div></div>
+    <div class="contrib-item" title="Dimitris Rizopoulos: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Dimitris Rizopoulos</span></div></div>
+    <div class="contrib-item" title="E. LeDell: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>E. LeDell</span></div></div>
+    <div class="contrib-item" title="Eric Hurwitz: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Eric Hurwitz</span></div></div>
+    <div class="contrib-item" title="F. Mwangwa: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>F. Mwangwa</span></div></div>
+    <div class="contrib-item" title="Geoffrey Ecoto: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Geoffrey Ecoto</span></div></div>
+    <div class="contrib-item" title="Gihan M. Ali: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Gihan M. Ali</span></div></div>
+    <div class="contrib-item" title="Guillermo E. Umpierrez: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Guillermo E. Umpierrez</span></div></div>
+    <div class="contrib-item" title="Haodong Li: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Haodong Li</span></div></div>
+    <div class="contrib-item" title="Hossein Mozafar Saadati: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Hossein Mozafar Saadati</span></div></div>
+    <div class="contrib-item" title="Ichiro Kawachi: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Ichiro Kawachi</span></div></div>
+    <div class="contrib-item" title="Ira B. Wilson: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Ira B. Wilson</span></div></div>
+    <div class="contrib-item" title="J. S. Ohlendorff: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>J. S. Ohlendorff</span></div></div>
+    <div class="contrib-item" title="Janice Litunya: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Janice Litunya</span></div></div>
+    <div class="contrib-item" title="Jennifer L. Skeem: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Jennifer L. Skeem</span></div></div>
+    <div class="contrib-item" title="Jeph Herrin: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Jeph Herrin</span></div></div>
+    <div class="contrib-item" title="Jonathan Levy: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Jonathan Levy</span></div></div>
+    <div class="contrib-item" title="Joseph S. Ross: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Joseph S. Ross</span></div></div>
+    <div class="contrib-item" title="Joshua J. Neumiller: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Joshua J. Neumiller</span></div></div>
+    <div class="contrib-item" title="Juan P. Brito: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Juan P. Brito</span></div></div>
+    <div class="contrib-item" title="Judith Chung: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Judith Chung</span></div></div>
+    <div class="contrib-item" title="K. Swarna: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>K. Swarna</span></div></div>
+    <div class="contrib-item" title="Lu Zhang: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Lu Zhang</span></div></div>
+    <div class="contrib-item" title="Lucia C. Petito: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Lucia C. Petito</span></div></div>
+    <div class="contrib-item" title="M. Kartal: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>M. Kartal</span></div></div>
+    <div class="contrib-item" title="M. Resche-Rigon: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>M. Resche-Rigon</span></div></div>
+    <div class="contrib-item" title="Marcus Lind: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Marcus Lind</span></div></div>
+    <div class="contrib-item" title="Masahiro Kato: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Masahiro Kato</span></div></div>
+    <div class="contrib-item" title="Milena Gianfrancesco: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Milena Gianfrancesco</span></div></div>
+    <div class="contrib-item" title="Mindy M. Mickelson: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Mindy M. Mickelson</span></div></div>
+    <div class="contrib-item" title="N. Sang: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>N. Sang</span></div></div>
+    <div class="contrib-item" title="Ori Stitelman: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Ori Stitelman</span></div></div>
+    <div class="contrib-item" title="P. Chaffee: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>P. Chaffee</span></div></div>
+    <div class="contrib-item" title="Rachel Abbott: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Rachel Abbott</span></div></div>
+    <div class="contrib-item" title="Rodolfo J. Galindo: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Rodolfo J. Galindo</span></div></div>
+    <div class="contrib-item" title="Ronald C Kessler: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Ronald C Kessler</span></div></div>
+    <div class="contrib-item" title="Ronald Herrera: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Ronald Herrera</span></div></div>
+    <div class="contrib-item" title="Ronald J. Wong: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Ronald J. Wong</span></div></div>
+    <div class="contrib-item" title="Rozalina G. McCoy: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Rozalina G. McCoy</span></div></div>
+    <div class="contrib-item" title="S. Zakir Hossain: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>S. Zakir Hossain</span></div></div>
+    <div class="contrib-item" title="Serpil Kılıç Depren: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Serpil Kılıç Depren</span></div></div>
+    <div class="contrib-item" title="Seyed Saeed Hashemi Nazari: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Seyed Saeed Hashemi Nazari</span></div></div>
+    <div class="contrib-item" title="Stephen P Luby: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Stephen P Luby</span></div></div>
+    <div class="contrib-item" title="T. Zewotir: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>T. Zewotir</span></div></div>
+    <div class="contrib-item" title="V. Sarovar: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>V. Sarovar</span></div></div>
+    <div class="contrib-item" title="Victor M. Montori: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Victor M. Montori</span></div></div>
+    <div class="contrib-item" title="Y. Matsuyama: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Y. Matsuyama</span></div></div>
+    <div class="contrib-item" title="Yi Li: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Yi Li</span></div></div>
+    <div class="contrib-item" title="Yihong Deng: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.17px"></div><div class="contrib-label"><span>Yihong Deng</span></div></div>
     <div class="contrib-item" title="A. Anzalone: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>A. Anzalone</span></div></div>
     <div class="contrib-item" title="A. Benedetti: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>A. Benedetti</span></div></div>
     <div class="contrib-item" title="A. Bener: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>A. Bener</span></div></div>
@@ -294,11 +306,12 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="B. Fireman: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>B. Fireman</span></div></div>
     <div class="contrib-item" title="B. Grandal: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>B. Grandal</span></div></div>
     <div class="contrib-item" title="Bagus Sartono: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Bagus Sartono</span></div></div>
+    <div class="contrib-item" title="Bijan J. Borah: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Bijan J. Borah</span></div></div>
+    <div class="contrib-item" title="Bradley A. Maron: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Bradley A. Maron</span></div></div>
     <div class="contrib-item" title="C. Cohen: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>C. Cohen</span></div></div>
     <div class="contrib-item" title="C. P. Ponting: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>C. P. Ponting</span></div></div>
     <div class="contrib-item" title="C. Selmer: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>C. Selmer</span></div></div>
     <div class="contrib-item" title="Carlos Garc&#x27;ia Meixide: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Carlos Garc&#x27;ia Meixide</span></div></div>
-    <div class="contrib-item" title="Catherine Lee: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Catherine Lee</span></div></div>
     <div class="contrib-item" title="Chansoo Kim: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Chansoo Kim</span></div></div>
     <div class="contrib-item" title="Chenchen Yu: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Chenchen Yu</span></div></div>
     <div class="contrib-item" title="Chi Zhang: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Chi Zhang</span></div></div>
@@ -311,7 +324,6 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="F. Reyal: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>F. Reyal</span></div></div>
     <div class="contrib-item" title="F. Xue: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>F. Xue</span></div></div>
     <div class="contrib-item" title="Georgia D. Tomaras: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Georgia D. Tomaras</span></div></div>
-    <div class="contrib-item" title="Guillermo E. Umpierrez: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Guillermo E. Umpierrez</span></div></div>
     <div class="contrib-item" title="Hui Wang: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Hui Wang</span></div></div>
     <div class="contrib-item" title="Ian R. White: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Ian R. White</span></div></div>
     <div class="contrib-item" title="J. Alderden: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>J. Alderden</span></div></div>
@@ -322,17 +334,12 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="J. Onnela: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>J. Onnela</span></div></div>
     <div class="contrib-item" title="J.E. Haberer: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>J.E. Haberer</span></div></div>
     <div class="contrib-item" title="Jacqueline M. Torres: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Jacqueline M. Torres</span></div></div>
-    <div class="contrib-item" title="Jeph Herrin: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Jeph Herrin</span></div></div>
     <div class="contrib-item" title="Jie Zhu: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Jie Zhu</span></div></div>
     <div class="contrib-item" title="Joan A. Casey: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Joan A. Casey</span></div></div>
     <div class="contrib-item" title="John B. Carlin: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>John B. Carlin</span></div></div>
-    <div class="contrib-item" title="Joseph S. Ross: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Joseph S. Ross</span></div></div>
-    <div class="contrib-item" title="Joshua J. Neumiller: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Joshua J. Neumiller</span></div></div>
-    <div class="contrib-item" title="Juan P. Brito: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Juan P. Brito</span></div></div>
     <div class="contrib-item" title="Justin Manjourides: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Justin Manjourides</span></div></div>
     <div class="contrib-item" title="K. Himes: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>K. Himes</span></div></div>
     <div class="contrib-item" title="K. Radon: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>K. Radon</span></div></div>
-    <div class="contrib-item" title="K. Swarna: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>K. Swarna</span></div></div>
     <div class="contrib-item" title="Karla Diaz-Ordaz: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Karla Diaz-Ordaz</span></div></div>
     <div class="contrib-item" title="Karla DiazOrdaz: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Karla DiazOrdaz</span></div></div>
     <div class="contrib-item" title="Kelly L. Moore: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Kelly L. Moore</span></div></div>
@@ -349,10 +356,10 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Marilyn Nyabuti: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Marilyn Nyabuti</span></div></div>
     <div class="contrib-item" title="Martin Blomberg Jensen: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Martin Blomberg Jensen</span></div></div>
     <div class="contrib-item" title="Matthew D. Hickey: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Matthew D. Hickey</span></div></div>
+    <div class="contrib-item" title="Matthieu Legrand: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Matthieu Legrand</span></div></div>
     <div class="contrib-item" title="Maxime Léger: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Maxime Léger</span></div></div>
     <div class="contrib-item" title="Md Faisal Kabir: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Md Faisal Kabir</span></div></div>
     <div class="contrib-item" title="Michael G Nash: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Michael G Nash</span></div></div>
-    <div class="contrib-item" title="Mindy M. Mickelson: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Mindy M. Mickelson</span></div></div>
     <div class="contrib-item" title="Monika A. Izano: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Monika A. Izano</span></div></div>
     <div class="contrib-item" title="Mucunguzi Atukunda: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Mucunguzi Atukunda</span></div></div>
     <div class="contrib-item" title="Murali Krishna Pasupuleti: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Murali Krishna Pasupuleti</span></div></div>
@@ -363,8 +370,6 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="R. Grieve: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>R. Grieve</span></div></div>
     <div class="contrib-item" title="R. Lenain: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>R. Lenain</span></div></div>
     <div class="contrib-item" title="R. Wyss: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>R. Wyss</span></div></div>
-    <div class="contrib-item" title="Rodolfo J. Galindo: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Rodolfo J. Galindo</span></div></div>
-    <div class="contrib-item" title="Rozalina G. McCoy: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Rozalina G. McCoy</span></div></div>
     <div class="contrib-item" title="Ruth H. Keogh: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Ruth H. Keogh</span></div></div>
     <div class="contrib-item" title="S. Beentjes: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>S. Beentjes</span></div></div>
     <div class="contrib-item" title="S. Ellis: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>S. Ellis</span></div></div>
@@ -384,7 +389,6 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="T. VanderWeele: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>T. VanderWeele</span></div></div>
     <div class="contrib-item" title="Thomas Carpenito: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Thomas Carpenito</span></div></div>
     <div class="contrib-item" title="Ugur Korkut Pata: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Ugur Korkut Pata</span></div></div>
-    <div class="contrib-item" title="V. Montori: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>V. Montori</span></div></div>
     <div class="contrib-item" title="W. Grobman: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>W. Grobman</span></div></div>
     <div class="contrib-item" title="W. Lesiński: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>W. Lesiński</span></div></div>
     <div class="contrib-item" title="Wookyung Chung: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Wookyung Chung</span></div></div>
@@ -394,7 +398,6 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Yang Liu: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yang Liu</span></div></div>
     <div class="contrib-item" title="Yaning Feng: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yaning Feng</span></div></div>
     <div class="contrib-item" title="Yichen Xu: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yichen Xu</span></div></div>
-    <div class="contrib-item" title="Yihong Deng: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yihong Deng</span></div></div>
     <div class="contrib-item" title="Yining Lu: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yining Lu</span></div></div>
     <div class="contrib-item" title="Yun Jung Oh: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yun Jung Oh</span></div></div>
     <div class="contrib-item" title="Yunda Huang: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yunda Huang</span></div></div>
@@ -453,11 +456,9 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="B. Beesiga: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>B. Beesiga</span></div></div>
     <div class="contrib-item" title="B. Gallego: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>B. Gallego</span></div></div>
     <div class="contrib-item" title="B. Taiwo: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>B. Taiwo</span></div></div>
-    <div class="contrib-item" title="Bijan J. Borah: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Bijan J. Borah</span></div></div>
     <div class="contrib-item" title="Bin Hu: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Bin Hu</span></div></div>
     <div class="contrib-item" title="Bingxiao Li: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Bingxiao Li</span></div></div>
     <div class="contrib-item" title="Bopha Chrea: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Bopha Chrea</span></div></div>
-    <div class="contrib-item" title="Bradley A. Maron: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Bradley A. Maron</span></div></div>
     <div class="contrib-item" title="Brian R. Lane: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Brian R. Lane</span></div></div>
     <div class="contrib-item" title="Brock B O&#x27;Neil: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Brock B O&#x27;Neil</span></div></div>
     <div class="contrib-item" title="Bruce A. Levy: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Bruce A. Levy</span></div></div>
@@ -479,7 +480,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Camille Maringe: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Camille Maringe</span></div></div>
     <div class="contrib-item" title="Carlos Ruíz-Frutos: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Carlos Ruíz-Frutos</span></div></div>
     <div class="contrib-item" title="Carol E. Golin: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Carol E. Golin</span></div></div>
-    <div class="contrib-item" title="Chad R Ritch: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Chad R Ritch</span></div></div>
+    <div class="contrib-item" title="Chad R. Ritch: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Chad R. Ritch</span></div></div>
     <div class="contrib-item" title="Charles C. Peyton: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Charles C. Peyton</span></div></div>
     <div class="contrib-item" title="Charles R. Newton: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Charles R. Newton</span></div></div>
     <div class="contrib-item" title="Chen Jiang: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Chen Jiang</span></div></div>
@@ -592,11 +593,13 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Hind A Beydoun: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Hind A Beydoun</span></div></div>
     <div class="contrib-item" title="Honghu Liu: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Honghu Liu</span></div></div>
     <div class="contrib-item" title="Howard Liu: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Howard Liu</span></div></div>
+    <div class="contrib-item" title="I. Khan: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>I. Khan</span></div></div>
     <div class="contrib-item" title="I. Martín-Loeches: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>I. Martín-Loeches</span></div></div>
     <div class="contrib-item" title="I.C. Williams: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>I.C. Williams</span></div></div>
     <div class="contrib-item" title="Ismaïl Ahmed: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Ismaïl Ahmed</span></div></div>
     <div class="contrib-item" title="Iv&#x27;an D&#x27;iaz: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Iv&#x27;an D&#x27;iaz</span></div></div>
     <div class="contrib-item" title="Iván Díaz Muñoz: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Iván Díaz Muñoz</span></div></div>
+    <div class="contrib-item" title="J. B. Velotta: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>J. B. Velotta</span></div></div>
     <div class="contrib-item" title="J. Bassett: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>J. Bassett</span></div></div>
     <div class="contrib-item" title="J. Cappelleri: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>J. Cappelleri</span></div></div>
     <div class="contrib-item" title="J. Day: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>J. Day</span></div></div>
@@ -719,6 +722,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Lukas Andereggen: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Lukas Andereggen</span></div></div>
     <div class="contrib-item" title="M. A. Adam: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>M. A. Adam</span></div></div>
     <div class="contrib-item" title="M. Beydoun: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>M. Beydoun</span></div></div>
+    <div class="contrib-item" title="M. Bokoch: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>M. Bokoch</span></div></div>
     <div class="contrib-item" title="M. Brooks: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>M. Brooks</span></div></div>
     <div class="contrib-item" title="M. Dellenbach: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>M. Dellenbach</span></div></div>
     <div class="contrib-item" title="M. Dibonaventura: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>M. Dibonaventura</span></div></div>
@@ -757,7 +761,6 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Mary-Ann Davies: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Mary-Ann Davies</span></div></div>
     <div class="contrib-item" title="Matthew J Smith: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Matthew J Smith</span></div></div>
     <div class="contrib-item" title="Matthew Miller: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Matthew Miller</span></div></div>
-    <div class="contrib-item" title="Matthieu Legrand: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Matthieu Legrand</span></div></div>
     <div class="contrib-item" title="Max Kates: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Max Kates</span></div></div>
     <div class="contrib-item" title="Melanie C. Bacon: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Melanie C. Bacon</span></div></div>
     <div class="contrib-item" title="Melissa A. Haendel: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Melissa A. Haendel</span></div></div>
@@ -893,6 +896,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Tracey L. Yap: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Tracey L. Yap</span></div></div>
     <div class="contrib-item" title="Trung-Kien Nguyen: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Trung-Kien Nguyen</span></div></div>
     <div class="contrib-item" title="Tullika Garg: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Tullika Garg</span></div></div>
+    <div class="contrib-item" title="Tyler Chervo: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Tyler Chervo</span></div></div>
     <div class="contrib-item" title="U. Cooray: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>U. Cooray</span></div></div>
     <div class="contrib-item" title="V. De Gruttola: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>V. De Gruttola</span></div></div>
     <div class="contrib-item" title="V. Jain: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>V. Jain</span></div></div>
@@ -960,10 +964,61 @@ Papers are grouped by publication year. Expand a year to browse papers. Only pap
 .paper-year > .paper-item > summary { cursor: pointer; }
 </style>
 <details class="paper-year">
-  <summary><strong>2026 (70 papers)</strong></summary>
+  <summary><strong>2026 (79 papers)</strong></summary>
 
 <details class="paper-item">
-  <summary><strong>2026-06-02 — Accounting for non-adherence: A re-analysis of the Liraglutide Effect and Action in Diabetes: Evaluation of Cardiovascular Outcome Results trial</strong></summary>
+  <summary><strong>2026-06-08 — Rapid Sequence Induction Practices and Outcomes in Abdominal Surgery Patients: A Multicenter Observational Cohort Study.</strong></summary>
+
+<p>
+<strong>Authors</strong>: Sivan G. Marcus, Michael Mathis, M. Bokoch, Robert Freundlich, David Chen, Lee-lynn Chen, Matthieu Legrand<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-06-08<br>
+<strong>Venue</strong>: Anesthesiology<br>
+<strong>DOI</strong>: 10.1097/ALN.0000000000006165<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/512ee23cd42cb71c7710d2de3a13728d9a2e66a9">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: targeted maximum likelihood estimation
+</p>
+<p><strong>Abstract</strong>:<br>
+BACKGROUND Rapid Sequence Induction (RSI) is commonly performed in the operating room to quickly secure the airway and minimize aspiration risk, especially in patients undergoing abdominal surgery. Current practice patterns of medications and RSI techniques used by anesthesiologists are not well-described. METHODS This observational cohort study utilized the Multicenter Perioperative Outcomes Group database to evaluate RSI practices on adult patients undergoing abdominal surgery from 2015 to 2022. The primary aim was to describe modern RSI practices. We evaluated peri-induction medication use and intubation techniques. We hypothesized that over time, rocuronium would become the most utilized agent. Additionally, we investigated how the choice of neuromuscular blocking agent (NMB) affected outcomes using mixed-effects models and targeted maximum likelihood estimation. The primary endpoint was 30-day mortality. Secondary endpoints included post-induction hypoxia, pulmonary complications, and acute kidney injury (AKI). RESULTS Across 13 institutions and 82,772 cases, 9,352 (11.3%) had a documented RSI. The most common NMB was succinylcholine (70.5%). However, the use of succinylcholine significantly decreased over the study period (85.4% of RSI cases in 2015; 37.3% in 2022, p &lt; 0.0001), replaced by rocuronium. Patients usually received coadministration of multiple sedatives. Video laryngoscopy was more frequently used (16.2% of RSI vs 8.0% of non-RSI cases, p&lt;0.0001). Rocuronium was not associated with a different risk of mortality (relative risk 0.85; 95% confidence interval 0.67 - 1.09), hypoxia (1.04; 0.61-1.77), pulmonary complications (0.93; 0.81-1.06), or AKI (1.05; 0.84-1.31) as compared to succinylcholine. CONCLUSION Across institutions in the United States, rocuronium has been increasingly used for RSI, eventually overtaking succinylcholine. Rocuronium use was not associated with a different risk of mortality, hypoxia, pulmonary complications, or AKI.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2026-06-08 — Biomechanical drivers of fastball velocity identified from In-game motion capture using Super Learner ensemble modelling.</strong></summary>
+
+<p>
+<strong>Authors</strong>: Garrett Fernandez, G. Bullock, Ryan M. Zappa, Gretchen D. Oliver, Kristen Nicholson<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-06-08<br>
+<strong>Venue</strong>: Sports Biomechanics<br>
+<strong>DOI</strong>: 10.1080/14763141.2026.2680518<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/ccbd33eb8941a8037dbd9b7f885632337864da56">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: super learner
+</p>
+<p><strong>Abstract</strong>:<br>
+This study used in-game markerless motion capture to develop a Super Learner ensemble model for predicting fastball velocity, with the aim of identifying key biomechanical contributors and evaluating generalisability across conferences. Data were collected from 322 NCAA Division I pitchers (ACC: n = 122; SEC: n = 200) between 2022 and 2024. The ensemble combined five algorithms-elastic net, random forest, support vector machines, gradient boosting, and multivariate adaptive regression splines (MARS)-and was trained using 10-fold cross-validation with internal-external validation by conference. Internal performance yielded RMSE 2.70 mph (95% CI 2.44-2.99), MAE 2.10 mph (95% CI 1.93-2.29), R2 = 0.29 (95% CI 0.21-0.36), and calibration slope = 0.99 (95% CI 0.83-1.15). Internal-external performance was direction-dependent (SEC→ACC RMSE = 3.04 mph, 95% CI 2.51-3.63; ACC→SEC RMSE = 2.55 mph, 95% CI 2.33-2.77). Height was the most influential predictor (81.2%), followed by mass (2.47%). Algorithm weights favoured elastic net (62.6%), followed by support vector machines (19.8%), gradient boosting (13.6%), and random forest (4%). Findings suggest that biomechanical strategies for generating velocity vary between groups and highlight the potential of ensemble machine learning to identify biomechanical contributors to fastball velocity and inform individualised analysis in baseball.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2026-06-06 — Personal and Family History of Cancer and Primary Lung Cancer Prevalence Among Never Smoking Disaggregated Asian American Women</strong></summary>
+
+<p>
+<strong>Authors</strong>: B. Kaur, Avinav Biswas, Tyler Chervo, Woo Jin Ahn, Shangzi Gao, Dang Nguyen, Carissa Villanueva, S. Tivakaran, M. Srinivasan, N. Panyanouvong, L. Uy, N. Rajeshuni, Robert J Huang, Neil Kamdar, O. Yasui, Gloria S. Kim, L. Palaniappan, J. B. Velotta<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-06-06<br>
+<strong>Venue</strong>: Cancers<br>
+<strong>DOI</strong>: 10.3390/cancers18121862<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/7878343a2371da95a6c0ebfd2d33147a408f4670">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: targeted maximum likelihood estimation
+</p>
+<p><strong>Abstract</strong>:<br>
+Background: Despite a decline in lung cancer in the U.S., lung cancer among never-smoking Asian American (AsA) women is rising, and subgroup aggregation obscures heterogeneity. We compared primary lung cancer prevalence across disaggregated AsA subgroups and examined factors associated with prevalence such as personal- and family-cancer histories versus Non-Hispanic Whites (NHWs). Methods: This cross-sectional study analyzed electronic health records of AsA women (≥18) in a large Northern California health system (2010–2022). Lung cancer cases were obtained from the hospital registry and categorized by smoking status and self-reported ethnicity. Adjusted prevalence ratios (aPRs) were estimated using targeted maximum likelihood estimation, accounting for sociodemographic, smoking, and clinical covariates. Results: Among 1,843,119 women, 8651 had primary lung cancer; 2429 were never-smokers. In AsA never-smokers, aPRs and 95% confidence intervals versus age-matched NHW were: Chinese (3.36, [3.20–3.53]), Filipino (2.68, [2.55–2.82]), Vietnamese (2.07, [1.96–2.18]), Japanese (1.99, [1.89–2.10]), Korean (1.90, [1.80–2.00]), and Other Asian (0.35, [0.33–0.37]). Personal cancer-history reflected an increase in prevalence among Korean patients (2.91, [2.76–3.06]) while family cancer-history demonstrated increased prevalence among Chinese patients (1.51, [1.42–1.60]). Among women with uterine cancer, Chinese patients had higher lung-cancer prevalence than NHW (1.91, [1.58–2.31]). Conclusions: Never-smoking disaggregated AsA women show heterogeneous lung cancer prevalence, with higher prevalence in Korean women with personal cancer-history and in Chinese women with family cancer-history compared with NHW, supporting history-informed and ethnic-specific lung cancer screenings.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2026-06-02 — Accounting for non-adherence: A re-analysis of the Liraglutide Effect and Action in Diabetes: Evaluation of Cardiovascular Outcome Results trial.</strong></summary>
 
 <p>
 <strong>Authors</strong>: K. K. Sørensen, J. S. Ohlendorff, Anders Munch, P. Yazdanfard, M. P. Andersen, U. Pedersen-Bjergaard, B. Zareini, T. Gerds, C. Torp-Pedersen<br>
@@ -975,7 +1030,24 @@ Papers are grouped by publication year. Expand a year to browse papers. Only pap
 <strong>Matched Keywords</strong>: targeted minimum loss based estimation
 </p>
 <p><strong>Abstract</strong>:<br>
-The Liraglutide Effect and Action in Diabetes: Evaluation of Cardiovascular Outcome Results trial randomized patients with diabetes to liraglutide or placebo. The per-protocol analysis conditioned on post-baseline adherence and therefore lacked a well-defined estimand. This study sought to evaluate a subset of Liraglutide Effect and Action in Diabetes: Evaluation of Cardiovascular Outcome Results to estimate the effect of sustained liraglutide exposure corresponding to a well-defined per-protocol analysis. We used the roadmap of targeting learning to define the estimand for the sustained treatment analysis and estimated it with longitudinal targeted minimum loss-based estimation, accounting for protocol deviations and censoring using post-baseline confounders. The results were compared to the intention-to-treat analysis. We report 3.5-year risks of the primary composite outcome (myocardial infarction, stroke, or cardiovascular mortality) and secondary outcomes (each of the primary outcome’s components, revascularization, unstable angina pectoris, heart failure, and all-cause mortality). The intention-to-treat analysis estimated 3.5-year risks for the primary composite outcome of 11.8% (95% confidence interval: 10.8 to 12.8) in the liraglutide arm and 13.3% (95% confidence interval: 12.3 to 14.3) in the placebo arm, with a risk difference of 1.5% (95% confidence interval: 0.1 to 2.9). Accounting for post-baseline confounders, the sustained treatment analysis estimated 3.5-year risks of 11.4% (95% confidence interval: 10.4 to 12.5) for sustained exposure to liraglutide versus 12.6% (95% confidence interval: 11.5 to 13.7) for sustained exposure to placebo, yielding a risk difference of 1.1% (95% confidence interval: −0.4 to 2.6). Sustained exposure to liraglutide showed no statistically significant difference compared with sustained exposure to placebo for any secondary outcomes at 3.5 years. We used contemporary methods for causal inference to define and estimate the sustained treatment effects of the Liraglutide Effect and Action in Diabetes: Evaluation of Cardiovascular Outcome Results study by accounting for both baseline and time-varying confounders. The results were consistent with the findings of the original Liraglutide Effect and Action in Diabetes: Evaluation of Cardiovascular Outcome Results trial.
+BACKGROUND/AIMS The Liraglutide Effect and Action in Diabetes: Evaluation of Cardiovascular Outcome Results trial randomized patients with diabetes to liraglutide or placebo. The per-protocol analysis conditioned on post-baseline adherence and therefore lacked a well-defined estimand. This study sought to evaluate a subset of Liraglutide Effect and Action in Diabetes: Evaluation of Cardiovascular Outcome Results to estimate the effect of sustained liraglutide exposure corresponding to a well-defined per-protocol analysis. METHOD We used the roadmap of targeting learning to define the estimand for the sustained treatment analysis and estimated it with longitudinal targeted minimum loss-based estimation, accounting for protocol deviations and censoring using post-baseline confounders. The results were compared to the intention-to-treat analysis. We report 3.5-year risks of the primary composite outcome (myocardial infarction, stroke, or cardiovascular mortality) and secondary outcomes (each of the primary outcome&#x27;s components, revascularization, unstable angina pectoris, heart failure, and all-cause mortality). RESULTS The intention-to-treat analysis estimated 3.5-year risks for the primary composite outcome of 11.8% (95% confidence interval: 10.8 to 12.8) in the liraglutide arm and 13.3% (95% confidence interval: 12.3 to 14.3) in the placebo arm, with a risk difference of 1.5% (95% confidence interval: 0.1 to 2.9). Accounting for post-baseline confounders, the sustained treatment analysis estimated 3.5-year risks of 11.4% (95% confidence interval: 10.4 to 12.5) for sustained exposure to liraglutide versus 12.6% (95% confidence interval: 11.5 to 13.7) for sustained exposure to placebo, yielding a risk difference of 1.1% (95% confidence interval: -0.4 to 2.6). Sustained exposure to liraglutide showed no statistically significant difference compared with sustained exposure to placebo for any secondary outcomes at 3.5 years. CONCLUSION We used contemporary methods for causal inference to define and estimate the sustained treatment effects of the Liraglutide Effect and Action in Diabetes: Evaluation of Cardiovascular Outcome Results study by accounting for both baseline and time-varying confounders. The results were consistent with the findings of the original Liraglutide Effect and Action in Diabetes: Evaluation of Cardiovascular Outcome Results trial.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2026-06-01 — The impact of neighborhood violence on domestic femicides in Mexico: A demonstration of the causal inference roadmap.</strong></summary>
+
+<p>
+<strong>Authors</strong>: Alma L. Juarez Armenta, N. Prata<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-06-01<br>
+<strong>Venue</strong>: Social Science &amp; Medicine (1967)<br>
+<strong>DOI</strong>: 10.1016/j.socscimed.2026.119458<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/3f53bf21155cbea62c6c2dbd9e582aff7c6103f4">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: super learner, targeted maximum likelihood estimation, tmle
+</p>
+<p><strong>Abstract</strong>:<br>
+BACKGROUND The incidence of femicide, the murder of a woman for gender-based reasons, has risen significantly in recent years in Mexico, going from 427 reported victims in 2015 to 797 in 2024. Although individual-level risk factors have been studied, we aimed to study neighborhood-level factors that might be more amenable to intervention. Our study delved into the impact of municipality-level violence in Mexico on the probability of occurrence of domestic femicides at the municipality level in 2024. METHODS We employed the Causal Roadmap framework for causal and statistical inference. Our outcome was the occurrence of at least one domestic femicide in the municipality, with exposure defined as above-median male homicide rates. While unmeasured confounding precluded definitive causal inference, we estimated the adjusted risk ratio and adjusted risk difference (aRR, aRD) comparing municipalities with above-median versus below-median male homicide rates, adjusting for measured municipality-level confounders. We used targeted maximum likelihood estimation (TMLE) with Super Learner to minimize reliance on parametric modeling assumptions. RESULTS Municipalities with high male homicide rates (above the median) had 4.71 times the risk (95% CI: 3.55-6.24, p &lt; 0.001) of experiencing at least one domestic femicide compared to municipalities with low male homicide rates, after adjusting for socioeconomic factors using targeted maximum likelihood estimation. Results were robust across three causal inference methods: TMLE (aRR = 4.75, 95% CI: 3.55-6.24), IPW (aRR = 4.75, 95% CI: 3.58-6.29), and G-computation (aRR = 4.33, 95% CI: 3.32-5.65). CONCLUSIONS Using the Causal Roadmap framework, we found a strong and consistent association between municipality-level male homicide rates and domestic femicide occurrence in Mexico. These findings suggest that interventions targeting community-level violence may have downstream effects on reducing domestic femicides, offering potential strategies for comprehensive violence prevention in Mexico.
 </p>
 </details>
 
@@ -1008,6 +1080,40 @@ Higher-order efficient estimators extend standard first-order semiparametric est
 </p>
 <p><strong>Abstract</strong>:<br>
 Abstract unavailable from Semantic Scholar.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2026-06-01 — Cluster Trials Inference With CARE.</strong></summary>
+
+<p>
+<strong>Authors</strong>: Sergey Alexeev, Rachael L. Morton<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-06-01<br>
+<strong>Venue</strong>: Statistics in Medicine<br>
+<strong>DOI</strong>: 10.1002/sim.70610<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/5224398b4f2b18ee5875bbe13cb6d65d8acdbbcc">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: targeted maximum likelihood estimation
+</p>
+<p><strong>Abstract</strong>:<br>
+We show that cluster-randomized trials-especially pragmatic designs-often exhibit substantial (but underappreciated in practice) heterogeneity in cluster sizes and structures, distorting inference. Our simulations-reassigning treatment in real data and varying imbalance in synthetic data-show that currently recommended methods (such as targeted maximum likelihood estimation and small-sample corrected generalized estimating equations) are not optimized to this challenge. We propose the CARE (Clarify, Apply, Refine, Evaluate) protocol, which anchors inference in a design-based benchmark and provides a principled pathway for incorporating assumption-rich methods-making trial analysis more credible, transparent, and directly comparable across studies.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2026-05-25 — Rethinking Evidence Synthesis: Why Causally Interpreted Meta-Analysis Should Supplant Conventional Meta-Analysis at the Top of the Evidence Hierarchy in Medicine</strong></summary>
+
+<p>
+<strong>Authors</strong>: Alsanussi T. Elsherif<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-05-25<br>
+<strong>Venue</strong>: Journal of The Best Available Evidence in Medicine<br>
+<strong>DOI</strong>: 10.63720/v2i1005<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/5e6d4754bdd4c87b70e5fba6a00017daee7d4a33">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: targeted maximum likelihood estimation
+</p>
+<p><strong>Abstract</strong>:<br>
+Meta-analysis has traditionally occupied the highest position in evidence-based medicine because it combines data from multiple studies and appears to provide the most precise summary of treatment effects. Yet precision alone does not guarantee causal relevance. Conventional meta-analysis often synthesizes results across studies that differ in populations, interventions, outcome definitions, adherence patterns, and follow-up structures, while weighting studies primarily by statistical precision rather than relevance to a real-world target population. As a result, pooled estimates may be internally consistent yet poorly aligned with the causal questions. Causally interpreted meta-analysis (CIMA) offers a more rigorous alternative. Anchored in the potential outcomes framework, it shifts evidence synthesis from associational averaging toward estimation of treatment effects in explicitly defined target populations. This approach reframes heterogeneity as effect modification, incorporates transportability and target trial emulation, and supports robust estimation through methods such as the g-formula, inverse probability weighting, augmented inverse probability weighting, and targeted maximum likelihood estimation. It also provides a principled basis for integrating randomized trials, real-world data, and causal machine learning. This viewpoint argues that CIMA should be regarded as a higher form of evidence synthesis than conventional meta-analysis because it prioritizes causal interpretability, external validity, and decision relevance. As medicine moves toward precision care, real-world evidence, and automated analytics, evidence hierarchies must evolve accordingly. The future value of meta-analysis will depend not merely on how efficiently it pools evidence, but on how credibly it informs action in the populations where decisions are made.
 </p>
 </details>
 
@@ -1059,7 +1165,7 @@ Subgroup analyses within randomized controlled trials are often underpowered due
 </details>
 
 <details class="paper-item">
-  <summary><strong>2026-05-14 — Comparative Effectiveness of Individual Sodium Glucose Transporter 2 Inhibitors on Cardiovascular Outcomes in Type 2 Diabetes With Moderate Cardiovascular Risk: Emulation of a Target Trial</strong></summary>
+  <summary><strong>2026-05-14 — Comparative Effectiveness of Individual Sodium Glucose Transporter 2 Inhibitors on Cardiovascular Outcomes in Type 2 Diabetes With Moderate Cardiovascular Risk: Emulation of a Target Trial.</strong></summary>
 
 <p>
 <strong>Authors</strong>: Anum Zehra, Yihong Deng, K. Swarna, Jeph Herrin, Eric C. Polley, Joshua J. Neumiller, Rodolfo J. Galindo, Guillermo E. Umpierrez, Joseph S. Ross, Juan P. Brito, V. Montori, Bijan J. Borah, Bradley A. Maron, Mindy M. Mickelson, Rozalina G. McCoy<br>
@@ -1071,7 +1177,7 @@ Subgroup analyses within randomized controlled trials are often underpowered due
 <strong>Matched Keywords</strong>: super learner
 </p>
 <p><strong>Abstract</strong>:<br>
-SGLT2 (sodium‐glucose cotransporter 2) inhibitors reduce major adverse cardiovascular events (MACE) in type 2 diabetes. However, no direct comparison of individual SGLT2 inhibitor drugs has been conducted, particularly among adults with moderate cardiovascular risk who comprise most people with type 2 diabetes. We used data for commercial, Medicare Advantage, and Medicare fee‐for‐service beneficiaries to emulate a target trial of adults (≥21 years) with type 2 diabetes and moderate cardiovascular risk who started canagliflozin, dapagliflozin, or empagliflozin between 2015 and 2020. We estimated propensity scores using the super learner ensemble method and incorporated them as inverse probability of treatment weights into Cox models, estimating risk of MACE, expanded MACE, and hyperglycemic and hypoglycemic crises through December 31, 2022. The weighted cohort, balanced on all baseline covariates, included 137 232 patients (mean age 65.7 years [SD, 8.1], 75.3% non‐Hispanic White, 57.0% male, 81.9% on metformin, 11.4% on glucagon‐like peptide‐1 receptor agonists) starting canagliflozin (N=42 877), dapagliflozin (N=17 871), or empagliflozin (N=7648). The risk of MACE was lower among patients starting empagliflozin versus canagliflozin (hazard ratio [HR], 0.92 [95% CI, 0.87–0.97]), driven by reduced risk of all‐cause mortality (HR, 0.86 [95% CI, 0.80–0.94]). There was no difference in MACE between empagliflozin versus dapagliflozin or dapagliflozin versus canagliflozin therapy. There was no difference in remaining outcomes between the three drugs. The 3 most used SGLT2 inhibitor medications demonstrate similar effectiveness on cardiovascular outcomes among patients with type 2 diabetes at moderate cardiovascular risk, with differences between these drugs small in magnitude. Clinicians and health systems should prioritize enhancing access to these cardioprotective therapies.
+BACKGROUND SGLT2 (sodium-glucose cotransporter 2) inhibitors reduce major adverse cardiovascular events (MACE) in type 2 diabetes. However, no direct comparison of individual SGLT2 inhibitor drugs has been conducted, particularly among adults with moderate cardiovascular risk who comprise most people with type 2 diabetes. METHODS We used data for commercial, Medicare Advantage, and Medicare fee-for-service beneficiaries to emulate a target trial of adults (≥21 years) with type 2 diabetes and moderate cardiovascular risk who started canagliflozin, dapagliflozin, or empagliflozin between 2015 and 2020. We estimated propensity scores using the super learner ensemble method and incorporated them as inverse probability of treatment weights into Cox models, estimating risk of MACE, expanded MACE, and hyperglycemic and hypoglycemic crises through December 31, 2022. RESULTS The weighted cohort, balanced on all baseline covariates, included 137 232 patients (mean age 65.7 years [SD, 8.1], 75.3% non-Hispanic White, 57.0% male, 81.9% on metformin, 11.4% on glucagon-like peptide-1 receptor agonists) starting canagliflozin (N=42 877), dapagliflozin (N=17 871), or empagliflozin (N=7648). The risk of MACE was lower among patients starting empagliflozin versus canagliflozin (hazard ratio [HR], 0.92 [95% CI, 0.87-0.97]), driven by reduced risk of all-cause mortality (HR, 0.86 [95% CI, 0.80-0.94]). There was no difference in MACE between empagliflozin versus dapagliflozin or dapagliflozin versus canagliflozin therapy. There was no difference in remaining outcomes between the three drugs. CONCLUSIONS The 3 most used SGLT2 inhibitor medications demonstrate similar effectiveness on cardiovascular outcomes among patients with type 2 diabetes at moderate cardiovascular risk, with differences between these drugs small in magnitude. Clinicians and health systems should prioritize enhancing access to these cardioprotective therapies.
 </p>
 </details>
 
@@ -1343,6 +1449,23 @@ Background Globally, over 10 million youth use e-cigarettes; United States use, 
 </details>
 
 <details class="paper-item">
+  <summary><strong>2026-04-01 — Cardiovascular Effects of Alogliptin, Linagliptin, Saxagliptin, and Sitagliptin: A Target Trial Emulation of a Comparative Effectiveness Study.</strong></summary>
+
+<p>
+<strong>Authors</strong>: Urja N. Kalathiya, Kimberly Yuang, Jeph Herrin, K. Swarna, Yihong Deng, Eric C. Polley, Joshua J. Neumiller, Rodolfo J. Galindo, Guillermo E. Umpierrez, Joseph S. Ross, Juan P. Brito, Victor M. Montori, Bijan J. Borah, Bradley A Maron, Mindy M. Mickelson, Rozalina G. McCoy<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-04-01<br>
+<strong>Venue</strong>: Endocrine Practice<br>
+<strong>DOI</strong>: 10.1016/j.eprac.2026.04.004<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/ea1b8467d5efddfb7b780fac8564fe69f282bd4b">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: super learner
+</p>
+<p><strong>Abstract</strong>:<br>
+OBJECTIVE To compare major adverse cardiovascular event (MACE) risks among available dipeptidyl peptidase-4 inhibitors among adults with type 2 diabetes at moderate cardiovascular risk. METHODS Using claims data of enrollees in commercial, Medicare Advantage, and traditional Medicare plans between 2014 and 2021, we identified adults (≥21 years) with type 2 diabetes, moderate cardiovascular risk, and not requiring insulin who initiated alogliptin, linagliptin, saxagliptin, or sitagliptin. Random treatment assignment was emulated using propensity scores estimated using the super learner ensemble and incorporated as inverse probability of treatment weights into Cox models examining MACE (myocardial infarction, stroke, all-cause mortality), heart failure hospitalization (HHF), arterial revascularization, and hypoglycemia requiring emergency department/hospital use, with weighted median follow-up times calculated for each treatment arm. RESULTS The weighted study cohort included 184,660 patients starting alogliptin (N= 2541), linagliptin (N= 42,433), saxagliptin (N= 15,649), and sitagliptin (N= 124,038) with median weighted follow-up of 39.5 (95% CI 35.8-41.6), 40.9 (95% CI 40.5-41.3), 42.6 (95% CI 41.7-43.3), and 42.4 (95% CI 42.2-42.6) months, respectively. One year after DDP4i initiation, MACE rates were 2.2%, 2.2%, 2.0%, and 1.7% for sitagliptin, linagliptin, saxagliptin, and alogliptin, respectively; HHF rates were 0.42%, 0.41%, 0.41%, and 0.37%; and hypoglycemia rates were 0.2%, 0.2%, 0.2%, and 0.2%. Saxagliptin was associated with modestly decreased risk of MACE vs sitagliptin (HR 0.94; 95% CI 0.88-0.99) and linagliptin (HR 0.94; 95% CI 0.87-1.00). There was no significant difference in HHF or hypoglycemia risk among the study drugs. CONCLUSION Risks of MACE, HHF, and hypoglycemia were comparable with all DPP4i. Choice of medication may be determined based on local availability.
+</p>
+</details>
+
+<details class="paper-item">
   <summary><strong>2026-03-31 — One-step TMLE for weighted average treatment effects</strong></summary>
 
 <p>
@@ -1520,6 +1643,23 @@ The diagnostic landscape for idiopathic normal-pressure hydrocephalus is intrica
 </p>
 <p><strong>Abstract</strong>:<br>
 Background: Interleukin-6 (IL-6) is a cytokine that plays a key role in systemic hyperinflammation and may mediate the relationship between acute COVID-19 and severe long-term outcomes such as Long COVID or death. IL-6 modulating drugs may reduce patients&#x27; risk of severe post-COVID-19 outcomes. Methods: We conducted an emulated target trial in a retrospective cohort of patients with moderate-to-severe rheumatoid arthritis who were prescribed IL-6 receptor antagonists (sarilumab or tocilizumab, pooled treatment) or other biologic agents (anakinra or baricitinib, pooled comparator) in 2022. We compared the 12-month cumulative incidence of mortality and Long COVID (diagnosed and probable) between groups using Super Learner and targeted maximum likelihood estimation, adjusting for covariates of interest. Results: In our cohort of 3,553 patients, we found that prescription of IL-6 receptor antagonists was associated with a lower 12-month cumulative mortality (adjusted relative risk (aRR) 0.40, 95% CI 0.27, 0.59), diagnosed Long COVID (aRR 0.42, 95% CI 0.23, 0.78), and probable Long COVID (aRR 0.71, 95% CI 0.61, 0.83), compared to prescription of other biologic agents among rheumatoid arthritis patients. Conclusions: IL-6 receptor antagonists may prevent the incidence of severe post-COVID-19 outcomes such as Long COVID or mortality. This supports the hypothesis that IL-6 may be a mechanistic biomarker of COVID-19 sequelae and that acute COVID-19 severity may mediate this relationship.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2026-03-01 — Transportability to the European Population of Efficacy of Belumosudil as Compared With Physician&#x27;s Choice of Best Available Therapy for the Treatment of Chronic Graft Versus Host Disease.</strong></summary>
+
+<p>
+<strong>Authors</strong>: Daniel Wolff, C. Solano, D. Michonneau, F. Bonifazi, V. Mehra, K. Hall, A. Lazaryan, Catherine J. Lee, Aaron C. Logan, M. J. van der Laan, Susan Gruber, S. Kabadi, I. Khan, C. Nicholls, L. Rota, E. Nikai, E. Ponomareva, A. Koumas, Edmund K. Waller<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-03-01<br>
+<strong>Venue</strong>: Transplantation and Cellular Therapy<br>
+<strong>DOI</strong>: 10.1016/j.jtct.2026.03.028<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/1536fd52975c94088fd1f30054387a9867fc3820">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: targeted maximum likelihood estimation
+</p>
+<p><strong>Abstract</strong>:<br>
+Belumosudil was approved by US Food and Drug Administration in July 2021 for the treatment of relapsed/refractory chronic graft-versus-host disease (cGVHD) in patients aged ≥12 years after failure of at least 2 prior lines of therapy (LOTs). By comparing the treatment response pattern of patients between the Europe and US, this transportability analysis modelled belumosudil&#x27;s effect in European patients based on the observed effect in real-world US patients. This ROCKreal study used a targeted maximum likelihood estimation-based transportability analysis to compare treatment-response pattern in Europe and US to evaluate the potential efficacy of belumosudil compared with BAT for treatment of cGVHD in European patients after failure of 2 to 5 prior LOTs. This analysis generalized US ROCKreal study findings to European patients. Data was collected on 196 US and 222 European patients ≥12 years of age with cGVHD treated with 2 to 5 prior LOTs with visits between March 2015 and 2024 from 8 US and 32 European sites. Sustained steroid reduction is recognized as a clinically meaningful indicator of benefit in late-line cGVHD, consistent with prior work examining composite clinical benefit measures. The primary endpoint was the adjusted (causal) ratio in 6-month overall response rate (ORR), defined using a prespecified sequential algorithm incorporating NIH consensus criteria, physician assessment, and ≥50% corticosteroid taper without progression. Because outcomes were not collected for European patients, efficacy endpoints were transported using US outcome models. A supplementary endpoint, the adjusted (causal) difference in 6-month ORR, was also evaluated. At LOT initiation, median age (52.6 versus 57.6 years) and rate of severe cGVHD (40% versus 51%) were lower in Europe than the US; otherwise, populations were well-balanced. Efficacy was defined as ORR at 6 months post-LOT initiation when treated with belumosudil versus best available therapy (BAT). Using targeted maximum likelihood estimation, an outcome model was trained on US data. Treatment-specific responses were predicted using European patient characteristics, resulting in an estimated ORR of 37.6% when treated with belumosudil versus 26.3% with BAT (ORR ratio = 1.427 95% CI: [1.05, ∞); P-value: .03]). In line with positive efficacy results observed in previous real-world evidence studies in US and European patients, findings from this transportability analysis indicate that the treatment-response pattern are similar in Europe compared to US and cGVHD patients treated with belumosudil would have significantly more clinical benefit compared to BAT in Europe.
 </p>
 </details>
 
@@ -2004,6 +2144,22 @@ House-ball scenes around the world have historically been a community for queer 
 </details>
 
 <details class="paper-item">
+  <summary><strong>2026 — Mid-life antihypertensive initiation and incident dementia: a machine learning-weighted target trial emulation in the health and retirement study.</strong></summary>
+
+<p>
+<strong>Authors</strong>: S. Hajihosseini, Reza Khademi, Anita Fatehi, Behnoosh Taghvaei, Y. Dowlatabadi, Serve Mamkhezri, Taher Fanihagh, Mohaddeseh Belbasi, Maryam Gholizadeh, Atiye Rashidi, Danyal Yarahmadi, Saeid Najafi<br>
+<strong>Year</strong>: 2026<br>
+<strong>Venue</strong>: American Journal of Cardiovascular Research<br>
+<strong>DOI</strong>: 10.62347/kext8146<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/d9e6fff39c96cf2c9a308a9b9c3cb0c6dc347b30">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: super learner
+</p>
+<p><strong>Abstract</strong>:<br>
+BACKGROUND Mid-life hypertension is a treatable vascular risk for dementia, yet trial evidence on whether starting antihypertensives in middle age lowers late-life dementia remains mixed. This study aimed to emulate a randomized trial to estimate whether initiating antihypertensive therapy at mid-life reduces subsequent dementia risk. METHODS We emulated a randomized target trial of antihypertensive initiation using Health and Retirement Study data (2002-2020; 18-year follow-up). Eligible adults aged 45-65 with incident hypertension and dementia-free at baseline (n = 2,491) were classified in 2002 as antihypertensive treatment initiators or non-initiators. Inverse probability weights combined (I) a Firth-penalized logistic model for treatment initiation and (II) biennial censoring models; weighted Cox regression estimated hazard ratios (HRs) for incident dementia. To probe model dependence, we re-estimated treatment weights with a Super Learner ensemble and repeated all analyses. RESULTS Groups differed on several baseline covariates, but weighting brought every standardized mean difference to &lt;0.10. During follow-up, cumulative dementia incidence reached 15% in non-initiators and 13% in initiators. The intention-to-treat risk ratio (RR) was 0.89 (95% confidence interval [CI], 0.57-1.62); biennial RRs were likewise close to the null. Re-estimating treatment weights with a Super Learner ensemble yielded comparable covariate balance and a year-18 RR of 1.05 (0.74-1.70), essentially reproducing the primary result. Analyses accounting for competing risks of death or dropout did not materially change the estimates. CONCLUSIONS In this nationally representative cohort, starting antihypertensive therapy in mid-life did not meaningfully change dementia risk across 18 years. Agreement between conventional and machine-learning propensity approaches makes a large protective or harmful effect unlikely and underscores the need to explore additional strategies for dementia prevention beyond routine blood pressure pharmacotherapy.
+</p>
+</details>
+
+<details class="paper-item">
   <summary><strong>2026-01-01 — Handling missing data in longitudinal randomized clinical trials within the framework of targeted learning under MAR and MNAR.</strong></summary>
 
 <p>
@@ -2106,7 +2262,7 @@ Introduction To examine within-class sulfonylurea safety, we compared risks of m
 </details>
 
 <details class="paper-year">
-  <summary><strong>2025 (171 papers)</strong></summary>
+  <summary><strong>2025 (172 papers)</strong></summary>
 
 <details class="paper-item">
   <summary><strong>2025-12-29 — Quantifying the effects of the Correa pathway from Helicobacter pylori infection to gastric cancer: causal inference found in 6.8 million Koreans</strong></summary>
@@ -2143,10 +2299,10 @@ Pillar stability prediction is essential for underground mining safety, yet it r
 </details>
 
 <details class="paper-item">
-  <summary><strong>2025-12-15 — Machine learning to optimize precision in the analysis of randomized trials: A journey in pre-specified, yet data-adaptive learning.</strong></summary>
+  <summary><strong>2025-12-15 — Machine learning to optimize precision in the analysis of randomized trials: A journey in pre-specified, yet data-adaptive learning</strong></summary>
 
 <p>
-<strong>Authors</strong>: L. Balzer, Mark van der Laan, Maya L Petersen<br>
+<strong>Authors</strong>: L. Balzer, M. J. van der Laan, Maya L Petersen<br>
 <strong>Year</strong>: 2025<br>
 <strong>Publication Date</strong>: 2025-12-15<br>
 <strong>Venue</strong>: Clinical Trials<br>
@@ -2155,7 +2311,7 @@ Pillar stability prediction is essential for underground mining safety, yet it r
 <strong>Matched Keywords</strong>: tmle
 </p>
 <p><strong>Abstract</strong>:<br>
-Covariate adjustment is an approach to improve the precision of trial analyses by adjusting for baseline variables that are prognostic of the primary endpoint. Motivated by the SEARCH Universal HIV Test-and-Treat Trial (2013-2017), we tell our story of developing, evaluating, and implementing a machine learning-based approach for covariate adjustment. We provide the rationale for as well as the practical concerns with such an approach for estimating marginal effects. Using schematics, we illustrate our procedure: targeted machine learning estimation (TMLE) with Adaptive Pre-specification. Briefly, sample-splitting is used to data-adaptively select the combination of estimators of the outcome regression (i.e. the conditional expectation of the outcome given the trial arm and covariates) and known propensity score (i.e. the conditional probability of being randomized to the intervention given the covariates) that minimizes the cross-validated variance estimate and, thereby, maximizes empirical efficiency. We discuss our approach for evaluating finite sample performance with parametric and plasmode simulations, pre-specifying the Statistical Analysis Plan, and unblinding in real-time on video conference with our colleagues from around the world. We present the results from applying our approach in the primary, pre-specified analysis of eight recently published trials (2022-2024). We conclude with practical recommendations and an invitation to implement our approach in the primary analysis of your next trial.
+Covariate adjustment is an approach to improve the precision of trial analyses by adjusting for baseline variables that are prognostic of the primary endpoint. Motivated by the SEARCH Universal HIV Test-and-Treat Trial (2013–2017), we tell our story of developing, evaluating, and implementing a machine learning-based approach for covariate adjustment. We provide the rationale for as well as the practical concerns with such an approach for estimating marginal effects. Using schematics, we illustrate our procedure: targeted machine learning estimation (TMLE) with Adaptive Pre-specification. Briefly, sample-splitting is used to data-adaptively select the combination of estimators of the outcome regression (i.e. the conditional expectation of the outcome given the trial arm and covariates) and known propensity score (i.e. the conditional probability of being randomized to the intervention given the covariates) that minimizes the cross-validated variance estimate and, thereby, maximizes empirical efficiency. We discuss our approach for evaluating finite sample performance with parametric and plasmode simulations, pre-specifying the Statistical Analysis Plan, and unblinding in real-time on video conference with our colleagues from around the world. We present the results from applying our approach in the primary, pre-specified analysis of eight recently published trials (2022–2024). We conclude with practical recommendations and an invitation to implement our approach in the primary analysis of your next trial.
 </p>
 </details>
 
@@ -2163,7 +2319,7 @@ Covariate adjustment is an approach to improve the precision of trial analyses b
   <summary><strong>2025-12-15 — 12-Month Results from the CISTO Study Comparing Radical Cystectomy Versus Bladder-Sparing Therapy for Recurrent High-Grade Non-Muscle Invasive Bladder Cancer</strong></summary>
 
 <p>
-<strong>Authors</strong>: John L. Gore, Erika M Wolff, Michael G Nash, Bryan A. Comstock, Scott M. Gilbert, Sam S. Chang, Stephanie Chisolm, Doug B MacLean, Jonathan L Wright, Max Kates, Kamal S. Pohar, Thomas J. Guzzo, T. Bivalacqua, K. Nepple, Jeffrey S. Montgomery, K. Scarpato, S. Woldu, Viraj A Master, David Y T Chen, M. Mossanen, S. Daneshmand, Brock B O&#x27;Neil, Mark D Tyson, Mary E. Westerman, Ashish M. Kamat, A. Mansour, K. Chamie, Stephen B. Riggs, J. Kukreja, Parth K. Modi, Tullika Garg, C.C. Peyton, Jeffrey W. Nix, Rian J. Dickstein, A. Gadzinski, Alex Sankin, N. Shore, Brian R Lane, J. Bassett, Sanjay Patel, David S. Morris, L. Macleod, Eugene K Lee, Chad R Ritch, Kristin M Follmer, Jenney R. Lee, Sung Min Kim, Larry G Kessler, Angela B. Smith<br>
+<strong>Authors</strong>: John L. Gore, Erika M Wolff, Michael G Nash, Bryan A. Comstock, Scott M. Gilbert, Sam S. Chang, Stephanie Chisolm, Doug B MacLean, Jonathan L Wright, Max Kates, Kamal S. Pohar, Thomas J. Guzzo, T. Bivalacqua, K. Nepple, Jeffrey S. Montgomery, K. Scarpato, S. Woldu, Viraj A Master, David Y T Chen, M. Mossanen, S. Daneshmand, Brock B O&#x27;Neil, Mark D Tyson, Mary E. Westerman, Ashish M. Kamat, A. Mansour, K. Chamie, Stephen B. Riggs, J. Kukreja, Parth K. Modi, Tullika Garg, C.C. Peyton, Jeffrey W. Nix, Rian J. Dickstein, A. Gadzinski, Alex Sankin, N. Shore, Brian R Lane, J. Bassett, Sanjay Patel, David S. Morris, L. Macleod, Eugene K Lee, Chad R. Ritch, Kristin M Follmer, Jenney R. Lee, Sung Min Kim, Larry G Kessler, Angela B. Smith<br>
 <strong>Year</strong>: 2025<br>
 <strong>Publication Date</strong>: 2025-12-15<br>
 <strong>Venue</strong>: Journal of Clinical Oncology<br>
@@ -4755,6 +4911,21 @@ Targeted maximum likelihood estimators (TMLEs) are asymptotically optimal among 
 </p>
 <p><strong>Abstract</strong>:<br>
 Across various domains, the growing advocacy for open science and open-source machine learning has made an increasing number of models publicly available. These models allow practitioners to integrate them into their own contexts, reducing the need for extensive data labeling, training, and calibration. However, selecting the best model for a specific target population remains challenging due to issues like limited transferability, data heterogeneity, and the difficulty of obtaining true labels or outcomes in real-world settings. In this paper, we propose an unsupervised model aggregation method, U-aggregation, designed to integrate multiple pre-trained models for enhanced and robust performance in new populations. Unlike existing supervised model aggregation or super learner approaches, U-aggregation assumes no observed labels or outcomes in the target population. Our method addresses limitations in existing unsupervised model aggregation techniques by accommodating more realistic settings, including heteroskedasticity at both the model and individual levels, and the presence of adversarial models. Drawing on insights from random matrix theory, U-aggregation incorporates a variance stabilization step and an iterative sparse signal recovery process. These steps improve the estimation of individuals&#x27; true underlying risks in the target population and evaluate the relative performance of candidate models. We provide a theoretical investigation and systematic numerical experiments to elucidate the properties of U-aggregation. We demonstrate its potential real-world application by using U-aggregation to enhance genetic risk prediction of complex traits, leveraging publicly available models from the PGS Catalog.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2025-01-29 — An Estimator-Robust Design for Augmenting Randomized Controlled Trials with External Real-World Data</strong></summary>
+
+<p>
+<strong>Authors</strong>: Sky Qiu, J. Tarp, Andrew Mertens, M. V. D. Laan<br>
+<strong>Year</strong>: 2025<br>
+<strong>Publication Date</strong>: 2025-01-29<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/945638f72e1b3de7f87453ebf527d1cb17bcad94">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: targeted maximum likelihood estimation, tmle
+</p>
+<p><strong>Abstract</strong>:<br>
+Augmenting randomized controlled trials (RCTs) with external real-world data (RWD) has the potential to improve the finite sample efficiency of treatment effect estimators. We describe using adaptive targeted maximum likelihood estimation (A-TMLE) for estimating the average treatment effect (ATE) by decomposing the ATE estimand into two components: a pooled-ATE estimand that combines data from both the RCT and external sources, and a bias estimand that captures the conditional effect of RCT enrollment on the outcome. This approach views the RCT data as the reference and corrects for inconsistencies of any kind between the RCT and the external data source. Given the growing abundance of external RWD from modern electronic health records, determining the optimal strategy to select candidate external patients for data integration remains an open yet critical problem. In this work, we begin by studying the robustness property of the A-TMLE estimator and then propose a matching-based sampling strategy that attempts to improve the robustness of the estimator with respect to the target estimand. Our proposed strategy is outcome-blind and involves matching based on two one-dimensional scores: the trial enrollment score and the propensity score in the external data. We demonstrate in simulations that our sampling strategy improves the coverage and narrows the widths of confidence intervals produced by A-TMLE. We illustrate our method with a case study of augmenting the DEVOTE cardiovascular safety trial by using the Optum Clinformatics claims database.
 </p>
 </details>
 
@@ -14072,7 +14243,7 @@ OBJECTIVE To demonstrate the performance of methodologies that include machine l
   <summary><strong>2019-10-02 — Exercise During the First Trimester and Infant Size at Birth: Targeted Maximum Likelihood Estimation of the Causal Risk Difference.</strong></summary>
 
 <p>
-<strong>Authors</strong>: Samantha F. Ehrlich, R. Neugebauer, Juanran Feng, M. Hedderson, A. Ferrara<br>
+<strong>Authors</strong>: Samantha F. Ehrlich, R. Neugebauer, Juanran Feng, Monique M. Hedderson, A. Ferrara<br>
 <strong>Year</strong>: 2019<br>
 <strong>Publication Date</strong>: 2019-10-02<br>
 <strong>Venue</strong>: American Journal of Epidemiology<br>
