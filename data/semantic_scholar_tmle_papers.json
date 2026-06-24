@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T15:03:07Z",
+  "generated_at": "2026-06-19T15:01:06Z",
   "source": "Semantic Scholar Graph API",
   "unauthenticated": true,
   "mode": "bulk",
@@ -18,7 +18,7 @@
   "query_stats": [
     {
       "keyword": "tmle",
-      "fetched_raw_count": 482
+      "fetched_raw_count": 486
     },
     {
       "keyword": "targeted maximum likelihood estimation",
@@ -26,15 +26,15 @@
     },
     {
       "keyword": "targeted minimum loss based estimation",
-      "fetched_raw_count": 345
+      "fetched_raw_count": 344
     },
     {
       "keyword": "super learner",
-      "fetched_raw_count": 1021
+      "fetched_raw_count": 1023
     },
     {
       "keyword": "super learning",
-      "fetched_raw_count": 2000
+      "fetched_raw_count": 1961
     },
     {
       "keyword": "highly adaptive lasso",
@@ -43,190 +43,106 @@
   ],
   "query_errors": [],
   "incomplete": false,
-  "fetched_paper_count": 904,
-  "newly_appended_count": 10,
-  "updated_existing_count": 5,
+  "fetched_paper_count": 910,
+  "newly_appended_count": 7,
+  "updated_existing_count": 3,
   "existing_blocked_removed": 0,
   "existing_duplicates_removed": 0,
   "newly_added_papers": [
     {
-      "title": "Biomechanical drivers of fastball velocity identified from In-game motion capture using Super Learner ensemble modelling.",
+      "title": "Association of household wealth and education with hypertension among adults in Lesotho: Evidence from a propensity score–based study",
       "year": 2026,
       "authors": [
-        "Garrett Fernandez",
-        "G. Bullock",
-        "Ryan M. Zappa",
-        "Gretchen D. Oliver",
-        "Kristen Nicholson"
+        "R. Gupta",
+        "Amrit Baral",
+        "Shams Shabab Haider",
+        "P. Chakraborty"
       ],
-      "publication_date": "2026-06-08",
-      "doi": "10.1080/14763141.2026.2680518",
-      "paper_id": "ccbd33eb8941a8037dbd9b7f885632337864da56"
+      "publication_date": "2026-06-10",
+      "doi": "10.1371/journal.pgph.0006599",
+      "paper_id": "56b8b67d51a1087727165a7f0508f4bb16318ca3"
     },
     {
-      "title": "Cardiovascular Effects of Alogliptin, Linagliptin, Saxagliptin, and Sitagliptin: A Target Trial Emulation of a Comparative Effectiveness Study.",
+      "title": "Ensemble learning for predicting birth trauma using high-dimensional data in the neonatal intensive care unit",
       "year": 2026,
       "authors": [
-        "Urja N. Kalathiya",
-        "Kimberly Yuang",
-        "Jeph Herrin",
-        "K. Swarna",
-        "Yihong Deng",
-        "Eric C. Polley",
-        "Joshua J. Neumiller",
-        "Rodolfo J. Galindo",
-        "Guillermo E. Umpierrez",
-        "Joseph S. Ross",
-        "Juan P. Brito",
-        "Victor M. Montori",
-        "Bijan J. Borah",
-        "Bradley A Maron",
-        "Mindy M. Mickelson",
-        "Rozalina G. McCoy"
+        "C. Odhiambo",
+        "Nirzari Parikh",
+        "G. Kopec",
+        "Adam R. Cross"
       ],
-      "publication_date": "2026-04-01",
-      "doi": "10.1016/j.eprac.2026.04.004",
-      "paper_id": "ea1b8467d5efddfb7b780fac8564fe69f282bd4b"
+      "publication_date": "2026-04-18",
+      "doi": "10.1038/s41598-026-46706-4",
+      "paper_id": "fb94af9f122fefae7d94cc5edb1252bd817d2871"
     },
     {
-      "title": "Cluster Trials Inference With CARE.",
+      "title": "Levosimendan in Patients With Low Cardiac Ejection Fraction Undergoing Coronary Artery Bypass Grafting: Machine Learning Double Robust Causal Effect Analysis.",
       "year": 2026,
       "authors": [
-        "Sergey Alexeev",
-        "Rachael L. Morton"
+        "J. Bis",
+        "K. Mendrala",
+        "Marek Deja",
+        "T. Darocha",
+        "Łukasz Morkisz",
+        "Mikołaj Jodłowski",
+        "R. Gocoł"
       ],
-      "publication_date": "2026-06-01",
-      "doi": "10.1002/sim.70610",
-      "paper_id": "5224398b4f2b18ee5875bbe13cb6d65d8acdbbcc"
+      "publication_date": "2026-05-01",
+      "doi": "10.1053/j.jvca.2026.05.060",
+      "paper_id": "0b3038e38ee7b41a66c711beec8e94db4e7f0bd8"
     },
     {
-      "title": "Mid-life antihypertensive initiation and incident dementia: a machine learning-weighted target trial emulation in the health and retirement study.",
+      "title": "Prediction-Powered Causal Inference by Automatic Debiased Machine Learning and Semi-Supervised Riesz Regression",
       "year": 2026,
       "authors": [
-        "S. Hajihosseini",
-        "Reza Khademi",
-        "Anita Fatehi",
-        "Behnoosh Taghvaei",
-        "Y. Dowlatabadi",
-        "Serve Mamkhezri",
-        "Taher Fanihagh",
-        "Mohaddeseh Belbasi",
-        "Maryam Gholizadeh",
-        "Atiye Rashidi",
-        "Danyal Yarahmadi",
-        "Saeid Najafi"
+        "Masahiro Kato"
       ],
-      "publication_date": null,
-      "doi": "10.62347/kext8146",
-      "paper_id": "d9e6fff39c96cf2c9a308a9b9c3cb0c6dc347b30"
+      "publication_date": "2026-06-11",
+      "doi": null,
+      "paper_id": "a4bd702c1f3276b78ecc1c52303c4587cc026d4e"
     },
     {
-      "title": "Personal and Family History of Cancer and Primary Lung Cancer Prevalence Among Never Smoking Disaggregated Asian American Women",
+      "title": "Super Learner Ensemble Modeling of CPTAC Proteomic Data for Survival Prediction in Head and Neck Squamous Cell Carcinoma",
       "year": 2026,
       "authors": [
-        "B. Kaur",
-        "Avinav Biswas",
-        "Tyler Chervo",
-        "Woo Jin Ahn",
-        "Shangzi Gao",
-        "Dang Nguyen",
-        "Carissa Villanueva",
-        "S. Tivakaran",
-        "M. Srinivasan",
-        "N. Panyanouvong",
-        "L. Uy",
-        "N. Rajeshuni",
-        "Robert J Huang",
-        "Neil Kamdar",
-        "O. Yasui",
-        "Gloria S. Kim",
-        "L. Palaniappan",
-        "J. B. Velotta"
+        "Ethan Park",
+        "Hannah Lee",
+        "Eun Jeong Oh",
+        "Tristan Tham",
+        "Seungjun Ahn"
       ],
-      "publication_date": "2026-06-06",
-      "doi": "10.3390/cancers18121862",
-      "paper_id": "7878343a2371da95a6c0ebfd2d33147a408f4670"
+      "publication_date": "2026-06-16",
+      "doi": "10.64898/2026.06.11.731237",
+      "paper_id": "0d2f1fa24323ebbf076bae6d258d417d6e6c08eb"
     },
     {
-      "title": "Rapid Sequence Induction Practices and Outcomes in Abdominal Surgery Patients: A Multicenter Observational Cohort Study.",
+      "title": "Targeted maximum likelihood estimation (TMLE) in regulatory submissions and research: a landscape analysis.",
       "year": 2026,
       "authors": [
-        "Sivan G. Marcus",
-        "Michael Mathis",
-        "M. Bokoch",
-        "Robert Freundlich",
-        "David Chen",
-        "Lee-lynn Chen",
-        "Matthieu Legrand"
-      ],
-      "publication_date": "2026-06-08",
-      "doi": "10.1097/aln.0000000000006165",
-      "paper_id": "512ee23cd42cb71c7710d2de3a13728d9a2e66a9"
-    },
-    {
-      "title": "Rethinking Evidence Synthesis: Why Causally Interpreted Meta-Analysis Should Supplant Conventional Meta-Analysis at the Top of the Evidence Hierarchy in Medicine",
-      "year": 2026,
-      "authors": [
-        "Alsanussi T. Elsherif"
-      ],
-      "publication_date": "2026-05-25",
-      "doi": "10.63720/v2i1005",
-      "paper_id": "5e6d4754bdd4c87b70e5fba6a00017daee7d4a33"
-    },
-    {
-      "title": "The impact of neighborhood violence on domestic femicides in Mexico: A demonstration of the causal inference roadmap.",
-      "year": 2026,
-      "authors": [
-        "Alma L. Juarez Armenta",
-        "N. Prata"
-      ],
-      "publication_date": "2026-06-01",
-      "doi": "10.1016/j.socscimed.2026.119458",
-      "paper_id": "3f53bf21155cbea62c6c2dbd9e582aff7c6103f4"
-    },
-    {
-      "title": "Transportability to the European Population of Efficacy of Belumosudil as Compared With Physician's Choice of Best Available Therapy for the Treatment of Chronic Graft Versus Host Disease.",
-      "year": 2026,
-      "authors": [
-        "Daniel Wolff",
-        "C. Solano",
-        "D. Michonneau",
-        "F. Bonifazi",
-        "V. Mehra",
-        "K. Hall",
-        "A. Lazaryan",
-        "Catherine J. Lee",
-        "Aaron C. Logan",
-        "M. J. van der Laan",
+        "Hana Lee",
+        "Menglun Wang",
+        "Spencer R. Haupert",
+        "Gabriel K Innes",
+        "S. Dutcher",
         "Susan Gruber",
-        "S. Kabadi",
-        "I. Khan",
-        "C. Nicholls",
-        "L. Rota",
-        "E. Nikai",
-        "E. Ponomareva",
-        "A. Koumas",
-        "Edmund K. Waller"
+        "Qi Liu"
       ],
-      "publication_date": "2026-03-01",
-      "doi": "10.1016/j.jtct.2026.03.028",
-      "paper_id": "1536fd52975c94088fd1f30054387a9867fc3820"
+      "publication_date": "2026-06-17",
+      "doi": "10.1515/ijb-2026-0055",
+      "paper_id": "41336aff25e32b31123f87af037a74a2f956b1d3"
     },
     {
-      "title": "An Estimator-Robust Design for Augmenting Randomized Controlled Trials with External Real-World Data",
+      "title": "Causal Inference in High-Dimensional Settings: Machine Learning Integration and Recent Advances",
       "year": 2025,
       "authors": [
-        "Sky Qiu",
-        "J. Tarp",
-        "Andrew Mertens",
-        "M. V. D. Laan"
+        "Madison Hendricks"
       ],
-      "publication_date": "2025-01-29",
-      "doi": null,
-      "paper_id": "945638f72e1b3de7f87453ebf527d1cb17bcad94"
+      "publication_date": "2025-12-30",
+      "doi": "10.61424/k2yy2a12",
+      "paper_id": "44901b2736b485600cbaafe70e9fe4e6deee29bc"
     }
   ],
-  "paper_count": 1052,
+  "paper_count": 1059,
   "papers": [
     {
       "title": "A CV-TMLE global test approach to improve power in rare disease clinical studies with multiple-component endpoints",
@@ -411,6 +327,28 @@
       "source_queries": [
         "targeted maximum likelihood estimation",
         "tmle"
+      ]
+    },
+    {
+      "title": "Association of household wealth and education with hypertension among adults in Lesotho: Evidence from a propensity score–based study",
+      "authors": [
+        "R. Gupta",
+        "Amrit Baral",
+        "Shams Shabab Haider",
+        "P. Chakraborty"
+      ],
+      "abstract": "In Lesotho, rapid urbanization and lifestyle transitions have contributed to a rising burden of hypertension, yet the role of socioeconomic factors remains inadequately understood. This study examined the independent and joint associations of household wealth and educational attainment with hypertension among adults in Lesotho. We analyzed data from 5,457 adults aged 18–49 years from the 2023–2024 Lesotho Demographic and Health Survey. Hypertension was defined as systolic blood pressure ≥140 mmHg, diastolic blood pressure ≥90 mmHg, self-reported prior diagnosis by a health professional, or current use of antihypertensive medication. The main exposures were household wealth status (poor vs non poor) and educational attainment (below secondary vs secondary or higher). Propensity scores were estimated using a super learner algorithm and applied through one-to-one nearest neighbor matching (PS matched) and inverse probability weighting (IPW) to adjust for covariates. Weighted logistic regression models generated adjusted odds ratios (AORs) and 95% confidence intervals (CIs). Overall, 21.2% (weighted) of participants were hypertensive. Adults from non poor households had significantly higher odds of hypertension than those from poor households (PS matched AOR 1.56, 95% CI 1.13–2.14; IPW AOR 1.76, 95% CI 1.21–2.57). Educational attainment alone was not significantly associated with hypertension. The wealth related gradient persisted across education strata, with the highest odds observed among non poor adults with secondary or higher education (AOR 2.06, 95% CI 1.34–3.16). Household wealth, but not education, was independently associated with hypertension among adults in Lesotho.",
+      "year": 2026,
+      "publication_date": "2026-06-10",
+      "paper_id": "56b8b67d51a1087727165a7f0508f4bb16318ca3",
+      "url": "https://www.semanticscholar.org/paper/56b8b67d51a1087727165a7f0508f4bb16318ca3",
+      "venue": "PLOS Global Public Health",
+      "doi": "10.1371/journal.pgph.0006599",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
       ]
     },
     {
@@ -681,8 +619,8 @@
       "publication_date": "2026-04-24",
       "paper_id": "99f409586d407c5c9aeb81619bdb6d69ea46ec06",
       "url": "https://www.semanticscholar.org/paper/99f409586d407c5c9aeb81619bdb6d69ea46ec06",
-      "venue": null,
-      "doi": null,
+      "venue": "arXiv.org",
+      "doi": "10.48550/arXiv.2604.22391",
       "matched_keywords": [
         "super learner"
       ],
@@ -990,6 +928,28 @@
       ]
     },
     {
+      "title": "Ensemble learning for predicting birth trauma using high-dimensional data in the neonatal intensive care unit",
+      "authors": [
+        "C. Odhiambo",
+        "Nirzari Parikh",
+        "G. Kopec",
+        "Adam R. Cross"
+      ],
+      "abstract": "Birth trauma remains a significant global health challenge and contributes substantially to neonatal morbidity and mortality. Although machine learning (ML) approaches have shown promise in predicting birth trauma, persistent limitations related to class imbalance, model interpretability, and incomplete characterization of risk hinder their clinical utility. This study aimed to develop and evaluate an ensemble ML framework capable of leveraging high-dimensional clinical data to capture both established and latent risk factors while maintaining transparency for clinical interpretation. We implemented a Super Learner ensemble integrating multiple base learners, class-balancing strategies, and SHAP-based explainability. On an independent test set, the ensemble correctly classified 102 true negatives and 12 true positives, with 25 false negatives and 2 false positives, yielding an overall accuracy of 80.9% (95% CI: 73.4%–87.0%). Model performance exceeded the no-information rate (p = 0.031) and demonstrated fair agreement beyond chance (Cohen’s κ = 0.38). Diagnostic performance was characterized by high specificity (98.1%) and positive predictive value (85.7%), but limited sensitivity (32.4%), resulting in a balanced accuracy of 65.3%. These findings highlight the inherent trade-off between sensitivity and specificity in imbalanced neonatal datasets while underscoring the potential of ensemble ML methods to support early identification of neonates at elevated risk for birth trauma. Integrating robust data science methodologies with clinical domain expertise provides a pathway toward more accurate, interpretable, and actionable decision-support tools in neonatal care.",
+      "year": 2026,
+      "publication_date": "2026-04-18",
+      "paper_id": "fb94af9f122fefae7d94cc5edb1252bd817d2871",
+      "url": "https://www.semanticscholar.org/paper/fb94af9f122fefae7d94cc5edb1252bd817d2871",
+      "venue": "Scientific Reports",
+      "doi": "10.1038/s41598-026-46706-4",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
       "title": "Ensemble Machine Learning and Statistical Procedures for Dynamic Predictions of Time-to-Event Outcomes",
       "authors": [
         "Nina van Gerwen",
@@ -1169,8 +1129,8 @@
       "publication_date": "2026-04-26",
       "paper_id": "ae53fb69d7c6be4b47095a785bbd89f586f42123",
       "url": "https://www.semanticscholar.org/paper/ae53fb69d7c6be4b47095a785bbd89f586f42123",
-      "venue": null,
-      "doi": null,
+      "venue": "arXiv.org",
+      "doi": "10.48550/arXiv.2604.23904",
       "matched_keywords": [
         "tmle"
       ],
@@ -1426,6 +1386,31 @@
       "source_queries": [
         "targeted maximum likelihood estimation",
         "tmle"
+      ]
+    },
+    {
+      "title": "Levosimendan in Patients With Low Cardiac Ejection Fraction Undergoing Coronary Artery Bypass Grafting: Machine Learning Double Robust Causal Effect Analysis.",
+      "authors": [
+        "J. Bis",
+        "K. Mendrala",
+        "Marek Deja",
+        "T. Darocha",
+        "Łukasz Morkisz",
+        "Mikołaj Jodłowski",
+        "R. Gocoł"
+      ],
+      "abstract": "OBJECTIVES The effectiveness of levosimendan in patients with severely impaired left ventricular function undergoing coronary artery bypass grafting (CABG) remains debated. While some early publications suggested a survival benefit, recent studies show conflicting results. This study used causal analysis to determine if preoperative levosimendan improves 30-day survival in this selected population. DESIGN Retrospective cohort study with machine learning double-robust causal effect analysis. SETTING Institutional cardiac surgery database. PARTICIPANTS A total of 973 patients with reduced left ventricular ejection fraction (LVEF ≤30%) undergoing CABG with or without concomitant valvular surgery. INTERVENTIONS Preoperative levosimendan administration versus no levosimendan. MEASUREMENTS AND MAIN RESULTS The primary outcome was 30-day all-cause mortality. Mortality prediction was modeled using extreme gradient boosting with Shapley additive explanations to quantify predictor contributions. Levosimendan contributed minimally to mortality prediction; age, renal function, and surgical complexity were the dominant predictors. The estimated average treatment effect of levosimendan on 30-day mortality was negligible (0.12 percentage points; 95% confidence interval [CI], -0.84 to 1.56). Null effects were consistent across double-robust targeted maximum likelihood estimation (difference, 1.08 percentage points; 95% CI, -6.66 to 10.71) and overlap weighting (0.12 percentage points; 95% CI, -0.80 to 1.58). CONCLUSIONS In this study, levosimendan does not significantly impact 30-day mortality in patients undergoing CABG with severely reduced LVEF (≤30%). Machine learning double-robust causal inference demonstrated a lack of significant therapeutic effect in this population.",
+      "year": 2026,
+      "publication_date": "2026-05-01",
+      "paper_id": "0b3038e38ee7b41a66c711beec8e94db4e7f0bd8",
+      "url": "https://www.semanticscholar.org/paper/0b3038e38ee7b41a66c711beec8e94db4e7f0bd8",
+      "venue": "Journal of Cardiothoracic and Vascular Anesthesia",
+      "doi": "10.1053/j.jvca.2026.05.060",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
       ]
     },
     {
@@ -1699,6 +1684,25 @@
       ]
     },
     {
+      "title": "Prediction-Powered Causal Inference by Automatic Debiased Machine Learning and Semi-Supervised Riesz Regression",
+      "authors": [
+        "Masahiro Kato"
+      ],
+      "abstract": "This study investigates semiparametric efficient estimation of causal and structural parameters in a semi-supervised setting. In our setting, unlabeled auxiliary regressors are available in addition to labeled observations consisting of outcomes and regressors. Our goal is to construct estimators of causal and structural parameters whose asymptotic variances are smaller than those of estimators constructed using only labeled data. We refer to this framework as prediction-powered causal inference (PPCI). We first derive the efficient influence function and the efficiency bound, which imply that the use of auxiliary regressors can attain a smaller asymptotic variance than the efficiency bound attainable from labeled observations alone. Then, by combining the efficient influence function with the debiased machine learning (DML) framework, we propose methods that we call DML-PPCI. If we construct an estimating-equation estimator, we refer to the method as EE-DML-PPCI; if we construct a targeted-learning estimator, we refer to the method as TMLE-DML-PPCI. The asymptotic variances of both estimators match our derived efficiency bound. In the construction of the estimators, estimation of the efficient influence function plays an important role. In our study, the efficient influence function is also a Neyman orthogonal score, which depends on the Riesz representer and the regression function. For Riesz representer estimation, we develop semi-supervised generalized Riesz regression with convergence rate guarantees.",
+      "year": 2026,
+      "publication_date": "2026-06-11",
+      "paper_id": "a4bd702c1f3276b78ecc1c52303c4587cc026d4e",
+      "url": "https://www.semanticscholar.org/paper/a4bd702c1f3276b78ecc1c52303c4587cc026d4e",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
+      ]
+    },
+    {
       "title": "Prenatal paracetamol exposure and wheezing in infancy: a targeted maximum likelihood estimation application",
       "authors": [
         "C. Moccia",
@@ -1886,6 +1890,30 @@
       ]
     },
     {
+      "title": "Super Learner Ensemble Modeling of CPTAC Proteomic Data for Survival Prediction in Head and Neck Squamous Cell Carcinoma",
+      "authors": [
+        "Ethan Park",
+        "Hannah Lee",
+        "Eun Jeong Oh",
+        "Tristan Tham",
+        "Seungjun Ahn"
+      ],
+      "abstract": "",
+      "year": 2026,
+      "publication_date": "2026-06-16",
+      "paper_id": "0d2f1fa24323ebbf076bae6d258d417d6e6c08eb",
+      "url": "https://www.semanticscholar.org/paper/0d2f1fa24323ebbf076bae6d258d417d6e6c08eb",
+      "venue": "bioRxiv",
+      "doi": "10.64898/2026.06.11.731237",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner",
+        "super learning"
+      ]
+    },
+    {
       "title": "Super learner ensemble-based internal quality assessment of watermelon via integration of tapping acoustics and rind texture analysis",
       "authors": [
         "Ketsarin Chawgien",
@@ -1937,6 +1965,33 @@
       ],
       "source_queries": [
         "targeted minimum loss based estimation"
+      ]
+    },
+    {
+      "title": "Targeted maximum likelihood estimation (TMLE) in regulatory submissions and research: a landscape analysis.",
+      "authors": [
+        "Hana Lee",
+        "Menglun Wang",
+        "Spencer R. Haupert",
+        "Gabriel K Innes",
+        "S. Dutcher",
+        "Susan Gruber",
+        "Qi Liu"
+      ],
+      "abstract": "",
+      "year": 2026,
+      "publication_date": "2026-06-17",
+      "paper_id": "41336aff25e32b31123f87af037a74a2f956b1d3",
+      "url": "https://www.semanticscholar.org/paper/41336aff25e32b31123f87af037a74a2f956b1d3",
+      "venue": "The International Journal of Biostatistics",
+      "doi": "10.1515/ijb-2026-0055",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation",
+        "tmle"
       ]
     },
     {
@@ -3151,6 +3206,25 @@
       ]
     },
     {
+      "title": "Causal Inference in High-Dimensional Settings: Machine Learning Integration and Recent Advances",
+      "authors": [
+        "Madison Hendricks"
+      ],
+      "abstract": "Causal inference in high-dimensional settings has emerged as a critical area of research due to the rapid growth of large-scale and complex datasets in fields such as healthcare, economics, genomics, social sciences, and artificial intelligence. Traditional causal inference methods often struggle when the number of covariates exceeds the sample size or when relationships among variables are nonlinear and highly interactive. This study reviews recent advances in causal inference techniques designed for high-dimensional environments, with particular emphasis on the integration of machine learning approaches. The paper examines foundational concepts of causal identification, treatment effect estimation, confounding adjustment, and variable selection under high-dimensional conditions. It further explores how machine learning algorithms, including regularization methods, random forests, boosting, deep learning, and representation learning, enhance the estimation of causal effects while improving predictive accuracy and scalability. The review also discusses modern frameworks such as double machine learning, causal forests, targeted maximum likelihood estimation, and Bayesian causal models, highlighting their theoretical foundations and practical applications. Key challenges, including interpretability, model misspecification, hidden confounding, data heterogeneity, and computational complexity, are critically analyzed. In addition, the study evaluates emerging applications of high-dimensional causal inference in precision medicine, policy evaluation, recommendation systems, and financial analytics. The findings indicate that integrating machine learning with causal inference significantly improves robustness and efficiency in complex data environments, although concerns regarding transparency and generalizability remain substantial. The study concludes that future research should prioritize explainable causal machine learning models, fairness-aware inference methods, and scalable algorithms capable of handling dynamic and streaming data. This review contributes to the growing body of knowledge by synthesizing theoretical developments, methodological innovations, and emerging research directions in high-dimensional causal inference.",
+      "year": 2025,
+      "publication_date": "2025-12-30",
+      "paper_id": "44901b2736b485600cbaafe70e9fe4e6deee29bc",
+      "url": "https://www.semanticscholar.org/paper/44901b2736b485600cbaafe70e9fe4e6deee29bc",
+      "venue": "Stout in Mathematics and Statistics",
+      "doi": "10.61424/k2yy2a12",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
+      ]
+    },
+    {
       "title": "Causal inference study of PRRSV-MLV vaccine dosing effects on wean-to-finish performance during outbreaks",
       "authors": [
         "Swaminathan Jayaraman",
@@ -3749,7 +3823,7 @@
       "authors": [
         "Herbert P Susmann",
         "Yiting Li",
-        "Mara A McAdams-DeMarco",
+        "Mara A. McAdams-DeMarco",
         "Iván Díaz",
         "Wenbo Wu"
       ],
