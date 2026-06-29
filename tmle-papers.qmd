@@ -7,17 +7,17 @@ Auto-updated list of TMLE-related papers tracked from Semantic Scholar queries.
 
 _Note: this list is not complete and may include irrelevant articles; it will be refined over time._
 
-Last refreshed: 2026-06-19T15:01:06Z
+Last refreshed: 2026-06-26T16:13:05Z
 
 Keywords queried: tmle, targeted maximum likelihood estimation, targeted minimum loss based estimation, super learner, super learning, highly adaptive lasso
 
-Total tracked papers: **1059**
+Total tracked papers: **1064**
 
 <!-- monthly-chart:start -->
 
 ## Yearly Papers Trend
 
-Number of papers per year from **2006** to **2025** (coverage: **963/1059** papers with year metadata in range).
+Number of papers per year from **2006** to **2025** (coverage: **963/1064** papers with year metadata in range).
 
 ```{=html}
 <style>
@@ -116,7 +116,7 @@ Number of papers per year from **2006** to **2025** (coverage: **963/1059** pape
 
 ## Contributor Ranking
 
-Bars show contributors with at least 2 papers, sorted left to right by paper count. Total shown: **811**.
+Bars show contributors with at least 2 papers, sorted left to right by paper count. Total shown: **814**.
 
 ```{=html}
 <style>
@@ -494,7 +494,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Chuizheng Meng: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Chuizheng Meng</span></div></div>
     <div class="contrib-item" title="Chung-Chou H. Chang: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Chung-Chou H. Chang</span></div></div>
     <div class="contrib-item" title="Cosmas Zyambo: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Cosmas Zyambo</span></div></div>
-    <div class="contrib-item" title="Cristian C Serrano-Mayorga: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Cristian C Serrano-Mayorga</span></div></div>
+    <div class="contrib-item" title="Cristian C. Serrano-Mayorga: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Cristian C. Serrano-Mayorga</span></div></div>
     <div class="contrib-item" title="D. Azrael: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>D. Azrael</span></div></div>
     <div class="contrib-item" title="D. Barouch: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>D. Barouch</span></div></div>
     <div class="contrib-item" title="D. Black: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>D. Black</span></div></div>
@@ -771,6 +771,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Milena Maule: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Milena Maule</span></div></div>
     <div class="contrib-item" title="Mingxun Wang: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Mingxun Wang</span></div></div>
     <div class="contrib-item" title="Momenul Haque Mondol: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Momenul Haque Mondol</span></div></div>
+    <div class="contrib-item" title="N. A. Shah: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>N. A. Shah</span></div></div>
     <div class="contrib-item" title="N. C. Fernandes: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>N. C. Fernandes</span></div></div>
     <div class="contrib-item" title="N. Gandhi: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>N. Gandhi</span></div></div>
     <div class="contrib-item" title="N. Hamzehpour: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>N. Hamzehpour</span></div></div>
@@ -832,6 +833,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="S. Akhtar: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>S. Akhtar</span></div></div>
     <div class="contrib-item" title="S. Daneshmand: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>S. Daneshmand</span></div></div>
     <div class="contrib-item" title="S. Jafarzadeh: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>S. Jafarzadeh</span></div></div>
+    <div class="contrib-item" title="S. Khan: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>S. Khan</span></div></div>
     <div class="contrib-item" title="S. Krikov: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>S. Krikov</span></div></div>
     <div class="contrib-item" title="S. Liao: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>S. Liao</span></div></div>
     <div class="contrib-item" title="S. Nedjat: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>S. Nedjat</span></div></div>
@@ -930,6 +932,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Ying Huang: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Ying Huang</span></div></div>
     <div class="contrib-item" title="Yiting Li: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yiting Li</span></div></div>
     <div class="contrib-item" title="Yixin Fang: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yixin Fang</span></div></div>
+    <div class="contrib-item" title="Yong Min Cho: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yong Min Cho</span></div></div>
     <div class="contrib-item" title="Yongfei Dong: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yongfei Dong</span></div></div>
     <div class="contrib-item" title="Youmi Suk: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Youmi Suk</span></div></div>
     <div class="contrib-item" title="Yu-jeong Song: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yu-jeong Song</span></div></div>
@@ -966,7 +969,41 @@ Papers are grouped by publication year. Expand a year to browse papers. Only pap
 .paper-year > .paper-item > summary { cursor: pointer; }
 </style>
 <details class="paper-year">
-  <summary><strong>2026 (85 papers)</strong></summary>
+  <summary><strong>2026 (90 papers)</strong></summary>
+
+<details class="paper-item">
+  <summary><strong>2026-07-14 — Semaglutide and Risk of Adult-Onset Seizure: A Target Trial Emulation.</strong></summary>
+
+<p>
+<strong>Authors</strong>: Yong Eun, S. Bong, Hyun Yong Koh, Rhonda K Trousdale, Y. Cho, Yoonhyuk Jang, Soon-Tae Lee<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-07-14<br>
+<strong>Venue</strong>: Neurology<br>
+<strong>DOI</strong>: 10.1212/WNL.0000000000218174<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/aefa6c3de66789fdf0bc1cdaeeb0c99b9b04e740">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: targeted maximum likelihood estimation, tmle
+</p>
+<p><strong>Abstract</strong>:<br>
+BACKGROUND AND OBJECTIVES Adult-onset seizure reflects the burden of acquired brain insults, but established disease-modifying preventive strategies are limited. We evaluated whether semaglutide initiation is associated with a lower incidence of adult-onset seizure compared with sodium-glucose cotransporter 2 inhibitors (SGLT2i) and other glucose-lowering drugs (GLDs) in adults with type 2 diabetes. METHODS Using the All of Us Research Program, we emulated a population-based target trial in new-user, active-comparator cohorts from January 2018 to October 2023. We compared semaglutide vs other GLDs and semaglutide vs SGLT2i. Incident epilepsy or seizure was identified from diagnostic codes. Effects were estimated using inverse probability of treatment weighting with weighted Cox models and targeted maximum likelihood estimation (TMLE). Subgroup and sensitivity analyses with multiple outcome definitions and analytic approaches were conducted to assess the robustness of findings. We evaluated mediation through hemoglobin A1c (HbA1c) and body mass index (BMI) using the longitudinal Vansteelandt framework. RESULTS We analyzed 10,213 patients in the semaglutide (n = 2,586, mean age, 60.1 years; 56.8% female) vs other GLDs cohort (n = 7,627, mean age, 63.7 years; 54.2% female) and 8,605 patients in the semaglutide (n = 2,814, mean age, 60.5 years; 66.2% female) vs SGLT2i cohort (n = 5,791, mean age, 64.4 years; 47.3% female). Semaglutide was associated with a lower risk of adult-onset seizure compared with other GLDs (weighted HR 0.44 [95% CI 0.25-0.79]; 4-year risk difference -1.78% [95% CI -2.58 to -0.98]) and SGLT2i (weighted HR 0.48 [95% CI 0.27-0.85]; 4-year risk difference -1.46% [95% CI -2.41 to -0.51]). TMLE estimated risk differences per 1,000 persons of -14.20 (95% CI -18.33 to -10.07) vs other GLDs and -7.62 (95% CI -11.65 to -3.60) vs SGLT2i, corresponding to numbers needed to treat of 70 and 131, respectively. Mediation was minimal for HbA1c (2.4% vs other GLDs; 6.5% vs SGLT2i) and BMI (0% vs other GLDs; 0.7% vs SGLT2i). DISCUSSION Semaglutide initiation was associated with a lower risk of adult-onset seizure compared with SGLT2i and other GLDs in patients with type 2 diabetes, independent of glycemic and weight effects. Residual confounding, low event counts, and shorter follow-up limit causal interpretation. CLASSIFICATION OF EVIDENCE This study provides Class II evidence that semaglutide use was associated with a lower risk of adult-onset seizures compared with other GLDs and SGLT2i.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2026-06-22 — Super learner model for predicting carotid plaque regression in type 2 diabetes on PCSK9 inhibitors.</strong></summary>
+
+<p>
+<strong>Authors</strong>: Jingyao Chen, Qinglong Yang, Gaoming Hou, Jianqiao Bi, Qi Xu, Haiting Guo, Jia Sun<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-06-22<br>
+<strong>Venue</strong>: Acta Diabetologica<br>
+<strong>DOI</strong>: 10.1007/s00592-026-02729-x<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/7a63479a49698ef38ae3533f95d12ff607313189">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: super learner
+</p>
+<p><strong>Abstract</strong>:<br>
+Abstract unavailable from Semantic Scholar.
+</p>
+</details>
 
 <details class="paper-item">
   <summary><strong>2026-06-17 — Targeted maximum likelihood estimation (TMLE) in regulatory submissions and research: a landscape analysis.</strong></summary>
@@ -981,7 +1018,7 @@ Papers are grouped by publication year. Expand a year to browse papers. Only pap
 <strong>Matched Keywords</strong>: targeted maximum likelihood estimation, tmle
 </p>
 <p><strong>Abstract</strong>:<br>
-Abstract unavailable from Semantic Scholar.
+Targeted Maximum Likelihood Estimation, also referred to as Targeted Minimum Loss Estimation (TMLE), is a statistical method that enables causal inference while incorporating flexible, advanced machine learning techniques. Within the drug development space, both drug sponsors and FDA have leveraged TMLE across a range of relevant clinical settings intended for a variety of regulatory activities. The goal of this article is to provide a holistic overview of TMLE use cases as they have been applied in submissions to the Food and Drug Administration (FDA) Center for Drug Evaluation and Research (CDER) and in CDER&#x27;s regulatory research activities. First, we provide an overview of regulatory submissions in which TMLE has been considered to support regulatory decision-making. Second, we summarize FDA CDER&#x27;s regulatory science initiatives that advance analytic capabilities and support the use of TMLE.
 </p>
 </details>
 
@@ -1165,6 +1202,40 @@ Abstract unavailable from Semantic Scholar.
 </p>
 <p><strong>Abstract</strong>:<br>
 We show that cluster-randomized trials-especially pragmatic designs-often exhibit substantial (but underappreciated in practice) heterogeneity in cluster sizes and structures, distorting inference. Our simulations-reassigning treatment in real data and varying imbalance in synthetic data-show that currently recommended methods (such as targeted maximum likelihood estimation and small-sample corrected generalized estimating equations) are not optimized to this challenge. We propose the CARE (Clarify, Apply, Refine, Evaluate) protocol, which anchors inference in a design-based benchmark and provides a principled pathway for incorporating assumption-rich methods-making trial analysis more credible, transparent, and directly comparable across studies.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2026-06-01 — B80-3-13 Improving the Generalizability of Sleep-based Cardiovascular Risk Prediction Using Super Learner Ensemble</strong></summary>
+
+<p>
+<strong>Authors</strong>: S. Adhikari, O. Cohen, V. Kundel, S. Khan, V. Le, M. Suárez-Fariñas, N. A. Shah<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-06-01<br>
+<strong>Venue</strong>: American Journal of Respiratory and Critical Care Medicine<br>
+<strong>DOI</strong>: 10.1093/ajrccm/aamag286.323<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/a79a133df1e7f2deb5c81075bcb0d92a95597663">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: super learner
+</p>
+<p><strong>Abstract</strong>:<br>
+In the context of Obstructive Sleep Apnea (OSA) and cardiovascular health, machine learning (ML) holds promise for risk prediction; however, models developed in epidemiologic cohorts often perform poorly when translated to clinical populations. This gap occurs because clinical populations differ in covariates and outcomes, and because ML models may learn spurious associations (e.g., cohort visit schedules) rather than stable invariant mechanisms (e.g., underlying disease biology). We hypothesize that a SuperLearner ensemble that debiases dropout and explicitly handles missing-not-at-random (MNAR) data will improve predictive robustness in new clinical populations. By accounting for distributional shift and informative missingness typical of real-world clinical settings, this approach aims to bridge the gap between epidemiologic model development and reliable clinical deployment. We analyze 2159 participants in the Multi-Ethnic Study of Atherosclerosis (MESA) sleep ancillary study with no prior cardiovascular events (CVE), using exam 5 clinical, sleep and coronary artery calcium (CAC) data, to predict time-to-CVE. We divide the dataset into training (65%) and test (35%) sets such that participants from sites in the Midwestern US are in the test set to simulate distributional shift of covariates and outcomes. By combining multiple prediction models, the SuperLearner is designed to prioritize signals that generalize across populations, and we benchmark its performance against conventional single-model approaches while adjusting for missing data and dropout. We evaluated time-independent risk discrimination using the concordance index (C-index). Cross-validated training results reflect in-distribution generalization, where the SuperLearner and the best individual model performed similarly and both outperformed standard survival models after accounting for missingness. Native handling of MNAR data performed comparably to iterative imputation under MAR assumptions. On held-out test data reflecting out-of-distribution generalization, which was our primary focus, the SuperLearner explicitly modeling MNAR achieved the highest statistically significant discrimination (C-index 0.716), outperforming gradient boosting with Cox loss under MAR (0.705) and SuperLearners assuming MCAR (0.706) or MAR (0.698). The SuperLearner also demonstrated lower variance than its strongest base learner. In the MESA-SLEEP cohort, we show that the SuperLearner-based ML framework offers increased robustness and out-of-distribution generalization for time-independent risk prediction tasks compared to common survival models and a single model selection strategy. The results suggest that accounting informative missingness helps with out-of-distribution generalizability in comparison to common imputation methods. The SuperLearner framework shows promising results and should be evaluated for its reliability in translating epidemiological models to clinical settings. This abstract is funded by: R01HL168897
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2026-06-01 — A103-22 Optimal Vasopressor Choice in Septic Shock With Tachycardia: A Target Trial Emulation Determining the Comparative Effectiveness of Phenylephrine vs. Norepinephrine</strong></summary>
+
+<p>
+<strong>Authors</strong>: Y. Shin, G. Michael<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-06-01<br>
+<strong>Venue</strong>: American Journal of Respiratory and Critical Care Medicine<br>
+<strong>DOI</strong>: 10.1093/ajrccm/aamag286.309<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/80f9aa405a4a44faf1ee8bb251ff157b361d16bc">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: targeted maximum likelihood estimation, tmle
+</p>
+<p><strong>Abstract</strong>:<br>
+Norepinephrine (NE) is the recommended first-line vasopressor for septic shock. However, clinicians often substitute phenylephrine (PE) in patients with significant tachycardia (sinus tachycardia or atrial fibrillation), hypothesizing that PE’s lack of beta-adrenergic activity will mitigate arrhythmia risk and improve hemodynamic stability. Despite this common physiologic rationale, high-quality evidence comparing these agents specifically in the “tachycardia phenotype” is scarce. We aimed to determine if initiating PE improves 28-day mortality compared to NE in patients with septic shock presenting with tachycardia. We performed a target trial emulation using the Medical Information Mart for Intensive Care IV (MIMIC-IV) database (v3.1). We identified adult patients meeting Sepsis-3 criteria requiring vasopressors who exhibited a “Tachycardia Phenotype,” defined as a median heart rate &gt;100 bpm in the 2 hours preceding vasopressor initiation. The primary exposure was the initial vasopressor selected (PE vs. NE). The primary outcome was 28-day mortality; secondary outcomes included new-onset arrhythmia, renal replacement therapy (RRT) use, and ventilator-free days. To rigorously adjust for confounding by indication, we employed Targeted Maximum Likelihood Estimation (TMLE) with SuperLearner ensemble learning to estimate the Adjusted Risk Difference (RD). The final cohort included 2,281 patients (1,558 NE, 723 PE). In the primary TMLE analysis shown, phenylephrine use was not associated with a reduction in 28-day mortality compared to norepinephrine (Adjusted RD 0.5%; 95% CI -4.0% to 5.1%; p = 0.816). Consistent with this, adjusted survival curves showed overlapping trajectories with no significant separation between groups (p = 0.14). Conversely, phenylephrine was associated with a statistically significant increase in the risk of arrhythmia events (Adjusted RD + 5.2%; 95% CI 0.6% to 9.9%; p = 0.026). Phenylephrine was also associated with significantly fewer ventilator-free days (Mean Difference -1.28 days; p = 0.021). Results are summarized in the accompanying Figure. In this target trial emulation of septic shock patients with tachycardia, the use of phenylephrine as a first-line vasopressor provided no survival benefit compared to norepinephrine. Phenylephrine was associated with a significantly higher risk of arrhythmia events and worse respiratory outcomes, challenging the widespread physiologic assumption that alpha-only agonism is protective in tachycardic patients. These findings support the continued use of norepinephrine as the standard of care, regardless of baseline heart rate. This abstract is funded by: None
 </p>
 </details>
 
@@ -2212,6 +2283,22 @@ Importance Clinical trials have produced inconclusive results regarding the opti
 </p>
 <p><strong>Abstract</strong>:<br>
 Most active and passive remote sensing imagery acquired over marine areas contains wave textures, presenting both challenges and opportunities for water depth retrieval. Although wave phenomena hinder water depth estimation via optical radiative transfer in passive remote sensing, they form the foundation of bathymetric methods based on wave texture analysis. The synergistic use of active and passive imagery with wave textures helps to mitigate these adverse effects in certain inversion approaches. By integrating the inversion results from both data types—accounting for their distinct imaging mechanisms and depth detection theories—their complementary advantages can be effectively combined. To this end, a new fusion method based on a super learner–neural ODE (SL-NODE) ensemble is proposed. This two-stage framework implements a decision-level fusion strategy: multiple classical machine learning models act as base learners in the first stage, and the neural ordinary differential equation (Neural ODE) serves as the metalearner in the second. Outputs from the first-stage models are combined via cross validation and subsequently refined by the neural ODE to produce the final water depth estimates. In the range of 0–40-m depth range, the fused results exhibit reductions of over 17% in mean relative error (MRE) and more than 3 m in mean absolute error (MAE) compared to those from individual inversion methods. Moreover, the proposed ensemble achieves superior fusion accuracy to any single-classical machine learning model. The integration of multisource data and diverse inversion techniques significantly enhances the accuracy and utility of water depth retrieval from imagery with wave phenomena.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2026 — Targeted Maximum Likelihood Estimation for Causal Effects Based on Poisson Regression Models</strong></summary>
+
+<p>
+<strong>Authors</strong>: 思默 李<br>
+<strong>Year</strong>: 2026<br>
+<strong>Venue</strong>: Advances in Applied Mathematics<br>
+<strong>DOI</strong>: 10.12677/aam.2026.156280<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/1daa8087521c25326be231612ca6f346d5ed1303">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: targeted maximum likelihood estimation
+</p>
+<p><strong>Abstract</strong>:<br>
+Abstract unavailable from Semantic Scholar.
 </p>
 </details>
 
@@ -8648,7 +8735,7 @@ Proteinuria is a risk factor for the progression of chronic kidney disease (CKD)
   <summary><strong>2023-05-31 — Impact of macrolide treatment on long-term mortality in patients admitted to the ICU due to CAP: a targeted maximum likelihood estimation and survival analysis</strong></summary>
 
 <p>
-<strong>Authors</strong>: L. F. Reyes, E. Garcia, Elsa D. Ibáñez-Prada, Cristian C Serrano-Mayorga, Yuli V Fuentes, Alejandro Rodríguez, G. Moreno, A. Bastidas, Josep Gómez, Angélica Gonzalez, C. Frei, L. Celi, I. Martín-Loeches, G. Waterer<br>
+<strong>Authors</strong>: L. F. Reyes, E. Garcia, Elsa D. Ibáñez-Prada, Cristian C. Serrano-Mayorga, Yuli V Fuentes, Alejandro Rodríguez, G. Moreno, A. Bastidas, Josep Gómez, Angélica González, C. Frei, L. Celi, I. Martín-Loeches, G. Waterer<br>
 <strong>Year</strong>: 2023<br>
 <strong>Publication Date</strong>: 2023-05-31<br>
 <strong>Venue</strong>: Critical Care<br>

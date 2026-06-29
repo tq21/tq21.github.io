@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T15:01:06Z",
+  "generated_at": "2026-06-26T16:13:05Z",
   "source": "Semantic Scholar Graph API",
   "unauthenticated": true,
   "mode": "bulk",
@@ -18,7 +18,7 @@
   "query_stats": [
     {
       "keyword": "tmle",
-      "fetched_raw_count": 486
+      "fetched_raw_count": 487
     },
     {
       "keyword": "targeted maximum likelihood estimation",
@@ -26,123 +26,100 @@
     },
     {
       "keyword": "targeted minimum loss based estimation",
-      "fetched_raw_count": 344
+      "fetched_raw_count": 345
     },
     {
       "keyword": "super learner",
-      "fetched_raw_count": 1023
+      "fetched_raw_count": 1025
     },
     {
       "keyword": "super learning",
-      "fetched_raw_count": 1961
+      "fetched_raw_count": 2000
     },
     {
       "keyword": "highly adaptive lasso",
-      "fetched_raw_count": 237
+      "fetched_raw_count": 238
     }
   ],
   "query_errors": [],
   "incomplete": false,
-  "fetched_paper_count": 910,
-  "newly_appended_count": 7,
-  "updated_existing_count": 3,
+  "fetched_paper_count": 916,
+  "newly_appended_count": 5,
+  "updated_existing_count": 2,
   "existing_blocked_removed": 0,
   "existing_duplicates_removed": 0,
   "newly_added_papers": [
     {
-      "title": "Association of household wealth and education with hypertension among adults in Lesotho: Evidence from a propensity score–based study",
+      "title": "A103-22 Optimal Vasopressor Choice in Septic Shock With Tachycardia: A Target Trial Emulation Determining the Comparative Effectiveness of Phenylephrine vs. Norepinephrine",
       "year": 2026,
       "authors": [
-        "R. Gupta",
-        "Amrit Baral",
-        "Shams Shabab Haider",
-        "P. Chakraborty"
+        "Y. Shin",
+        "G. Michael"
       ],
-      "publication_date": "2026-06-10",
-      "doi": "10.1371/journal.pgph.0006599",
-      "paper_id": "56b8b67d51a1087727165a7f0508f4bb16318ca3"
+      "publication_date": "2026-06-01",
+      "doi": "10.1093/ajrccm/aamag286.309",
+      "paper_id": "80f9aa405a4a44faf1ee8bb251ff157b361d16bc"
     },
     {
-      "title": "Ensemble learning for predicting birth trauma using high-dimensional data in the neonatal intensive care unit",
+      "title": "B80-3-13 Improving the Generalizability of Sleep-based Cardiovascular Risk Prediction Using Super Learner Ensemble",
       "year": 2026,
       "authors": [
-        "C. Odhiambo",
-        "Nirzari Parikh",
-        "G. Kopec",
-        "Adam R. Cross"
+        "S. Adhikari",
+        "O. Cohen",
+        "V. Kundel",
+        "S. Khan",
+        "V. Le",
+        "M. Suárez-Fariñas",
+        "N. A. Shah"
       ],
-      "publication_date": "2026-04-18",
-      "doi": "10.1038/s41598-026-46706-4",
-      "paper_id": "fb94af9f122fefae7d94cc5edb1252bd817d2871"
+      "publication_date": "2026-06-01",
+      "doi": "10.1093/ajrccm/aamag286.323",
+      "paper_id": "a79a133df1e7f2deb5c81075bcb0d92a95597663"
     },
     {
-      "title": "Levosimendan in Patients With Low Cardiac Ejection Fraction Undergoing Coronary Artery Bypass Grafting: Machine Learning Double Robust Causal Effect Analysis.",
+      "title": "Semaglutide and Risk of Adult-Onset Seizure: A Target Trial Emulation.",
       "year": 2026,
       "authors": [
-        "J. Bis",
-        "K. Mendrala",
-        "Marek Deja",
-        "T. Darocha",
-        "Łukasz Morkisz",
-        "Mikołaj Jodłowski",
-        "R. Gocoł"
+        "Yong Eun",
+        "S. Bong",
+        "Hyun Yong Koh",
+        "Rhonda K Trousdale",
+        "Y. Cho",
+        "Yoonhyuk Jang",
+        "Soon-Tae Lee"
       ],
-      "publication_date": "2026-05-01",
-      "doi": "10.1053/j.jvca.2026.05.060",
-      "paper_id": "0b3038e38ee7b41a66c711beec8e94db4e7f0bd8"
+      "publication_date": "2026-07-14",
+      "doi": "10.1212/wnl.0000000000218174",
+      "paper_id": "aefa6c3de66789fdf0bc1cdaeeb0c99b9b04e740"
     },
     {
-      "title": "Prediction-Powered Causal Inference by Automatic Debiased Machine Learning and Semi-Supervised Riesz Regression",
+      "title": "Super learner model for predicting carotid plaque regression in type 2 diabetes on PCSK9 inhibitors.",
       "year": 2026,
       "authors": [
-        "Masahiro Kato"
+        "Jingyao Chen",
+        "Qinglong Yang",
+        "Gaoming Hou",
+        "Jianqiao Bi",
+        "Qi Xu",
+        "Haiting Guo",
+        "Jia Sun"
       ],
-      "publication_date": "2026-06-11",
-      "doi": null,
-      "paper_id": "a4bd702c1f3276b78ecc1c52303c4587cc026d4e"
+      "publication_date": "2026-06-22",
+      "doi": "10.1007/s00592-026-02729-x",
+      "paper_id": "7a63479a49698ef38ae3533f95d12ff607313189"
     },
     {
-      "title": "Super Learner Ensemble Modeling of CPTAC Proteomic Data for Survival Prediction in Head and Neck Squamous Cell Carcinoma",
+      "title": "Targeted Maximum Likelihood Estimation for Causal Effects Based on Poisson Regression Models",
       "year": 2026,
       "authors": [
-        "Ethan Park",
-        "Hannah Lee",
-        "Eun Jeong Oh",
-        "Tristan Tham",
-        "Seungjun Ahn"
+        "思默 李"
       ],
-      "publication_date": "2026-06-16",
-      "doi": "10.64898/2026.06.11.731237",
-      "paper_id": "0d2f1fa24323ebbf076bae6d258d417d6e6c08eb"
-    },
-    {
-      "title": "Targeted maximum likelihood estimation (TMLE) in regulatory submissions and research: a landscape analysis.",
-      "year": 2026,
-      "authors": [
-        "Hana Lee",
-        "Menglun Wang",
-        "Spencer R. Haupert",
-        "Gabriel K Innes",
-        "S. Dutcher",
-        "Susan Gruber",
-        "Qi Liu"
-      ],
-      "publication_date": "2026-06-17",
-      "doi": "10.1515/ijb-2026-0055",
-      "paper_id": "41336aff25e32b31123f87af037a74a2f956b1d3"
-    },
-    {
-      "title": "Causal Inference in High-Dimensional Settings: Machine Learning Integration and Recent Advances",
-      "year": 2025,
-      "authors": [
-        "Madison Hendricks"
-      ],
-      "publication_date": "2025-12-30",
-      "doi": "10.61424/k2yy2a12",
-      "paper_id": "44901b2736b485600cbaafe70e9fe4e6deee29bc"
+      "publication_date": null,
+      "doi": "10.12677/aam.2026.156280",
+      "paper_id": "1daa8087521c25326be231612ca6f346d5ed1303"
     }
   ],
-  "paper_count": 1059,
+  "paper_count": 1064,
   "papers": [
     {
       "title": "A CV-TMLE global test approach to improve power in rare disease clinical studies with multiple-component endpoints",
@@ -229,6 +206,27 @@
       ],
       "source_queries": [
         "targeted maximum likelihood estimation",
+        "tmle"
+      ]
+    },
+    {
+      "title": "A103-22 Optimal Vasopressor Choice in Septic Shock With Tachycardia: A Target Trial Emulation Determining the Comparative Effectiveness of Phenylephrine vs. Norepinephrine",
+      "authors": [
+        "Y. Shin",
+        "G. Michael"
+      ],
+      "abstract": "Norepinephrine (NE) is the recommended first-line vasopressor for septic shock. However, clinicians often substitute phenylephrine (PE) in patients with significant tachycardia (sinus tachycardia or atrial fibrillation), hypothesizing that PE’s lack of beta-adrenergic activity will mitigate arrhythmia risk and improve hemodynamic stability. Despite this common physiologic rationale, high-quality evidence comparing these agents specifically in the “tachycardia phenotype” is scarce. We aimed to determine if initiating PE improves 28-day mortality compared to NE in patients with septic shock presenting with tachycardia. We performed a target trial emulation using the Medical Information Mart for Intensive Care IV (MIMIC-IV) database (v3.1). We identified adult patients meeting Sepsis-3 criteria requiring vasopressors who exhibited a “Tachycardia Phenotype,” defined as a median heart rate >100 bpm in the 2 hours preceding vasopressor initiation. The primary exposure was the initial vasopressor selected (PE vs. NE). The primary outcome was 28-day mortality; secondary outcomes included new-onset arrhythmia, renal replacement therapy (RRT) use, and ventilator-free days. To rigorously adjust for confounding by indication, we employed Targeted Maximum Likelihood Estimation (TMLE) with SuperLearner ensemble learning to estimate the Adjusted Risk Difference (RD). The final cohort included 2,281 patients (1,558 NE, 723 PE). In the primary TMLE analysis shown, phenylephrine use was not associated with a reduction in 28-day mortality compared to norepinephrine (Adjusted RD 0.5%; 95% CI -4.0% to 5.1%; p = 0.816). Consistent with this, adjusted survival curves showed overlapping trajectories with no significant separation between groups (p = 0.14). Conversely, phenylephrine was associated with a statistically significant increase in the risk of arrhythmia events (Adjusted RD + 5.2%; 95% CI 0.6% to 9.9%; p = 0.026). Phenylephrine was also associated with significantly fewer ventilator-free days (Mean Difference -1.28 days; p = 0.021). Results are summarized in the accompanying Figure. In this target trial emulation of septic shock patients with tachycardia, the use of phenylephrine as a first-line vasopressor provided no survival benefit compared to norepinephrine. Phenylephrine was associated with a significantly higher risk of arrhythmia events and worse respiratory outcomes, challenging the widespread physiologic assumption that alpha-only agonism is protective in tachycardic patients. These findings support the continued use of norepinephrine as the standard of care, regardless of baseline heart rate. This abstract is funded by: None",
+      "year": 2026,
+      "publication_date": "2026-06-01",
+      "paper_id": "80f9aa405a4a44faf1ee8bb251ff157b361d16bc",
+      "url": "https://www.semanticscholar.org/paper/80f9aa405a4a44faf1ee8bb251ff157b361d16bc",
+      "venue": "American Journal of Respiratory and Critical Care Medicine",
+      "doi": "10.1093/ajrccm/aamag286.309",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
         "tmle"
       ]
     },
@@ -344,6 +342,31 @@
       "url": "https://www.semanticscholar.org/paper/56b8b67d51a1087727165a7f0508f4bb16318ca3",
       "venue": "PLOS Global Public Health",
       "doi": "10.1371/journal.pgph.0006599",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
+      "title": "B80-3-13 Improving the Generalizability of Sleep-based Cardiovascular Risk Prediction Using Super Learner Ensemble",
+      "authors": [
+        "S. Adhikari",
+        "O. Cohen",
+        "V. Kundel",
+        "S. Khan",
+        "V. Le",
+        "M. Suárez-Fariñas",
+        "N. A. Shah"
+      ],
+      "abstract": "In the context of Obstructive Sleep Apnea (OSA) and cardiovascular health, machine learning (ML) holds promise for risk prediction; however, models developed in epidemiologic cohorts often perform poorly when translated to clinical populations. This gap occurs because clinical populations differ in covariates and outcomes, and because ML models may learn spurious associations (e.g., cohort visit schedules) rather than stable invariant mechanisms (e.g., underlying disease biology). We hypothesize that a SuperLearner ensemble that debiases dropout and explicitly handles missing-not-at-random (MNAR) data will improve predictive robustness in new clinical populations. By accounting for distributional shift and informative missingness typical of real-world clinical settings, this approach aims to bridge the gap between epidemiologic model development and reliable clinical deployment. We analyze 2159 participants in the Multi-Ethnic Study of Atherosclerosis (MESA) sleep ancillary study with no prior cardiovascular events (CVE), using exam 5 clinical, sleep and coronary artery calcium (CAC) data, to predict time-to-CVE. We divide the dataset into training (65%) and test (35%) sets such that participants from sites in the Midwestern US are in the test set to simulate distributional shift of covariates and outcomes. By combining multiple prediction models, the SuperLearner is designed to prioritize signals that generalize across populations, and we benchmark its performance against conventional single-model approaches while adjusting for missing data and dropout. We evaluated time-independent risk discrimination using the concordance index (C-index). Cross-validated training results reflect in-distribution generalization, where the SuperLearner and the best individual model performed similarly and both outperformed standard survival models after accounting for missingness. Native handling of MNAR data performed comparably to iterative imputation under MAR assumptions. On held-out test data reflecting out-of-distribution generalization, which was our primary focus, the SuperLearner explicitly modeling MNAR achieved the highest statistically significant discrimination (C-index 0.716), outperforming gradient boosting with Cox loss under MAR (0.705) and SuperLearners assuming MCAR (0.706) or MAR (0.698). The SuperLearner also demonstrated lower variance than its strongest base learner. In the MESA-SLEEP cohort, we show that the SuperLearner-based ML framework offers increased robustness and out-of-distribution generalization for time-independent risk prediction tasks compared to common survival models and a single model selection strategy. The results suggest that accounting informative missingness helps with out-of-distribution generalizability in comparison to common imputation methods. The SuperLearner framework shows promising results and should be evaluated for its reliability in translating epidemiological models to clinical settings. This abstract is funded by: R01HL168897",
+      "year": 2026,
+      "publication_date": "2026-06-01",
+      "paper_id": "a79a133df1e7f2deb5c81075bcb0d92a95597663",
+      "url": "https://www.semanticscholar.org/paper/a79a133df1e7f2deb5c81075bcb0d92a95597663",
+      "venue": "American Journal of Respiratory and Critical Care Medicine",
+      "doi": "10.1093/ajrccm/aamag286.323",
       "matched_keywords": [
         "super learner"
       ],
@@ -1868,6 +1891,32 @@
       ]
     },
     {
+      "title": "Semaglutide and Risk of Adult-Onset Seizure: A Target Trial Emulation.",
+      "authors": [
+        "Yong Eun",
+        "S. Bong",
+        "Hyun Yong Koh",
+        "Rhonda K Trousdale",
+        "Y. Cho",
+        "Yoonhyuk Jang",
+        "Soon-Tae Lee"
+      ],
+      "abstract": "BACKGROUND AND OBJECTIVES Adult-onset seizure reflects the burden of acquired brain insults, but established disease-modifying preventive strategies are limited. We evaluated whether semaglutide initiation is associated with a lower incidence of adult-onset seizure compared with sodium-glucose cotransporter 2 inhibitors (SGLT2i) and other glucose-lowering drugs (GLDs) in adults with type 2 diabetes. METHODS Using the All of Us Research Program, we emulated a population-based target trial in new-user, active-comparator cohorts from January 2018 to October 2023. We compared semaglutide vs other GLDs and semaglutide vs SGLT2i. Incident epilepsy or seizure was identified from diagnostic codes. Effects were estimated using inverse probability of treatment weighting with weighted Cox models and targeted maximum likelihood estimation (TMLE). Subgroup and sensitivity analyses with multiple outcome definitions and analytic approaches were conducted to assess the robustness of findings. We evaluated mediation through hemoglobin A1c (HbA1c) and body mass index (BMI) using the longitudinal Vansteelandt framework. RESULTS We analyzed 10,213 patients in the semaglutide (n = 2,586, mean age, 60.1 years; 56.8% female) vs other GLDs cohort (n = 7,627, mean age, 63.7 years; 54.2% female) and 8,605 patients in the semaglutide (n = 2,814, mean age, 60.5 years; 66.2% female) vs SGLT2i cohort (n = 5,791, mean age, 64.4 years; 47.3% female). Semaglutide was associated with a lower risk of adult-onset seizure compared with other GLDs (weighted HR 0.44 [95% CI 0.25-0.79]; 4-year risk difference -1.78% [95% CI -2.58 to -0.98]) and SGLT2i (weighted HR 0.48 [95% CI 0.27-0.85]; 4-year risk difference -1.46% [95% CI -2.41 to -0.51]). TMLE estimated risk differences per 1,000 persons of -14.20 (95% CI -18.33 to -10.07) vs other GLDs and -7.62 (95% CI -11.65 to -3.60) vs SGLT2i, corresponding to numbers needed to treat of 70 and 131, respectively. Mediation was minimal for HbA1c (2.4% vs other GLDs; 6.5% vs SGLT2i) and BMI (0% vs other GLDs; 0.7% vs SGLT2i). DISCUSSION Semaglutide initiation was associated with a lower risk of adult-onset seizure compared with SGLT2i and other GLDs in patients with type 2 diabetes, independent of glycemic and weight effects. Residual confounding, low event counts, and shorter follow-up limit causal interpretation. CLASSIFICATION OF EVIDENCE This study provides Class II evidence that semaglutide use was associated with a lower risk of adult-onset seizures compared with other GLDs and SGLT2i.",
+      "year": 2026,
+      "publication_date": "2026-07-14",
+      "paper_id": "aefa6c3de66789fdf0bc1cdaeeb0c99b9b04e740",
+      "url": "https://www.semanticscholar.org/paper/aefa6c3de66789fdf0bc1cdaeeb0c99b9b04e740",
+      "venue": "Neurology",
+      "doi": "10.1212/WNL.0000000000218174",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
+      ]
+    },
+    {
       "title": "Sodium Correction Rates and Associated Outcomes Among Patients With Severe Hyponatremia : A Retrospective Cohort Study.",
       "authors": [
         "D. G. Mark",
@@ -1935,6 +1984,31 @@
       ]
     },
     {
+      "title": "Super learner model for predicting carotid plaque regression in type 2 diabetes on PCSK9 inhibitors.",
+      "authors": [
+        "Jingyao Chen",
+        "Qinglong Yang",
+        "Gaoming Hou",
+        "Jianqiao Bi",
+        "Qi Xu",
+        "Haiting Guo",
+        "Jia Sun"
+      ],
+      "abstract": "",
+      "year": 2026,
+      "publication_date": "2026-06-22",
+      "paper_id": "7a63479a49698ef38ae3533f95d12ff607313189",
+      "url": "https://www.semanticscholar.org/paper/7a63479a49698ef38ae3533f95d12ff607313189",
+      "venue": "Acta Diabetologica",
+      "doi": "10.1007/s00592-026-02729-x",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
       "title": "Sustained glucagon-like peptide-1 receptor agonist treatment improves glycemic control and reduces all-cause mortality compared to dipeptidyl peptidase-4 inhibitors: A real-world target trial emulation in type 2 diabetes.",
       "authors": [
         "K. K. Sørensen",
@@ -1978,7 +2052,7 @@
         "Susan Gruber",
         "Qi Liu"
       ],
-      "abstract": "",
+      "abstract": "Targeted Maximum Likelihood Estimation, also referred to as Targeted Minimum Loss Estimation (TMLE), is a statistical method that enables causal inference while incorporating flexible, advanced machine learning techniques. Within the drug development space, both drug sponsors and FDA have leveraged TMLE across a range of relevant clinical settings intended for a variety of regulatory activities. The goal of this article is to provide a holistic overview of TMLE use cases as they have been applied in submissions to the Food and Drug Administration (FDA) Center for Drug Evaluation and Research (CDER) and in CDER's regulatory research activities. First, we provide an overview of regulatory submissions in which TMLE has been considered to support regulatory decision-making. Second, we summarize FDA CDER's regulatory science initiatives that advance analytic capabilities and support the use of TMLE.",
       "year": 2026,
       "publication_date": "2026-06-17",
       "paper_id": "41336aff25e32b31123f87af037a74a2f956b1d3",
@@ -1992,6 +2066,25 @@
       "source_queries": [
         "targeted maximum likelihood estimation",
         "tmle"
+      ]
+    },
+    {
+      "title": "Targeted Maximum Likelihood Estimation for Causal Effects Based on Poisson Regression Models",
+      "authors": [
+        "思默 李"
+      ],
+      "abstract": "",
+      "year": 2026,
+      "publication_date": null,
+      "paper_id": "1daa8087521c25326be231612ca6f346d5ed1303",
+      "url": "https://www.semanticscholar.org/paper/1daa8087521c25326be231612ca6f346d5ed1303",
+      "venue": "Advances in Applied Mathematics",
+      "doi": "10.12677/aam.2026.156280",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
       ]
     },
     {
@@ -11513,13 +11606,13 @@
         "L. F. Reyes",
         "E. Garcia",
         "Elsa D. Ibáñez-Prada",
-        "Cristian C Serrano-Mayorga",
+        "Cristian C. Serrano-Mayorga",
         "Yuli V Fuentes",
         "Alejandro Rodríguez",
         "G. Moreno",
         "A. Bastidas",
         "Josep Gómez",
-        "Angélica Gonzalez",
+        "Angélica González",
         "C. Frei",
         "L. Celi",
         "I. Martín-Loeches",
