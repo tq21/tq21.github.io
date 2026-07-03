@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T16:13:05Z",
+  "generated_at": "2026-07-03T15:02:13Z",
   "source": "Semantic Scholar Graph API",
   "unauthenticated": true,
   "mode": "bulk",
   "append_only": true,
   "blocked_json": "data/blocked_tmle_papers.json",
-  "blocked_match_count": 1,
+  "blocked_match_count": 0,
   "min_year": 2006,
   "keywords": [
     "tmle",
@@ -18,23 +18,23 @@
   "query_stats": [
     {
       "keyword": "tmle",
-      "fetched_raw_count": 487
+      "fetched_raw_count": 451
     },
     {
       "keyword": "targeted maximum likelihood estimation",
-      "fetched_raw_count": 2000
+      "fetched_raw_count": 1918
     },
     {
       "keyword": "targeted minimum loss based estimation",
-      "fetched_raw_count": 345
+      "fetched_raw_count": 261
     },
     {
       "keyword": "super learner",
-      "fetched_raw_count": 1025
+      "fetched_raw_count": 1021
     },
     {
       "keyword": "super learning",
-      "fetched_raw_count": 2000
+      "fetched_raw_count": 897
     },
     {
       "keyword": "highly adaptive lasso",
@@ -43,83 +43,208 @@
   ],
   "query_errors": [],
   "incomplete": false,
-  "fetched_paper_count": 916,
-  "newly_appended_count": 5,
-  "updated_existing_count": 2,
+  "fetched_paper_count": 892,
+  "newly_appended_count": 15,
+  "updated_existing_count": 5,
   "existing_blocked_removed": 0,
   "existing_duplicates_removed": 0,
   "newly_added_papers": [
     {
-      "title": "A103-22 Optimal Vasopressor Choice in Septic Shock With Tachycardia: A Target Trial Emulation Determining the Comparative Effectiveness of Phenylephrine vs. Norepinephrine",
+      "title": "Advanced and explainable machine learning model for prediction of surface roughness of tempered steel AISI 1060.",
       "year": 2026,
       "authors": [
-        "Y. Shin",
-        "G. Michael"
+        "Firi Ziyad",
+        "Habtamu Alemayehu",
+        "Desalegn Wogaso",
+        "Getachew Semegn",
+        "Abdirahman Sheikhadan",
+        "A. Mulugeta",
+        "Adamu Hailu",
+        "Abdella Kereme"
       ],
-      "publication_date": "2026-06-01",
-      "doi": "10.1093/ajrccm/aamag286.309",
-      "paper_id": "80f9aa405a4a44faf1ee8bb251ff157b361d16bc"
+      "publication_date": "2026-05-08",
+      "doi": "10.1038/s41598-026-52458-y",
+      "paper_id": "c1d85b24e66413b3f3860a42263a6752c81aae18"
     },
     {
-      "title": "B80-3-13 Improving the Generalizability of Sleep-based Cardiovascular Risk Prediction Using Super Learner Ensemble",
+      "title": "AI-assisted diagnosis of cardiac amyloidosis using electrocardiograms and echocardiography: a multicenter retrospective study in China.",
       "year": 2026,
       "authors": [
-        "S. Adhikari",
-        "O. Cohen",
-        "V. Kundel",
-        "S. Khan",
-        "V. Le",
-        "M. Suárez-Fariñas",
-        "N. A. Shah"
+        "Shuyuan Zhang",
+        "Z. Wan",
+        "Yi Hu",
+        "Ming Wu",
+        "Xinyue Zhang",
+        "Z. Tian",
+        "Shuyang Zhang"
       ],
-      "publication_date": "2026-06-01",
-      "doi": "10.1093/ajrccm/aamag286.323",
-      "paper_id": "a79a133df1e7f2deb5c81075bcb0d92a95597663"
+      "publication_date": "2026-06-11",
+      "doi": "10.1186/s12916-026-04987-6",
+      "paper_id": "81001bf1c988c2cf2acb2c8fef5287b1d8390004"
     },
     {
-      "title": "Semaglutide and Risk of Adult-Onset Seizure: A Target Trial Emulation.",
+      "title": "Condition-Specific Readmission Risk Stratification in a Predominantly Black Statewide Cohort Using Machine Learning: Development of Subtype-Specific Models for Heart Failure, Acute Myocardial Infarction, Atrial Fibrillation/Flutter, and Hypertensive Heart Disease",
       "year": 2026,
       "authors": [
-        "Yong Eun",
-        "S. Bong",
-        "Hyun Yong Koh",
-        "Rhonda K Trousdale",
-        "Y. Cho",
-        "Yoonhyuk Jang",
-        "Soon-Tae Lee"
+        "I. El Moudden",
+        "M. Bittner",
+        "S. Dodani"
       ],
-      "publication_date": "2026-07-14",
-      "doi": "10.1212/wnl.0000000000218174",
-      "paper_id": "aefa6c3de66789fdf0bc1cdaeeb0c99b9b04e740"
+      "publication_date": "2026-03-09",
+      "doi": "10.64898/2026.03.08.26347901",
+      "paper_id": "41d409f6d76436f2f1109040e06bd4cd456cd161"
     },
     {
-      "title": "Super learner model for predicting carotid plaque regression in type 2 diabetes on PCSK9 inhibitors.",
+      "title": "Cross-Fitted Survey-Weighted TMLE with Design-Based Variance for Causal Machine Learning",
       "year": 2026,
       "authors": [
-        "Jingyao Chen",
-        "Qinglong Yang",
-        "Gaoming Hou",
-        "Jianqiao Bi",
-        "Qi Xu",
-        "Haiting Guo",
-        "Jia Sun"
+        "M. Karim"
       ],
-      "publication_date": "2026-06-22",
-      "doi": "10.1007/s00592-026-02729-x",
-      "paper_id": "7a63479a49698ef38ae3533f95d12ff607313189"
+      "publication_date": "2026-06-29",
+      "doi": null,
+      "paper_id": "88ff40da3447fbf5a714d17d0927602d90bc89a0"
     },
     {
-      "title": "Targeted Maximum Likelihood Estimation for Causal Effects Based on Poisson Regression Models",
+      "title": "Early twice-daily toothbrushing and adolescent dental caries: a causal inference analysis using the Longitudinal Study of Australian Children.",
       "year": 2026,
       "authors": [
-        "思默 李"
+        "H. M. Alsharani",
+        "N. Stormon",
+        "Alice M. Richardson",
+        "Yuehan Zhang",
+        "Tehzeeb Zulfiqar"
       ],
-      "publication_date": null,
-      "doi": "10.12677/aam.2026.156280",
-      "paper_id": "1daa8087521c25326be231612ca6f346d5ed1303"
+      "publication_date": "2026-06-27",
+      "doi": "10.1186/s12903-026-08999-9",
+      "paper_id": "13af7230e184f7f78e42351a34778fdac9ee5cf8"
+    },
+    {
+      "title": "Predictive Modeling of COVID-19 Variant Peak Prevalence and Duration Using GISAID Data Across 15 Countries",
+      "year": 2026,
+      "authors": [
+        "Y. Zhang",
+        "P. Rob",
+        "K. Chen",
+        "C. E. Overton",
+        "J. Jung",
+        "Y. Jo"
+      ],
+      "publication_date": "2026-02-05",
+      "doi": "10.64898/2026.02.04.26345559",
+      "paper_id": "71da780ae870bcd497a02774648f8a5d7b372c34"
+    },
+    {
+      "title": "Residual-on-Residual Regression as a Tool for Effect Estimation in Observational Data",
+      "year": 2026,
+      "authors": [
+        "Ashley I Naimi",
+        "Qianhui Jin",
+        "Ya-Hui Yu",
+        "S. Parisi",
+        "Lisa M. Bodnar"
+      ],
+      "publication_date": "2026-06-29",
+      "doi": null,
+      "paper_id": "f24f3634a59b34727cf06a43809354f52d38dba4"
+    },
+    {
+      "title": "Key factors behind the adoption of a patient-facing technology in primary care: a structured approach to variable importance",
+      "year": 2025,
+      "authors": [
+        "D. Rodrigues",
+        "N. Kreif",
+        "A. Darzi",
+        "Mauricio Barahona",
+        "E. Mayer"
+      ],
+      "publication_date": "2025-10-25",
+      "doi": "10.1007/s10742-025-00361-w",
+      "paper_id": "1d321e5f38137093014cd8c943767db09383c9c4"
+    },
+    {
+      "title": "Predicting police and military violence: evidence from Colombia and Mexico using machine learning models",
+      "year": 2025,
+      "authors": [
+        "J. D. Gélvez"
+      ],
+      "publication_date": "2025-06-05",
+      "doi": "10.1057/s41599-025-04967-w",
+      "paper_id": "2403983ec9d4fff0dfbd14794bb37444d8713c8f"
+    },
+    {
+      "title": "STATISTICAL APPLICATIONS IN PEDIATRIC ENDOCRINOLOGY: A SIMULATION ON METFORMIN EFFECT ON HBA1c IN HIGH-RISK ADOLESCENTS",
+      "year": 2025,
+      "authors": [
+        "W. Shi"
+      ],
+      "publication_date": "2025-10-14",
+      "doi": "10.1101/2025.10.12.25337852",
+      "paper_id": "bc98a359898143d6b7e6af7b72e3ba82f8e47561"
+    },
+    {
+      "title": "Unintended Pregnancy and Preterm Birth in the United States: Causal Inference and Risk Prediction Using National Survey of Family Growth Data",
+      "year": 2025,
+      "authors": [
+        "MD¹ Sunday A. Adetunji",
+        "MPH¹ Purva Nerandra More",
+        "Purva Nerandra"
+      ],
+      "publication_date": "2025-11-27",
+      "doi": "10.1101/2025.11.25.25341033",
+      "paper_id": "f4db6d423dd186615a21ec739bdaa1b80e05f915"
+    },
+    {
+      "title": "Weak instrumental variables due to ignored nonlinearities in panel data: A Super Learner Control Function estimator",
+      "year": 2025,
+      "authors": [
+        "Monika Avila-Marquez"
+      ],
+      "publication_date": "2025-04-04",
+      "doi": null,
+      "paper_id": "9d79cdf7af219efcb6f55db7361eeb0a7ef3ef25"
+    },
+    {
+      "title": "A hybrid super ensemble learning model for the early-stage prediction of diabetes risk",
+      "year": 2023,
+      "authors": [
+        "Ayşe Doğru",
+        "Selim Buyrukoğlu",
+        "Murat Arı"
+      ],
+      "publication_date": "2023-01-05",
+      "doi": "10.1007/s11517-022-02749-z",
+      "paper_id": "d5f4fcde32b4e213c3a64c602aedf922f16d3979"
+    },
+    {
+      "title": "Non-Invasive Localization Using Software-Defined Radios",
+      "year": 2022,
+      "authors": [
+        "M. Z. Khan",
+        "Ahmad Taha",
+        "William Taylor",
+        "M. Imran",
+        "Q. Abbasi"
+      ],
+      "publication_date": "2022-05-01",
+      "doi": "10.1109/jsen.2022.3160796",
+      "paper_id": "b2edcd734b6675cabc491e96a60353eb99eab7f8"
+    },
+    {
+      "title": "Evaluation of a pre-existing, 3-year household water treatment and handwashing intervention in rural Guatemala.",
+      "year": 2009,
+      "authors": [
+        "B. Arnold",
+        "B. Arana",
+        "D. Mäusezahl",
+        "A. Hubbard",
+        "J. Colford"
+      ],
+      "publication_date": "2009-12-01",
+      "doi": "10.1093/ije/dyp241",
+      "paper_id": "11083dd5dd1f35d10a382383f14510aeb33b03ff"
     }
   ],
-  "paper_count": 1064,
+  "paper_count": 1079,
   "papers": [
     {
       "title": "A CV-TMLE global test approach to improve power in rare disease clinical studies with multiple-component endpoints",
@@ -325,6 +450,57 @@
       "source_queries": [
         "targeted maximum likelihood estimation",
         "tmle"
+      ]
+    },
+    {
+      "title": "Advanced and explainable machine learning model for prediction of surface roughness of tempered steel AISI 1060.",
+      "authors": [
+        "Firi Ziyad",
+        "Habtamu Alemayehu",
+        "Desalegn Wogaso",
+        "Getachew Semegn",
+        "Abdirahman Sheikhadan",
+        "A. Mulugeta",
+        "Adamu Hailu",
+        "Abdella Kereme"
+      ],
+      "abstract": "This research examined the performance of a machine learning algorithm when predicting the surface roughness of tempered steel AISI 1060. Different machine learning algorithms, such as decision tree (DT), random forest (RF), adaptive boosting (ADB), gradient boosting (GB), and extreme gradient boosting (XGB), were optimized by using 10-fold cross-validation and the grid search method. From these optimized models, the decision tree, adaptive boosting, gradient boosting, and extreme gradient boosting were used as base models to develop a more powerful machine learning model called super learner machine learning. The linear regression (LR) was used as a meta-model in developing super learner machine learning. The developed super learner model performance was then validated against all machine learning models used in this research. For performance measurement metrics such as mean absolute error (MAE), root mean square error (RMSE), mean absolute percentage error (MAPE), and coefficient of determination (R²) has been used. The developed super learner model achieved the highest R² of 99.2% and the lowest MAPE of 2.6% on the test data set when compared with other machine learning models. Further, the SHAP method shows that hardness has the highest effect, followed by feed rate and cutting speed, respectively. Most machine learning approaches are not used practically for user applications, but in this research, a graphic user interface framework called fast, accurate, and intelligent (FAI) frame was developed to predict the surface roughness of tempered steel AISI 1060. This research is used for practical application for any user in industry and for research purposes.",
+      "year": 2026,
+      "publication_date": "2026-05-08",
+      "paper_id": "c1d85b24e66413b3f3860a42263a6752c81aae18",
+      "url": "https://www.semanticscholar.org/paper/c1d85b24e66413b3f3860a42263a6752c81aae18",
+      "venue": "Scientific Reports",
+      "doi": "10.1038/s41598-026-52458-y",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
+      "title": "AI-assisted diagnosis of cardiac amyloidosis using electrocardiograms and echocardiography: a multicenter retrospective study in China.",
+      "authors": [
+        "Shuyuan Zhang",
+        "Z. Wan",
+        "Yi Hu",
+        "Ming Wu",
+        "Xinyue Zhang",
+        "Z. Tian",
+        "Shuyang Zhang"
+      ],
+      "abstract": "BACKGROUND Cardiac amyloidosis (CA) is an under-recognized cause of left-ventricular hypertrophy (LVH) that is often misclassified as hypertrophic cardiomyopathy (HCM) or hypertensive heart disease (HHD). We aimed to develop and externally validate an AI model using electrocardiograms (ECG) and echocardiography to distinguish CA from other LVH aetiologies. METHODS A retrospective, multicenter study was conducted, with a derivation cohort collected from PUMCH (290 CA patients, 215 HCM patients, and 160 HHD patients) and an external validation cohort recruited from 10 other hospitals across China (126 CA patients, 240 HCM patients, and 190 HHD patients). Twenty-eight clinical, ECG, and echocardiographic predictors were included, and we selected the top 7 important features by recursive feature elimination strategy. The Super Learner model combines predictions from 11 machine learning models, and model performance was evaluated via macro-AUC, accuracy, precision, F1 score, and etc. We developed a simplified scoring system to diagnose CA, and classifying patients into three groups based on CA probability to minimize misdiagnosis risk. RESULTS Ranking by feature importance, the top seven features were included and used for model construction, including Sokolow-Lyon index, interventricular septal thickness, systolic blood pressure, left-ventricular posterior wall thickness, tricuspid annular plane systolic excursion, average E/e', and left-ventricular ejection fraction. The Super Learner model, combining Extra Trees, Histogram-based Gradient Boosting, LightGBM, and Multi-Layer Perceptron, achieved the highest AUC of 0.97 (95% confidence interval [CI]: 0.95-0.98). In external validation, the super learner model achieved AUCs of 0.96 (95% CI: 0.95-0.98) for CA, 0.93 (0.91-0.95) for HCM, and 0.91 (0.89-0.94) for HHD. And the simplified scoring system also showed robust diagnostic performance (AUC 0.90, 95% CI 0.86-0.93). CONCLUSIONS We developed an AI model integrating ECG and echocardiography that provides a clinically applicable and noninvasive framework for CA screening and diagnosis, and implementation through a WeChat-based screening program. However, its performance and generalizability should be further validated in larger prospective multicenter studies.",
+      "year": 2026,
+      "publication_date": "2026-06-11",
+      "paper_id": "81001bf1c988c2cf2acb2c8fef5287b1d8390004",
+      "url": "https://www.semanticscholar.org/paper/81001bf1c988c2cf2acb2c8fef5287b1d8390004",
+      "venue": "BMC Medicine",
+      "doi": "10.1186/s12916-026-04987-6",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
       ]
     },
     {
@@ -630,6 +806,27 @@
       ]
     },
     {
+      "title": "Condition-Specific Readmission Risk Stratification in a Predominantly Black Statewide Cohort Using Machine Learning: Development of Subtype-Specific Models for Heart Failure, Acute Myocardial Infarction, Atrial Fibrillation/Flutter, and Hypertensive Heart Disease",
+      "authors": [
+        "I. El Moudden",
+        "M. Bittner",
+        "S. Dodani"
+      ],
+      "abstract": "Background: Cardiovascular disease (CVD) readmissions impose substantial clinical and economic burden. Machine learning (ML) may improve risk stratification, yet most predictive models aggregate CVD subtypes into a single outcome and underrepresent Black populations. Methods: Using Virginia Health Information database records (2010 to 2020), we analyzed 157,791 discharge records from 123,272 unique patients (96.6% Black) to develop condition-specific 30-day readmission models for heart failure (HF; n=91,752), acute myocardial infarction (AMI; n=34,497), atrial fibrillation/flutter (AF/AFL; n=18,424), and hypertensive heart disease (HHD; n=13,118). Four algorithms (XGBoost, LightGBM, Random Forest, Elastic Net) plus a Super Learner ensemble were trained on patient-grouped 70/30 splits with and without Synthetic Minority Oversampling Technique balancing. Models incorporated validated clinical indices (LACE, Charlson, Elixhauser) and administrative social determinants of health proxies. Results: The overall 30-day readmission rate was 18.9%. Best area under the receiver operating characteristic curve (AUC) values by condition were HF 0.708 (95% CI, 0.701 to 0.716), AMI 0.706 (95% CI, 0.691 to 0.721), AF/AFL 0.732 (95% CI, 0.715 to 0.750), and HHD 0.758 (95% CI, 0.735 to 0.777). XGBoost was the top-performing algorithm for three of four subtypes. The LACE Index, Charlson Comorbidity Index, and insurance type were consistently the strongest predictors. Algorithm-native, aggregated, and SHAP-based importance measures converged on these key features. Conclusions: In this largest-to-date, predominantly Black statewide cohort, condition-specific ML models achieved moderate-to-high discrimination for HF, AMI, AF/AFL, and HHD. Key clinical indices and administrative social determinants proxies emerged as dominant predictors, highlighting modifiable targets and high-risk subgroups. These findings support the development of precision, equity-informed readmission interventions and provide a scalable framework for deploying ML-driven decision support in safety-net and minority-serving healthcare systems.",
+      "year": 2026,
+      "publication_date": "2026-03-09",
+      "paper_id": "41d409f6d76436f2f1109040e06bd4cd456cd161",
+      "url": "https://www.semanticscholar.org/paper/41d409f6d76436f2f1109040e06bd4cd456cd161",
+      "venue": "medRxiv",
+      "doi": "10.64898/2026.03.08.26347901",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
       "title": "Conformalized Super Learner",
       "authors": [
         "Zhan Wu",
@@ -704,6 +901,25 @@
       "source_queries": [
         "super learner",
         "super learning"
+      ]
+    },
+    {
+      "title": "Cross-Fitted Survey-Weighted TMLE with Design-Based Variance for Causal Machine Learning",
+      "authors": [
+        "M. Karim"
+      ],
+      "abstract": "Cross-fitting is not a refinement of survey-weighted causal machine learning but, once the nuisances are flexible, what restores valid inference. We study the population average treatment effect under a stratified multistage design, estimated by a survey-aware targeted maximum likelihood estimator (TMLE) whose variance is obtained by Taylor-series linearization of the influence function, treating the primary sampling unit as the replication unit. Our central result, established in theory and simulation, is that this validity turns on cross-fitting at the cluster level. Once flexible learners cross a complexity (Donsker) boundary, single-fit survey TMLE can severely under-cover, and internal cluster-aware cross-validation does not substitute for cross-fitting; among the estimators we evaluate, only out-of-fold fitting at the cluster level restores valid coverage. In simulations spanning a many-PSU and an NHANES-like design, on a diverse ensemble the single-fit and internal cross-validation estimators cover at about 0.89-0.91 and 0.85-0.88 while the cross-fitted estimator holds at 0.93-0.95, and an aggressively grown learner drives single-fit coverage to 0.22. Two scope choices are deliberate: survey-weighted point estimation is prior work, and the nuisance product-rate condition is assumed and probed empirically. Within these conditions we prove asymptotic normality and design-consistency of the linearization variance. Four NHANES analyses and open-source software illustrate the method.",
+      "year": 2026,
+      "publication_date": "2026-06-29",
+      "paper_id": "88ff40da3447fbf5a714d17d0927602d90bc89a0",
+      "url": "https://www.semanticscholar.org/paper/88ff40da3447fbf5a714d17d0927602d90bc89a0",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
       ]
     },
     {
@@ -832,6 +1048,31 @@
         "tmle"
       ],
       "source_queries": [
+        "tmle"
+      ]
+    },
+    {
+      "title": "Early twice-daily toothbrushing and adolescent dental caries: a causal inference analysis using the Longitudinal Study of Australian Children.",
+      "authors": [
+        "H. M. Alsharani",
+        "N. Stormon",
+        "Alice M. Richardson",
+        "Yuehan Zhang",
+        "Tehzeeb Zulfiqar"
+      ],
+      "abstract": "BACKGROUND Dental caries is a highly prevalent chronic childhood condition, yet longitudinal evidence linking early oral hygiene behaviours to long-term outcomes remains limited. This study estimated whether twice-daily toothbrushing at age 2-3 years was associated with lower incident dental caries through adolescence, under a target trial emulation framework. METHODS Data were from the Longitudinal Study of Australian Children (LSAC) B-cohort (N = 5,107). Children with caries at or before Wave 2 (age 2-3) were excluded, yielding an incident sample of 2,970. Associations were estimated using multivariable logistic regression, propensity score matching, inverse probability of treatment weighting (IPTW), targeted maximum likelihood estimation (TMLE), and g-computation. The outcome was carer-reported dental caries. Confounders were identified via directed acyclic graph (DAG) analysis. Effect modification by area-level socioeconomic position (SEP) was assessed through a pre-specified equity analysis. RESULTS Among 2,941 children in the analytic sample, 1,559 (53.0%) developed carer-reported caries by age 14-15. Caries incidence was lower among children who brushed twice daily: 660 of 1,359 (48.6%) versus 899 of 1,582 (56.8%) in the less frequent group. The primary adjusted odds ratio (aOR) was 0.73 (95% CI: 0.63-0.85, p < 0.001). A dose-response gradient was observed (p-trend < 0.001). Effect estimates were similar across analytical approaches (OR range: 0.72-0.75). In non-disadvantaged areas, protective associations were observed (aOR = 0.65, 95% CI: 0.54-0.79). In disadvantaged areas, the association was weaker and not statistically significant (aOR = 0.91, 95% CI: 0.71-1.17; interaction p = 0.035). An exploratory falsification analysis using dental pain yielded a null result (aOR = 1.06, 95% CI: 0.91-1.23, p = 0.47), but this outcome was interpreted cautiously because dental pain may lie downstream of caries. CONCLUSIONS Twice-daily toothbrushing by age 2-3 years was associated with a lower risk of incident adolescent caries. Estimates from multiple causal inference approaches were consistent with an absolute risk reduction of approximately 8% points (NNT ≈ 13), under assumptions of no unmeasured confounding, adequate positivity, and correct model specification. Protective associations appeared concentrated in non-disadvantaged areas, suggesting that oral hygiene promotion should be combined with broader preventive strategies addressing structural determinants of oral health.",
+      "year": 2026,
+      "publication_date": "2026-06-27",
+      "paper_id": "13af7230e184f7f78e42351a34778fdac9ee5cf8",
+      "url": "https://www.semanticscholar.org/paper/13af7230e184f7f78e42351a34778fdac9ee5cf8",
+      "venue": "BMC Oral Health",
+      "doi": "10.1186/s12903-026-08999-9",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation",
         "tmle"
       ]
     },
@@ -1726,6 +1967,30 @@
       ]
     },
     {
+      "title": "Predictive Modeling of COVID-19 Variant Peak Prevalence and Duration Using GISAID Data Across 15 Countries",
+      "authors": [
+        "Y. Zhang",
+        "P. Rob",
+        "K. Chen",
+        "C. E. Overton",
+        "J. Jung",
+        "Y. Jo"
+      ],
+      "abstract": "Background: Rapid emergence and replacement of SARS-CoV-2 variants underscore the need for early and reliable indicators of variant dominance to guide timely public health response. However, early genomic trajectories are typically short, sparse, and noisy, with strong fluctuations and substantial cross-country heterogeneity in sequencing intensity and reporting. Methods: We develop a scalable forecasting framework to predict whether newly emerging variants will reach high prevalence and how long they will persist, using early genomic growth patterns. Using more than nine million SARS-CoV-2 sequences from 15 countries collected between 2020 and 2024 through GISAID, we characterize variant dominance by peak prevalence and by duration above a ten percent national share. Early growth descriptors were extracted from the first two to four weeks after a lineage exceeded a one percent frequency threshold. Outcomes were classified using multiple models, including generalized linear models, generalized additive models, support vector machines, classification and regression trees, elastic net, and an ensemble Super Learner approach. Model performance was evaluated using accuracy, and SHAP analysis was applied to interpret feature importance. Results: The Super Learner ensemble consistently achieved the strongest performance, with accuracy reaching up to 0.76 for peak prevalence classification and up to 0.70 for dominance duration classification, substantially outperforming individual models. SHAP-based interpretation indicated that variants reaching high peak prevalence exhibit strong but structurally coherent early growth, whereas prolonged dominance is not driven by early surges but by sustained, moderate short-term fluctuations embedded within stable early trajectories. Conclusion: This framework establishes minimum surveillance thresholds, including at least one hundred sequences within thirty days and a one percent detection share, together with standardized variant grouping and noise-filtering protocols. These features enable robust cross-country comparison and country-specific forecasting. Overall, the proposed approach provides a lightweight and reproducible early-warning tool for genomic surveillance and real-time epidemic intelligence.",
+      "year": 2026,
+      "publication_date": "2026-02-05",
+      "paper_id": "71da780ae870bcd497a02774648f8a5d7b372c34",
+      "url": "https://www.semanticscholar.org/paper/71da780ae870bcd497a02774648f8a5d7b372c34",
+      "venue": "medRxiv",
+      "doi": "10.64898/2026.02.04.26345559",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
       "title": "Prenatal paracetamol exposure and wheezing in infancy: a targeted maximum likelihood estimation application",
       "authors": [
         "C. Moccia",
@@ -1872,6 +2137,30 @@
       ]
     },
     {
+      "title": "Residual-on-Residual Regression as a Tool for Effect Estimation in Observational Data",
+      "authors": [
+        "Ashley I Naimi",
+        "Qianhui Jin",
+        "Ya-Hui Yu",
+        "S. Parisi",
+        "Lisa M. Bodnar"
+      ],
+      "abstract": "Epidemiologists increasingly use machine learning to adjust for high-dimensional confounding. Augmented inverse probability weighting (AIPW) and targeted maximum likelihood estimation (TMLE) are most widely used but may yield different results and both can become unstable under weak positivity violations. Residual-on-residual regression is a stable alternative that estimates an exposure effect encoded in a partially linear model by fitting confounder adjusted models for the outcome and exposure, then regressing outcome residuals against exposure residuals using ordinary least squares. We illustrate the approach using data from the Nulliparous Pregnancy Outcomes Study: Monitoring Mothers-to-Be (nuMoM2b; $n = 7{,}923$), estimating the association between high vegetable intake density and preeclampsia. Residual-on-residual regression, AIPW, and TMLE yielded concordant estimates, indicating a modest reduction in preeclampsia risk. In simulations, residual-on-residual regression was unbiased with near-nominal confidence interval coverage, performing comparably to AIPW and TMLE and substantially better than a misspecified parametric model when the exposure effect is approximately constant. However, in simulation settings with positivity violations, residual on residual regression outperformed AIPW and TMLE when the true effect was coded in a partially linear model. When the exposure effect is approximately constant, residual-on-residual regression is interpretable, computationally simple, and provides a triangulation strategy for observational causal inference.",
+      "year": 2026,
+      "publication_date": "2026-06-29",
+      "paper_id": "f24f3634a59b34727cf06a43809354f52d38dba4",
+      "url": "https://www.semanticscholar.org/paper/f24f3634a59b34727cf06a43809354f52d38dba4",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
+      ]
+    },
+    {
       "title": "Rethinking Evidence Synthesis: Why Causally Interpreted Meta-Analysis Should Supplant Conventional Meta-Analysis at the Top of the Evidence Hierarchy in Medicine",
       "authors": [
         "Alsanussi T. Elsherif"
@@ -1945,9 +2234,9 @@
         "Hannah Lee",
         "Eun Jeong Oh",
         "Tristan Tham",
-        "Seungjun Ahn"
+        "S. Ahn"
       ],
-      "abstract": "",
+      "abstract": "Survival analysis in head and neck squamous cell carcinoma (HNSCC) is traditionally performed using Cox proportional hazards models, alongside some exploration into black-box machine learning methods. The Super Learner (SL) algorithm addresses this model selection dilemma by combining diverse candidate algorithms into a weighted ensemble to perform comparably to the best candidate method. This study evaluates the performance of SL in HNSCC. Proteomic features as well as clinical covariates from 96 CPTAC HNSCC samples were modeled with three candidate algorithms (Cox LASSO, Cox Ridge, and Random Survival Forest) as well as the ensemble SL method. Models were optimized via Uno’s time-dependent Concordance Index (C-index) and tested at 1- and 3-year time horizons using 2000 bootstrap resamples. The Cox Ridge regression model achieved the highest predictive accuracy among the four total methods. However, the SL demonstrated stable performance over both time horizons (1-year C-index: 0.985; 3-year C-index: 0.960). Variable importance analysis of the Cox Ridge model successfully identified malignant proteins (ATR, MAML1, MIEN1) alongside novel potential prognostic indicators (ZNF800, KERA). This analysis emphasizes the statistical necessity for larger cohorts for ensemble learning, while providing a benchmark of proteomic indicators in HNSCC.",
       "year": 2026,
       "publication_date": "2026-06-16",
       "paper_id": "0d2f1fa24323ebbf076bae6d258d417d6e6c08eb",
@@ -1958,8 +2247,7 @@
         "super learner"
       ],
       "source_queries": [
-        "super learner",
-        "super learning"
+        "super learner"
       ]
     },
     {
@@ -2088,6 +2376,27 @@
       ]
     },
     {
+      "title": "Targeted maximum likelihood estimation for integral projection models in population ecology",
+      "authors": [
+        "Yunzhe Zhou",
+        "Giles Hooker"
+      ],
+      "abstract": "In population ecology, integral projection models (IPMs) are widely used to study population growth and the dynamics of population structure (e.g., age and size distributions). These models typically use data on the growth, survival, and reproduction of marked individuals to parameterize models for each demographic rate. The resulting models can be used to predict changes in the population from one time point to the next and to predict long-term properties such as long-term population growth rate, the sensitivity of that growth rate to environmental factors and to changes in demographic rates, and the variation in lifetime outcomes among individuals. These quantities must be inferred from the model, and we often lack any way to ground-truth their plausibility directly from the available data. They nonetheless reflect key ecological processes with significant management and policy implications. Building IPMs requires us to develop sub-models for individual fates over the next time step—Did they survive? How much did they grow or shrink? Did they reproduce?—conditional on their initial state as well as on environmental covariates. This must be done in a manner that gives the most precise possible estimates, and most accurate uncertainty quantification, for the long-term model properties that we are interested in predicting. These models include three core demographic submodels—for growth, survival, and reproduction rates—to describe how individuals change from one time point to the next. Targeted maximum likelihood estimation (TMLE) methods are particularly well suited to a situation in which we are largely interested in estimation and inference on quantities derived from models. These methods build machine learning-based models that estimate the probability distribution from which the empirical data were drawn, and then the user specifies a target of inference as a function of this distribution. An initial estimate for the distribution is then modified by tilting in the direction of the influence function to both de-bias the parameter estimate and provide more accurate inference. In this paper we employ TMLE to develop robust and efficient estimators for quantities derived from a fitted IPM as targets of interest, with a particular focus on long-term stable population growth, its elasticity to fecundity, and the expected growth rate under year-specific covariates. Mathematically, we derive the influence functions for these targets of influence and formulate and use these to update our model so as to remove bias from our estimates. Empirically, we conduct extensive simulations and demonstrate our method’s efficacy using empirical data from a long-term study of plant communities on the Idaho steppe and from experimental rotifer populations.",
+      "year": 2026,
+      "publication_date": "2026-06-01",
+      "paper_id": "ba627f5d0ce0f0837e84c21ecd0b03ee87e0d8bc",
+      "url": "https://www.semanticscholar.org/paper/ba627f5d0ce0f0837e84c21ecd0b03ee87e0d8bc",
+      "venue": "Annals of Applied Statistics",
+      "doi": "10.1214/26-aoas2166",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
+      ]
+    },
+    {
       "title": "Targeted maximum likelihood estimation of vaccine effectiveness and immune correlates in test-negative design studies with missing data",
       "authors": [
         "Leah I B Andrews",
@@ -2126,6 +2435,40 @@
       ],
       "source_queries": [
         "targeted minimum loss based estimation"
+      ]
+    },
+    {
+      "title": "The effect of treating hearing loss with hearing aids on plasma biomarkers of Alzheimer's disease and related dementias",
+      "authors": [
+        "L. Cribb",
+        "Margarita Moreno-Betancur",
+        "Julia Sarant",
+        "R. Wolfe",
+        "M. Pase",
+        "Gary Rance",
+        "M. M. Mielke",
+        "Anne M. Murray",
+        "Alice J. Owen",
+        "Robyn L. Woods",
+        "Zhen Zhou",
+        "Zimu Wu",
+        "Kerry M. Sheets",
+        "Trevor T.‐J. Chong",
+        "Raj C. Shah",
+        "J. Ryan"
+      ],
+      "abstract": "Abstract BACKGROUND Though evidence indicates that treating hearing loss with hearing aids (HAs) could reduce dementia risk, the effects on biomarkers of Alzheimer's disease and related dementias (ADRD) remain unknown. METHODS Observational data from Aspirin in Reducing Events in the Elderly (ASPREE) study participants without dementia and with hearing problems were used. We emulated two target trials to estimate the effect of (1) new HA prescription and (2) the frequency of HA use on plasma ADRD biomarkers after 7 years using targeted maximum likelihood estimation, with multiple imputation for missing data. RESULTS There was a median of 2842 individuals (mean 75 years, 48% female) across imputed datasets, and 735 new HA prescriptions. Estimated treatment effects were close to null for phosphorylated tau181, neurofilament light chain, glial fibrillary acidic protein, and amyloid beta 42/40. There was little evidence of effect modification (e.g., by apolipoprotein E ε4 genotype). DISCUSSION In older people with hearing loss, HA prescription and frequency of use had minimal association with levels of ADRD biomarkers.",
+      "year": 2026,
+      "publication_date": "2026-04-01",
+      "paper_id": "63574c97b9a955ab46fab2e8d370f10a629220fd",
+      "url": "https://www.semanticscholar.org/paper/63574c97b9a955ab46fab2e8d370f10a629220fd",
+      "venue": "Alzheimer's & Dementia",
+      "doi": "10.1002/dad2.70397",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
       ]
     },
     {
@@ -2466,7 +2809,7 @@
       ]
     },
     {
-      "title": "A causal framework for evaluating the total effect of strategies aiming to expand screening and to improve outcomes",
+      "title": "A Causal Framework for Evaluating the Total Effect of Strategies Aiming to Expand Screening and to Improve Outcomes.",
       "authors": [
         "J. Z. Nakato",
         "Janice Litunya",
@@ -2475,15 +2818,15 @@
         "J. Ayieko",
         "M. Kamya",
         "G. Chamie",
-        "L.B Balzer"
+        "L. B. Balzer"
       ],
-      "abstract": "For many health conditions, there are highly efficacious treatment and prevention products. Maximizing their impact requires strategies that improve the reach of health screening in order to establish who could benefit. For example, HIV prevention strategies aim to expand risk screening and to improve uptake of pre-exposure prophylaxis (PrEP) among those experiencing risk. Often, these strategies induce changes at the group-level (e.g., health clinics or communities) and are evaluated through cluster randomized trials. This scenario creates a complex, multilevel-mediation-missing data problem for the following reasons. First, the strategy is delivered at the cluster-level, while health screening and outcomes are at the individual-level. Second, the strategy improves health outcomes directly and indirectly through improved health screening. Third, everyone has an underlying status, which is only observed among those screened. To formally define the total effect in such settings, we use Counterfactual Strata Effects: causal estimands where the outcome is only relevant for a group whose membership is subject to missingness and/ or impacted by the exposure of interest. To identify and estimate the corresponding statistical estimand, we propose a novel extension of Two-Stage targeted minimum loss-based estimation (TMLE). Simulations demonstrate the practical performance of our approach as well as the limitations of existing approaches.",
+      "abstract": "For many health conditions, there are highly efficacious treatment and prevention products. Maximizing their impact requires strategies that improve the reach of health screening in order to establish who could benefit. For example, HIV prevention strategies aim to expand risk screening and to improve uptake of pre-exposure prophylaxis (PrEP) among those experiencing risk. Often, these strategies induce changes at the group-level (e.g., health clinics or communities) and are evaluated through cluster randomized trials. This scenario creates a complex, multilevel-mediation-missing data problem for the following reasons: First, the strategy is delivered at the cluster-level, while health screening and outcomes are at the individual-level. Second, the strategy improves health outcomes directly and indirectly through improved health screening. Third, everyone has an \"underlying\" status, which is only observed among those screened. To formally define the total effect in such settings, we use Counterfactual Strata Effects: causal estimands where the outcome is only relevant for a group whose membership is subject to missingness and/or impacted by the exposure of interest. To identify and estimate the corresponding statistical estimand, we propose a novel extension of Two-Stage targeted minimum loss-based estimation (TMLE). Simulations demonstrate the practical performance of our approach as well as the limitations of existing approaches.",
       "year": 2025,
       "publication_date": "2025-06-06",
       "paper_id": "9cdb2680841437c7416454e444eb61d7645a3f94",
       "url": "https://www.semanticscholar.org/paper/9cdb2680841437c7416454e444eb61d7645a3f94",
-      "venue": null,
-      "doi": null,
+      "venue": "Statistics in Medicine",
+      "doi": "10.1002/sim.70648",
       "matched_keywords": [
         "targeted minimum loss based estimation",
         "tmle"
@@ -4771,6 +5114,29 @@
       ]
     },
     {
+      "title": "Key factors behind the adoption of a patient-facing technology in primary care: a structured approach to variable importance",
+      "authors": [
+        "D. Rodrigues",
+        "N. Kreif",
+        "A. Darzi",
+        "Mauricio Barahona",
+        "E. Mayer"
+      ],
+      "abstract": "Technology can augment the interaction between patients and the healthcare system, but its adoption can vary widely across patients due to their personal circumstances or supply-side features. We formulated this study to answer the following variable importance question: which patient, workforce and organisational characteristics are the most important at driving adoption of the online access route to primary care among the population in London? We examined the importance of each candidate treatment variable in separate analyses by contrasting online access adoption under low and high-adoption levels of each candidate variable. We used practice-level data from the population in North West London between 2018 and 2021 and employed the cross-validated targeted minimum loss-based Estimation to obtain variable importance estimates. We found that the top two drivers of online access adoption are the socioeconomic deprivation of the registered patient population and digital maturity of the practice, followed by quality of care measured by an inspection rating, helpfulness of receptionists, internet connectivity at the residential area of patients, practice’s training status and patients’ comorbidity profile. Our results highlight the potential areas of focus when designing interventions to facilitate online access adoption in primary care across the population. These areas of focus include mitigating the impact of patients’ socioeconomic deprivation on using digital technology and improving organisations’ digital maturity by investing in their infrastructure and workforce’s digital capability.",
+      "year": 2025,
+      "publication_date": "2025-10-25",
+      "paper_id": "1d321e5f38137093014cd8c943767db09383c9c4",
+      "url": "https://www.semanticscholar.org/paper/1d321e5f38137093014cd8c943767db09383c9c4",
+      "venue": "Health Services & Outcomes Research Methodology",
+      "doi": "10.1007/s10742-025-00361-w",
+      "matched_keywords": [
+        "targeted minimum loss based estimation"
+      ],
+      "source_queries": [
+        "targeted minimum loss based estimation"
+      ]
+    },
+    {
       "title": "Linking GFAP Levels to Speech Anomalies in Acute Brain Injury: A Simulation Based Study",
       "authors": [
         "Shamaley Aravinthan",
@@ -5677,6 +6043,25 @@
       ]
     },
     {
+      "title": "Predicting police and military violence: evidence from Colombia and Mexico using machine learning models",
+      "authors": [
+        "J. D. Gélvez"
+      ],
+      "abstract": "Armed forces violence has pervasive effects on public trust and population well-being. Such misconduct is not random, making its prevention both crucial and challenging due to the difficulty of measuring and detecting these phenomena beforehand. Recent advances in artificial intelligence offer new tools for this task. This article proposes the use of machine learning models to predict armed forces violence at the municipality level. Focusing on Colombia and Mexico—two countries with a significant number of human rights abuses by armed forces—the analysis draws on comprehensive subnational datasets. In Colombia, the study examines 1255 extrajudicial killing cases in which innocent civilians were misrepresented as guerrillas by the military. In Mexico, it considers 12,437 allegations of severe human rights abuses during militarized policing operations. Separate machine learning models are trained using four canonical algorithms—Lasso, Random Forests, Extreme Gradient Boosting, and Neural Networks—and their predictions are combined through a Super Learner ensemble. Results show high accuracy, specificity, and sensitivity in predicting police and military violence. In addition, feature-importance analysis highlights the most influential variables in the models’ predictions. These findings carry significant policy implications for contemporary law-and-order institutions, particularly in Latin America, where over a quarter of the world’s homicides occur, less than half the population expresses confidence in the police, and more than 9000 police killings are reported in a single year.",
+      "year": 2025,
+      "publication_date": "2025-06-05",
+      "paper_id": "2403983ec9d4fff0dfbd14794bb37444d8713c8f",
+      "url": "https://www.semanticscholar.org/paper/2403983ec9d4fff0dfbd14794bb37444d8713c8f",
+      "venue": "Humanities and Social Sciences Communications",
+      "doi": "10.1057/s41599-025-04967-w",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
       "title": "Predicting Stunted Growth in Two Year Old Bangladeshi Children via the Super Learner",
       "authors": [
         "Heather L. Cook",
@@ -6024,6 +6409,26 @@
       ]
     },
     {
+      "title": "STATISTICAL APPLICATIONS IN PEDIATRIC ENDOCRINOLOGY: A SIMULATION ON METFORMIN EFFECT ON HBA1c IN HIGH-RISK ADOLESCENTS",
+      "authors": [
+        "W. Shi"
+      ],
+      "abstract": "Metformin has been increasingly used off label in adolescents with type 1 diabetes (T1D) or prediabetic conditions to improve glycemic control. Despite clinical trials suggesting modest improvements in HbA1c, evidence remains mixed and methodologically limited. This paper introduces a simulation framework to evaluate advanced causal inference estimators including Targeted Maximum Likelihood Estimation (TMLE), Double Machine Learning (DML), and Bayesian Causal Forests (BCF) for estimating the causal effect of metformin on HbA1c reduction in high risk adolescents. The framework incorporates realistic confounding structures based on empirical data and provides theoretical derivations for estimator properties.",
+      "year": 2025,
+      "publication_date": "2025-10-14",
+      "paper_id": "bc98a359898143d6b7e6af7b72e3ba82f8e47561",
+      "url": "https://www.semanticscholar.org/paper/bc98a359898143d6b7e6af7b72e3ba82f8e47561",
+      "venue": "medRxiv",
+      "doi": "10.1101/2025.10.12.25337852",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
+      ]
+    },
+    {
       "title": "Statistical Methods for Chemical Mixtures: A Roadmap for Practitioners Using Simulation Studies and a Sample Data Analysis in the PROTECT Cohort",
       "authors": [
         "W. Hao",
@@ -6360,40 +6765,6 @@
       "source_queries": [
         "super learner",
         "targeted minimum loss based estimation"
-      ]
-    },
-    {
-      "title": "The Effect of Treating Hearing Loss with Hearing Aids on Plasma Biomarkers of Alzheimer’s Disease and Related Dementias",
-      "authors": [
-        "Lachlan Cribb",
-        "Margarita Moreno-Betancur",
-        "J. Sarant",
-        "R. Wolfe",
-        "Matthew P Pase",
-        "Gary Rance",
-        "Michelle M Mielke",
-        "A. Murray",
-        "Alice J. Owen",
-        "Robyn L. Woods",
-        "Zhen Zhou",
-        "Zimu Wu",
-        "Kerry M. Sheets",
-        "T. Chong",
-        "Raj C. Shah",
-        "Joanne Ryan"
-      ],
-      "abstract": "Background: Promising evidence indicates that treating hearing loss with hearing aids (HAs) could reduce dementia risk. We extend this evidence by investigating the effect of HAs on plasma biomarkers of Alzheimer's disease and related dementias (ADRD). Methods: We emulated two target trials using observational data from Australian participants of the ASPREE study. Eligible participants had self-reported hearing problems, no past HA use, and were dementia-free. HA prescriptions and frequency of HA use were measured by questionnaire. Phosphorylated-tau181 (pTau181), neurofilament light chain (NfL), glial fibrillary acidic protein (GFAP), and amyloid-{beta} (A{beta}) 42/40 were measured after approximately 6-8 years. We estimated the effect of new HA prescription (first target trial) and the frequency of HA use (second target trial) using targeted maximum likelihood estimation, with multiple imputation for missing data. Results: Across imputed datasets, a median of 2842 eligible individuals were included (mean age 75 years, 48% female), with a median of 735 receiving a new HA prescription. Among survivors, the estimated mean differences comparing HA prescription and no HA prescription were 1.8 pg/mL (95% CI: -0.6, 4.1), 0.1 pg/mL (-7.8, 8.0), -2.2 pg/mL (-14.5, 10.1), and -0.7 (-2.6, 1.2) for the concentrations of pTau181, NfL, GFAP, and (A{beta}42 x 1000)/A{beta}40, respectively. Mean differences did not differ substantially across levels of potential baseline effect modifiers, including APOE-{varepsilon}4 genotype and cognition. Conclusion: In community-dwelling older people with hearing loss and no dementia, we found minimal effects of HA prescription and frequency of HA use on plasma ADRD biomarkers after a 7-year follow-up.",
-      "year": 2025,
-      "publication_date": "2025-11-20",
-      "paper_id": "75fe904272c68aaddbb0560ce0c158f1754a5533",
-      "url": "https://www.semanticscholar.org/paper/75fe904272c68aaddbb0560ce0c158f1754a5533",
-      "venue": "medRxiv",
-      "doi": "10.1101/2025.11.19.25340558",
-      "matched_keywords": [
-        "targeted maximum likelihood estimation"
-      ],
-      "source_queries": [
-        "targeted maximum likelihood estimation"
       ]
     },
     {
@@ -6736,6 +7107,28 @@
       ]
     },
     {
+      "title": "Unintended Pregnancy and Preterm Birth in the United States: Causal Inference and Risk Prediction Using National Survey of Family Growth Data",
+      "authors": [
+        "MD¹ Sunday A. Adetunji",
+        "MPH¹ Purva Nerandra More",
+        "Purva Nerandra"
+      ],
+      "abstract": "BackgroundUnintended pregnancy remains common in high income countries and has been linked to poorer maternal and neonatal outcomes. Whether pregnancy intention has an independent, causal effect on preterm birth, beyond social and clinical risk factors, is uncertain. MethodsWe conducted a cross-sectional analysis of a nationally representative sample of singleton live births from a US reproductive health survey. Pregnancy intention (intended vs unintended) was reported at conception. Preterm birth was defined as delivery before 37 completed weeks. We used survey-weighted logistic regression and a suite of causal estimators, including inverse probability weighted marginal structural models, augmented inverse probability weighting, targeted maximum likelihood estimation with Super Learner, Bayesian g-computation, and causal forests. Models adjusted for maternal age, race and ethnicity, parity, marital or cohabiting status, education, poverty ratio, insurance, and body mass index. We also trained Super Learner prediction models with 10-fold cross validation and evaluated discrimination, calibration, high risk stratification, and net clinical benefit. FindingsIn the weighted population, 39.1% of pregnancies were unintended. Preterm birth occurred in 12.6% of unintended vs 9.0% of intended pregnancies. In survey-weighted logistic models, unintended pregnancy was associated with higher odds of preterm birth (adjusted odds ratio 1.43, 95% CI 1.06 to 1.94). Across advanced causal estimators, the risk difference for unintended vs intended pregnancy was small but consistent, around 3 excess preterm births per 100 live births, with limited positivity and modest E-values suggesting that unmeasured confounding could attenuate or explain part of the association. A Super Learner ensemble achieved excellent discrimination (area under the curve about 0.98 vs 0.56 for baseline logistic regression), good calibration, and identified a top 10% risk stratum with markedly higher observed preterm birth risk than the lower 90%. InterpretationIn this national sample, unintended pregnancy functioned primarily as a marker of concentrated social and clinical vulnerability rather than a large, isolated causal driver of preterm birth. Nonetheless, pregnancy intention materially improved risk stratification when combined with standard covariates. Joint use of causal inference and machine learning provides a defensible framework to target intensified antenatal support to women at highest risk while avoiding overinterpretation of intention as a deterministic cause. FundingNo external funding.",
+      "year": 2025,
+      "publication_date": "2025-11-27",
+      "paper_id": "f4db6d423dd186615a21ec739bdaa1b80e05f915",
+      "url": "https://www.semanticscholar.org/paper/f4db6d423dd186615a21ec739bdaa1b80e05f915",
+      "venue": "medRxiv",
+      "doi": "10.1101/2025.11.25.25341033",
+      "matched_keywords": [
+        "super learner",
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
       "title": "Vaping nicotine is associated with increased medically-attended COVID-19 in women of reproductive age in an integrated health system",
       "authors": [
         "J. Velotta",
@@ -6787,6 +7180,25 @@
       ],
       "source_queries": [
         "tmle"
+      ]
+    },
+    {
+      "title": "Weak instrumental variables due to ignored nonlinearities in panel data: A Super Learner Control Function estimator",
+      "authors": [
+        "Monika Avila-Marquez"
+      ],
+      "abstract": "A triangular structural panel data model with additive separable individual-specific effects is used to model the causal effect of a covariate on an outcome variable when there are unobservable confounders with some of them time-invariant. In this setup, a linear specification for the reduced-form equation might be problematic when the conditional mean of the endogenous covariate and the instrumental variables is nonlinear in the population. The reason is that ignoring the nonlinearity could lead to weak instruments (instruments are weakly correlated with the endogenous covariate) due to misspecification as shown using a generalized concentration parameter for panel data. As a solution, we propose a triangular simultaneous equation model for panel data with additive separable individual-specific fixed effects composed of a linear structural equation with a nonlinear reduced form equation. The parameter of interest is the structural parameter of the endogenous variable. The identification of this parameter is obtained under the assumption of available exclusion restrictions and using a control function approach. We provide an estimator that we call Super Learner Control Function estimator (SLCFE). The estimation procedure is composed of two main steps and cross-fitting. First, we estimate the control function using a super learner. In the following step, we use the estimated control function to control for endogeneity in the structural equation. Cross-fitting is done across the individual dimension. The estimator is consistent and asymptotically normal achieving a parametric rate of convergence. We show that the SLCF estimator differs from both the plug-in IV estimator and a naive plug-in 2SLS estimator, with the former not being consistent without cross-fitting, and the latter not being consistent even with cross-fitting.",
+      "year": 2025,
+      "publication_date": "2025-04-04",
+      "paper_id": "9d79cdf7af219efcb6f55db7361eeb0a7ef3ef25",
+      "url": "https://www.semanticscholar.org/paper/9d79cdf7af219efcb6f55db7361eeb0a7ef3ef25",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
       ]
     },
     {
@@ -10126,28 +10538,6 @@
       ]
     },
     {
-      "title": "Targeted Maximum Likelihood Estimation for Integral Projection Models in Population Ecology",
-      "authors": [
-        "Yunzhe Zhou",
-        "Giles Hooker"
-      ],
-      "abstract": "Integral projection models (IPMs) are widely used to study population growth and the dynamics of demographic structure (e.g. age and size distributions) within a population.These models use data on individuals' growth, survival, and reproduction to predict changes in the population from one time point to the next and use these in turn to ask about long-term growth rates, the sensitivity of that growth rate to environmental factors, and aspects of the long term population such as how much reproduction concentrates in a few individuals; these quantities are not directly measurable from data and must be inferred from the model. Building IPMs requires us to develop models for individual fates over the next time step -- Did they survive? How much did they grow or shrink? Did they Reproduce? -- conditional on their initial state as well as on environmental covariates in a manner that accounts for the unobservable quantities that are are ultimately interested in estimating.Targeted maximum likelihood estimation (TMLE) methods are particularly well-suited to a framework in which we are largely interested in the consequences of models. These build machine learning-based models that estimate the probability distribution of the data we observe and define a target of inference as a function of these. The initial estimate for the distribution is then modified by tilting in the direction of the efficient influence function to both de-bias the parameter estimate and provide more accurate inference. In this paper, we employ TMLE to develop robust and efficient estimators for properties derived from a fitted IPM. Mathematically, we derive the efficient influence function and formulate the paths for the least favorable sub-models. Empirically, we conduct extensive simulations using real data from both long term studies of Idaho steppe plant communities and experimental Rotifer populations.",
-      "year": 2024,
-      "publication_date": "2024-11-12",
-      "paper_id": "43e2380b0bd7da421b8779ee6bce518bc8c4f839",
-      "url": "https://www.semanticscholar.org/paper/43e2380b0bd7da421b8779ee6bce518bc8c4f839",
-      "venue": null,
-      "doi": null,
-      "matched_keywords": [
-        "targeted maximum likelihood estimation",
-        "tmle"
-      ],
-      "source_queries": [
-        "targeted maximum likelihood estimation",
-        "tmle"
-      ]
-    },
-    {
       "title": "The effect of an intervention to promote isoniazid preventive therapy on leadership and management abilities",
       "authors": [
         "C. Christian",
@@ -10514,6 +10904,27 @@
       ],
       "source_queries": [
         "super learning"
+      ]
+    },
+    {
+      "title": "A hybrid super ensemble learning model for the early-stage prediction of diabetes risk",
+      "authors": [
+        "Ayşe Doğru",
+        "Selim Buyrukoğlu",
+        "Murat Arı"
+      ],
+      "abstract": "Diabetes mellitus has become a rapidly growing chronic health problem worldwide. There has been a noticeable increase in diabetes cases in the last two decades. Recent advances in ensemble machine learning methods play an important role in the early detection of diabetes mellitus. These methods are both faster and less costly than traditional methods. This study aims to propose a new super ensemble learning model to enable an early diagnosis of diabetes mellitus. Super learner is a cross-validation-based approach that makes better predictions by combining prediction results of more than one machine learning algorithm. The proposed super learner model was created with four base-learners (logistic regression, decision tree, random forest, gradient boosting) and a meta learner (support vector machines) as a result of a case study. Three different dataset were used to measure the robustness of the proposed model. Chi-square was determined as an optimal feature selection technique from five different techniques, and also hyper-parameter settings were made with GridSearch. Finally, the proposed new super learner model achieved to obtain the best accuracy results in the detection of Diabetes mellitus compared to the base-learners for the early-stage diabetes risk prediction (99.6%), PIMA (92%), and diabetes 130-US hospitals (98%) dataset, respectively. This study revealed that super learner algorithms can be effectively used in the detection of diabetes mellitus. Also, obtaining of the high and convincing statistical scores shows the robustness of the proposed super learner model. Graphical Abstract",
+      "year": 2023,
+      "publication_date": "2023-01-05",
+      "paper_id": "d5f4fcde32b4e213c3a64c602aedf922f16d3979",
+      "url": "https://www.semanticscholar.org/paper/d5f4fcde32b4e213c3a64c602aedf922f16d3979",
+      "venue": "Medical and Biological Engineering and Computing",
+      "doi": "10.1007/s11517-022-02749-z",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
       ]
     },
     {
@@ -15136,6 +15547,29 @@
       ],
       "source_queries": [
         "super learning"
+      ]
+    },
+    {
+      "title": "Non-Invasive Localization Using Software-Defined Radios",
+      "authors": [
+        "M. Z. Khan",
+        "Ahmad Taha",
+        "William Taylor",
+        "M. Imran",
+        "Q. Abbasi"
+      ],
+      "abstract": "Non-invasive indoor human activity detection using radio waves has attracted the interest of researchers, contributing to a range of new applications including smart healthcare. Localisation of activities can assist in developing advanced healthcare systems able to identify the location of patients. Radio frequencies have been shown in numerous studies as a non-invasive method to identify human activity. This is achieved by observing the signal propagation described in the Channel State Information (CSI). This paper presents experimental results using Universal Software-Defined Radio Peripheral (USRP) devices to identify and localise a single human subject performing activities by utilizing the CSI of radio frequencies. The experiments are carried out to retrieve CSI samples observing a single subject perform no-activity, sitting, standing, and leaning forward actions in various positions in a room. Additional CSI is captured for the subject walking in two directions across the observed area. Giving a total of 6 activities spanning the monitored area. CSI is also collected while the monitored area is empty for further comparison. Artificial intelligence is used to make classifications on collected CSI. The proposed approach uses a Super Learner (SL) algorithm that can identify the location of different activities with 96% accuracy, outperforming existing benchmark approaches.",
+      "year": 2022,
+      "publication_date": "2022-05-01",
+      "paper_id": "b2edcd734b6675cabc491e96a60353eb99eab7f8",
+      "url": "https://www.semanticscholar.org/paper/b2edcd734b6675cabc491e96a60353eb99eab7f8",
+      "venue": "IEEE Sensors Journal",
+      "doi": "10.1109/JSEN.2022.3160796",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
       ]
     },
     {
@@ -24326,7 +24760,7 @@
     {
       "title": "Adaptive pair-matching in randomized trials with unbiased and efficient effect estimation",
       "authors": [
-        "L.B Balzer",
+        "L. B. Balzer",
         "Maya L Petersen",
         "M. J. van der Laan"
       ],
@@ -25919,6 +26353,29 @@
       ],
       "source_queries": [
         "tmle"
+      ]
+    },
+    {
+      "title": "Evaluation of a pre-existing, 3-year household water treatment and handwashing intervention in rural Guatemala.",
+      "authors": [
+        "B. Arnold",
+        "B. Arana",
+        "D. Mäusezahl",
+        "A. Hubbard",
+        "J. Colford"
+      ],
+      "abstract": "BACKGROUND The promotion of household water treatment and handwashing with soap has led to large reductions in child diarrhoea in randomized efficacy trials. Currently, we know little about the health effectiveness of behaviour-based water and hygiene interventions after the conclusion of intervention activities. METHODS We present an extension of previously published design (propensity score matching) and analysis (targeted maximum likelihood estimation) methods to evaluate the behavioural and health impacts of a pre-existing but non-randomized intervention (a 3-year, combined household water treatment and handwashing campaign in rural Guatemala). Six months after the intervention, we conducted a cross-sectional cohort study in 30 villages (15 intervention and 15 control) that included 600 households, and 929 children <5 years of age. RESULTS The study design created a sample of intervention and control villages that were comparable across more than 30 potentially confounding characteristics. The intervention led to modest gains in confirmed water treatment behaviour [risk difference = 0.05, 95% confidence interval (CI) 0.02-0.09]. We found, however, no difference between the intervention and control villages in self-reported handwashing behaviour, spot-check hygiene conditions, or the prevalence of child diarrhoea, clinical acute lower respiratory infections or child growth. CONCLUSIONS To our knowledge this is the first post-intervention follow-up study of a combined household water treatment and handwashing behaviour change intervention, and the first post-intervention follow-up of either intervention type to include child health measurement. The lack of child health impacts is consistent with unsustained behaviour adoption. Our findings highlight the difficulty of implementing behaviour-based household water treatment and handwashing outside of intensive efficacy trials.",
+      "year": 2009,
+      "publication_date": "2009-12-01",
+      "paper_id": "11083dd5dd1f35d10a382383f14510aeb33b03ff",
+      "url": "https://www.semanticscholar.org/paper/11083dd5dd1f35d10a382383f14510aeb33b03ff",
+      "venue": "International Journal of Epidemiology",
+      "doi": "10.1093/ije/dyp241",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
       ]
     },
     {
