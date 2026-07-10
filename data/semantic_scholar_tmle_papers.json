@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T15:02:13Z",
+  "generated_at": "2026-07-10T15:03:02Z",
   "source": "Semantic Scholar Graph API",
   "unauthenticated": true,
   "mode": "bulk",
   "append_only": true,
   "blocked_json": "data/blocked_tmle_papers.json",
-  "blocked_match_count": 0,
+  "blocked_match_count": 1,
   "min_year": 2006,
   "keywords": [
     "tmle",
@@ -18,233 +18,168 @@
   "query_stats": [
     {
       "keyword": "tmle",
-      "fetched_raw_count": 451
+      "fetched_raw_count": 495
     },
     {
       "keyword": "targeted maximum likelihood estimation",
-      "fetched_raw_count": 1918
+      "fetched_raw_count": 1999
     },
     {
       "keyword": "targeted minimum loss based estimation",
-      "fetched_raw_count": 261
+      "fetched_raw_count": 348
     },
     {
       "keyword": "super learner",
-      "fetched_raw_count": 1021
+      "fetched_raw_count": 1028
     },
     {
       "keyword": "super learning",
-      "fetched_raw_count": 897
+      "fetched_raw_count": 2000
     },
     {
       "keyword": "highly adaptive lasso",
-      "fetched_raw_count": 238
+      "fetched_raw_count": 239
     }
   ],
   "query_errors": [],
   "incomplete": false,
-  "fetched_paper_count": 892,
-  "newly_appended_count": 15,
-  "updated_existing_count": 5,
+  "fetched_paper_count": 941,
+  "newly_appended_count": 10,
+  "updated_existing_count": 6,
   "existing_blocked_removed": 0,
   "existing_duplicates_removed": 0,
   "newly_added_papers": [
     {
-      "title": "Advanced and explainable machine learning model for prediction of surface roughness of tempered steel AISI 1060.",
+      "title": "Causal Effects of Time-Varying Treatments: The G-Formula.",
       "year": 2026,
       "authors": [
-        "Firi Ziyad",
-        "Habtamu Alemayehu",
-        "Desalegn Wogaso",
-        "Getachew Semegn",
-        "Abdirahman Sheikhadan",
-        "A. Mulugeta",
-        "Adamu Hailu",
-        "Abdella Kereme"
+        "Carmine Zoccali",
+        "G. Tripepi"
       ],
-      "publication_date": "2026-05-08",
-      "doi": "10.1038/s41598-026-52458-y",
-      "paper_id": "c1d85b24e66413b3f3860a42263a6752c81aae18"
+      "publication_date": "2026-06-30",
+      "doi": "10.1111/eci.70239",
+      "paper_id": "511d69ed778805fd6d822047346248e1067836fe"
     },
     {
-      "title": "AI-assisted diagnosis of cardiac amyloidosis using electrocardiograms and echocardiography: a multicenter retrospective study in China.",
+      "title": "Decoding the metabolic blockade effect: PFAS inhibition of organic anion transporters impairs VOC clearance and amplifies neurocognitive decline",
       "year": 2026,
       "authors": [
-        "Shuyuan Zhang",
-        "Z. Wan",
-        "Yi Hu",
-        "Ming Wu",
-        "Xinyue Zhang",
-        "Z. Tian",
-        "Shuyang Zhang"
+        "L. Liang",
+        "S. X. Zhang",
+        "J. Lin"
       ],
-      "publication_date": "2026-06-11",
-      "doi": "10.1186/s12916-026-04987-6",
-      "paper_id": "81001bf1c988c2cf2acb2c8fef5287b1d8390004"
+      "publication_date": "2026-02-15",
+      "doi": "10.64898/2026.02.12.26346123",
+      "paper_id": "796847ea018b9337a9adf837f68d372c27a8cc51"
     },
     {
-      "title": "Condition-Specific Readmission Risk Stratification in a Predominantly Black Statewide Cohort Using Machine Learning: Development of Subtype-Specific Models for Heart Failure, Acute Myocardial Infarction, Atrial Fibrillation/Flutter, and Hypertensive Heart Disease",
+      "title": "GLP Medications and Severe Post-COVID-19 Outcomes Among Individuals with Type 2 Diabetes Mellitus",
       "year": 2026,
       "authors": [
-        "I. El Moudden",
-        "M. Bittner",
-        "S. Dodani"
+        "Z. Butzin-Dozier",
+        "L.-C. Wang",
+        "Y. Ji",
+        "M. Kumar",
+        "A. Anzalone",
+        "E. Hurwitz",
+        "R. C. Patel",
+        "A. Budhihartanto",
+        "J. Buse",
+        "S. Johnson",
+        "J. Reusch",
+        "C. Bramante",
+        "R. Wong",
+        "on behalf of the National Clinical Cohort Collaborative"
       ],
-      "publication_date": "2026-03-09",
-      "doi": "10.64898/2026.03.08.26347901",
-      "paper_id": "41d409f6d76436f2f1109040e06bd4cd456cd161"
+      "publication_date": "2026-07-06",
+      "doi": "10.64898/2026.07.03.26357246",
+      "paper_id": "29a6ff2aead6328114d43cad26af6c73acdebf8f"
     },
     {
-      "title": "Cross-Fitted Survey-Weighted TMLE with Design-Based Variance for Causal Machine Learning",
+      "title": "Oncological Outcomes of Left Upper Tri-segmentectomy vs. Lobectomy for Clinical Stage I NSCLC with Occult Lymph Node Metastasis: A Target Trial Emulation with Targeted Minimum Loss-Based Estimation and Propensity Score Matching.",
+      "year": 2026,
+      "authors": [
+        "Zhang-Yi Dai",
+        "Yan Wei",
+        "Xingqi Mi",
+        "Yikai Xing",
+        "Ya-Fei Xie",
+        "Jia-Jun Cheng",
+        "Qing-Lv Fan",
+        "Fu-Qiang Wang",
+        "Yun Wang"
+      ],
+      "publication_date": "2026-07-01",
+      "doi": "10.1016/j.jtcvs.2026.06.015",
+      "paper_id": "8545d2107052bc1ede009bf247ba1ff6c53c3721"
+    },
+    {
+      "title": "Stacking Ensemble Learning Framework for Electric Vehicle Charging Demand Prediction",
+      "year": 2026,
+      "authors": [
+        "Engin Eyceyurt"
+      ],
+      "publication_date": "2026-06-03",
+      "doi": "10.1109/gpecom70462.2026.11578607",
+      "paper_id": "c968b67001200b85557e188553f29c9099b43774"
+    },
+    {
+      "title": "Targeted maximum likelihood estimation for longitudinal two-stage designs with outcome subsampling",
+      "year": 2026,
+      "authors": [
+        "Kirsten E. Landsiedel",
+        "Maya L. Petersen",
+        "M. V. D. Laan"
+      ],
+      "publication_date": "2026-07-02",
+      "doi": null,
+      "paper_id": "ac10cf8f1dff3e7c93a5c60081740902f1a2bbca"
+    },
+    {
+      "title": "The Effect of Lifelong Learning Participation on Adaptive Problem-Solving Skills among Early-Career Adults: Application of a Super Learner-Based Propensity Score Matching",
+      "year": 2026,
+      "authors": [
+        "Hyekyung Jung",
+        "Minju Park",
+        "Su-Jin Lee"
+      ],
+      "publication_date": "2026-06-30",
+      "doi": "10.31158/jeev.2026.39.2.353",
+      "paper_id": "bfbc45fc43f82d91d84cc3235a68a5b9c4bb3c7d"
+    },
+    {
+      "title": "When Does Real-World Data Make a Randomized Trial More Efficient, and How Would You Know? A Report Card, an Efficiency Map, and Selection-Aware Inference for Adaptive-TMLE",
       "year": 2026,
       "authors": [
         "M. Karim"
       ],
-      "publication_date": "2026-06-29",
+      "publication_date": "2026-07-02",
       "doi": null,
-      "paper_id": "88ff40da3447fbf5a714d17d0927602d90bc89a0"
+      "paper_id": "247409a8b45cbe1322a3a3a7570c92398116ed39"
     },
     {
-      "title": "Early twice-daily toothbrushing and adolescent dental caries: a causal inference analysis using the Longitudinal Study of Australian Children.",
+      "title": "Which Regularized Propensity-Score and Doubly Robust Methods Are Best Calibrated When Exposures or Outcomes Are Rare? A Plasmode Study of Proxy-Based Confounding Adjustment",
       "year": 2026,
       "authors": [
-        "H. M. Alsharani",
-        "N. Stormon",
-        "Alice M. Richardson",
-        "Yuehan Zhang",
-        "Tehzeeb Zulfiqar"
+        "M. E. Karim",
+        "Wanqing Hu"
       ],
-      "publication_date": "2026-06-27",
-      "doi": "10.1186/s12903-026-08999-9",
-      "paper_id": "13af7230e184f7f78e42351a34778fdac9ee5cf8"
-    },
-    {
-      "title": "Predictive Modeling of COVID-19 Variant Peak Prevalence and Duration Using GISAID Data Across 15 Countries",
-      "year": 2026,
-      "authors": [
-        "Y. Zhang",
-        "P. Rob",
-        "K. Chen",
-        "C. E. Overton",
-        "J. Jung",
-        "Y. Jo"
-      ],
-      "publication_date": "2026-02-05",
-      "doi": "10.64898/2026.02.04.26345559",
-      "paper_id": "71da780ae870bcd497a02774648f8a5d7b372c34"
-    },
-    {
-      "title": "Residual-on-Residual Regression as a Tool for Effect Estimation in Observational Data",
-      "year": 2026,
-      "authors": [
-        "Ashley I Naimi",
-        "Qianhui Jin",
-        "Ya-Hui Yu",
-        "S. Parisi",
-        "Lisa M. Bodnar"
-      ],
-      "publication_date": "2026-06-29",
+      "publication_date": "2026-07-08",
       "doi": null,
-      "paper_id": "f24f3634a59b34727cf06a43809354f52d38dba4"
+      "paper_id": "58fda170490ee5383af861c37d1cfb479e227fc5"
     },
     {
-      "title": "Key factors behind the adoption of a patient-facing technology in primary care: a structured approach to variable importance",
-      "year": 2025,
-      "authors": [
-        "D. Rodrigues",
-        "N. Kreif",
-        "A. Darzi",
-        "Mauricio Barahona",
-        "E. Mayer"
-      ],
-      "publication_date": "2025-10-25",
-      "doi": "10.1007/s10742-025-00361-w",
-      "paper_id": "1d321e5f38137093014cd8c943767db09383c9c4"
-    },
-    {
-      "title": "Predicting police and military violence: evidence from Colombia and Mexico using machine learning models",
-      "year": 2025,
-      "authors": [
-        "J. D. Gélvez"
-      ],
-      "publication_date": "2025-06-05",
-      "doi": "10.1057/s41599-025-04967-w",
-      "paper_id": "2403983ec9d4fff0dfbd14794bb37444d8713c8f"
-    },
-    {
-      "title": "STATISTICAL APPLICATIONS IN PEDIATRIC ENDOCRINOLOGY: A SIMULATION ON METFORMIN EFFECT ON HBA1c IN HIGH-RISK ADOLESCENTS",
+      "title": "Advanced Causal Inference Methods in Obstetrics and Gynecology: A Simulation Study on Preeclampsia Prevention",
       "year": 2025,
       "authors": [
         "W. Shi"
       ],
-      "publication_date": "2025-10-14",
-      "doi": "10.1101/2025.10.12.25337852",
-      "paper_id": "bc98a359898143d6b7e6af7b72e3ba82f8e47561"
-    },
-    {
-      "title": "Unintended Pregnancy and Preterm Birth in the United States: Causal Inference and Risk Prediction Using National Survey of Family Growth Data",
-      "year": 2025,
-      "authors": [
-        "MD¹ Sunday A. Adetunji",
-        "MPH¹ Purva Nerandra More",
-        "Purva Nerandra"
-      ],
-      "publication_date": "2025-11-27",
-      "doi": "10.1101/2025.11.25.25341033",
-      "paper_id": "f4db6d423dd186615a21ec739bdaa1b80e05f915"
-    },
-    {
-      "title": "Weak instrumental variables due to ignored nonlinearities in panel data: A Super Learner Control Function estimator",
-      "year": 2025,
-      "authors": [
-        "Monika Avila-Marquez"
-      ],
-      "publication_date": "2025-04-04",
-      "doi": null,
-      "paper_id": "9d79cdf7af219efcb6f55db7361eeb0a7ef3ef25"
-    },
-    {
-      "title": "A hybrid super ensemble learning model for the early-stage prediction of diabetes risk",
-      "year": 2023,
-      "authors": [
-        "Ayşe Doğru",
-        "Selim Buyrukoğlu",
-        "Murat Arı"
-      ],
-      "publication_date": "2023-01-05",
-      "doi": "10.1007/s11517-022-02749-z",
-      "paper_id": "d5f4fcde32b4e213c3a64c602aedf922f16d3979"
-    },
-    {
-      "title": "Non-Invasive Localization Using Software-Defined Radios",
-      "year": 2022,
-      "authors": [
-        "M. Z. Khan",
-        "Ahmad Taha",
-        "William Taylor",
-        "M. Imran",
-        "Q. Abbasi"
-      ],
-      "publication_date": "2022-05-01",
-      "doi": "10.1109/jsen.2022.3160796",
-      "paper_id": "b2edcd734b6675cabc491e96a60353eb99eab7f8"
-    },
-    {
-      "title": "Evaluation of a pre-existing, 3-year household water treatment and handwashing intervention in rural Guatemala.",
-      "year": 2009,
-      "authors": [
-        "B. Arnold",
-        "B. Arana",
-        "D. Mäusezahl",
-        "A. Hubbard",
-        "J. Colford"
-      ],
-      "publication_date": "2009-12-01",
-      "doi": "10.1093/ije/dyp241",
-      "paper_id": "11083dd5dd1f35d10a382383f14510aeb33b03ff"
+      "publication_date": "2025-10-09",
+      "doi": "10.1101/2025.10.08.25337637",
+      "paper_id": "e2995f6e7aa42494db1936c0556762f415c1c8b7"
     }
   ],
-  "paper_count": 1079,
+  "paper_count": 1089,
   "papers": [
     {
       "title": "A CV-TMLE global test approach to improve power in rare disease clinical studies with multiple-component endpoints",
@@ -634,6 +569,26 @@
       ]
     },
     {
+      "title": "Causal Effects of Time-Varying Treatments: The G-Formula.",
+      "authors": [
+        "Carmine Zoccali",
+        "G. Tripepi"
+      ],
+      "abstract": "The g formula is a cornerstone method for estimating causal effects of time-varying treatments using longitudinal observational data in the presence of time-varying confounders that are affected by prior treatment. Standard regression techniques often fail in this setting because adjustment for such covariates can distort the very effects under study. The g-formula addresses this problem by expressing the mean potential outcome under specified static or dynamic treatment regimes as a function of the joint distribution of covariates, treatments and outcomes, which can be approximated via parametric or semi-parametric models and simulation. This review presents the g-formula, emphasizing intuitive explanations. After outlining the causal framework and the core identification assumptions-consistency, sequential exchangeability and positivity-the article describes practical parametric g-formula: model specification for covariate and outcome processes, implementation via forward simulation, and the interpretation of marginal causal contrasts between clinically relevant regimes. The g-formula is then situated within the family of g-methods alongside inverse probability weighting and targeted maximum likelihood estimation, highlighting complementary strengths and limitations. A dedicated section discusses concrete applications, including analyses of highly active antiretroviral therapy and AIDS or death, dynamic 'when to start' antiretroviral strategies in HIV and electronic health record-based evaluations of blood pressure treatment targets. Practical guidance on modelling choices, diagnostics and transparent reporting is provided to support applied researchers considering g-formula in clinical and epidemiological investigations.",
+      "year": 2026,
+      "publication_date": "2026-06-30",
+      "paper_id": "511d69ed778805fd6d822047346248e1067836fe",
+      "url": "https://www.semanticscholar.org/paper/511d69ed778805fd6d822047346248e1067836fe",
+      "venue": "European Journal of Clinical Investigation",
+      "doi": "10.1111/eci.70239",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
+      ]
+    },
+    {
       "title": "Cluster Trials Inference With CARE.",
       "authors": [
         "Sergey Alexeev",
@@ -908,7 +863,7 @@
       "authors": [
         "M. Karim"
       ],
-      "abstract": "Cross-fitting is not a refinement of survey-weighted causal machine learning but, once the nuisances are flexible, what restores valid inference. We study the population average treatment effect under a stratified multistage design, estimated by a survey-aware targeted maximum likelihood estimator (TMLE) whose variance is obtained by Taylor-series linearization of the influence function, treating the primary sampling unit as the replication unit. Our central result, established in theory and simulation, is that this validity turns on cross-fitting at the cluster level. Once flexible learners cross a complexity (Donsker) boundary, single-fit survey TMLE can severely under-cover, and internal cluster-aware cross-validation does not substitute for cross-fitting; among the estimators we evaluate, only out-of-fold fitting at the cluster level restores valid coverage. In simulations spanning a many-PSU and an NHANES-like design, on a diverse ensemble the single-fit and internal cross-validation estimators cover at about 0.89-0.91 and 0.85-0.88 while the cross-fitted estimator holds at 0.93-0.95, and an aggressively grown learner drives single-fit coverage to 0.22. Two scope choices are deliberate: survey-weighted point estimation is prior work, and the nuisance product-rate condition is assumed and probed empirically. Within these conditions we prove asymptotic normality and design-consistency of the linearization variance. Four NHANES analyses and open-source software illustrate the method.",
+      "abstract": "Cross-fitting is not a refinement of survey-weighted causal machine learning but, once the nuisances are flexible, what restores valid inference. We study the population average treatment effect under a stratified multistage design, estimated by a survey-aware targeted maximum likelihood estimator (TMLE) whose variance is obtained by Taylor-series linearization of the influence function, treating the primary sampling unit as the replication unit. Our central result is that this validity turns on cross-fitting at the cluster level: sufficiency is established in theory, and the failure without it is shown in simulation. Once flexible learners cross a complexity (Donsker) boundary, single-fit survey TMLE can severely under-cover, and internal cluster-aware cross-validation does not substitute for cross-fitting; among the estimators we evaluate, only out-of-fold fitting at the cluster level restores valid coverage. In simulations spanning a many-PSU and an NHANES-like design, on a diverse ensemble the single-fit and internal cross-validation estimators cover at about 0.89-0.91 and 0.85-0.88 while the cross-fitted estimator holds at 0.93-0.95, and an aggressively grown learner drives single-fit coverage to 0.18-0.22. Two scope choices are deliberate: survey-weighted point estimation is prior work, and the nuisance product-rate condition is assumed and probed empirically. Within these conditions we prove asymptotic normality and design-consistency of the linearization variance. Four NHANES analyses and open-source software illustrate the method.",
       "year": 2026,
       "publication_date": "2026-06-29",
       "paper_id": "88ff40da3447fbf5a714d17d0927602d90bc89a0",
@@ -943,6 +898,27 @@
       ],
       "source_queries": [
         "targeted minimum loss based estimation"
+      ]
+    },
+    {
+      "title": "Decoding the metabolic blockade effect: PFAS inhibition of organic anion transporters impairs VOC clearance and amplifies neurocognitive decline",
+      "authors": [
+        "L. Liang",
+        "S. X. Zhang",
+        "J. Lin"
+      ],
+      "abstract": "The co-occurrence of per- and polyfluoroalkyl substances (PFAS) and volatile organic compounds (VOCs) in industrial environments poses complex toxicological risks that standard additive models fail to capture. This study elucidates a novel \"metabolic blockade\" mechanism wherein PFAS competitively inhibits the renal excretion of VOC metabolites, thereby amplifying neurotoxic burdens. Utilizing a Double Machine Learning (DML) framework on data from National Health and Nutrition Examination Survey (from 2005 to 2020), we analyzed a final intersectional cohort of 1,975 participants. We identified a robust inhibition of VOC metabolite clearance by serum PFAS. Specifically, PFOS significantly suppressed the excretion of the benzene metabolite URXPMA (Causal {beta}TMLE = -0.131, p < 0.001), with efficacy dependent on perfluorinated chain length. Molecular docking simulations revealed the biophysical basis of this antagonism: long-chain PFNA exhibited superior binding affinity to the Organic Anion Transporter 1 (OAT1) ({Delta}G = -6.333 kcal/mol) compared to native VOC metabolites ({Delta}G = -4.957 kcal/mol), confirming high-affinity competitive inhibition at the renal interface. In a neurocognitive sub-cohort (N = 1,200), this interference translated into functional synergism; high-PFNA exposure magnified VOC-associated cognitive impairment by 1.5-fold and significantly exacerbated the negative association between VOC burden and processing speed ({beta}int = -0.263, p = 0.004). These findings define PFAS as a \"metabolic amplifier\" of co-contaminant toxicity, necessitating a paradigm shift toward mixture-based hazardous material regulations that account for transporter-level interactions.",
+      "year": 2026,
+      "publication_date": "2026-02-15",
+      "paper_id": "796847ea018b9337a9adf837f68d372c27a8cc51",
+      "url": "https://www.semanticscholar.org/paper/796847ea018b9337a9adf837f68d372c27a8cc51",
+      "venue": "medRxiv",
+      "doi": "10.64898/2026.02.12.26346123",
+      "matched_keywords": [
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
       ]
     },
     {
@@ -1422,6 +1398,38 @@
       ]
     },
     {
+      "title": "GLP Medications and Severe Post-COVID-19 Outcomes Among Individuals with Type 2 Diabetes Mellitus",
+      "authors": [
+        "Z. Butzin-Dozier",
+        "L.-C. Wang",
+        "Y. Ji",
+        "M. Kumar",
+        "A. Anzalone",
+        "E. Hurwitz",
+        "R. C. Patel",
+        "A. Budhihartanto",
+        "J. Buse",
+        "S. Johnson",
+        "J. Reusch",
+        "C. Bramante",
+        "R. Wong",
+        "on behalf of the National Clinical Cohort Collaborative"
+      ],
+      "abstract": "Background: Glucagon-like peptide-1 receptor agonist-based therapies (GLP) have recently emerged as promising treatments across a wide range of health conditions. These medications may have protective effects against severe long-term consequences of COVID-19 by promoting weight loss, exerting antihyperglycemic and anti-inflammatory effects, and providing cardiovascular and endothelial protection. Methods: We evaluated electronic health record data from a retrospective cohort of individuals in the National Clinical Cohort Collaborative. We included individuals with type 2 diabetes mellitus and comorbid COVID-19 who were prescribed either GLP (treatment) or a sodium-glucose co-transporter 2 inhibitor (SGLT2i) and subsequently developed acute COVID-19 between October 1, 2021, and April 1, 2023. We compared the 12-month cumulative incidence of mortality and Long COVID (Long COVID diagnosis and probable Long COVID via computational phenotype) between groups. We applied targeted maximum likelihood estimation to compare outcome risks by exposure status, controlling for covariates of interest. Results: We analyzed data from 14,215 individuals with COVID-19 and comorbid type 2 diabetes (mean age, 60 years; mean BMI, 37). Compared to SGLT2i, a prescription for GLP medication was associated with a lower risk of mortality (adjusted risk ratio [aRR] 0.71; 95% CI 0.53, 0.95), but not Long COVID diagnosis (aRR 1.01; 95% CI 0.80, 1.27) or probable Long COVID (aRR 0.94; 95% CI 0.88, 1.01). Conclusions: We found that among individuals with type 2 diabetes and comorbid COVID-19, a prescription for GLP vs. SGLT2i medications was associated with a lower risk of mortality, but not Long COVID.",
+      "year": 2026,
+      "publication_date": "2026-07-06",
+      "paper_id": "29a6ff2aead6328114d43cad26af6c73acdebf8f",
+      "url": "https://www.semanticscholar.org/paper/29a6ff2aead6328114d43cad26af6c73acdebf8f",
+      "venue": "medRxiv",
+      "doi": "10.64898/2026.07.03.26357246",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
+      ]
+    },
+    {
       "title": "HAL-MLE Log-Splines Density Estimation (Part I: Univariate)",
       "authors": [
         "Yilong Hou",
@@ -1781,6 +1789,35 @@
         "tmle"
       ],
       "source_queries": [
+        "tmle"
+      ]
+    },
+    {
+      "title": "Oncological Outcomes of Left Upper Tri-segmentectomy vs. Lobectomy for Clinical Stage I NSCLC with Occult Lymph Node Metastasis: A Target Trial Emulation with Targeted Minimum Loss-Based Estimation and Propensity Score Matching.",
+      "authors": [
+        "Zhang-Yi Dai",
+        "Yan Wei",
+        "Xingqi Mi",
+        "Yikai Xing",
+        "Ya-Fei Xie",
+        "Jia-Jun Cheng",
+        "Qing-Lv Fan",
+        "Fu-Qiang Wang",
+        "Yun Wang"
+      ],
+      "abstract": "OBJECTIVE To determine if left upper tri-segmentectomy is comparable to left upper lobectomy regarding long-term survival in patients with clinical stage I non-small cell lung cancer who are postoperatively found to have occult lymph node metastasis. METHODS We emulated a hypothetical target trial using retrospective data from the West China Lung Cancer Database (2013-2024). Patients had tumors located at least 2 cm from the lingular segment and postoperatively found to have occult lymph node metastasis were included. The primary endpoint was overall survival and second endpoint were progression-free survival, lung cancer-specific survival and perioperative outcomes. We employed targeted minimum loss-based estimation (TMLE) and propensity score matching to analyze the causal effect of the surgical procedure. RESULTS A total of 1019 patients were included (lobectomy: 524; tri-segmentectomy: 495) with a median follow-up of 5.9 years (interquartile range: 4.2-7.3). Perioperative outcomes were comparable between groups, with no significant differences observed in operative time (154 vs. 146 minutes, p=0.349) or complication rates (16.2% vs. 12.1%, p=0.305). While tri-segmentectomy was associated with a significantly higher rate of local recurrence compared to lobectomy (43.4% vs. 30.1%, p<0.001), no significant differences were observed in TMLE-adjusted 5-year overall survival (66.5% vs. 67.9%; p=0.821), 5-year progression-free survival (54.3% vs. 52.8%; p=0.834), or 5-year lung cancer-specific survival (69.1% vs. 72.1%; p=0.487). CONCLUSIONS Left upper tri-segmentectomy confers survival comparable to lobectomy in patients with clinical stage I disease and occult nodal metastasis, despite higher local recurrence rates.",
+      "year": 2026,
+      "publication_date": "2026-07-01",
+      "paper_id": "8545d2107052bc1ede009bf247ba1ff6c53c3721",
+      "url": "https://www.semanticscholar.org/paper/8545d2107052bc1ede009bf247ba1ff6c53c3721",
+      "venue": "Journal of Thoracic and Cardiovascular Surgery",
+      "doi": "10.1016/j.jtcvs.2026.06.015",
+      "matched_keywords": [
+        "targeted minimum loss based estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "targeted minimum loss based estimation",
         "tmle"
       ]
     },
@@ -2228,6 +2265,25 @@
       ]
     },
     {
+      "title": "Stacking Ensemble Learning Framework for Electric Vehicle Charging Demand Prediction",
+      "authors": [
+        "Engin Eyceyurt"
+      ],
+      "abstract": "The growing adoption of EVs poses major difficulties in terms of charging infrastructure because of the stochasticity and dynamism of the charging demand. As a result, it becomes essential to model and forecast the EVs’ charging patterns on an hourly, monthly, and yearly level to avoid the overloading of charging stations and power grids. In this research, we offer an elaborate datadriven approach to forecast EV charging demands on various time scales by using real-world data comprised of more than 400,000 charging operations over 24 months. In particular, the used charging data is complemented with environmental parameters such as temperature, humidity, and precipitation, as well as temporal factors. For use in machine learning techniques, parameters suitable for their operation are engineered, while autoregressive features are introduced in order to model the dependence between variables. Additionally, charging data is collected in different resolutions: hourly, weekly, and monthly to cater to short- and long-term needs in planning. For the construction of predictions, a Super Learner stacking ensemble architecture consisting of Random Forest and Gradient Boost Regressors with Ridge meta-learning was built. Experimental results reveal that the proposed framework is capable of effectively capturing the intricate nonlinear charging patterns and delivers a high predictive accuracy of an $\\mathbf{R}^{\\mathbf{2}}$ score of 0.8746 with an MAPE score of 20.71% for hourly forecasting and a minimum MAPE score of 5.71% for station occupancy forecasting. This shows the potential for improvement in prediction through the use of a combination of time-based cyclical encoding, autoregressive modeling, and ensemble methods. The application of the proposed framework provides a clear and scalable solution for managing smart charging infrastructures.",
+      "year": 2026,
+      "publication_date": "2026-06-03",
+      "paper_id": "c968b67001200b85557e188553f29c9099b43774",
+      "url": "https://www.semanticscholar.org/paper/c968b67001200b85557e188553f29c9099b43774",
+      "venue": "Global Power, Energy and Communication Conference",
+      "doi": "10.1109/GPECOM70462.2026.11578607",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
       "title": "Super Learner Ensemble Modeling of CPTAC Proteomic Data for Survival Prediction in Head and Neck Squamous Cell Carcinoma",
       "authors": [
         "Ethan Park",
@@ -2247,7 +2303,8 @@
         "super learner"
       ],
       "source_queries": [
-        "super learner"
+        "super learner",
+        "super learning"
       ]
     },
     {
@@ -2397,6 +2454,28 @@
       ]
     },
     {
+      "title": "Targeted maximum likelihood estimation for longitudinal two-stage designs with outcome subsampling",
+      "authors": [
+        "Kirsten E. Landsiedel",
+        "Maya L. Petersen",
+        "M. V. D. Laan"
+      ],
+      "abstract": "We consider efficient estimation of causal parameters in longitudinal two-stage designs with outcome subsampling, motivated by resampling designs in HIV-related mortality studies. In these studies, many participants become lost to follow-up; resampling designs address this by tracing a subset of lost individuals to ascertain their outcomes. Analyses often use inverse-probability-weighted Kaplan-Meier (wKM) estimators that discard longitudinal covariate information and suffer from efficiency losses. We note that resampling designs are an instance of a broader class: two-stage designs with outcome subsampling, in which a first stage collects some data on all participants and a second stage collects outcome information on a selected subset. This connection motivates two estimators. First, drawing on inverse probability of censoring weighted targeted maximum likelihood estimation (IPCW-TMLE) for two-stage designs, we develop its longitudinal extension, IPCW longitudinal TMLE (IPCW-LTMLE) and show that estimating and targeting the known second-stage sampling weights yields variance reductions of up to 36% over the use of known sampling probabilities. Second, given that inverse weighting sacrifices efficiency, we propose an LTMLE that incorporates the second-stage sampling indicator as an intervention node in the sequential regression framework, returning to plug-in estimation and avoiding inverse weighting entirely. Simulations across sample sizes show that LTMLE achieves up to 73% lower variance than wKM with known sampling weights, with reductions of 30-50% common across settings, while IPCW-LTMLE achieves consistent gains of 20-35%. We further demonstrate that cross-fitted variance estimation is essential for valid inference: standard variance estimators yield confidence interval coverage as low as 76%, while our cross-fitted variants consistently restore coverage to nominal levels.",
+      "year": 2026,
+      "publication_date": "2026-07-02",
+      "paper_id": "ac10cf8f1dff3e7c93a5c60081740902f1a2bbca",
+      "url": "https://www.semanticscholar.org/paper/ac10cf8f1dff3e7c93a5c60081740902f1a2bbca",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
+      ]
+    },
+    {
       "title": "Targeted maximum likelihood estimation of vaccine effectiveness and immune correlates in test-negative design studies with missing data",
       "authors": [
         "Leah I B Andrews",
@@ -2435,6 +2514,27 @@
       ],
       "source_queries": [
         "targeted minimum loss based estimation"
+      ]
+    },
+    {
+      "title": "The Effect of Lifelong Learning Participation on Adaptive Problem-Solving Skills among Early-Career Adults: Application of a Super Learner-Based Propensity Score Matching",
+      "authors": [
+        "Hyekyung Jung",
+        "Minju Park",
+        "Su-Jin Lee"
+      ],
+      "abstract": "This study examines the causal effect of lifelong learning participation on the adaptive problem-solving skills (APS) of early-career adults aged 26-34. APS refers to higher-order cognitive and metacognitive abilities that help individuals explore, integrate, and use information to solve problems in unpredictable situations-an essential competency for early-career workers. Using OECD PIAAC Cycle 2 data and SuperLearner-based propensity score matching, the analysis controlled for key covariates to balance participant and non-participant groups. Among 1,105 early-career adults in the Korean sample, 171 had participated in lifelong learning in the past year, primarily through job-related and single-session training. Results showed no statistically significant short-term causal effect of participation on APS, nor differences across instructional types or training modes. These findings may reflect limited sample size, short participation duration, characteristics of the MZ generation, and the limited emphasis of current programs on APS development. Future research should incorporate detailed learning factors and support the design of programs that effectively enhance advanced cognitive and social skills for adaptive problem solvings.",
+      "year": 2026,
+      "publication_date": "2026-06-30",
+      "paper_id": "bfbc45fc43f82d91d84cc3235a68a5b9c4bb3c7d",
+      "url": "https://www.semanticscholar.org/paper/bfbc45fc43f82d91d84cc3235a68a5b9c4bb3c7d",
+      "venue": "Korean Society for Educational Evaluation",
+      "doi": "10.31158/jeev.2026.39.2.353",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
       ]
     },
     {
@@ -2639,6 +2739,51 @@
       ]
     },
     {
+      "title": "When Does Real-World Data Make a Randomized Trial More Efficient, and How Would You Know? A Report Card, an Efficiency Map, and Selection-Aware Inference for Adaptive-TMLE",
+      "authors": [
+        "M. Karim"
+      ],
+      "abstract": "Augmenting a randomized controlled trial with real-world data promises greater efficiency, but how much a given fusion actually delivers, and how to attach honest uncertainty to that gain, is rarely characterized. Using adaptive targeted maximum likelihood estimation (A-TMLE) as the running example, we develop three reproducible tools for honest evidence from combined trial and real-world data. First, a report card that makes the estimator's data-adaptively learned bias model auditable, measuring how well it recovers the true enrollment-effect surface and attributing the estimator's variance to its structural parts. Second, a map of when fusion helps versus hurts, benchmarked against an efficient trial-only estimator: the gain is driven primarily by the magnitude of the real-world bias rather than its functional complexity, a dominance an exact variance identity explains; it crosses break-even near a moderate bias and erodes as the trial grows, so the advantage is finite-sample rather than a form of super-efficiency. Third, selection-aware inference for the gain, treated as a data-adaptive estimand: the naive standard error undercovers, and among ten candidate standard errors only a block jackknife is calibrated, though conservatively so. Three openly available fusions, in a biomedical HIV trial, a public-health trial, and a job-training trial, span the map and show the difference an honest interval makes for real-world evidence.",
+      "year": 2026,
+      "publication_date": "2026-07-02",
+      "paper_id": "247409a8b45cbe1322a3a3a7570c92398116ed39",
+      "url": "https://www.semanticscholar.org/paper/247409a8b45cbe1322a3a3a7570c92398116ed39",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ]
+    },
+    {
+      "title": "Which Regularized Propensity-Score and Doubly Robust Methods Are Best Calibrated When Exposures or Outcomes Are Rare? A Plasmode Study of Proxy-Based Confounding Adjustment",
+      "authors": [
+        "M. E. Karim",
+        "Wanqing Hu"
+      ],
+      "abstract": "Purpose. Confounding adjustment in health-care database studies screens large proxy libraries where events per variable are low, straining standard propensity score (PS) methods, and many regularized variable-selection strategies exist (outcome-adaptive LASSO [OAL], group LASSO/GLiDeR, highly adaptive LASSO [HAL]). Yet few comparisons have varied exposure prevalence within such a selection menu, and none pairs it with doubly robust estimation, compute accounting, and a null-RD truth anchor. Methods. We conducted a plasmode simulation anchored on National Health and Nutrition Examination Survey data (2013-2018; 25 investigator-specified covariates, 142 prescription-derived proxies), comparing ten pipelines combining these strategies with inverse probability of treatment weighting (IPTW) and targeted maximum likelihood estimation (TMLE). Three scenarios were evaluated under a known null (true risk difference, RD = 0): frequent, rare-exposure, and rare-outcome. We report bias, standard error (SE), relative error, 95% coverage, and runtime. Results. HAL (G-Computation) had near-zero bias but highly concentrated estimates, giving near-unity coverage and large relative error (106-186%). OAL (IPTW), GLiDeR, and HAL (TMLE) were best calibrated, whereas the regularized-LASSO TMLE pipelines under-covered modestly (91-93%) in the rare scenarios. Under rare exposure, LASSO-IPTW had the largest bias and inflated SE and over-covered (conservatively), problems that TMLE removed. On real data, methods agreed (RD approximately 0.07-0.085). Runtimes spanned<1 s to>16 h. Conclusions. Under a null benchmark, pairing outcome-aware selection (OAL, GLiDeR) or doubly robust estimation (TMLE) with regularized models best balanced bias, calibration, and robustness to rarity. The rare-exposure arm exposed the largest gaps; method choice should weigh the prioritized metric against compute.",
+      "year": 2026,
+      "publication_date": "2026-07-08",
+      "paper_id": "58fda170490ee5383af861c37d1cfb479e227fc5",
+      "url": "https://www.semanticscholar.org/paper/58fda170490ee5383af861c37d1cfb479e227fc5",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "highly adaptive lasso",
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "highly adaptive lasso",
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ]
+    },
+    {
       "title": "XAI Based Early Menopause Detection using Super Learner and Discriminant Analysis",
       "authors": [
         "Mercy Paul Selvan",
@@ -2809,7 +2954,7 @@
       ]
     },
     {
-      "title": "A Causal Framework for Evaluating the Total Effect of Strategies Aiming to Expand Screening and to Improve Outcomes.",
+      "title": "A Causal Framework for Evaluating the Total Effect of Strategies Aiming to Expand Screening and to Improve Outcomes",
       "authors": [
         "J. Z. Nakato",
         "Janice Litunya",
@@ -2820,7 +2965,7 @@
         "G. Chamie",
         "L. B. Balzer"
       ],
-      "abstract": "For many health conditions, there are highly efficacious treatment and prevention products. Maximizing their impact requires strategies that improve the reach of health screening in order to establish who could benefit. For example, HIV prevention strategies aim to expand risk screening and to improve uptake of pre-exposure prophylaxis (PrEP) among those experiencing risk. Often, these strategies induce changes at the group-level (e.g., health clinics or communities) and are evaluated through cluster randomized trials. This scenario creates a complex, multilevel-mediation-missing data problem for the following reasons: First, the strategy is delivered at the cluster-level, while health screening and outcomes are at the individual-level. Second, the strategy improves health outcomes directly and indirectly through improved health screening. Third, everyone has an \"underlying\" status, which is only observed among those screened. To formally define the total effect in such settings, we use Counterfactual Strata Effects: causal estimands where the outcome is only relevant for a group whose membership is subject to missingness and/or impacted by the exposure of interest. To identify and estimate the corresponding statistical estimand, we propose a novel extension of Two-Stage targeted minimum loss-based estimation (TMLE). Simulations demonstrate the practical performance of our approach as well as the limitations of existing approaches.",
+      "abstract": "ABSTRACT For many health conditions, there are highly efficacious treatment and prevention products. Maximizing their impact requires strategies that improve the reach of health screening in order to establish who could benefit. For example, HIV prevention strategies aim to expand risk screening and to improve uptake of pre‐exposure prophylaxis (PrEP) among those experiencing risk. Often, these strategies induce changes at the group‐level (e.g., health clinics or communities) and are evaluated through cluster randomized trials. This scenario creates a complex, multilevel‐mediation‐missing data problem for the following reasons: First, the strategy is delivered at the cluster‐level, while health screening and outcomes are at the individual‐level. Second, the strategy improves health outcomes directly and indirectly through improved health screening. Third, everyone has an “underlying” status, which is only observed among those screened. To formally define the total effect in such settings, we use Counterfactual Strata Effects: causal estimands where the outcome is only relevant for a group whose membership is subject to missingness and/or impacted by the exposure of interest. To identify and estimate the corresponding statistical estimand, we propose a novel extension of Two‐Stage targeted minimum loss‐based estimation (TMLE). Simulations demonstrate the practical performance of our approach as well as the limitations of existing approaches.",
       "year": 2025,
       "publication_date": "2025-06-06",
       "paper_id": "9cdb2680841437c7416454e444eb61d7645a3f94",
@@ -2828,7 +2973,6 @@
       "venue": "Statistics in Medicine",
       "doi": "10.1002/sim.70648",
       "matched_keywords": [
-        "targeted minimum loss based estimation",
         "tmle"
       ],
       "source_queries": [
@@ -2891,7 +3035,7 @@
       ]
     },
     {
-      "title": "A Comparative Analysis in a Clinical Cohort: Multiple Imputation by Chained Equations and a Novel Super Learner-Based Imputation Approach",
+      "title": "A comparative analysis in a clinical cohort: multiple imputation by chained equations and a novel super learner-based imputation approach",
       "authors": [
         "Tony Zbysinski",
         "Lezhou Wu",
@@ -2903,13 +3047,13 @@
         "U. Kulkarni",
         "Nazmul Islam"
       ],
-      "abstract": "BackgroundMissing data is a challenge in clinical research, especially in real-world data (RWD), where complete case analysis can bias results and reduce power. Ensemble learning approaches like Super Learner (SL) show strong numerical performance for prediction problems, but their use for missing value imputation (MVI) in oncology datasets is unexplored. We sought to develop and evaluate a novel SL-based imputation function that can impute multiple variables and quantify uncertainty. MethodsWe analyzed two independent cohorts of acute myeloid leukemia patients (n=1641). The SL-based MVI function includes data processing, predictor selection, binary and continuous variable pipelines, and performance measurement. Performance was compared to multiple imputation by chained equations (MICE) using balanced accuracy, F1-score, root mean square error (RMSE), and visualizations. ResultsIn a numerical experiment with 9 clinically important features, the proposed MVI function imputed and achieved higher balanced accuracy than MICE for 7/9 variables (mean balanced accuracy 89.04% vs 80.75%) with comparable performance for other variables. The continuous variable SL ensemble showed comparable RMSE (582) relative to MICE (597). ConclusionsThis study demonstrates that the SL-based imputation function improves accuracy over MICE in high-dimensional RWD while providing novel, observation-level uncertainty quantification.",
+      "abstract": "Missing data is a challenge in clinical research, especially in real-world data (RWD), where complete case analysis can bias results and reduce power. Ensemble learning approaches like Super Learner (SL) show strong numerical performance for prediction problems, but their use for missing value imputation (MVI) in oncology datasets is unexplored. We sought to develop and evaluate a novel SL-based imputation function that can impute multiple variables and quantify observation-specific uncertainty. We analyzed two independent cohorts of acute myeloid leukemia patients (n = 1641), 546 patients from the University of Colorado and 1095 from an external real-world cohort. The SL-based MVI function includes data processing, predictor selection, binary and continuous variable pipelines, and automatic performance measurement. Ensembles for both binary and continuous variables integrate diverse base learners, such as generalized linear models, random forests, and neural networks, via a meta learner that optimizes predictive accuracy. The binary variable pipeline’s SL ensemble was optimized using area under the curve (AUC), while the continuous variable pipeline’s SL ensemble was optimized via non-negative least squares. Performance was compared to multiple imputation by chained equations (MICE) using balanced accuracy, F1-score, root mean square error (RMSE), and visualizations. Observation-specific uncertainty was quantified for all imputations of both binary and continuous variables, with both additionally having lower and upper resampling-based potential imputation values. The SL cross-validation loop, SL ensemble trained for imputation, and resampling all supported parallelization. Clinically significant features of the cohorts were selected a priori based on prior literature. In a numerical experiment with 9 clinically important binary features, the proposed MVI function imputed and achieved higher balanced accuracy than MICE for 7/9 variables (mean balanced accuracy 89.04% vs. 80.75%) with comparable performance for the other 2 variables. The continuous variable SL ensemble, across 4 variables, showed an average 24.45% lower RMSE than MICE. On average, the SL ensemble trained for prediction took 145.02 s to process for binary targets. This study demonstrates that the SL-based imputation function has improved performance over MICE in high-dimensional RWD while providing novel, observation-level uncertainty quantification.",
       "year": 2025,
       "publication_date": "2025-11-28",
       "paper_id": "5c8c312d97885add07e70e3037540302843ea30f",
       "url": "https://www.semanticscholar.org/paper/5c8c312d97885add07e70e3037540302843ea30f",
-      "venue": "medRxiv",
-      "doi": "10.1101/2025.11.26.25341082",
+      "venue": "BMC Medical Research Methodology",
+      "doi": "10.1186/s12874-026-02858-5",
       "matched_keywords": [
         "super learner"
       ],
@@ -3122,6 +3266,26 @@
       ],
       "source_queries": [
         "targeted maximum likelihood estimation"
+      ]
+    },
+    {
+      "title": "Advanced Causal Inference Methods in Obstetrics and Gynecology: A Simulation Study on Preeclampsia Prevention",
+      "authors": [
+        "W. Shi"
+      ],
+      "abstract": "Preeclampsia remains a leading cause of maternal and perinatal morbidity and mortality worldwide. Early preventive interventions, including low-dose aspirin therapy, reduce risk in high-risk pregnancies. Observational studies often face confounding, nonlinear covariate interactions, and heterogeneous treatment effects. We conducted a comprehensive simulation study comparing naive logistic regression (NL), propensity score weighting (PSW), regression adjustment (RA), doubly robust estimation (DR), targeted maximum likelihood estimation (TMLE), and causal forests (CF) in estimating aspirin effects on preeclampsia outcomes. Simulated cohorts reflected diverse confounding structures and treatment effect heterogeneity. Performance metrics included bias, standard deviation (SD), root mean squared error (RMSE), and coverage probability. TMLE and CF consistently yielded unbiased estimates and identified subgroup-specific effects, highlighting their potential in observational OB/GYN research.",
+      "year": 2025,
+      "publication_date": "2025-10-09",
+      "paper_id": "e2995f6e7aa42494db1936c0556762f415c1c8b7",
+      "url": "https://www.semanticscholar.org/paper/e2995f6e7aa42494db1936c0556762f415c1c8b7",
+      "venue": "medRxiv",
+      "doi": "10.1101/2025.10.08.25337637",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
       ]
     },
     {
@@ -19029,7 +19193,7 @@
       "title": "Ajustement sur les covariables dans les essais randomisés : quand et comment ?",
       "authors": [
         "C. Leyrat",
-        "K. Diazordaz",
+        "K. Diaz-Ordaz",
         "Elizabeth Williamson"
       ],
       "abstract": "Introduction Bien qu’une analyse non ajustee d’un essai a randomisation individuelle conduise - en moyenne - a une estimation non biaisee de l’effet de l’intervention, l’ajustement sur des variables mesurees avant la randomisation peut entrainer un gain de puissance statistique. Ce gain est particulierement important dans les essais de taille moderee, pour lesquels le risque de desequilibre a l’inclusion est eleve. Cependant, de nombreux arguments sont souvent avances contre un tel ajustement : risque d’une mauvaise specification du modele, donnees manquantes sur les covariables, non collapsibilite de certaines mesures d’association ainsi qu’un manque de transparence. Il est souvent recommande de n’ajuster que sur un nombre limite de variables, sans inclure d’interactions avec le bras de traitement et de specifier a priori les variables a inclure ainsi que le modele d’analyse. Ces recommandations sont contradictoires avec certains resultats theoriques publies dans la litterature, et non compatibles avec l’utilisation de nouvelles methodes telles que le « Targeted Maximum Likelihood Estimator » (TMLE), pourtant prometteuses. Notre objectif est donc d’evaluer les performances de differentes methodes d’ajustement dans les essais randomises et de proposer une methode de planification de ce type d’analyses de maniere transparente et flexible. Methodes Nous avons conduit une etude de simulations a partir des donnees d’essais randomises publies, afin d’etudier les performances de methodes d’ajustement pour des criteres de jugement continus ou binaires dans de nombreux contextes. Nous avons considere des associations complexes entre les covariables et le critere de jugement ainsi que des distributions extremes de covariables afin d’evaluer l’impact d’une mauvaise specification du modele d’analyse. Nous avons compare une analyse non ajustee aux methodes suivantes : regression multivariable, g-computation, ponderation par l’inverse du score de propension avec et sans augmentation (IPTW et AIPTW), « covariate-balancing propensity score » (CBPS) et « Targeted Maximum Likelihood Estimator » (TMLE), avec et sans l’utilisation du « super learner » (SL). Nous avons egalement implemente ces methodes pour l’analyse de l’essai ViDiAs evaluant l’effet de la vitamine D3 pour prevenir les exacerbations d’asthme. Resultats Toutes les methodes ont conduit a une estimation non biaisee de l’effet traitement, mais la g-computation et le TMLE-SL ont montre un meilleur gain de puissance. D’autre part, un modele mal specifie n’entrainait pas de biais dans l’estimation de l’effet traitement. Des resultats similaires ont ete observes dans l’essai ViDiAs : la difference de debit expiratoire de pointe entre les deux bras etait de 0,359 (−27, 41, 28,12) sans ajustement. Apres ajustement, les differences de moyennes etaient similaires, mais les intervalles de confiance plus etroits : −3,87 (−18,33, 10,59) avec la regression, −4,27 (−16,94, 8,41) avec le TMLE-SL. Conclusion L’ajustement sur des covariables mesurees avant l’inclusion permet un gain de puissance statistique sans augmenter le biais de l’estimation de l’effet traitement. Certaines methodes dites « data-adaptive » sont plus efficientes mais ne permettent pas l’identification a priori des variables selectionnees pour l’analyse ni une specification de la forme fonctionnelle du modele. Cependant, il est possible de specifier par avance l’algorithme utilise, de sorte que, pour un jeu de donnees particulier, l’analyse finale est determinee.",
@@ -23321,7 +23485,7 @@
       "authors": [
         "R. Herrera",
         "U. Berger",
-        "O. V. von Ehrenstein",
+        "Ondine S von Ehrenstein",
         "I. Díaz",
         "S. Huber",
         "Daniel Moraga Muñoz",
