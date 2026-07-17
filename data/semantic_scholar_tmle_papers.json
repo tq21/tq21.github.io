@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T15:03:02Z",
+  "generated_at": "2026-07-17T15:03:09Z",
   "source": "Semantic Scholar Graph API",
   "unauthenticated": true,
   "mode": "bulk",
@@ -18,19 +18,19 @@
   "query_stats": [
     {
       "keyword": "tmle",
-      "fetched_raw_count": 495
+      "fetched_raw_count": 496
     },
     {
       "keyword": "targeted maximum likelihood estimation",
-      "fetched_raw_count": 1999
+      "fetched_raw_count": 2000
     },
     {
       "keyword": "targeted minimum loss based estimation",
-      "fetched_raw_count": 348
+      "fetched_raw_count": 349
     },
     {
       "keyword": "super learner",
-      "fetched_raw_count": 1028
+      "fetched_raw_count": 1035
     },
     {
       "keyword": "super learning",
@@ -38,148 +38,169 @@
     },
     {
       "keyword": "highly adaptive lasso",
-      "fetched_raw_count": 239
+      "fetched_raw_count": 242
     }
   ],
   "query_errors": [],
   "incomplete": false,
-  "fetched_paper_count": 941,
-  "newly_appended_count": 10,
+  "fetched_paper_count": 949,
+  "newly_appended_count": 9,
   "updated_existing_count": 6,
   "existing_blocked_removed": 0,
   "existing_duplicates_removed": 0,
   "newly_added_papers": [
     {
-      "title": "Causal Effects of Time-Varying Treatments: The G-Formula.",
+      "title": "Evaluating bias in target trial emulation for heart failure across statistical and deep learning methods.",
       "year": 2026,
       "authors": [
-        "Carmine Zoccali",
-        "G. Tripepi"
+        "Z. Fan",
+        "Qianqian Yang",
+        "Yifan Hu",
+        "G. Danaei",
+        "G. Davey Smith",
+        "Shishir Rao",
+        "Kazem Rahimi"
       ],
-      "publication_date": "2026-06-30",
-      "doi": "10.1111/eci.70239",
-      "paper_id": "511d69ed778805fd6d822047346248e1067836fe"
+      "publication_date": "2026-07-13",
+      "doi": "10.1038/s41467-026-74999-6",
+      "paper_id": "3e87bed0b016c1a004a6d81e1579bd23cd259ddd"
     },
     {
-      "title": "Decoding the metabolic blockade effect: PFAS inhibition of organic anion transporters impairs VOC clearance and amplifies neurocognitive decline",
+      "title": "Hybrid-distance whale optimization for super learner ensemble modeling of reference evapotranspiration",
       "year": 2026,
       "authors": [
-        "L. Liang",
-        "S. X. Zhang",
-        "J. Lin"
+        "Mohammed Saied Aly",
+        "Jian-Jun Han",
+        "Yan Xiao",
+        "Jie Liu"
       ],
-      "publication_date": "2026-02-15",
-      "doi": "10.64898/2026.02.12.26346123",
-      "paper_id": "796847ea018b9337a9adf837f68d372c27a8cc51"
+      "publication_date": "2026-07-10",
+      "doi": "10.1007/s11600-026-01961-x",
+      "paper_id": "f6a3bb84dddaa898365858fc5ce4f45edf4dca57"
     },
     {
-      "title": "GLP Medications and Severe Post-COVID-19 Outcomes Among Individuals with Type 2 Diabetes Mellitus",
+      "title": "Improved 28-day mortality prediction by combining Lactate Dehydrogenase-to-Albumin Ratio(LAR) to lactate-enhanced Sequential Organ Failure Assessment (SOFA) score in patients with sepsis: a derivation and validation study.",
+      "year": 2026,
+      "authors": [
+        "Zhiyang Wang",
+        "Tao You",
+        "Yujie Liu",
+        "Shifeng Li",
+        "Xin Xiao",
+        "Bingxuan Shao",
+        "Yu Yao",
+        "Yanpeng Zhang",
+        "Yajing Lu",
+        "Fang Huang",
+        "Jun Wang"
+      ],
+      "publication_date": "2026-07-14",
+      "doi": "10.1186/s12879-026-13971-7",
+      "paper_id": "ea39eb543e85ab32b06b07bf1072894b5634f56b"
+    },
+    {
+      "title": "Interpretable Salary Prediction in the AI Sector Using Ensemble Learning with Uncertainty Quantification",
+      "year": 2026,
+      "authors": [
+        "M. Mobin",
+        "Tongyuan Zhang",
+        "Bin Hu"
+      ],
+      "publication_date": "2026-07-11",
+      "doi": "10.67119/szt63s50",
+      "paper_id": "cf08cf59affed9ccbd2a6a699287f51d8c996e8f"
+    },
+    {
+      "title": "Metformin and Severe Post-COVID-19 Outcomes Among Individuals with Diabetes Mellitus",
       "year": 2026,
       "authors": [
         "Z. Butzin-Dozier",
-        "L.-C. Wang",
         "Y. Ji",
-        "M. Kumar",
+        "L.-C. Wang",
         "A. Anzalone",
+        "O. Olawore",
+        "R. Hafen",
         "E. Hurwitz",
+        "M. Kumar",
         "R. C. Patel",
         "A. Budhihartanto",
+        "M. J. van der Laan",
+        "J. Colford",
+        "A. Hubbard",
         "J. Buse",
         "S. Johnson",
         "J. Reusch",
-        "C. Bramante",
+        "L. Chan",
+        "R. Moffitt",
         "R. Wong",
+        "C. Bramante",
         "on behalf of the National Clinical Cohort Collaborative"
       ],
-      "publication_date": "2026-07-06",
-      "doi": "10.64898/2026.07.03.26357246",
-      "paper_id": "29a6ff2aead6328114d43cad26af6c73acdebf8f"
+      "publication_date": "2026-07-09",
+      "doi": "10.64898/2026.07.06.26357398",
+      "paper_id": "8dcfc0154b2d1df1dac27a2b5fb8d1e688ea51a4"
     },
     {
-      "title": "Oncological Outcomes of Left Upper Tri-segmentectomy vs. Lobectomy for Clinical Stage I NSCLC with Occult Lymph Node Metastasis: A Target Trial Emulation with Targeted Minimum Loss-Based Estimation and Propensity Score Matching.",
+      "title": "Research on Causal Inference Based on Targeted Maximum Likelihood Estimation for Gamma-Distributed Outcomes",
       "year": 2026,
       "authors": [
-        "Zhang-Yi Dai",
-        "Yan Wei",
-        "Xingqi Mi",
-        "Yikai Xing",
-        "Ya-Fei Xie",
-        "Jia-Jun Cheng",
-        "Qing-Lv Fan",
-        "Fu-Qiang Wang",
-        "Yun Wang"
+        "新茹 周"
       ],
-      "publication_date": "2026-07-01",
-      "doi": "10.1016/j.jtcvs.2026.06.015",
-      "paper_id": "8545d2107052bc1ede009bf247ba1ff6c53c3721"
+      "publication_date": null,
+      "doi": "10.12677/aam.2026.157297",
+      "paper_id": "51d0ee5f8aac73101bf66b7918fddb8fe4689442"
     },
     {
-      "title": "Stacking Ensemble Learning Framework for Electric Vehicle Charging Demand Prediction",
+      "title": "SSRI prescription during acute COVID-19 and risk of Long COVID symptoms and conditions among patients with depression",
       "year": 2026,
       "authors": [
-        "Engin Eyceyurt"
+        "Z. Butzin-Dozier",
+        "Y. Ji",
+        "L.-C. Wang",
+        "M. Kumar",
+        "A. Anzalone",
+        "A. Budhihartanto",
+        "E. Hurwitz",
+        "R. C. Patel",
+        "A. Hubbard",
+        "J. Halpern",
+        "on behalf of the National Clinical Cohort Collaborative"
       ],
-      "publication_date": "2026-06-03",
-      "doi": "10.1109/gpecom70462.2026.11578607",
-      "paper_id": "c968b67001200b85557e188553f29c9099b43774"
+      "publication_date": "2026-07-09",
+      "doi": "10.64898/2026.07.06.26357401",
+      "paper_id": "b850fd11401026e48ab4fa0d64c9909b9f2cbe6b"
     },
     {
-      "title": "Targeted maximum likelihood estimation for longitudinal two-stage designs with outcome subsampling",
+      "title": "Targeted Highly Adaptive Lasso Minimum Loss Estimation of Target Functions",
       "year": 2026,
       "authors": [
-        "Kirsten E. Landsiedel",
-        "Maya L. Petersen",
-        "M. V. D. Laan"
+        "V. Rodriguez",
+        "Karla Diaz-Ordaz",
+        "Brieuc Lehmann",
+        "Mark J. van der Laan"
       ],
-      "publication_date": "2026-07-02",
+      "publication_date": "2026-07-04",
       "doi": null,
-      "paper_id": "ac10cf8f1dff3e7c93a5c60081740902f1a2bbca"
+      "paper_id": "ca6b462fe0ea9e9dc0d22fe3ef14e60111897c1f"
     },
     {
-      "title": "The Effect of Lifelong Learning Participation on Adaptive Problem-Solving Skills among Early-Career Adults: Application of a Super Learner-Based Propensity Score Matching",
+      "title": "Trajectories of estimated glucose disposal rate and incident cardiovascular disease in a nationwide cohort of adults without diabetes.",
       "year": 2026,
       "authors": [
-        "Hyekyung Jung",
-        "Minju Park",
-        "Su-Jin Lee"
+        "Yaqing Liu",
+        "Shan Zheng",
+        "Feng Jiang",
+        "Xu Yang",
+        "Sixian Du",
+        "Liwen Gong",
+        "Qi Cui"
       ],
-      "publication_date": "2026-06-30",
-      "doi": "10.31158/jeev.2026.39.2.353",
-      "paper_id": "bfbc45fc43f82d91d84cc3235a68a5b9c4bb3c7d"
-    },
-    {
-      "title": "When Does Real-World Data Make a Randomized Trial More Efficient, and How Would You Know? A Report Card, an Efficiency Map, and Selection-Aware Inference for Adaptive-TMLE",
-      "year": 2026,
-      "authors": [
-        "M. Karim"
-      ],
-      "publication_date": "2026-07-02",
-      "doi": null,
-      "paper_id": "247409a8b45cbe1322a3a3a7570c92398116ed39"
-    },
-    {
-      "title": "Which Regularized Propensity-Score and Doubly Robust Methods Are Best Calibrated When Exposures or Outcomes Are Rare? A Plasmode Study of Proxy-Based Confounding Adjustment",
-      "year": 2026,
-      "authors": [
-        "M. E. Karim",
-        "Wanqing Hu"
-      ],
-      "publication_date": "2026-07-08",
-      "doi": null,
-      "paper_id": "58fda170490ee5383af861c37d1cfb479e227fc5"
-    },
-    {
-      "title": "Advanced Causal Inference Methods in Obstetrics and Gynecology: A Simulation Study on Preeclampsia Prevention",
-      "year": 2025,
-      "authors": [
-        "W. Shi"
-      ],
-      "publication_date": "2025-10-09",
-      "doi": "10.1101/2025.10.08.25337637",
-      "paper_id": "e2995f6e7aa42494db1936c0556762f415c1c8b7"
+      "publication_date": "2026-07-10",
+      "doi": "10.1038/s41598-026-48070-9",
+      "paper_id": "36c565fca6afee410f4b45242699e47b5f691dd9"
     }
   ],
-  "paper_count": 1089,
+  "paper_count": 1098,
   "papers": [
     {
       "title": "A CV-TMLE global test approach to improve power in rare disease clinical studies with multiple-component endpoints",
@@ -1317,6 +1338,31 @@
       ]
     },
     {
+      "title": "Evaluating bias in target trial emulation for heart failure across statistical and deep learning methods.",
+      "authors": [
+        "Z. Fan",
+        "Qianqian Yang",
+        "Yifan Hu",
+        "G. Danaei",
+        "G. Davey Smith",
+        "Shishir Rao",
+        "Kazem Rahimi"
+      ],
+      "abstract": "Target trial emulation (TTE) is increasingly used for causal inference from observational data, but remains vulnerable to confounding by indication, and whether advanced adjustment methods mitigate this bias is unclear. Using Clinical Practice Research Datalink Aurum, we emulate target trials of beta-blockers (positive control) and digoxin (negative control) versus usual care on two-year all-cause mortality in patients with heart failure with reduced ejection fraction. We apply four adjustment strategies: propensity score matching, inverse probability of treatment weighting, targeted maximum likelihood estimation, and a Transformer-based deep learning approach. No method reproduces the randomised controlled trial (RCT) benchmarks: all suggest neutral or harmful effects for beta-blockers and elevated mortality for digoxin. In semi-synthetic simulation, all methods recover the true effects when confounders are observed, yet fail in real-world data. TTE, even with advanced adjustment, may not yield trial-equivalent estimates when confounding is strong; randomised evidence remains essential for clinical and policy decisions.",
+      "year": 2026,
+      "publication_date": "2026-07-13",
+      "paper_id": "3e87bed0b016c1a004a6d81e1579bd23cd259ddd",
+      "url": "https://www.semanticscholar.org/paper/3e87bed0b016c1a004a6d81e1579bd23cd259ddd",
+      "venue": "Nature Communications",
+      "doi": "10.1038/s41467-026-74999-6",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
+      ]
+    },
+    {
       "title": "Evaluating the impact of longitudinal treatment strategies in the presence of informative monitoring and time-dependent confounding",
       "authors": [
         "Leah Pirondini",
@@ -1364,7 +1410,7 @@
       "authors": [
         "Yichen Xu"
       ],
-      "abstract": "Synthetic tabular data are often evaluated by distributional similarity, privacy distance, or train-on-synthetic-test-on-real predictive performance, but these criteria do not ensure validity for causal inference. We show that fully generative tabular synthesizers, including GAN- and LLM-based models, can preserve predictive utility while distorting average treatment effect (ATE) estimates. The failure is structural: ATE preservation requires both a realistic covariate law and an accurate treatment-effect contrast, whereas prediction loss penalizes treatment-effect error only through an overlap-weighted term. We formalize this mismatch through sensitivity and loss-decomposition results, and identify an analogous decomposition in block-level next-token prediction under log loss. Motivated by the tabular causal analysis, we propose a hybrid synthetic-data framework that generates covariates while modeling treatment and outcome mechanisms separately, allowing causal-purpose treatment assignment such as randomized synthetic assignment. We evaluate this framework in three settings: ATE preservation under fully generative versus hybrid synthesis, targeted augmentation for practical positivity problems, and synthetic simulation engines for comparing OR, IPW, AIPW, and TMLE before real-data analysis. Across synthetic and ACTG experiments, hybrid synthesis improves causal fidelity relative to fully generative baselines; LLM-based hybrid synthesis is often more faithful than CTGAN for ATE preservation and finite-sample estimator benchmarking.",
+      "abstract": "Synthetic tabular data are often evaluated by distributional similarity, privacy distance, or train-on-synthetic-test-on-real predictive performance, but these criteria do not ensure validity for causal inference. We show that fully generative tabular synthesizers, including GAN- and LLM-based models, can preserve predictive utility while distorting average treatment effect (ATE) estimates. The failure is structural: ATE preservation requires both a realistic covariate law and an accurate treatment-effect contrast, whereas prediction loss penalizes treatment-effect error only through an overlap-weighted term. Thus, under imbalance or limited overlap, a generator may reproduce dominant observed outcomes while underlearning intervention-relevant contrasts. We formalize this mismatch through sensitivity and loss-decomposition results. Motivated by this causal analysis and intuition, we propose a hybrid synthetic-data framework for causal inference that generates covariates while modeling treatment and outcome mechanisms separately. We evaluate the framework in three settings: ATE preservation under fully generative versus hybrid synthesis, augmentation for practical positivity problems, and diagnostic simulation engines for comparing OR, IPW, AIPW, and TMLE before real-data analysis. We also stress-test the hybrid construction across settings that vary overlap, covariate dimension, seed sample size, and treatment-effect complexity, including a logistic outcome-model misspecification check. Across controlled simulation experiments, hybrid synthesis improves causal fidelity relative to fully generative baselines; the ACTG application shows improved predictive fidelity and potential for finite-sample estimator benchmarking. LLM-based hybrid synthesis is often more faithful than CTGAN in settings where causal fidelity can be assessed.",
       "year": 2026,
       "publication_date": "2026-04-26",
       "paper_id": "ae53fb69d7c6be4b47095a785bbd89f586f42123",
@@ -1538,6 +1584,28 @@
       ]
     },
     {
+      "title": "Hybrid-distance whale optimization for super learner ensemble modeling of reference evapotranspiration",
+      "authors": [
+        "Mohammed Saied Aly",
+        "Jian-Jun Han",
+        "Yan Xiao",
+        "Jie Liu"
+      ],
+      "abstract": "",
+      "year": 2026,
+      "publication_date": "2026-07-10",
+      "paper_id": "f6a3bb84dddaa898365858fc5ce4f45edf4dca57",
+      "url": "https://www.semanticscholar.org/paper/f6a3bb84dddaa898365858fc5ce4f45edf4dca57",
+      "venue": "Acta Geophysica",
+      "doi": "10.1007/s11600-026-01961-x",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
       "title": "IL-6 Receptor Antagonists and Severe Post-COVID-19 Outcomes: An Emulated Target Trial",
       "authors": [
         "Zachary Butzin-Dozier",
@@ -1561,6 +1629,35 @@
       "matched_keywords": [
         "super learner",
         "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
+      "title": "Improved 28-day mortality prediction by combining Lactate Dehydrogenase-to-Albumin Ratio(LAR) to lactate-enhanced Sequential Organ Failure Assessment (SOFA) score in patients with sepsis: a derivation and validation study.",
+      "authors": [
+        "Zhiyang Wang",
+        "Tao You",
+        "Yujie Liu",
+        "Shifeng Li",
+        "Xin Xiao",
+        "Bingxuan Shao",
+        "Yu Yao",
+        "Yanpeng Zhang",
+        "Yajing Lu",
+        "Fang Huang",
+        "Jun Wang"
+      ],
+      "abstract": "BACKGROUND Fast risk stratification is essential for patients with sepsis, a life-threatening condition associated with high mortality, as it guides clinical decision-making and management. In this study, we aimed to evaluate the predictive performance of a novel model-termed SOLAR-which integrates the lactate dehydrogenase-to-albumin ratio (LAR) with the Sequential Organ Failure Assessment (SOFA) score and lactate for 28-day mortality in sepsis. METHODS Data for the derivation cohort were collected from the Medical Information Mart for Intensive Care IV database. The validation cohort was from the Department of Critical Care Medicine at the First Affiliated Hospital of Soochow University. Patients admitted to ICU for sepsis were enrolled. Model performance was analyzed by using multivariable logistic regression and Harrell's c-index. Reclassification ability of the model was evaluated by using net reclassification index (NRI) and Integrated discrimination improvement (IDI). Benefits in clinical decision making was estimated by using decision curve analysis. Super learner analysis was used to identify the optimal machine learning algorithm for model construction. Nomograms and an online calculator were used to deploy the model for point-of-care utilization. RESULTS The derivation cohort comprised 4936 patients with sepsis and sufficient SOFA, LAR, and lactate data were obtained from MIMIC database. The validation cohort contained 371 patients with sepsis admitted to the First Affiliated Hospital of Soochow University. In both cohorts, an increasing trend of 28-day mortality was observed with elevating SOFA scores, lactate levels, and LAR quartiles. Compared to the SOFA-lactate score, the SOLAR score demonstrated improved 28-day mortality discrimination, reflected by an increase in c-index (Derivation cohort: 0.695 [0.680-0.711] vs. 0.660 [0.644-0.676], P < 0.001), Validation cohort: 0.706 [0.651-0.761] vs. 0.638 [0.581-0.695], P < 0.001). The SOLAR score also displayed a superior reclassification ability over the SOFA-lactate score (NRI: Derivation cohort: 0.393 [0.335-0.451], P < 0.001), Validation cohort: 0.506 [0.302-0.709], P < 0.001, IDI: Derivation cohort: 0.034 [0.029-0.039], P < 0.001), Validation cohort: 0.044 [0.026-0.062], P < 0.001). Super learner analysis showed that the logistic regression model achieved the highest c-index (0.749 [0.694-0.803]) based on the SOLAR score. A simplified online calculator of the SOLAR score was deployed for point-of-care risk stratification. CONCLUSION The SOLAR score combining LAR, SOFA score and lactate provides improved accuracy and sensitivity over the SOFA-lactate score for 28-day mortality prediction in sepsis.",
+      "year": 2026,
+      "publication_date": "2026-07-14",
+      "paper_id": "ea39eb543e85ab32b06b07bf1072894b5634f56b",
+      "url": "https://www.semanticscholar.org/paper/ea39eb543e85ab32b06b07bf1072894b5634f56b",
+      "venue": "BMC Infectious Diseases",
+      "doi": "10.1186/s12879-026-13971-7",
+      "matched_keywords": [
+        "super learner"
       ],
       "source_queries": [
         "super learner"
@@ -1610,6 +1707,27 @@
       "source_queries": [
         "targeted maximum likelihood estimation",
         "tmle"
+      ]
+    },
+    {
+      "title": "Interpretable Salary Prediction in the AI Sector Using Ensemble Learning with Uncertainty Quantification",
+      "authors": [
+        "M. Mobin",
+        "Tongyuan Zhang",
+        "Bin Hu"
+      ],
+      "abstract": "The rapid expansion of the global artificial intelligence and data science job market has intensified the need for accurate salary estimation to guide career decisions and recruitment strategies. Existing predictive models often face challenges in generalizing across diverse international markets due to high-cardinality categorical features such as job titles and the wide economic variance between geographic regions. This study introduces a comprehensive machine learning framework that employs domain-informed feature engineering, including eight-category job clustering and country tiering, combined with a Super Learner ensemble of gradient boosting machines. Evaluation on a dataset of 151,445 records reveals that the Super Learner ensemble achieves a cross-validated R^2 of 0.3047 ± 0.0076 and a held-out test R^2 of 0.2818, the highest among all 21 evaluated algorithms. Although the raw R^2 margin over standalone gradient boosting is not statistically significant at α=0.05, the Super Learner demonstrates superior bias calibration (GMR = 1.0021), better uncertainty quantification (82.3% empirical PI coverage), and a 7.8 percentage-point lift over a mean-prediction baseline at the Acc@20% threshold.",
+      "year": 2026,
+      "publication_date": "2026-07-11",
+      "paper_id": "cf08cf59affed9ccbd2a6a699287f51d8c996e8f",
+      "url": "https://www.semanticscholar.org/paper/cf08cf59affed9ccbd2a6a699287f51d8c996e8f",
+      "venue": "International Journal of Artificial Intelligence and Green Manufacturing",
+      "doi": "10.67119/szt63s50",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
       ]
     },
     {
@@ -1669,7 +1787,7 @@
         "T. Darocha",
         "Łukasz Morkisz",
         "Mikołaj Jodłowski",
-        "R. Gocoł"
+        "Radosław Gocoł"
       ],
       "abstract": "OBJECTIVES The effectiveness of levosimendan in patients with severely impaired left ventricular function undergoing coronary artery bypass grafting (CABG) remains debated. While some early publications suggested a survival benefit, recent studies show conflicting results. This study used causal analysis to determine if preoperative levosimendan improves 30-day survival in this selected population. DESIGN Retrospective cohort study with machine learning double-robust causal effect analysis. SETTING Institutional cardiac surgery database. PARTICIPANTS A total of 973 patients with reduced left ventricular ejection fraction (LVEF ≤30%) undergoing CABG with or without concomitant valvular surgery. INTERVENTIONS Preoperative levosimendan administration versus no levosimendan. MEASUREMENTS AND MAIN RESULTS The primary outcome was 30-day all-cause mortality. Mortality prediction was modeled using extreme gradient boosting with Shapley additive explanations to quantify predictor contributions. Levosimendan contributed minimally to mortality prediction; age, renal function, and surgical complexity were the dominant predictors. The estimated average treatment effect of levosimendan on 30-day mortality was negligible (0.12 percentage points; 95% confidence interval [CI], -0.84 to 1.56). Null effects were consistent across double-robust targeted maximum likelihood estimation (difference, 1.08 percentage points; 95% CI, -6.66 to 10.71) and overlap weighting (0.12 percentage points; 95% CI, -0.80 to 1.58). CONCLUSIONS In this study, levosimendan does not significantly impact 30-day mortality in patients undergoing CABG with severely reduced LVEF (≤30%). Machine learning double-robust causal inference demonstrated a lack of significant therapeutic effect in this population.",
       "year": 2026,
@@ -1738,6 +1856,46 @@
       "source_queries": [
         "super learner",
         "super learning"
+      ]
+    },
+    {
+      "title": "Metformin and Severe Post-COVID-19 Outcomes Among Individuals with Diabetes Mellitus",
+      "authors": [
+        "Z. Butzin-Dozier",
+        "Y. Ji",
+        "L.-C. Wang",
+        "A. Anzalone",
+        "O. Olawore",
+        "R. Hafen",
+        "E. Hurwitz",
+        "M. Kumar",
+        "R. C. Patel",
+        "A. Budhihartanto",
+        "M. J. van der Laan",
+        "J. Colford",
+        "A. Hubbard",
+        "J. Buse",
+        "S. Johnson",
+        "J. Reusch",
+        "L. Chan",
+        "R. Moffitt",
+        "R. Wong",
+        "C. Bramante",
+        "on behalf of the National Clinical Cohort Collaborative"
+      ],
+      "abstract": "Background: Metformin is one of the most commonly prescribed medications for individuals with diabetes and may provide protection against long-term sequelae of COVID-19. Methods: We evaluated a retrospective cohort of individuals in the National Clinical Cohort Collaborative with type 2 diabetes mellitus and COVID-19 who were prescribed metformin or a dipeptidyl peptidase-4 inhibitor (DPP4i) at least 30 days before the onset of acute COVID-19 between October 1, 2021, and November 15, 2023. We compared the 12-month cumulative incidence of Long COVID diagnosis (ICD-10 U09.9: Post COVID-19 condition, unspecified), probable Long COVID (based on a model-derived phenotype), and mortality between individuals prescribed metformin vs. DPP4i. We applied Super Learner and targeted maximum likelihood estimation to obtain risk ratios while adjusting for covariates of interest. Results: In our sample of 53,332 individuals with type 2 diabetes and COVID-19, we found that metformin prescription was associated with a lower risk of all-cause mortality after COVID-19 (adjusted risk ratio [aRR] 0.61, 95% CI 0.51, 0.73). We also observed that metformin users, compared to DPP4i users, had a slightly lower risk of probable Long COVID (aRR 0.87, 95% CI 0.81, 0.94) but did not detect a significant relationship with Long COVID diagnosis (aRR 0.90, 95% CI 0.68, 1.20), although we observed similar point estimates across Long COVID outcomes. Conclusions: These findings support the hypothesis that metformin prescription during acute COVID-19 may be associated with lower mortality among adults with diabetes. These analyses also provide modest evidence of a protective association against Long COVID in adults with diabetes, although estimates were imprecise.",
+      "year": 2026,
+      "publication_date": "2026-07-09",
+      "paper_id": "8dcfc0154b2d1df1dac27a2b5fb8d1e688ea51a4",
+      "url": "https://www.semanticscholar.org/paper/8dcfc0154b2d1df1dac27a2b5fb8d1e688ea51a4",
+      "venue": "medRxiv",
+      "doi": "10.64898/2026.07.06.26357398",
+      "matched_keywords": [
+        "super learner",
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "super learner"
       ]
     },
     {
@@ -2174,6 +2332,25 @@
       ]
     },
     {
+      "title": "Research on Causal Inference Based on Targeted Maximum Likelihood Estimation for Gamma-Distributed Outcomes",
+      "authors": [
+        "新茹 周"
+      ],
+      "abstract": "",
+      "year": 2026,
+      "publication_date": null,
+      "paper_id": "51d0ee5f8aac73101bf66b7918fddb8fe4689442",
+      "url": "https://www.semanticscholar.org/paper/51d0ee5f8aac73101bf66b7918fddb8fe4689442",
+      "venue": "Advances in Applied Mathematics",
+      "doi": "10.12677/aam.2026.157297",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
+      ]
+    },
+    {
       "title": "Residual-on-Residual Regression as a Tool for Effect Estimation in Observational Data",
       "authors": [
         "Ashley I Naimi",
@@ -2262,6 +2439,36 @@
       ],
       "source_queries": [
         "targeted maximum likelihood estimation"
+      ]
+    },
+    {
+      "title": "SSRI prescription during acute COVID-19 and risk of Long COVID symptoms and conditions among patients with depression",
+      "authors": [
+        "Z. Butzin-Dozier",
+        "Y. Ji",
+        "L.-C. Wang",
+        "M. Kumar",
+        "A. Anzalone",
+        "A. Budhihartanto",
+        "E. Hurwitz",
+        "R. C. Patel",
+        "A. Hubbard",
+        "J. Halpern",
+        "on behalf of the National Clinical Cohort Collaborative"
+      ],
+      "abstract": "Background: Long COVID is a syndrome characterized by symptoms and conditions across all biological systems. This breadth of Long COVID phenotypes impedes efforts to identify the mechanistic pathways of Long COVID. Low serotonin may play a role in long-term sequelae of COVID-19, and selective serotonin reuptake inhibitors (SSRIs) may prevent these sequelae. Evaluation of the relationship between SSRIs and distinct categories of symptoms and conditions associated with Long COVID can highlight the mechanistic pathways that drive these relationships. Methods: We evaluated electronic health record data from a retrospective cohort of patients in the National Clinical Cohort Collaborative with comorbid depression and COVID-19 between October 2021 and February 2024. We estimated the relationship between SSRI prescription (versus no SSRI prescription) during acute COVID-19 and the one-year cumulative incidence of Long COVID-related conditions and symptoms across 14 human phenotype ontology categories. We applied Super Learner and targeted maximum likelihood estimation to estimate risk ratios while adjusting for confounders of interest and correcting for false discoveries from repeated testing. Results: We evaluated EHR data from 542,938 patients. We found that patients who were prescribed SSRIs during COVID-19 had a significantly lower risk of symptoms and conditions related to gastrointestinal factors (adjusted risk ratio (aRR) 0.95, 95% CI 0.92, 0.97), general health (aRR 0.91, 95% CI 0.88, 0.95), headaches (aRR 0.96, 95% CI 0.92, 0.99) and skin (aRR 0.92, 95% CI 0.87, 0.98). Discussion: We found that the prescription of SSRIs during acute COVID-19 was associated with a significantly lower risk of post-COVID sequelae related to gastrointestinal, headache-related, skin-related, and general symptoms and conditions, compared with no SSRI prescription. These findings highlight the role of serotonin in Long COVID and specific sequelae that may be reduced by SSRIs.",
+      "year": 2026,
+      "publication_date": "2026-07-09",
+      "paper_id": "b850fd11401026e48ab4fa0d64c9909b9f2cbe6b",
+      "url": "https://www.semanticscholar.org/paper/b850fd11401026e48ab4fa0d64c9909b9f2cbe6b",
+      "venue": "medRxiv",
+      "doi": "10.64898/2026.07.06.26357401",
+      "matched_keywords": [
+        "super learner",
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "super learner"
       ]
     },
     {
@@ -2387,13 +2594,37 @@
       ]
     },
     {
+      "title": "Targeted Highly Adaptive Lasso Minimum Loss Estimation of Target Functions",
+      "authors": [
+        "V. Rodriguez",
+        "Karla Diaz-Ordaz",
+        "Brieuc Lehmann",
+        "Mark J. van der Laan"
+      ],
+      "abstract": "We propose a Targeted Highly Adaptive Lasso for estimation of non-pathwise differentiable functional parameters such as the dose-response curve (DRC) for continuous exposure. We assume the target function lies in the $k$-th order smoothness class used to define the $k$-th order Highly Adaptive Lasso (HAL), which can be well approximated by linear spans of $k$-th order spline basis functions. We construct a projection of the true target function onto a large finite dimensional working model spanned by an initial set of $k$-th order spline basis functions, which defines a pathwise differentiable approximation of the target functional parameter. A standard TMLE is then applied with a data-adaptive initial fit, replacing the MLE targeting step with a LASSO step over HAL spline basis functions that span the target function. We prove that the resulting Targeted HAL-MLE is pointwise asymptotically normally distributed and achieves a convergence rate determined solely by the dimension and smoothness of the target function, giving dimension free rates up till $\\log n$-factors. Through a simulation study for the DRC, we show that the Targeted HAL outperforms a HAL plug-in estimator in terms of bias and mean squared error. Targeted HAL offers a fully data-adaptive approach to inference on functional parameters without requiring sieve specification or parametric assumptions.",
+      "year": 2026,
+      "publication_date": "2026-07-04",
+      "paper_id": "ca6b462fe0ea9e9dc0d22fe3ef14e60111897c1f",
+      "url": "https://www.semanticscholar.org/paper/ca6b462fe0ea9e9dc0d22fe3ef14e60111897c1f",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "highly adaptive lasso",
+        "tmle"
+      ],
+      "source_queries": [
+        "highly adaptive lasso",
+        "tmle"
+      ]
+    },
+    {
       "title": "Targeted maximum likelihood estimation (TMLE) in regulatory submissions and research: a landscape analysis.",
       "authors": [
         "Hana Lee",
         "Menglun Wang",
         "Spencer R. Haupert",
         "Gabriel K Innes",
-        "S. Dutcher",
+        "Sarah K Dutcher",
         "Susan Gruber",
         "Qi Liu"
       ],
@@ -2617,6 +2848,33 @@
         "targeted maximum likelihood estimation"
       ],
       "source_queries": [
+        "targeted maximum likelihood estimation"
+      ]
+    },
+    {
+      "title": "Trajectories of estimated glucose disposal rate and incident cardiovascular disease in a nationwide cohort of adults without diabetes.",
+      "authors": [
+        "Yaqing Liu",
+        "Shan Zheng",
+        "Feng Jiang",
+        "Xu Yang",
+        "Sixian Du",
+        "Liwen Gong",
+        "Qi Cui"
+      ],
+      "abstract": "Insulin resistance, indexed by the estimated glucose disposal rate (eGDR), may evolve over time, yet its longitudinal patterns and relevance for cardiovascular prevention remain unclear. Using data from a nationwide cohort of adults without diabetes, we derived eGDR from routinely collected variables and classified participants into data-driven trajectories across two follow-up visits. We then applied longitudinal targeted maximum likelihood estimation (LTMLE) with Super Learner to estimate the association between eGDR trajectories and incident cardiovascular disease (CVD) within a causal-inference framework, while accounting for time-varying confounding. Compared with the low-stable trajectory, participants in the high-stable and increasing trajectories had significantly lower risks of incident CVD. Restricted cubic splines confirmed an inverse, nonlinear relationship between eGDR and CVD. Benchmarking against the China-PAR model showed that adding eGDR trajectories significantly improved discrimination (AUC 0.554 → 0.609), reclassification (IDI 0.0153; continuous NRI 0.364, both P < 0.001), and net clinical benefit across threshold probabilities of 10-25% on decision curve analysis, whereas TyG trajectories conferred no meaningful incremental value. Findings were consistent in sensitivity and subgroup analyses and were replicated in an independent UK cohort. These results suggest that longitudinal monitoring of eGDR, derived from routine clinical measurements, may help identify adults at elevated cardiometabolic risk before diabetes onset and support early prevention strategies.",
+      "year": 2026,
+      "publication_date": "2026-07-10",
+      "paper_id": "36c565fca6afee410f4b45242699e47b5f691dd9",
+      "url": "https://www.semanticscholar.org/paper/36c565fca6afee410f4b45242699e47b5f691dd9",
+      "venue": "Scientific Reports",
+      "doi": "10.1038/s41598-026-48070-9",
+      "matched_keywords": [
+        "super learner",
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "super learner",
         "targeted maximum likelihood estimation"
       ]
     },
@@ -8332,21 +8590,21 @@
       ]
     },
     {
-      "title": "Data-Adaptive Identification of Effect Modifiers through Stochastic Shift Interventions and Cross-Validated Targeted Learning",
+      "title": "Data-adaptive identification of effect modifiers through stochastic shift interventions and cross-validated targeted learning",
       "authors": [
         "David McCoy",
         "Wenxin Zhang",
         "Alan Hubbard",
-        "M. V. D. Laan",
+        "M. J. van der Laan",
         "Alejandro Schuler"
       ],
-      "abstract": "In epidemiology, identifying subpopulations that are particularly vulnerable to exposures and those who may benefit differently from exposure-reducing interventions is essential. Factors such as age, gender-specific vulnerabilities, and physiological states such as pregnancy are critical for policymakers when setting regulatory guidelines. However, current semi-parametric methods for estimating heterogeneous treatment effects are often limited to binary exposures and can function as black boxes, lacking clear, interpretable rules for subpopulation-specific policy interventions. This study introduces a novel method that uses cross-validated targeted minimum loss-based estimation (TMLE) paired with a data-adaptive target parameter strategy to identify subpopulations with the most significant differential impact of simulated policy interventions that reduce exposure. Our approach is assumption-lean, allowing for the integration of machine learning while still yielding valid confidence intervals. We demonstrate the robustness of our methodology through simulations and application to data from the National Health and Nutrition Examination Survey. Our analysis of NHANES data on persistent organic pollutants (POPs) and leukocyte telomere length (LTL) identified age as a significant effect modifier. Specifically, we found that exposure to 3,3',4,4',5-pentachlorobiphenyl (PCNB) consistently had a differential impact on LTL, with a one-standard deviation reduction in exposure leading to a more pronounced increase in LTL among younger populations compared to older ones. We offer our method as an open-source software package, EffectXshift, enabling researchers to investigate the effect modification of continuous exposures. The EffectXshift package provides clear and interpretable results, informing targeted public health interventions and policy decisions.",
+      "abstract": "Summary In epidemiology, identifying subpopulations that are particularly vulnerable to exposures and those who may benefit differently from exposure-reducing interventions is essential. Factors such as age, gender-specific vulnerabilities, and physiological states such as pregnancy are critical for policymakers when setting regulatory guidelines. However, current semiparametric methods for estimating heterogeneous treatment effects are often limited to binary exposures and can function as black boxes, lacking clear, interpretable rules for subpopulation-specific policy interventions. This study introduces a novel method that uses cross-validated targeted minimum loss-based estimation (TMLE) paired with a data-adaptive target parameter strategy to identify subpopulations with the most significant differential impact of simulated policy interventions that reduce exposure. Our approach is assumption-lean, allowing for the integration of machine learning while still yielding valid confidence intervals. We demonstrate the robustness of our methodology through simulations and an application to data from the National Health and Nutrition Examination Survey. Our analysis of NHANES data on persistent organic pollutants (POPs) and leukocyte telomere length (LTL) identified age as a significant effect modifier. Specifically, we found that exposure to 3,3’,4,4’,5-pentachlorobiphenyl (PCB; NHANES analyte LBXPCBLA) consistently had a differential impact on LTL, with a 1-SD reduction in exposure leading to a more pronounced increase in LTL among younger populations than in older ones. We offer our method as an open-source software package, EffectXshift, enabling researchers to investigate the effect modification of continuous exposures. The EffectXshift package provides clear and interpretable results, informing targeted public health interventions and policydecisions.",
       "year": 2024,
       "publication_date": "2024-06-16",
       "paper_id": "b71c576d58f18f42e78832f7b2d6e1bbbbebe6ba",
       "url": "https://www.semanticscholar.org/paper/b71c576d58f18f42e78832f7b2d6e1bbbbebe6ba",
-      "venue": null,
-      "doi": null,
+      "venue": "Biostatistics",
+      "doi": "10.1093/biostatistics/kxag020",
       "matched_keywords": [
         "targeted minimum loss based estimation",
         "tmle"
@@ -13333,7 +13591,7 @@
         "K. Shiba",
         "A. Yazawa",
         "T. VanderWeele",
-        "N. Slopen"
+        "Natalie Slopen"
       ],
       "abstract": "Although prior research suggests that residential instability during adolescence can have long-term impacts on health and wellbeing, few studies have identified a robust comparison group and considered a broad set of outcomes. To address these knowledge gaps, we examined the associations between residential instability during adolescence and a wide range of adult health and wellbeing outcomes using an outcome-wide design in the National Longitudinal Study of Adolescent to Adult Health. We defined residential instability as two or more moves between Waves I and II (ages 13-18 years). We assessed outcomes at ages 33-43 years (Wave V) in nine domains: biomarkers, physical health, health behaviors, psychological distress, psychological wellbeing, social behaviors, social wellbeing, trauma/victimization, and socioeconomic attainment. Results of doubly-robust targeted maximum likelihood estimation, adjusting for pre-exposure values of the outcome variables and cofounders (Wave I), showed little evidence of an association for certain outcomes, all of which disappeared after accounting for multiple comparisons. Our results suggest that residential instability in adolescence does not lead to worse health and wellbeing in adulthood, but rather, outcome differences between groups are due to pre-existing differences prior to residential instability in adolescence.",
       "year": 2023,
@@ -19657,7 +19915,7 @@
       "title": "Impact of Chlorhexidine Baths on Suspected Sepsis and Bloodstream Infections in Hospitalized Neonates in Zambia.",
       "authors": [
         "T. Westling",
-        "C. Cowden",
+        "Carter Cowden",
         "L. Mwananyanda",
         "M. Kapasa",
         "S. Machona",
