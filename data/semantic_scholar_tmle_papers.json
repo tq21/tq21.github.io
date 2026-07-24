@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T15:03:09Z",
+  "generated_at": "2026-07-24T15:03:12Z",
   "source": "Semantic Scholar Graph API",
   "unauthenticated": true,
   "mode": "bulk",
@@ -18,7 +18,7 @@
   "query_stats": [
     {
       "keyword": "tmle",
-      "fetched_raw_count": 496
+      "fetched_raw_count": 497
     },
     {
       "keyword": "targeted maximum likelihood estimation",
@@ -30,7 +30,7 @@
     },
     {
       "keyword": "super learner",
-      "fetched_raw_count": 1035
+      "fetched_raw_count": 1042
     },
     {
       "keyword": "super learning",
@@ -38,169 +38,119 @@
     },
     {
       "keyword": "highly adaptive lasso",
-      "fetched_raw_count": 242
+      "fetched_raw_count": 244
     }
   ],
   "query_errors": [],
   "incomplete": false,
-  "fetched_paper_count": 949,
-  "newly_appended_count": 9,
-  "updated_existing_count": 6,
+  "fetched_paper_count": 954,
+  "newly_appended_count": 6,
+  "updated_existing_count": 9,
   "existing_blocked_removed": 0,
   "existing_duplicates_removed": 0,
   "newly_added_papers": [
     {
-      "title": "Evaluating bias in target trial emulation for heart failure across statistical and deep learning methods.",
+      "title": "A global 1 km gridded dataset of household consumption expenditure in purchasing power parity 2013-2024.",
       "year": 2026,
       "authors": [
-        "Z. Fan",
-        "Qianqian Yang",
-        "Yifan Hu",
-        "G. Danaei",
-        "G. Davey Smith",
-        "Shishir Rao",
-        "Kazem Rahimi"
+        "Run Shi",
+        "Yuanzheng Cui",
+        "Fang Bian",
+        "T. Zhong",
+        "Xiangbing Peng",
+        "Xin Yin",
+        "Songqin Liu",
+        "Kaifang Shi"
       ],
-      "publication_date": "2026-07-13",
-      "doi": "10.1038/s41467-026-74999-6",
-      "paper_id": "3e87bed0b016c1a004a6d81e1579bd23cd259ddd"
+      "publication_date": "2026-07-20",
+      "doi": "10.1038/s41597-026-07919-4",
+      "paper_id": "bdef605dbd0aa9a63f77a7a167f164e3c8a6680e"
     },
     {
-      "title": "Hybrid-distance whale optimization for super learner ensemble modeling of reference evapotranspiration",
+      "title": "Application of machine learning using hormonal biomarkers in male infertility prediction: a systematic mapping review",
       "year": 2026,
       "authors": [
-        "Mohammed Saied Aly",
-        "Jian-Jun Han",
-        "Yan Xiao",
-        "Jie Liu"
+        "S. Parsaie",
+        "Ali Behmanesh",
+        "Leila Amini"
       ],
-      "publication_date": "2026-07-10",
-      "doi": "10.1007/s11600-026-01961-x",
-      "paper_id": "f6a3bb84dddaa898365858fc5ce4f45edf4dca57"
+      "publication_date": "2026-05-21",
+      "doi": "10.1186/s40001-026-04622-3",
+      "paper_id": "e8161fdcc22e168ec19f39295b7a038f718f232f"
     },
     {
-      "title": "Improved 28-day mortality prediction by combining Lactate Dehydrogenase-to-Albumin Ratio(LAR) to lactate-enhanced Sequential Organ Failure Assessment (SOFA) score in patients with sepsis: a derivation and validation study.",
+      "title": "Association between Milrinone Use and Mortality Risk in Sepsis: Insights from the MIMIC-IV Database.",
       "year": 2026,
       "authors": [
-        "Zhiyang Wang",
-        "Tao You",
-        "Yujie Liu",
-        "Shifeng Li",
-        "Xin Xiao",
-        "Bingxuan Shao",
-        "Yu Yao",
-        "Yanpeng Zhang",
-        "Yajing Lu",
-        "Fang Huang",
-        "Jun Wang"
+        "Jiali Wu",
+        "Cong Liu",
+        "Xiaojing Ji",
+        "Bo Li",
+        "Xue Li",
+        "Jinyuan Zhu"
       ],
-      "publication_date": "2026-07-14",
-      "doi": "10.1186/s12879-026-13971-7",
-      "paper_id": "ea39eb543e85ab32b06b07bf1072894b5634f56b"
+      "publication_date": "2026-07-20",
+      "doi": "10.1097/shk.0000000000002907",
+      "paper_id": "ccaf1c582f32c16ec71a8bafdc1abdf665674b3c"
     },
     {
-      "title": "Interpretable Salary Prediction in the AI Sector Using Ensemble Learning with Uncertainty Quantification",
+      "title": "Comparative Effectiveness of Individual DPP-4 Inhibitors on Kidney Outcomes in Type 2 Diabetes With Moderate Cardiovascular Risk: A Target Trial Emulation",
       "year": 2026,
       "authors": [
-        "M. Mobin",
-        "Tongyuan Zhang",
-        "Bin Hu"
+        "Stacey M. Sklepinski",
+        "Jeph Herrin",
+        "J. Neumiller",
+        "Eric C Polley",
+        "K. Swarna",
+        "Yihong Deng",
+        "Rodolfo J. Galindo",
+        "Guillermo E. Umpierrez",
+        "Joseph S. Ross",
+        "Juan P. Brito",
+        "V. Montori",
+        "Mindy M. Mickelson",
+        "Rozalina G. McCoy"
       ],
-      "publication_date": "2026-07-11",
-      "doi": "10.67119/szt63s50",
-      "paper_id": "cf08cf59affed9ccbd2a6a699287f51d8c996e8f"
+      "publication_date": "2026-07-16",
+      "doi": "10.2337/doc26-0025",
+      "paper_id": "c4e0d7b4a42be8e6ec9da6e80012c709eb55eb02"
     },
     {
-      "title": "Metformin and Severe Post-COVID-19 Outcomes Among Individuals with Diabetes Mellitus",
+      "title": "Machine learning-based prediction of hospital-associated complications after tibial fracture surgery in older patients: a nationwide Japanese database study.",
       "year": 2026,
       "authors": [
-        "Z. Butzin-Dozier",
-        "Y. Ji",
-        "L.-C. Wang",
-        "A. Anzalone",
-        "O. Olawore",
-        "R. Hafen",
-        "E. Hurwitz",
-        "M. Kumar",
-        "R. C. Patel",
-        "A. Budhihartanto",
-        "M. J. van der Laan",
-        "J. Colford",
-        "A. Hubbard",
-        "J. Buse",
-        "S. Johnson",
-        "J. Reusch",
-        "L. Chan",
-        "R. Moffitt",
-        "R. Wong",
-        "C. Bramante",
-        "on behalf of the National Clinical Cohort Collaborative"
+        "Akio Shimizu",
+        "Ryota Sakamoto",
+        "H. Nagayama",
+        "R. Momosaki"
       ],
-      "publication_date": "2026-07-09",
-      "doi": "10.64898/2026.07.06.26357398",
-      "paper_id": "8dcfc0154b2d1df1dac27a2b5fb8d1e688ea51a4"
+      "publication_date": "2026-07-16",
+      "doi": "10.1007/s40520-026-03460-x",
+      "paper_id": "6863df73ca919d1aab73bb182fc80b7914ac74f5"
     },
     {
-      "title": "Research on Causal Inference Based on Targeted Maximum Likelihood Estimation for Gamma-Distributed Outcomes",
+      "title": "Minimal long-term impact of anastomotic leakage on quality of life after anterior resection for rectal cancer: A population-based cohort study.",
       "year": 2026,
       "authors": [
-        "新茹 周"
+        "Marcus Lindsköld",
+        "Anders Gerdin",
+        "Jennifer Park",
+        "Jenny Häggström",
+        "M. Lydrup",
+        "P. Matthiessen",
+        "H. Jutesten",
+        "Sofia Sandberg",
+        "E. Angenete",
+        "Petrus Vinnars",
+        "P. Buchwald",
+        "M. Rutegård"
       ],
-      "publication_date": null,
-      "doi": "10.12677/aam.2026.157297",
-      "paper_id": "51d0ee5f8aac73101bf66b7918fddb8fe4689442"
-    },
-    {
-      "title": "SSRI prescription during acute COVID-19 and risk of Long COVID symptoms and conditions among patients with depression",
-      "year": 2026,
-      "authors": [
-        "Z. Butzin-Dozier",
-        "Y. Ji",
-        "L.-C. Wang",
-        "M. Kumar",
-        "A. Anzalone",
-        "A. Budhihartanto",
-        "E. Hurwitz",
-        "R. C. Patel",
-        "A. Hubbard",
-        "J. Halpern",
-        "on behalf of the National Clinical Cohort Collaborative"
-      ],
-      "publication_date": "2026-07-09",
-      "doi": "10.64898/2026.07.06.26357401",
-      "paper_id": "b850fd11401026e48ab4fa0d64c9909b9f2cbe6b"
-    },
-    {
-      "title": "Targeted Highly Adaptive Lasso Minimum Loss Estimation of Target Functions",
-      "year": 2026,
-      "authors": [
-        "V. Rodriguez",
-        "Karla Diaz-Ordaz",
-        "Brieuc Lehmann",
-        "Mark J. van der Laan"
-      ],
-      "publication_date": "2026-07-04",
-      "doi": null,
-      "paper_id": "ca6b462fe0ea9e9dc0d22fe3ef14e60111897c1f"
-    },
-    {
-      "title": "Trajectories of estimated glucose disposal rate and incident cardiovascular disease in a nationwide cohort of adults without diabetes.",
-      "year": 2026,
-      "authors": [
-        "Yaqing Liu",
-        "Shan Zheng",
-        "Feng Jiang",
-        "Xu Yang",
-        "Sixian Du",
-        "Liwen Gong",
-        "Qi Cui"
-      ],
-      "publication_date": "2026-07-10",
-      "doi": "10.1038/s41598-026-48070-9",
-      "paper_id": "36c565fca6afee410f4b45242699e47b5f691dd9"
+      "publication_date": "2026-07-20",
+      "doi": "10.1177/14574969261467712",
+      "paper_id": "4bf32f70a289f7c8da5beec90e264bd3bdd88f9a"
     }
   ],
-  "paper_count": 1098,
+  "paper_count": 1104,
   "papers": [
     {
       "title": "A CV-TMLE global test approach to improve power in rare disease clinical studies with multiple-component endpoints",
@@ -226,6 +176,32 @@
       "source_queries": [
         "targeted maximum likelihood estimation",
         "tmle"
+      ]
+    },
+    {
+      "title": "A global 1 km gridded dataset of household consumption expenditure in purchasing power parity 2013-2024.",
+      "authors": [
+        "Run Shi",
+        "Yuanzheng Cui",
+        "Fang Bian",
+        "T. Zhong",
+        "Xiangbing Peng",
+        "Xin Yin",
+        "Songqin Liu",
+        "Kaifang Shi"
+      ],
+      "abstract": "Household and non-profit institutions serving households (NPISH) final consumption expenditure is widely used to characterize welfare, demand, and living standards, but official statistics are typically available at national and regional scales and therefore cannot support fine-grained analyses. Here we present a global 1 km gridded dataset of household and NPISH final consumption expenditure in purchasing power parity (PPP) for 2013-2024. The dataset integrates World Bank economy-level totals, expressed in constant 2021 international dollars, with annual nighttime lights, population, built-up surface, roads, and consumer-oriented points-of-interests (POIs) in a stacked Super Learner framework. Harmonized annual covariates are used to generate grid-level predictions of per-capita consumption. The dataset is a model-based spatial disaggregation constrained by economy totals. We release two products: an observed-only variant based exclusively on directly reported World Bank totals, and a regionally completed variant that fills missing economy totals from World Bank regional aggregates. Each product includes annual cell-total rasters, per-capita rasters, QA rasters, and an economy-year metadata table. Independent validation against official subnational consumption statistics in the United States, Canada, and the United Kingdom, together with a provincial retail sales proxy validation for China, shows that the dataset captures spatial heterogeneity while retaining economy-level consistency. The dataset is intended to support analyses of welfare geography, market access, and consumption-related human activity, including applications relevant to the Sustainable Development Goals (SDGs), such as poverty, equity and inclusive development.",
+      "year": 2026,
+      "publication_date": "2026-07-20",
+      "paper_id": "bdef605dbd0aa9a63f77a7a167f164e3c8a6680e",
+      "url": "https://www.semanticscholar.org/paper/bdef605dbd0aa9a63f77a7a167f164e3c8a6680e",
+      "venue": "Scientific Data",
+      "doi": "10.1038/s41597-026-07919-4",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
       ]
     },
     {
@@ -460,6 +436,52 @@
       ]
     },
     {
+      "title": "Application of machine learning using hormonal biomarkers in male infertility prediction: a systematic mapping review",
+      "authors": [
+        "S. Parsaie",
+        "Ali Behmanesh",
+        "Leila Amini"
+      ],
+      "abstract": "male factors contribute to approximately 40–50% of infertility cases, yet diagnostic methods remain invasive, subjective, and often inconclusive. Hormonal biomarkers such as FSH, LH, and testosterone are routinely assessed but have limited predictive value when used alone. Recent advances in machine learning (ML) have demonstrated potential to enhance diagnostic precision through pattern recognition in complex hormonal data. This systematic mapping review aimed to identify, characterize, and synthesize studies applying machine learning algorithms using hormonal biomarkers for predicting male infertility and related outcomes. Following the PRISMA–ScR guidelines, a systematic search was conducted in PubMed, Scopus, and Web of Science databases up to May 2025. Eligible studies included peer-reviewed articles applying ML models based on serum hormones to predict male infertility or related outcomes, and reporting quantitative performance metrics. Studies not involving ML methods, hormonal predictors, or male-specific analyses were excluded. Data were extracted on study design, hormonal features, algorithms used, and model performance, and synthesized narratively due to heterogeneity across datasets and methods. Out of 115 retrieved records, 11 studies met the eligibility criteria. Most studies were retrospective and hospital-based, with sample sizes ranging from under 150 to over 1,000 participants. Geographically, Turkey and China dominated research contributions, focusing primarily on sperm retrieval success, infertility risk assessment, and OA–NOA differentiation. The most frequently used ML algorithms were Artificial Neural Networks (ANN; n = 6), Support Vector Machines (SVM; n = 4), k-nearest neighbors (kNN; n = 4), and ensemble methods, such as XGBoost, CatBoost, and super learner, which demonstrated superior predictive accuracy in several datasets. Reported accuracies typically exceeded 80%, with AUC values between 0.80 and 0.90, though sensitivity and specificity varied depending on outcome measures. Core hormonal predictors—FSH, LH, and total testosterone (TT)—were included in nearly all studies due to their physiological relevance in spermatogenesis. Emerging biomarkers such as Anti-Müllerian Hormone (AMH), Inhibin B, and leptin improved model performance and biological interpretability in select analyses. Studies that combined multiple hormones achieved stronger predictive capacity than single-marker models. This systematic mapping review demonstrates that machine learning models leveraging hormonal biomarkers—particularly multihormonal combinations, including FSH, LH, testosterone, and emerging markers, such as AMH and inhibin B—show strong potential for non-invasive prediction of male infertility. Artificial neural networks and ensemble-based approaches consistently achieved robust predictive performance across diverse clinical contexts. Despite these promising findings, the current evidence base is largely retrospective and geographically concentrated. Future research should prioritize prospective, multicenter validation and integration of explainable AI techniques to enhance clinical transparency, generalizability, and real-world applicability. PROSPERO Registration ID: CRD420251229798.",
+      "year": 2026,
+      "publication_date": "2026-05-21",
+      "paper_id": "e8161fdcc22e168ec19f39295b7a038f718f232f",
+      "url": "https://www.semanticscholar.org/paper/e8161fdcc22e168ec19f39295b7a038f718f232f",
+      "venue": "European Journal of Medical Research",
+      "doi": "10.1186/s40001-026-04622-3",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
+      "title": "Association between Milrinone Use and Mortality Risk in Sepsis: Insights from the MIMIC-IV Database.",
+      "authors": [
+        "Jiali Wu",
+        "Cong Liu",
+        "Xiaojing Ji",
+        "Bo Li",
+        "Xue Li",
+        "Jinyuan Zhu"
+      ],
+      "abstract": "BACKGROUND Milrinone is established in the management of heart failure. However, its therapeutic role in patients with sepsis remains uncertain and warrants further investigation. Objective: To examine the association between milrinone administration and mortality in patients diagnosed with sepsis. METHODS This retrospective cohort study utilized data from the MIMIC-IV database. The primary exposure of interest was milrinone use. Propensity score matching (PSM) and inverse probability of treatment weighting (IPTW) were employed to balance baseline characteristics. The association between milrinone use and 7-，14-，and 28-day mortality in sepsis patients was assessed using multivariate Cox proportional hazards models, restricted cubic spline (RCS) curves, and longitudinal targeted maximum likelihood estimation (TMLE). RESULTS Among 27,070 sepsis patients, 523 received milrinone at a median interval of 5.24 hours after ICU admission. In the unadjusted Cox model, milrinone use was associated with significantly lower mortality at 7 days (HR = 0.53, 95% CI: 0.33-0.85), 14 days (HR = 0.54, 95% CI: 0.38-0.78), and 28 days (HR = 0.60, 95% CI: 0.45-0.82). This association remained consistent after adjusting for multiple confounders. In the IPTW-adjusted cohort, Cox regression showed no significant association between milrinone use and mortality at day 7 or day 14; however, a statistically significant association was observed at day 28. Longitudinal TMLE analyses further indicated a protective effect for both 14-day (RR = 0.65, 95% CI: 0.48-0.88; P = 0.01) and 28-day mortality (RR = 0.58, 95% CI: 0.45-0.74; P < 0.001). RCS analysis demonstrated a linear inverse relationship between cumulative milrinone dosage and 7-day mortality risk, while a non-linear association was observed with 14-day and 28-day mortality. Subgroup analysis revealed a significant interaction between milrinone use and heart failure status, with reduced mortality associated with milrinone use only in patients with heart failure. CONCLUSION Milrinone use appeared to be associated with reduced mortality risk at 7, 14, and 28 days in sepsis patients. This association was linear for 7‑day mortality, but nonlinear and potentially indicative of a threshold effect for 14‑and 28‑day mortality.",
+      "year": 2026,
+      "publication_date": "2026-07-20",
+      "paper_id": "ccaf1c582f32c16ec71a8bafdc1abdf665674b3c",
+      "url": "https://www.semanticscholar.org/paper/ccaf1c582f32c16ec71a8bafdc1abdf665674b3c",
+      "venue": "Shock",
+      "doi": "10.1097/SHK.0000000000002907",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
+      ]
+    },
+    {
       "title": "Association of household wealth and education with hypertension among adults in Lesotho: Evidence from a propensity score–based study",
       "authors": [
         "R. Gupta",
@@ -627,6 +649,37 @@
       ],
       "source_queries": [
         "targeted maximum likelihood estimation"
+      ]
+    },
+    {
+      "title": "Comparative Effectiveness of Individual DPP-4 Inhibitors on Kidney Outcomes in Type 2 Diabetes With Moderate Cardiovascular Risk: A Target Trial Emulation",
+      "authors": [
+        "Stacey M. Sklepinski",
+        "Jeph Herrin",
+        "J. Neumiller",
+        "Eric C Polley",
+        "K. Swarna",
+        "Yihong Deng",
+        "Rodolfo J. Galindo",
+        "Guillermo E. Umpierrez",
+        "Joseph S. Ross",
+        "Juan P. Brito",
+        "V. Montori",
+        "Mindy M. Mickelson",
+        "Rozalina G. McCoy"
+      ],
+      "abstract": "To examine kidney disease outcomes associated with dipeptidyl peptidase 4 inhibitors (DPP-4i). In this target trial emulation, claims data from enrollees in commercial, Medicare Advantage, and traditional Medicare health plans were used to identify adults ≥21 years old with type 2 diabetes, with moderate cardiovascular risk, and without stage 3 or worse chronic kidney disease (CKD) initiating alogliptin, linagliptin, saxagliptin, or sitagliptin between 2014 and 2021. The primary outcome was a composite of incident CKD stages 3–5, kidney failure, or kidney replacement therapy. Random treatment assignment was emulated using propensity scores, estimated using the super learner ensemble method and incorporated as inverse probability of treatment weights into proportional hazards models. The weighted study cohort included 3,026 individuals starting alogliptin, 38,213 starting linagliptin, 14,934 starting saxagliptin, and 115,091 starting sitagliptin. One year after treatment initiation, the primary outcome occurred in 1.4%, 2.7%, 2.2%, and 2.4% of patients initiating alogliptin, linagliptin, saxagliptin, and sitagliptin, respectively, increasing to 3.2%, 6.2%, 5.0%, and 5.4%, respectively, at 3 years. Alogliptin was associated with lower risk of stage 3 or worse CKD than linagliptin (hazard ratio [HR] 0.50; 95% CI 0.37–0.69), saxagliptin (HR 0.63; 95% CI 0.45–0.86), and sitagliptin (HR 0.58; 95% CI 0.42–0.79), while saxagliptin was associated with lower risk than linagliptin (HR 0.80; 95% CI 0.73–0.87). Conversely, linagliptin was associated with higher risk than sitagliptin (HR 1.15, 95% CI 1.10–1.21). Alogliptin was associated with lower risk of moderate-to-severe kidney disease than other DPP-4i, while linagliptin was associated with higher risk. Limitations include lack of laboratory data and potential unmeasured confounding.",
+      "year": 2026,
+      "publication_date": "2026-07-16",
+      "paper_id": "c4e0d7b4a42be8e6ec9da6e80012c709eb55eb02",
+      "url": "https://www.semanticscholar.org/paper/c4e0d7b4a42be8e6ec9da6e80012c709eb55eb02",
+      "venue": "Diabetes Obesity and Cardiometabolic CARE",
+      "doi": "10.2337/doc26-0025",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
       ]
     },
     {
@@ -1731,7 +1784,7 @@
       ]
     },
     {
-      "title": "Intravenous amino acid supplementation reduces 28-day mortality in sepsis: a retrospective cohort study from MIMIC-IV database and Mendelian randomization analysis.",
+      "title": "Intravenous amino acid supplementation reduces 28-d mortality in sepsis: a retrospective cohort study from Medical Information Mart for Intensive Care-IV database and Mendelian randomisation analysis",
       "authors": [
         "Qinxue Wang",
         "Yuanze Ma",
@@ -1740,7 +1793,7 @@
         "Yi Han",
         "Haobing Huang"
       ],
-      "abstract": "Sepsis-related deaths remain prevalent in intensive care settings, with metabolic dysregulation as a key contributor. Although amino acid supplementation has shown promise, its clinical effectiveness in sepsis is unclear. This study evaluated the impact of intravenous amino acid administration on 28-day mortality in intensive care unit (ICU) sepsis patients using retrospective cohort analysis and Mendelian randomization (MR). We analyzed data from the MIMIC-IV database, matching 726 patients (363 per group) using propensity scores. The association between amino acid supplementation and mortality was assessed using Logistic regression, Cox regression, and targeted maximum likelihood estimation (TMLE). Two-sample MR was used to explore causal links between 20 common amino acids and sepsis mortality. In the cohort analysis, amino acid supplementation was consistently associated with significantly reduced 28-day mortality across all analytical methods (logistic regression: OR = 0.48, p < 0.01; Cox regression: HR = 0.48, p < 0.01; TMLE: ATE = -0.102, p < 0.01). In contrast, the MR analysis did not find a significant causal association for any single amino acid after correction for multiple comparisons; although glycine showed a nominal protective signal, it did not remain significant after FDR correction. This dual-method study demonstrates a strong association between compound amino acid infusions and reduced mortality in sepsis but did not identify any single amino acid as a robust causal mediator. These findings suggest the benefit may arise from a synergistic effect, highlighting the need for randomized controlled trials to validate these observational results and optimize nutritional strategies.",
+      "abstract": "Abstract Sepsis-related deaths remain prevalent in intensive care settings, with metabolic dysregulation as a key contributor. Although amino acid supplementation has shown promise, its clinical effectiveness in sepsis is unclear. This study evaluated the impact of intravenous amino acid administration on 28-d mortality in intensive care unit (ICU) sepsis patients using retrospective cohort analysis and Mendelian randomisation (MR). We analysed data from the Medical Information Mart for Intensive Care-IV database, matching 726 patients (363 per group) using propensity scores. The association between amino acid supplementation and mortality was assessed using logistic regression, Cox regression and targeted maximum likelihood estimation (TMLE). Two-sample MR was used to explore causal links between twenty common amino acids and sepsis mortality. In the cohort analysis, amino acid supplementation was consistently associated with significantly reduced 28-d mortality across all analytical methods (logistic regression: OR = 0·48, P < 0·01; Cox regression: HR = 0·48, P < 0·01; TMLE: average treatment effect = −0·102, P < 0·01). In contrast, the MR analysis did not find a significant causal association for any single amino acid after correction for multiple comparisons; although glycine showed a nominal protective signal, it did not remain significant after false discovery rate correction. This dual-method study demonstrates a strong association between compound amino acid infusions and reduced mortality in sepsis but did not identify any single amino acid as a robust causal mediator. These findings suggest the benefit may arise from a synergistic effect, highlighting the need for randomised controlled trials to validate these observational results and optimise nutritional strategies.",
       "year": 2026,
       "publication_date": "2026-02-09",
       "paper_id": "42ea910c536ca9990e4aec2d659a82d990462129",
@@ -1829,6 +1882,28 @@
       ],
       "source_queries": [
         "tmle"
+      ]
+    },
+    {
+      "title": "Machine learning-based prediction of hospital-associated complications after tibial fracture surgery in older patients: a nationwide Japanese database study.",
+      "authors": [
+        "Akio Shimizu",
+        "Ryota Sakamoto",
+        "H. Nagayama",
+        "R. Momosaki"
+      ],
+      "abstract": "BACKGROUND Older adults requiring emergency surgery for acute tibial fractures are vulnerable to hospital-associated complications (HACs), but admission-time risk stratification tools are lacking. We aimed to characterize HACs and develop both an ensemble prediction model and a simplified bedside risk score. METHODS This retrospective cohort study used the Japanese Diagnosis Procedure Combination database provided by JMDC Inc. Patients aged ≥ 65 years emergently admitted for tibial fracture (ICD-10: S82, 2014-2025) who underwent surgery within 5 days, with stay > 5 days, were included. The primary outcome was composite HACs during index hospitalization. Missing data were handled with multiple imputation. A Super Learner ensemble was developed and evaluated on held-out test data, and a simplified scorecard was derived using analysis of variance (ANOVA)-based feature selection and Weight-of-Evidence transformation. RESULTS Among 53,186 admissions, 5,193 met eligibility criteria. HACs occurred in 851 patients (16.4%), most commonly delirium (7.5%) and falls/trauma (5.7%). The Super Learner achieved a test-set area under the receiver operating characteristic curve (AUC) of 0.740 (95% CI 0.707-0.772), higher than conventional linear logistic regression (0.724). The most influential predictors were Hospital Frailty Risk Score, dementia, Barthel Index, comorbidity burden, and days to surgery. The simplified 7-variable scorecard achieved a test-set AUC of 0.736 (95% CI 0.703-0.769), stratifying patients into five risk groups (HAC rate: 3.45%-38.64%). CONCLUSIONS HAC risk after emergency tibial fracture surgery in older adults was driven primarily by geriatric vulnerability rather than fracture-specific factors. A simplified admission-time score may support targeted prevention, pending external validation.",
+      "year": 2026,
+      "publication_date": "2026-07-16",
+      "paper_id": "6863df73ca919d1aab73bb182fc80b7914ac74f5",
+      "url": "https://www.semanticscholar.org/paper/6863df73ca919d1aab73bb182fc80b7914ac74f5",
+      "venue": "Aging Clinical and Experimental Research",
+      "doi": "10.1007/s40520-026-03460-x",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
       ]
     },
     {
@@ -1926,6 +2001,36 @@
       ],
       "source_queries": [
         "super learner"
+      ]
+    },
+    {
+      "title": "Minimal long-term impact of anastomotic leakage on quality of life after anterior resection for rectal cancer: A population-based cohort study.",
+      "authors": [
+        "Marcus Lindsköld",
+        "Anders Gerdin",
+        "Jennifer Park",
+        "Jenny Häggström",
+        "M. Lydrup",
+        "P. Matthiessen",
+        "H. Jutesten",
+        "Sofia Sandberg",
+        "E. Angenete",
+        "Petrus Vinnars",
+        "P. Buchwald",
+        "M. Rutegård"
+      ],
+      "abstract": "BACKGROUND Anastomotic leakage after anterior resection for rectal cancer is associated with long-term morbidity, such as bowel dysfunction, but its impact on health-related quality of life remains insufficiently studied. The aim of this study was to evaluate the association between anastomotic leakage and health-related quality of life 3 years after surgery. METHODS In this population-based prospective cohort study, patients who underwent anterior resection for rectal cancer in Sweden between 2015 and 2017 were identified through the Swedish Colorectal Cancer Registry. Health-related quality of life was assessed 3 years after surgery using the EORTC QLQ-C30 and QLQ-CR29 questionnaires. The primary outcome was the QLQ-C30 summary score. Targeted maximum likelihood estimation was applied to estimate the adjusted effect of anastomotic leakage on health-related quality of life. RESULTS Of 1778 eligible patients, 1178 (66.3%) responded, including 104 (8.8%) with anastomotic leakage. Patients with anastomotic leakage reported a lower mean QLQ-C30 summary score compared to those without anastomotic leakage (80 vs 86, p < 0.001). After adjustment for confounders, anastomotic leakage was associated with a 4-point difference in summary score (p < 0.01). Patients with anastomotic leakage also reported worse body image. Compared with patients without anastomotic leakage, those with anastomotic leakage and no stoma reported more perianal skin irritation, while those with a stoma more frequently reported stool leakage from the stoma bag. CONCLUSIONS Anastomotic leakage after anterior resection is associated with a small negative effect on overall health-related quality of life 3 years after surgery. Nevertheless, specific functional impairments-particularly related to body image, and stoma- or perianal symptoms-persist and warrant attention. These findings highlight the importance of patient counseling and long-term follow-up after anastomotic leakage.",
+      "year": 2026,
+      "publication_date": "2026-07-20",
+      "paper_id": "4bf32f70a289f7c8da5beec90e264bd3bdd88f9a",
+      "url": "https://www.semanticscholar.org/paper/4bf32f70a289f7c8da5beec90e264bd3bdd88f9a",
+      "venue": "Scandinavian Journal of Surgery",
+      "doi": "10.1177/14574969261467712",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
       ]
     },
     {
@@ -2247,9 +2352,9 @@
         "Chamika Porage",
         "Ingeborg Waernbaum"
       ],
-      "abstract": "The prognostic score (PGS) is a function of observed covariates that summarizes covariates’ association with potential responses. In the current study, we propose a full prognostic score (FPGS), an extension of the PGS that integrates individual prognostic scores to account for confounding adjustments in causal inference. Under effect modification, we show that FPGS and a version of FPGS using conditional expectations of the outcomes, meet the sufficiency condition for confounding adjustment to estimate the average causal effect. We present a general algorithm to implement the FPGS approach for estimation by applying linear regression, random forest regression, and XGBoost regression. When determining the average causal effect, we incorporate FPGS into semiparametric estimators including regression imputation, simple stratification, and targeted maximum likelihood estimation (TMLE). The finite-sample properties of the estimators are compared through three simulation studies. Based on the findings of the FPGS estimators, the mean squared error of the linear regression imputation estimator and the TMLE estimator comprised of linearly regressed PGS is smaller than the mean squared error of alternative estimators. In an empirical study, we analyze data from the National Health and Nutrition Examination Survey (NHANES, 2007–2008) to determine the effect of smoking on blood lead levels.",
+      "abstract": "Abstract The prognostic score (PGS) is a function of observed covariates that summarizes covariates’ association with potential responses. In the current study, we propose a full prognostic score (FPGS), an extension of the PGS that integrates individual prognostic scores to account for confounding adjustments in causal inference. Under effect modification, we show that FPGS and a version of FPGS using conditional expectations of the outcomes, meet the sufficiency condition for confounding adjustment to estimate the average causal effect. We present a general algorithm to implement the FPGS approach for estimation by applying linear regression, random forest regression, and XGBoost regression. When determining the average causal effect, we incorporate FPGS into semiparametric estimators including regression imputation, simple stratification, and targeted maximum likelihood estimation (TMLE). The finite-sample properties of the estimators are compared through three simulation studies. Based on the findings of the FPGS estimators, the mean squared error of the linear regression imputation estimator and the TMLE estimator comprised of linearly regressed PGS is smaller than the mean squared error of alternative estimators. In an empirical study, we analyze data from the National Health and Nutrition Examination Survey (NHANES, 2007–2008) to determine the effect of smoking on blood lead levels.",
       "year": 2026,
-      "publication_date": "2026-05-15",
+      "publication_date": "2026-05-01",
       "paper_id": "f6bd06300efc161e8252abb2b077a9bd0c5d3568",
       "url": "https://www.semanticscholar.org/paper/f6bd06300efc161e8252abb2b077a9bd0c5d3568",
       "venue": "The International Journal of Biostatistics",
@@ -2618,7 +2723,7 @@
       ]
     },
     {
-      "title": "Targeted maximum likelihood estimation (TMLE) in regulatory submissions and research: a landscape analysis.",
+      "title": "Targeted maximum likelihood estimation (TMLE) in regulatory submissions and research: a landscape analysis",
       "authors": [
         "Hana Lee",
         "Menglun Wang",
@@ -2628,7 +2733,7 @@
         "Susan Gruber",
         "Qi Liu"
       ],
-      "abstract": "Targeted Maximum Likelihood Estimation, also referred to as Targeted Minimum Loss Estimation (TMLE), is a statistical method that enables causal inference while incorporating flexible, advanced machine learning techniques. Within the drug development space, both drug sponsors and FDA have leveraged TMLE across a range of relevant clinical settings intended for a variety of regulatory activities. The goal of this article is to provide a holistic overview of TMLE use cases as they have been applied in submissions to the Food and Drug Administration (FDA) Center for Drug Evaluation and Research (CDER) and in CDER's regulatory research activities. First, we provide an overview of regulatory submissions in which TMLE has been considered to support regulatory decision-making. Second, we summarize FDA CDER's regulatory science initiatives that advance analytic capabilities and support the use of TMLE.",
+      "abstract": "Abstract Targeted Maximum Likelihood Estimation, also referred to as Targeted Minimum Loss Estimation (TMLE), is a statistical method that enables causal inference while incorporating flexible, advanced machine learning techniques. Within the drug development space, both drug sponsors and FDA have leveraged TMLE across a range of relevant clinical settings intended for a variety of regulatory activities. The goal of this article is to provide a holistic overview of TMLE use cases as they have been applied in submissions to the Food and Drug Administration (FDA) Center for Drug Evaluation and Research (CDER) and in CDER’s regulatory research activities. First, we provide an overview of regulatory submissions in which TMLE has been considered to support regulatory decision-making. Second, we summarize FDA CDER’s regulatory science initiatives that advance analytic capabilities and support the use of TMLE.",
       "year": 2026,
       "publication_date": "2026-06-17",
       "paper_id": "41336aff25e32b31123f87af037a74a2f956b1d3",
@@ -8696,7 +8801,7 @@
         "Gregory Klazura",
         "Ava Yap",
         "D. Ozgediz",
-        "E. Bryce",
+        "Emma Bryce",
         "Maija Cheung",
         "Maíra Fedatto",
         "E. Ameh"
@@ -17175,7 +17280,7 @@
     {
       "title": "Association Between Glucagon-Like Peptide 1 Receptor Agonist and Sodium–Glucose Cotransporter 2 Inhibitor Use and COVID-19 Outcomes",
       "authors": [
-        "A. Kahkoska",
+        "Anna R. Kahkoska",
         "T. Abrahamsen",
         "G. Alexander",
         "T. Bennett",
@@ -20700,7 +20805,7 @@
         "A. Peacock",
         "Veronica C. Boland",
         "W. S. Yuen",
-        "A. Aiken",
+        "Alexandra Aiken",
         "L. Degenhardt",
         "K. Kypri",
         "T. Slade",
@@ -24109,7 +24214,7 @@
         "Zheng Zhu",
         "J. Schmittdiel",
         "A. Adams",
-        "R. Grant",
+        "Richard W. Grant",
         "M. J. van der Laan",
         "R. Neugebauer"
       ],
@@ -24542,7 +24647,7 @@
         "M. J. van der Laan",
         "Susan Gruber"
       ],
-      "abstract": "",
+      "abstract": "Abstract Consider a study in which one observes n independent and identically distributed random variables whose probability distribution is known to be an element of a particular statistical model, and one is concerned with estimation of a particular real valued pathwise differentiable target parameter of this data probability distribution. The targeted maximum likelihood estimator (TMLE) is an asymptotically efficient substitution estimator obtained by constructing a so called least favorable parametric submodel through an initial estimator with score, at zero fluctuation of the initial estimator, that spans the efficient influence curve, and iteratively maximizing the corresponding parametric likelihood till no more updates occur, at which point the updated initial estimator solves the so called efficient influence curve equation. In this article we construct a one-dimensional universal least favorable submodel for which the TMLE only takes one step, and thereby requires minimal extra data fitting to achieve its goal of solving the efficient influence curve equation. We generalize these to universal least favorable submodels through the relevant part of the data distribution as required for targeted minimum loss-based estimation. Finally, remarkably, given a multidimensional target parameter, we develop a universal canonical one-dimensional submodel such that the one-step TMLE, only maximizing the log-likelihood over a univariate parameter, solves the multivariate efficient influence curve equation. This allows us to construct a one-step TMLE based on a one-dimensional parametric submodel through the initial estimator, that solves any multivariate desired set of estimating equations.",
       "year": 2016,
       "publication_date": "2016-05-01",
       "paper_id": "4d76a996ae6d8372e3ca6ef947ba72930e11eff3",
@@ -24550,7 +24655,8 @@
       "venue": "The International Journal of Biostatistics",
       "doi": "10.1515/ijb-2015-0054",
       "matched_keywords": [
-        "targeted minimum loss based estimation"
+        "targeted minimum loss based estimation",
+        "tmle"
       ],
       "source_queries": [
         "targeted maximum likelihood estimation",
@@ -24771,13 +24877,13 @@
       ]
     },
     {
-      "title": "Variable Selection for Confounder Control, Flexible Modeling and Collaborative Targeted Minimum Loss-Based Estimation in Causal Inference",
+      "title": "Variable selection for confounder control, flexible modeling and Collaborative Targeted Minimum Loss-based Estimation in causal inference",
       "authors": [
         "M. Schnitzer",
         "J. Lok",
         "Susan Gruber"
       ],
-      "abstract": "",
+      "abstract": "Abstract This paper investigates the appropriateness of the integration of flexible propensity score modeling (nonparametric or machine learning approaches) in semiparametric models for the estimation of a causal quantity, such as the mean outcome under treatment. We begin with an overview of some of the issues involved in knowledge-based and statistical variable selection in causal inference and the potential pitfalls of automated selection based on the fit of the propensity score. Using a simple example, we directly show the consequences of adjusting for pure causes of the exposure when using inverse probability of treatment weighting (IPTW). Such variables are likely to be selected when using a naive approach to model selection for the propensity score. We describe how the method of Collaborative Targeted minimum loss-based estimation (C-TMLE; van der Laan and Gruber, 2010 [27]) capitalizes on the collaborative double robustness property of semiparametric efficient estimators to select covariates for the propensity score based on the error in the conditional outcome model. Finally, we compare several approaches to automated variable selection in low- and high-dimensional settings through a simulation study. From this simulation study, we conclude that using IPTW with flexible prediction for the propensity score can result in inferior estimation, while Targeted minimum loss-based estimation and C-TMLE may benefit from flexible prediction and remain robust to the presence of variables that are highly correlated with treatment. However, in our study, standard influence function-based methods for the variance underestimated the standard errors, resulting in poor coverage under certain data-generating scenarios.",
       "year": 2016,
       "publication_date": "2016-05-01",
       "paper_id": "f410a02773766057e8981eff5719f07dac7e74b9",
@@ -24785,7 +24891,8 @@
       "venue": "The International Journal of Biostatistics",
       "doi": "10.1515/ijb-2015-0017",
       "matched_keywords": [
-        "targeted minimum loss based estimation"
+        "targeted minimum loss based estimation",
+        "tmle"
       ],
       "source_queries": [
         "targeted minimum loss based estimation",
