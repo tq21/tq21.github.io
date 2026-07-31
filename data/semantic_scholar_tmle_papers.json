@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T15:03:12Z",
+  "generated_at": "2026-07-31T15:02:59Z",
   "source": "Semantic Scholar Graph API",
   "unauthenticated": true,
   "mode": "bulk",
@@ -18,7 +18,7 @@
   "query_stats": [
     {
       "keyword": "tmle",
-      "fetched_raw_count": 497
+      "fetched_raw_count": 499
     },
     {
       "keyword": "targeted maximum likelihood estimation",
@@ -30,7 +30,7 @@
     },
     {
       "keyword": "super learner",
-      "fetched_raw_count": 1042
+      "fetched_raw_count": 1044
     },
     {
       "keyword": "super learning",
@@ -38,119 +38,174 @@
     },
     {
       "keyword": "highly adaptive lasso",
-      "fetched_raw_count": 244
+      "fetched_raw_count": 245
     }
   ],
   "query_errors": [],
   "incomplete": false,
-  "fetched_paper_count": 954,
-  "newly_appended_count": 6,
-  "updated_existing_count": 9,
+  "fetched_paper_count": 963,
+  "newly_appended_count": 10,
+  "updated_existing_count": 5,
   "existing_blocked_removed": 0,
   "existing_duplicates_removed": 0,
   "newly_added_papers": [
     {
-      "title": "A global 1 km gridded dataset of household consumption expenditure in purchasing power parity 2013-2024.",
+      "title": "Artificial Intelligence in Cybersecurity: Detecting and Preventing AI-Powered Cyberattacks",
       "year": 2026,
       "authors": [
-        "Run Shi",
-        "Yuanzheng Cui",
-        "Fang Bian",
-        "T. Zhong",
-        "Xiangbing Peng",
-        "Xin Yin",
-        "Songqin Liu",
-        "Kaifang Shi"
+        "M. Raqib"
       ],
-      "publication_date": "2026-07-20",
-      "doi": "10.1038/s41597-026-07919-4",
-      "paper_id": "bdef605dbd0aa9a63f77a7a167f164e3c8a6680e"
+      "publication_date": "2026-03-20",
+      "doi": "10.61438/asrj.v1i1.331",
+      "paper_id": "e154f6ef87290f4982f452ecbf6a38e86d9163a7"
     },
     {
-      "title": "Application of machine learning using hormonal biomarkers in male infertility prediction: a systematic mapping review",
+      "title": "Causal effect estimation for ordinal outcomes: a performance comparison of G-computation, IPW, and TMLE-based methods",
       "year": 2026,
       "authors": [
-        "S. Parsaie",
-        "Ali Behmanesh",
-        "Leila Amini"
+        "Aeran Park",
+        "H. An"
       ],
-      "publication_date": "2026-05-21",
-      "doi": "10.1186/s40001-026-04622-3",
-      "paper_id": "e8161fdcc22e168ec19f39295b7a038f718f232f"
+      "publication_date": "2026-07-23",
+      "doi": "10.1186/s12874-026-02951-9",
+      "paper_id": "90f4dd3d007347444815f17b3ed400b60329adcd"
     },
     {
-      "title": "Association between Milrinone Use and Mortality Risk in Sepsis: Insights from the MIMIC-IV Database.",
+      "title": "Changes in disability status and oral healthcare affordability among working-age Australians",
       "year": 2026,
       "authors": [
-        "Jiali Wu",
-        "Cong Liu",
-        "Xiaojing Ji",
-        "Bo Li",
-        "Xue Li",
-        "Jinyuan Zhu"
+        "U. Cooray",
+        "G. Kaur",
+        "S. Khalatbari-Soltani",
+        "B. Janssens",
+        "G. Disney",
+        "R. Cole",
+        "A. Singh"
       ],
-      "publication_date": "2026-07-20",
-      "doi": "10.1097/shk.0000000000002907",
-      "paper_id": "ccaf1c582f32c16ec71a8bafdc1abdf665674b3c"
+      "publication_date": "2026-07-23",
+      "doi": "10.64898/2026.07.21.26358621",
+      "paper_id": "1d514208dd76a9ffd80cfc8ab70b6af0d60954fd"
     },
     {
-      "title": "Comparative Effectiveness of Individual DPP-4 Inhibitors on Kidney Outcomes in Type 2 Diabetes With Moderate Cardiovascular Risk: A Target Trial Emulation",
+      "title": "Effect of an Integrated Postdischarge Care Program for Older Patients After Hip Fracture Discharged to the Community: A Multicenter Cohort Study.",
       "year": 2026,
       "authors": [
-        "Stacey M. Sklepinski",
-        "Jeph Herrin",
-        "J. Neumiller",
-        "Eric C Polley",
-        "K. Swarna",
-        "Yihong Deng",
-        "Rodolfo J. Galindo",
-        "Guillermo E. Umpierrez",
-        "Joseph S. Ross",
-        "Juan P. Brito",
-        "V. Montori",
-        "Mindy M. Mickelson",
-        "Rozalina G. McCoy"
+        "J. A. Ipsen",
+        "D. L. Wolff",
+        "M. Christensen",
+        "S. R. Petersen",
+        "B. Viberg",
+        "Carl Llor",
+        "Mette Elkjaer"
       ],
-      "publication_date": "2026-07-16",
-      "doi": "10.2337/doc26-0025",
-      "paper_id": "c4e0d7b4a42be8e6ec9da6e80012c709eb55eb02"
+      "publication_date": "2026-07-21",
+      "doi": "10.1016/j.jamda.2026.106384",
+      "paper_id": "789d35bebd748bb82ac798049c3225659f06381a"
     },
     {
-      "title": "Machine learning-based prediction of hospital-associated complications after tibial fracture surgery in older patients: a nationwide Japanese database study.",
+      "title": "Peer support based on Mental Health First Aid for medical residents in Lyon, France: protocol for a non-randomised controlled mixed-methods study.",
       "year": 2026,
       "authors": [
-        "Akio Shimizu",
-        "Ryota Sakamoto",
-        "H. Nagayama",
-        "R. Momosaki"
+        "Guillaume Bailly",
+        "Guillaume Barbalat",
+        "J. Danckaert",
+        "N. Franck",
+        "F. Guillotin",
+        "Arthur Poncin",
+        "Ludivine Nohales",
+        "Emmanuel Poulet",
+        "Audrey Maillet",
+        "I. Celerier",
+        "Killian L'Helgouarc'h",
+        "G. Rode",
+        "P. Paparel",
+        "B-N. Pham",
+        "É. Leaune"
       ],
-      "publication_date": "2026-07-16",
-      "doi": "10.1007/s40520-026-03460-x",
-      "paper_id": "6863df73ca919d1aab73bb182fc80b7914ac74f5"
+      "publication_date": "2026-07-29",
+      "doi": "10.1136/bmjopen-2026-120352",
+      "paper_id": "150126c88cc2b51928c83b8c329d73c251e130c6"
     },
     {
-      "title": "Minimal long-term impact of anastomotic leakage on quality of life after anterior resection for rectal cancer: A population-based cohort study.",
+      "title": "Predicting return-to-work outcomes: A comparative analysis of logistic regression and machine learning in occupational mental health",
       "year": 2026,
       "authors": [
-        "Marcus Lindsköld",
-        "Anders Gerdin",
-        "Jennifer Park",
-        "Jenny Häggström",
-        "M. Lydrup",
-        "P. Matthiessen",
-        "H. Jutesten",
-        "Sofia Sandberg",
-        "E. Angenete",
-        "Petrus Vinnars",
-        "P. Buchwald",
-        "M. Rutegård"
+        "Adriano Dias",
+        "H. R. C. Nunes",
+        "Carlos Ruíz-Frutos",
+        "J. Gómez‐Salgado",
+        "M. Alonso",
+        "João Marcos Bernardes",
+        "A. Castaño-Séiquer",
+        "D. Ribas-Pérez",
+        "J. R. Lacalle-Remigio"
       ],
-      "publication_date": "2026-07-20",
-      "doi": "10.1177/14574969261467712",
-      "paper_id": "4bf32f70a289f7c8da5beec90e264bd3bdd88f9a"
+      "publication_date": "2026-07-24",
+      "doi": "10.1097/md.0000000000049825",
+      "paper_id": "49f63c16360ad9a511230942514477f6832319ad"
+    },
+    {
+      "title": "The V-fold jackknife for semiparametric inference: variance estimation, confidence intervals, and simultaneous confidence bands",
+      "year": 2026,
+      "authors": [
+        "Yi Li",
+        "Ashkan Ertefaie",
+        "M. V. D. Laan"
+      ],
+      "publication_date": "2026-07-24",
+      "doi": null,
+      "paper_id": "371d6459b0380b5c2418c13ac0a37cb68251284d"
+    },
+    {
+      "title": "When Does Trial-Real-World Data Fusion Improve Precision? Model Auditing and Selection-Aware Inference for Adaptive-TMLE",
+      "year": 2026,
+      "authors": [
+        "M. Karim"
+      ],
+      "publication_date": "2026-07-02",
+      "doi": null,
+      "paper_id": "351c27d993d8bcd2d0b4ac64507ee3597d193440"
+    },
+    {
+      "title": "A Peer- Mother Counseling Intervention Improves Early Infant HIV Testing in Rural Uganda",
+      "year": 2025,
+      "authors": [
+        "J. Kabami",
+        "Stella Kabageni",
+        "Catherine A Koss",
+        "Jaffer Okiring",
+        "Joanita Nangendo",
+        "Emmanuel Ruhamyankaka",
+        "Peter Ssebutinde",
+        "Elizabeth Arinitwe",
+        "Michael Ayebare",
+        "Agnes Napyo",
+        "Valence Mfitumukiza",
+        "Munezero Tamu",
+        "E. Kakande",
+        "Anne Ruhweza Katahoire",
+        "Philippa Musoke",
+        "M. Kamya",
+        "L. B. Balzer"
+      ],
+      "publication_date": "2025-07-22",
+      "doi": "10.1097/inf.0000000000004884",
+      "paper_id": "59765fd3365d4ee607a2025d13754007eb458bfa"
+    },
+    {
+      "title": "TARGETED SEQUENTIAL DESIGN FOR TARGETED LEARNING INFERENCE OF THE OPTIMAL TREATMENT RULE AND ITS MEAN REWARD",
+      "year": 2017,
+      "authors": [
+        "A. Chambaz",
+        "Wenjing Zheng",
+        "M. J. van der Laan"
+      ],
+      "publication_date": "2017-12-01",
+      "doi": "10.1214/16-aos1534",
+      "paper_id": "725b85868fee044f130acf0d18f27a7ff7fa87b3"
     }
   ],
-  "paper_count": 1104,
+  "paper_count": 1114,
   "papers": [
     {
       "title": "A CV-TMLE global test approach to improve power in rare disease clinical studies with multiple-component endpoints",
@@ -457,6 +512,25 @@
       ]
     },
     {
+      "title": "Artificial Intelligence in Cybersecurity: Detecting and Preventing AI-Powered Cyberattacks",
+      "authors": [
+        "M. Raqib"
+      ],
+      "abstract": "Artificial Intelligence (AI) serves as a foundational driver in reshaping modern digital industries, yet its widespread deployment introduces structural vulnerabilities that cybercriminals increasingly exploit. This study provides a comprehensive exploration of contemporary AI-powered cyberattack methodologies and establishes a unified defensive metadata framework to detect and counteract these automated vectors. We analyze the execution constraints of Adversarial Machine Learning (AML) through white-box perturbations and black-box surrogate classifier transferability, alongside training-phase risks including dataset poisoning and clean-label backdoor sample injections. To mitigate these threats, this paper evaluates an empirical pipeline combining multi-classifier stacked ensembles (Super Learners) with unsupervised generative adversarial architectures (GANomaly) for latent-space network telemetry compression. Experimental validation conducted across benchmark distributions—including NSL-KDD, Drebin-215, and Edge-IIoTset—demonstrates that gradient-boosted stacking frameworks significantly outperform standalone classifiers by minimizing prediction variance and eliminating local coordinate blind spots. Finally, this paper addresses the core architectural friction domains encountered during enterprise integration, highlighting how structured human-AI teaming cultivates long-term, sustainable resilience within automated industrial control systems.",
+      "year": 2026,
+      "publication_date": "2026-03-20",
+      "paper_id": "e154f6ef87290f4982f452ecbf6a38e86d9163a7",
+      "url": "https://www.semanticscholar.org/paper/e154f6ef87290f4982f452ecbf6a38e86d9163a7",
+      "venue": "Algorithm Scientific Research Journal",
+      "doi": "10.61438/asrj.v1i1.331",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
       "title": "Association between Milrinone Use and Mortality Risk in Sepsis: Insights from the MIMIC-IV Database.",
       "authors": [
         "Jiali Wu",
@@ -612,6 +686,26 @@
       ]
     },
     {
+      "title": "Causal effect estimation for ordinal outcomes: a performance comparison of G-computation, IPW, and TMLE-based methods",
+      "authors": [
+        "Aeran Park",
+        "H. An"
+      ],
+      "abstract": "",
+      "year": 2026,
+      "publication_date": "2026-07-23",
+      "paper_id": "90f4dd3d007347444815f17b3ed400b60329adcd",
+      "url": "https://www.semanticscholar.org/paper/90f4dd3d007347444815f17b3ed400b60329adcd",
+      "venue": "BMC Medical Research Methodology",
+      "doi": "10.1186/s12874-026-02951-9",
+      "matched_keywords": [
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
+      ]
+    },
+    {
       "title": "Causal Effects of Time-Varying Treatments: The G-Formula.",
       "authors": [
         "Carmine Zoccali",
@@ -624,6 +718,31 @@
       "url": "https://www.semanticscholar.org/paper/511d69ed778805fd6d822047346248e1067836fe",
       "venue": "European Journal of Clinical Investigation",
       "doi": "10.1111/eci.70239",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
+      ]
+    },
+    {
+      "title": "Changes in disability status and oral healthcare affordability among working-age Australians",
+      "authors": [
+        "U. Cooray",
+        "G. Kaur",
+        "S. Khalatbari-Soltani",
+        "B. Janssens",
+        "G. Disney",
+        "R. Cole",
+        "A. Singh"
+      ],
+      "abstract": "Importance: Oral healthcare is often financed outside universal medical coverage, leaving working-age adults exposed to out-of-pocket costs. People with long-term disability may face added financial, physical, and service barriers to care, but longitudinal evidence on disability and oral healthcare unaffordability is limited. Objective: To estimate the effect of time-varying long-term disability on oral healthcare unaffordability among working-age adults in Australia. Design: Longitudinal cohort study using Household, Income and Labour Dynamics in Australia survey data from waves 18 to 22 (2018-2022), analysed with targeted maximum likelihood estimation for longitudinal modified treatment policies. Setting: Nationally representative household panel survey in Australia. Participants: Adults aged 25 to 65 years at wave 18 who could validly contribute to the longitudinal analysis (identified using HILDA longitudinal weights) and had complete baseline covariate data. Exposure: Time-varying self-reported disability at waves 18 to 21 (2018-2022), defined as any long-term health condition, impairment, or disability restricting everyday activities and lasting, or likely to last, for at least 6 months. Hypothetical interventions comprised 50% and 25% reductions in the odds of disability at each wave, and deterministic sustained disability and no disability regimes. Main Outcome and Measure: Self-reported avoidance of dental treatment because of cost at wave 22 (2022). Results: The analytic sample included 9635 adults; 4901 (50.9%) were female, mean age was 44 (SD=12) years, and 2419 (25.1%) reported disability at baseline. A total of 399 participants (4.1%) reported oral healthcare unaffordable at wave 22 follow-up. Compared with the natural course, sustained disability increased the risk of unaffordability (risk ratio [RR], 1.60; 95% CI, 1.15-2.22). No disability at any time point reduced the risk (RR, 0.59; 95% CI, 0.45-0.77). Reducing the odds of disability by 50% and 25% also reduced the risk of oral healthcare unaffordability by 28% (RR, 0.72; 95% CI, 0.65-0.81) and 17% (RR, 0.83; 95% CI, 0.78-0.89), respectively. Conclusions and Relevance: Under the study assumptions, long-term disability was estimated to increase experienced unaffordability of oral healthcare among working-age Australians. Population level policy responses should address both the upstream conditions that shape disability trajectories and the downstream exclusion of adult dental care from routine financial protection.",
+      "year": 2026,
+      "publication_date": "2026-07-23",
+      "paper_id": "1d514208dd76a9ffd80cfc8ab70b6af0d60954fd",
+      "url": "https://www.semanticscholar.org/paper/1d514208dd76a9ffd80cfc8ab70b6af0d60954fd",
+      "venue": "medRxiv",
+      "doi": "10.64898/2026.07.21.26358621",
       "matched_keywords": [
         "targeted maximum likelihood estimation"
       ],
@@ -1124,6 +1243,31 @@
       "source_queries": [
         "targeted maximum likelihood estimation",
         "tmle"
+      ]
+    },
+    {
+      "title": "Effect of an Integrated Postdischarge Care Program for Older Patients After Hip Fracture Discharged to the Community: A Multicenter Cohort Study.",
+      "authors": [
+        "J. A. Ipsen",
+        "D. L. Wolff",
+        "M. Christensen",
+        "S. R. Petersen",
+        "B. Viberg",
+        "Carl Llor",
+        "Mette Elkjaer"
+      ],
+      "abstract": "OBJECTIVES To assess 30-day mortality, readmissions, and cost-effectiveness following implementation of a new postsurgical care pathway compared with usual care after hip fracture. DESIGN Prospective multicenter cohort study (January 2022-June 2025). The intervention was implemented from November 2023. SETTING AND PARTICIPANTS The study was conducted across 3 hospitals and 18 municipalities in the Region of Southern Denmark. A total of 2609 patients aged ≥65 years undergoing hip fracture surgery were included (mean age, 82 years; 67% female). Of these, 524 received the intervention and 2085 received usual care. METHODS The intervention consisted of a 14-day postdischarge period with structured safety monitoring (vital signs, mobilization, and pain), mandatory municipal nurse follow-up visits, and the option for nurse-hospital consultation to support at-home management. The primary outcome was 30-day mortality. Secondary outcomes included 30-day readmission, mean 3-month costs, number needed to treat, and incremental cost per saved life. Analysis was preplanned, and average treatment effects were estimated using targeted maximum likelihood estimation for mortality G-computations for readmission. RESULTS Thirty-day mortality decreased from 11.9% to 8.0% in the intervention group (odds ratio, 0.60; 95% CI, 0.37-0.85), corresponding to a number needed to treat of 19. Readmissions increased (18.6% vs 13.6%; risk ratio, 1.28; 95% CI, 1.05-1.56). Mean 3-month costs were €1079 higher in the intervention group (95% CI, €395-€1767). The incremental cost per life saved was €21,590. CONCLUSIONS AND IMPLICATIONS Implementation of a structured postsurgical care pathway reduced early mortality after hip fracture and was cost-effective according to international thresholds, despite increased readmissions. These findings support the adoption of coordinated postdischarge care pathways in clinical practice and health systems. Future research should examine mechanisms underlying increased readmissions and assess long-term outcomes and cost-effectiveness.",
+      "year": 2026,
+      "publication_date": "2026-07-21",
+      "paper_id": "789d35bebd748bb82ac798049c3225659f06381a",
+      "url": "https://www.semanticscholar.org/paper/789d35bebd748bb82ac798049c3225659f06381a",
+      "venue": "Journal of the American Medical Directors Association",
+      "doi": "10.1016/j.jamda.2026.106384",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
       ]
     },
     {
@@ -2135,6 +2279,39 @@
       ]
     },
     {
+      "title": "Peer support based on Mental Health First Aid for medical residents in Lyon, France: protocol for a non-randomised controlled mixed-methods study.",
+      "authors": [
+        "Guillaume Bailly",
+        "Guillaume Barbalat",
+        "J. Danckaert",
+        "N. Franck",
+        "F. Guillotin",
+        "Arthur Poncin",
+        "Ludivine Nohales",
+        "Emmanuel Poulet",
+        "Audrey Maillet",
+        "I. Celerier",
+        "Killian L'Helgouarc'h",
+        "G. Rode",
+        "P. Paparel",
+        "B-N. Pham",
+        "É. Leaune"
+      ],
+      "abstract": "INTRODUCTION Medical residents frequently experience anxiety, depression, burnout and suicidal ideation. Existing support strategies have shown limited benefit. The Impact de la Pair-Aidance Étudiante sur la Santé Mentale des internes de Médecine de première année (PAESSM) study will evaluate whether embedding Mental Health First Aid (MHFA)-trained peer supporters within a first-year residency cohort is associated with improved mental well-being and reduced psychological distress over 12 months. METHODS AND ANALYSIS PAESSM is a non-randomised controlled mixed-methods quasi-experimental study in Lyon, France involving the two Lyon medical schools. Two contemporaneous cohorts will be followed for 12 months: first-year residents exposed to a structured peer-support programme and second-year residents receiving usual support resources without a structured peer-support network. About 430 residents are eligible in each cohort, with anticipated enrolment of approximately 260 per group. In the intervention cohort, around 10% of first-year residents will complete certified MHFA training and act as peer supporters. Online questionnaires will be administered at baseline and at 3, 6, 9 and 12 months. The primary outcome is 12-month mental well-being measured by the Warwick-Edinburgh Mental Well-Being Scale. Secondary outcomes include anxiety and depression symptoms, suicidal ideation, job strain and help-seeking behaviours. The primary analysis will use longitudinal targeted maximum likelihood estimation adjusted for prespecified baseline covariates and informative censoring. Sensitivity analyses will include mixed-effects models and complete-case analyses. A qualitative sub-study will explore peer supporters' experiences and implementation processes. ETHICS AND DISSEMINATION Ethical approval was obtained from the Comité de Protection des Personnes Nord-Ouest IV (Ref: 2025-A01549-40). In accordance with French legislation applicable to minimal-risk research, formal written informed consent was waived and participants will provide documented non-opposition before inclusion. Findings will be disseminated through peer-reviewed publications, conference presentations and communication with institutional stakeholders and residents. TRIAL REGISTRATION NUMBER NCT07161284.",
+      "year": 2026,
+      "publication_date": "2026-07-29",
+      "paper_id": "150126c88cc2b51928c83b8c329d73c251e130c6",
+      "url": "https://www.semanticscholar.org/paper/150126c88cc2b51928c83b8c329d73c251e130c6",
+      "venue": "BMJ Open",
+      "doi": "10.1136/bmjopen-2026-120352",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
+      ]
+    },
+    {
       "title": "Perceived Social Support, Contact Violence Experience, and Sexually Transmitted Infection Risk among Gambian Female Sex Workers: A LASSO-Guided, Causal Inference, and Multilevel Analysis",
       "authors": [
         "A. Barrow",
@@ -2193,6 +2370,35 @@
       ],
       "source_queries": [
         "targeted maximum likelihood estimation"
+      ]
+    },
+    {
+      "title": "Predicting return-to-work outcomes: A comparative analysis of logistic regression and machine learning in occupational mental health",
+      "authors": [
+        "Adriano Dias",
+        "H. R. C. Nunes",
+        "Carlos Ruíz-Frutos",
+        "J. Gómez‐Salgado",
+        "M. Alonso",
+        "João Marcos Bernardes",
+        "A. Castaño-Séiquer",
+        "D. Ribas-Pérez",
+        "J. R. Lacalle-Remigio"
+      ],
+      "abstract": "This investigation compares the analytical performance of logistic regression (LR) and targeted maximum likelihood estimation (TMLE) methodologies for occupational health research using simulated workforce data. The study employs a simulation framework based on empirical observations from 738 Brazilian public university employees, generating a reference population of 10,000 cases with predetermined distributions of 2 critical exposure variables and some covariables. Through systematic sampling across multiple sample sizes (150–5000 observations), the research evaluates the comparative efficacy of traditional regression techniques versus TMLE framework. Key findings revealed important differences between the methods. For analyzing changes in diagnosis chapters, LR consistently produced more accurate estimates, with odds ratios (ORs) closer to the true population value (0.28) compared with TMLE (0.44–0.46). The precision of LR estimates, as measured by root mean squared error, was significantly better, especially in larger samples (0.02 vs 0.16 at n = 5000). The analysis of mental health conditions showed more complex results. While LR estimates were initially unstable in small samples, they converged to the true OR (27.35) as sample size increased. TMLE produced more stable but consistently conservative estimates across all sample sizes (ORs = 15–17). Notably, TMLE confidence intervals only included the true population value in the smallest sample (n = 150), suggesting potential limitations in its application for this type of analysis. These findings carry significant implications for occupational health research methodology. The results challenge prevailing assumptions about TMLE framework automatic superiority, demonstrating that conventional regression techniques can outperform more complex approaches in specific epidemiological contexts. The study highlights the continued relevance of LR for analyzing occupational health outcomes, particularly when investigating well-defined exposure-outcome relationships with adequate sample sizes. The research contributes to methodological literature by providing empirical evidence for analytical decision-making in public health research contexts.",
+      "year": 2026,
+      "publication_date": "2026-07-24",
+      "paper_id": "49f63c16360ad9a511230942514477f6832319ad",
+      "url": "https://www.semanticscholar.org/paper/49f63c16360ad9a511230942514477f6832319ad",
+      "venue": "Medicine",
+      "doi": "10.1097/MD.0000000000049825",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation",
+        "tmle"
       ]
     },
     {
@@ -2499,7 +2705,7 @@
       ]
     },
     {
-      "title": "Semaglutide and Risk of Adult-Onset Seizure: A Target Trial Emulation.",
+      "title": "Semaglutide and risk of adult-onset seizure: A target trial emulation",
       "authors": [
         "Yong Eun",
         "S. Bong",
@@ -2509,9 +2715,9 @@
         "Yoonhyuk Jang",
         "Soon-Tae Lee"
       ],
-      "abstract": "BACKGROUND AND OBJECTIVES Adult-onset seizure reflects the burden of acquired brain insults, but established disease-modifying preventive strategies are limited. We evaluated whether semaglutide initiation is associated with a lower incidence of adult-onset seizure compared with sodium-glucose cotransporter 2 inhibitors (SGLT2i) and other glucose-lowering drugs (GLDs) in adults with type 2 diabetes. METHODS Using the All of Us Research Program, we emulated a population-based target trial in new-user, active-comparator cohorts from January 2018 to October 2023. We compared semaglutide vs other GLDs and semaglutide vs SGLT2i. Incident epilepsy or seizure was identified from diagnostic codes. Effects were estimated using inverse probability of treatment weighting with weighted Cox models and targeted maximum likelihood estimation (TMLE). Subgroup and sensitivity analyses with multiple outcome definitions and analytic approaches were conducted to assess the robustness of findings. We evaluated mediation through hemoglobin A1c (HbA1c) and body mass index (BMI) using the longitudinal Vansteelandt framework. RESULTS We analyzed 10,213 patients in the semaglutide (n = 2,586, mean age, 60.1 years; 56.8% female) vs other GLDs cohort (n = 7,627, mean age, 63.7 years; 54.2% female) and 8,605 patients in the semaglutide (n = 2,814, mean age, 60.5 years; 66.2% female) vs SGLT2i cohort (n = 5,791, mean age, 64.4 years; 47.3% female). Semaglutide was associated with a lower risk of adult-onset seizure compared with other GLDs (weighted HR 0.44 [95% CI 0.25-0.79]; 4-year risk difference -1.78% [95% CI -2.58 to -0.98]) and SGLT2i (weighted HR 0.48 [95% CI 0.27-0.85]; 4-year risk difference -1.46% [95% CI -2.41 to -0.51]). TMLE estimated risk differences per 1,000 persons of -14.20 (95% CI -18.33 to -10.07) vs other GLDs and -7.62 (95% CI -11.65 to -3.60) vs SGLT2i, corresponding to numbers needed to treat of 70 and 131, respectively. Mediation was minimal for HbA1c (2.4% vs other GLDs; 6.5% vs SGLT2i) and BMI (0% vs other GLDs; 0.7% vs SGLT2i). DISCUSSION Semaglutide initiation was associated with a lower risk of adult-onset seizure compared with SGLT2i and other GLDs in patients with type 2 diabetes, independent of glycemic and weight effects. Residual confounding, low event counts, and shorter follow-up limit causal interpretation. CLASSIFICATION OF EVIDENCE This study provides Class II evidence that semaglutide use was associated with a lower risk of adult-onset seizures compared with other GLDs and SGLT2i.",
+      "abstract": "Background and Objectives Adult-onset seizure reflects the burden of acquired brain insults, but established disease-modifying preventive strategies are limited. We evaluated whether semaglutide initiation is associated with a lower incidence of adult-onset seizure compared to sodium-glucose cotransporter 2 (SGLT2) inhibitors and other glucose-lowering drugs (GLDs) in adults with type 2 diabetes. Methods Using the All of Us Research Program, we emulated a population-based target trial in new-user, active-comparator cohorts from January 2018 to October 2023. We compared semaglutide versus other GLDs and semaglutide versus SGLT2 inhibitors. Incident epilepsy or seizure was identified from diagnostic codes. Effects were estimated using inverse probability of treatment weighting (IPTW) with weighted Cox models and targeted maximum likelihood estimation (TMLE). Subgroup and sensitivity analyses with multiple outcome definitions and analytic approaches were conducted to assess the robustness of findings. We evaluated mediation through hemoglobin A1c (HbA1c) and body mass index (BMI) using the longitudinal Vansteelandt framework. Results We analyzed 10,213 patients in the semaglutide (n=2,586, mean age, 60.1 years; 56.8% female) versus other GLDs cohort (n=7,627, mean age, 63.7 years; 54.2% female) and 8,605 patients in the semaglutide (n=2,814, mean age, 60.5 years; 66.2% female) versus SGLT2i cohort (n=5,791, mean age, 64.4 years; 47.3% female). Semaglutide was associated with a lower risk of adult-onset seizure compared to other GLDs (weighted HR, 0.44 [95% CI, 0.25-0.79]; 4-year risk difference, −1.78% [95% CI, −2.58 to −0.98]) and SGLT2i (weighted HR, 0.48 [95% CI, 0.27-0.85]; 4-year risk difference, -1.46% [95% CI, −2.41 to −0.51]). TMLE estimated risk differences per 1,000 persons of −14.20 (95% CI, −18.33 to −10.07) versus other GLDs and −7.62 (95% CI, −11.65 to −3.60) versus SGLT2i, corresponding to numbers needed to treat of 70 and 131, respectively. Mediation was minimal for HbA1c (2.4% vs other GLDs; 6.5% vs SGLT2i) and BMI (0% vs other GLDs; 0.7% vs SGLT2i). Discussion Semaglutide initiation was associated with a lower risk of adult-onset seizure compared to SGLT2i and other GLDs in patients with type 2 diabetes, independent of glycemic and weight effects. Residual confounding, low event counts, and shorter follow-up limit causal interpretation. Classification of Evidence This study provides Class II evidence that semaglutide use was associated with a lower risk of adult-onset seizures compared to other glucose lowering drugs and sodium-glucose cotransporter-2 inhibitors.",
       "year": 2026,
-      "publication_date": "2026-07-14",
+      "publication_date": "2026-06-17",
       "paper_id": "aefa6c3de66789fdf0bc1cdaeeb0c99b9b04e740",
       "url": "https://www.semanticscholar.org/paper/aefa6c3de66789fdf0bc1cdaeeb0c99b9b04e740",
       "venue": "Neurology",
@@ -2932,6 +3138,27 @@
       ]
     },
     {
+      "title": "The V-fold jackknife for semiparametric inference: variance estimation, confidence intervals, and simultaneous confidence bands",
+      "authors": [
+        "Yi Li",
+        "Ashkan Ertefaie",
+        "M. V. D. Laan"
+      ],
+      "abstract": "For decades, the bootstrap has been a default tool for statistical inference because of its broad applicability and minimal analytic requirements. Although its validity is well understood for smooth parametric estimators, its theoretical properties for many modern semiparametric and machine-learning estimators remain largely unstudied. Nevertheless, bootstrap procedures are often used routinely in such settings, even when their validity is unknown and their computational cost is substantial. We develop the $V$-fold jackknife as a computationally efficient and theoretically justified alternative for semiparametric inference. It requires only $V$ leave-fold-out refits and uses the empirical dispersion of jackknife pseudo-values to quantify uncertainty, without deriving or evaluating an influence function. For regular asymptotically linear estimators of pathwise differentiable parameters, we show that, for fixed $V$, the Studentized $V$-fold jackknife statistic converges to a $t$-distribution with $V-1$ degrees of freedom, giving valid confidence intervals even though the jackknife variance estimator does not converge in probability. When $V\\to\\infty$, we establish consistency of the variance estimator at rate $V^{-1/2}$, allowing $V$ to diverge slowly, for example at rate $\\log n$. We also develop simultaneous confidence bands based on the correct componentwise-Studentized limiting distribution. Finally, we extend the theory to generalized asymptotically linear estimators with diverging influence-function variance and slower-than-$\\sqrt n$ convergence; scale invariance of Studentization eliminates the need to know the effective convergence rate. Simulations on the average treatment effect, Kaplan--Meier survival curve, and highly adaptive lasso dose-response curves confirm reliable inference, including where influence-function-based standard errors are anti-conservative or unstable.",
+      "year": 2026,
+      "publication_date": "2026-07-24",
+      "paper_id": "371d6459b0380b5c2418c13ac0a37cb68251284d",
+      "url": "https://www.semanticscholar.org/paper/371d6459b0380b5c2418c13ac0a37cb68251284d",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "highly adaptive lasso"
+      ],
+      "source_queries": [
+        "highly adaptive lasso"
+      ]
+    },
+    {
       "title": "Toward a practical handbook for choosing among causal inference methods in non-randomized studies with binary outcomes: A simulation study for applied researchers",
       "authors": [
         "Adri'an Aurensanz-Crespo",
@@ -3111,6 +3338,27 @@
       "publication_date": "2026-07-02",
       "paper_id": "247409a8b45cbe1322a3a3a7570c92398116ed39",
       "url": "https://www.semanticscholar.org/paper/247409a8b45cbe1322a3a3a7570c92398116ed39",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ]
+    },
+    {
+      "title": "When Does Trial-Real-World Data Fusion Improve Precision? Model Auditing and Selection-Aware Inference for Adaptive-TMLE",
+      "authors": [
+        "M. Karim"
+      ],
+      "abstract": "Augmenting a randomized controlled trial (RCT) with real-world data (RWD) promises greater efficiency, but how much a given fusion delivers, and how to attach honest uncertainty to that gain, are rarely characterized. Using adaptive targeted maximum likelihood estimation (A-TMLE) as a worked example of an estimator that learns a working model and then debiases it, we develop three reproducible tools for reliable evidence from combined trial and real-world data. First, a report card that makes the data-adaptively learned bias model auditable: on simulated data it measures how well the model recovers the true enrollment-effect surface and attributes the estimator's variance to its structural parts. Second, a map of when fusion helps versus hurts, benchmarked against a matched trial-only estimator; the efficiency gain is driven mainly by the magnitude of the real-world bias rather than its functional complexity (a dominance an exact population-oracle variance identity explains), it crosses break-even near a moderate bias and erodes as the trial grows, so the advantage is finite-sample, not super-efficiency. Third, selection-aware inference for the gain, treated as a data-adaptive estimand: the naive standard error undercovers, and among ten candidate standard errors only a block jackknife achieved consistently near- or above-nominal coverage, though conservatively. Across six fusions of three openly available trials (a biomedical HIV trial, a public-health trial, and a job-training trial), only one interval clears one, and only marginally; in the rest, fusion has not earned an efficiency claim over the RCT alone. On real data the toolkit therefore functions mainly as a guardrail: the learned-model dimension is a stress diagnostic, not a proxy for ground truth, and the block-jackknife interval decides whether fusion or the RCT-only analysis should be primary.",
+      "year": 2026,
+      "publication_date": "2026-07-02",
+      "paper_id": "351c27d993d8bcd2d0b4ac64507ee3597d193440",
+      "url": "https://www.semanticscholar.org/paper/351c27d993d8bcd2d0b4ac64507ee3597d193440",
       "venue": null,
       "doi": null,
       "matched_keywords": [
@@ -3535,6 +3783,41 @@
       "source_queries": [
         "targeted minimum loss based estimation",
         "tmle"
+      ]
+    },
+    {
+      "title": "A Peer- Mother Counseling Intervention Improves Early Infant HIV Testing in Rural Uganda",
+      "authors": [
+        "J. Kabami",
+        "Stella Kabageni",
+        "Catherine A Koss",
+        "Jaffer Okiring",
+        "Joanita Nangendo",
+        "Emmanuel Ruhamyankaka",
+        "Peter Ssebutinde",
+        "Elizabeth Arinitwe",
+        "Michael Ayebare",
+        "Agnes Napyo",
+        "Valence Mfitumukiza",
+        "Munezero Tamu",
+        "E. Kakande",
+        "Anne Ruhweza Katahoire",
+        "Philippa Musoke",
+        "M. Kamya",
+        "L. B. Balzer"
+      ],
+      "abstract": "Background: Peer-led counseling interventions could improve early infant diagnosis of HIV by empowering mothers with knowledge and information on their role in preventing perinatal transmission. We hypothesized that a peer-led intervention would increase completion rates of infant HIV testing in rural Uganda. Methods: From September 2019 to October 2021, we conducted the ENHANCED-SPS trial, which randomized 14 public health facilities to the intervention: peer-led counseling on HIV viral load and perinatal transmission, support for status disclosure and treatment adherence, and point-of-care viral load testing; or control: HIV care per national guidelines (NCT04122144). We retrospectively reviewed medical records of all infants born to ENHANCED-SPS participants during the one-year follow-up and compared the proportions completing final testing (antibody rapid test at 18-months) between arms with targeted minimum loss-based estimation. Secondary outcomes included completion of earlier steps in testing algorithm for the HIV-exposed infants. Results: Among 464 children (intervention=234 and control=230) born to trial participants, the proportions completing final testing were 94.5% (95%CI: 91.6-97.5%) in the intervention and 83.3% (95%CI: 78.4-88.3%) in the control: a difference of 11.2% (CI: 5.4-17.0%; p<0.001). There were no differences in the proportions completing the 1st test (at 4-6 weeks) or the 2nd test (at 9 months), but completion of the 3rd test (6 weeks after breastfeeding cessation) was 14.8% (95%CI: 7.9-21.8%; p<0.001) higher in the intervention. Conclusions : Peer-led counseling on the mother’s role in ensuring a healthy baby reduced drop-offs in infant HIV testing, which is progress toward improved infant diagnosis and prompt linkage to care.",
+      "year": 2025,
+      "publication_date": "2025-07-22",
+      "paper_id": "59765fd3365d4ee607a2025d13754007eb458bfa",
+      "url": "https://www.semanticscholar.org/paper/59765fd3365d4ee607a2025d13754007eb458bfa",
+      "venue": "The Pediatric Infectious Disease Journal",
+      "doi": "10.1097/INF.0000000000004884",
+      "matched_keywords": [
+        "targeted minimum loss based estimation"
+      ],
+      "source_queries": [
+        "targeted minimum loss based estimation"
       ]
     },
     {
@@ -5455,7 +5738,7 @@
         "Sohail Nizam",
         "Allison Codi",
         "Elizabeth Rogawski McQuade",
-        "D. Benkeser"
+        "David Benkeser"
       ],
       "abstract": "Abstract The estimation of conditional average treatment effects (CATEs) is an important problem in many applications. Many machine learning-based frameworks for such estimation have been proposed, including meta-learning, causal trees, and causal forests. However, few of these methods are interpretable, while those that do emphasize interpretability often suffer in terms of performance. Here, we propose several methods that build on existing meta-learning algorithms to produce CATE estimates that can be represented as trees. We also describe new methods for the estimation of optimal treatment policies (OTPs), an area where interpretable, auditable treatment decision rules are often desirable. We introduce this method for settings with an arbitrary number of treatment arms. We provide regret rates for the proposed methods and show that they outperform popular methods, both interpretable and not. Finally, we demonstrate the use of our method on both simulated and real data from the Antibiotics for Children with severe Diarrhea trial to create OTPs for antibiotic treatment.",
       "year": 2025,
@@ -8697,7 +8980,7 @@
     {
       "title": "Data-adaptive identification of effect modifiers through stochastic shift interventions and cross-validated targeted learning",
       "authors": [
-        "David McCoy",
+        "David B. McCoy",
         "Wenxin Zhang",
         "Alan Hubbard",
         "M. J. van der Laan",
@@ -13775,9 +14058,9 @@
     {
       "title": "Semiparametric discovery and estimation of interaction in mixed exposures using stochastic interventions",
       "authors": [
-        "David McCoy",
+        "David B. McCoy",
         "A. Hubbard",
-        "Mark J. van der Laan",
+        "M. J. van der Laan",
         "Alejandro Schuler"
       ],
       "abstract": "Abstract Understanding the complex interactions among multiple environmental exposures is critical for assessing their combined impact on health outcomes. This study introduces InterXshift, a novel semiparametric method that provides a nonparametric definition of interaction and facilitates both the discovery and efficient estimation of interaction effects in mixed exposures. Leveraging stochastic shift interventions and ensemble machine learning, InterXshift identifies and quantifies interactions through a model-independent target parameter, estimated using targeted maximum likelihood estimation (TMLE) and cross-validation. The approach contrasts expected outcomes from joint interventions against those from individual exposures, enabling the detection of synergistic and antagonistic interactions. Validation through simulations and application to the National Institute of Environmental Health Sciences (NIEHS) Mixtures Workshop data demonstrate InterXshift’s efficacy in accurately identifying true interaction directions and consistently highlighting significant impacts. We apply our methodology to National Health and Nutrition Examination Survey (NHANES) data to understand the interaction effect (if any) of furan exposure on leukocyte telomere length. This method enhances the analysis of multi-exposure interactions within high-dimensional datasets, offering robust methodological improvements for elucidating complex exposure dynamics in environmental health research. Additionally, we provide an open-source implementation of InterXshift in the InterXshift R package, facilitating its adoption and application by the research community.",
@@ -15233,7 +15516,7 @@
         "Wenhua Yu",
         "Shanshan Li",
         "Tingting Ye",
-        "R. Xu",
+        "Rongbin Xu",
         "Jiangning Song",
         "Yuming Guo"
       ],
@@ -24272,6 +24555,27 @@
       ],
       "source_queries": [
         "targeted maximum likelihood estimation"
+      ]
+    },
+    {
+      "title": "TARGETED SEQUENTIAL DESIGN FOR TARGETED LEARNING INFERENCE OF THE OPTIMAL TREATMENT RULE AND ITS MEAN REWARD",
+      "authors": [
+        "A. Chambaz",
+        "Wenjing Zheng",
+        "M. J. van der Laan"
+      ],
+      "abstract": "This article studies the targeted sequential inference of an optimal treatment rule (TR) and its mean reward in the non-exceptional case, i.e., assuming that there is no stratum of the baseline covariates where treatment is neither beneficial nor harmful, and under a companion margin assumption. Our pivotal estimator, whose definition hinges on the targeted minimum loss estimation (TMLE) principle, actually infers the mean reward under the current estimate of the optimal TR. This data-adaptive statistical parameter is worthy of interest on its own. Our main result is a central limit theorem which enables the construction of confidence intervals on both mean rewards under the current estimate of the optimal TR and under the optimal TR itself. The asymptotic variance of the estimator takes the form of the variance of an efficient influence curve at a limiting distribution, allowing to discuss the efficiency of inference. As a by product, we also derive confidence intervals on two cumulated pseudo-regrets, a key notion in the study of bandits problems. A simulation study illustrates the procedure. One of the corner-stones of the theoretical study is a new maximal inequality for martingales with respect to the uniform entropy integral.",
+      "year": 2017,
+      "publication_date": "2017-12-01",
+      "paper_id": "725b85868fee044f130acf0d18f27a7ff7fa87b3",
+      "url": "https://www.semanticscholar.org/paper/725b85868fee044f130acf0d18f27a7ff7fa87b3",
+      "venue": "Annals of Statistics",
+      "doi": "10.1214/16-AOS1534",
+      "matched_keywords": [
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
       ]
     },
     {
