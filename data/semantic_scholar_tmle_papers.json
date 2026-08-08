@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T15:02:59Z",
+  "generated_at": "2026-08-08T15:33:26Z",
   "source": "Semantic Scholar Graph API",
   "unauthenticated": true,
   "mode": "bulk",
@@ -18,7 +18,7 @@
   "query_stats": [
     {
       "keyword": "tmle",
-      "fetched_raw_count": 499
+      "fetched_raw_count": 501
     },
     {
       "keyword": "targeted maximum likelihood estimation",
@@ -30,7 +30,7 @@
     },
     {
       "keyword": "super learner",
-      "fetched_raw_count": 1044
+      "fetched_raw_count": 1047
     },
     {
       "keyword": "super learning",
@@ -38,174 +38,79 @@
     },
     {
       "keyword": "highly adaptive lasso",
-      "fetched_raw_count": 245
+      "fetched_raw_count": 246
     }
   ],
   "query_errors": [],
   "incomplete": false,
-  "fetched_paper_count": 963,
-  "newly_appended_count": 10,
-  "updated_existing_count": 5,
+  "fetched_paper_count": 965,
+  "newly_appended_count": 4,
+  "updated_existing_count": 4,
   "existing_blocked_removed": 0,
   "existing_duplicates_removed": 0,
   "newly_added_papers": [
     {
-      "title": "Artificial Intelligence in Cybersecurity: Detecting and Preventing AI-Powered Cyberattacks",
+      "title": "A Unified Causal Inference Framework for the Desirability of Outcome Ranking Paradigm in Benefit-Risk Evaluation",
       "year": 2026,
       "authors": [
-        "M. Raqib"
+        "Yuanming Feng",
+        "Shiyu Shu",
+        "Yixin Fang",
+        "I. Bebu",
+        "Toshimitsu Hamasaki",
+        "Scott R. Evans",
+        "Gouqing Diao"
       ],
-      "publication_date": "2026-03-20",
-      "doi": "10.61438/asrj.v1i1.331",
-      "paper_id": "e154f6ef87290f4982f452ecbf6a38e86d9163a7"
-    },
-    {
-      "title": "Causal effect estimation for ordinal outcomes: a performance comparison of G-computation, IPW, and TMLE-based methods",
-      "year": 2026,
-      "authors": [
-        "Aeran Park",
-        "H. An"
-      ],
-      "publication_date": "2026-07-23",
-      "doi": "10.1186/s12874-026-02951-9",
-      "paper_id": "90f4dd3d007347444815f17b3ed400b60329adcd"
-    },
-    {
-      "title": "Changes in disability status and oral healthcare affordability among working-age Australians",
-      "year": 2026,
-      "authors": [
-        "U. Cooray",
-        "G. Kaur",
-        "S. Khalatbari-Soltani",
-        "B. Janssens",
-        "G. Disney",
-        "R. Cole",
-        "A. Singh"
-      ],
-      "publication_date": "2026-07-23",
-      "doi": "10.64898/2026.07.21.26358621",
-      "paper_id": "1d514208dd76a9ffd80cfc8ab70b6af0d60954fd"
-    },
-    {
-      "title": "Effect of an Integrated Postdischarge Care Program for Older Patients After Hip Fracture Discharged to the Community: A Multicenter Cohort Study.",
-      "year": 2026,
-      "authors": [
-        "J. A. Ipsen",
-        "D. L. Wolff",
-        "M. Christensen",
-        "S. R. Petersen",
-        "B. Viberg",
-        "Carl Llor",
-        "Mette Elkjaer"
-      ],
-      "publication_date": "2026-07-21",
-      "doi": "10.1016/j.jamda.2026.106384",
-      "paper_id": "789d35bebd748bb82ac798049c3225659f06381a"
-    },
-    {
-      "title": "Peer support based on Mental Health First Aid for medical residents in Lyon, France: protocol for a non-randomised controlled mixed-methods study.",
-      "year": 2026,
-      "authors": [
-        "Guillaume Bailly",
-        "Guillaume Barbalat",
-        "J. Danckaert",
-        "N. Franck",
-        "F. Guillotin",
-        "Arthur Poncin",
-        "Ludivine Nohales",
-        "Emmanuel Poulet",
-        "Audrey Maillet",
-        "I. Celerier",
-        "Killian L'Helgouarc'h",
-        "G. Rode",
-        "P. Paparel",
-        "B-N. Pham",
-        "É. Leaune"
-      ],
-      "publication_date": "2026-07-29",
-      "doi": "10.1136/bmjopen-2026-120352",
-      "paper_id": "150126c88cc2b51928c83b8c329d73c251e130c6"
-    },
-    {
-      "title": "Predicting return-to-work outcomes: A comparative analysis of logistic regression and machine learning in occupational mental health",
-      "year": 2026,
-      "authors": [
-        "Adriano Dias",
-        "H. R. C. Nunes",
-        "Carlos Ruíz-Frutos",
-        "J. Gómez‐Salgado",
-        "M. Alonso",
-        "João Marcos Bernardes",
-        "A. Castaño-Séiquer",
-        "D. Ribas-Pérez",
-        "J. R. Lacalle-Remigio"
-      ],
-      "publication_date": "2026-07-24",
-      "doi": "10.1097/md.0000000000049825",
-      "paper_id": "49f63c16360ad9a511230942514477f6832319ad"
-    },
-    {
-      "title": "The V-fold jackknife for semiparametric inference: variance estimation, confidence intervals, and simultaneous confidence bands",
-      "year": 2026,
-      "authors": [
-        "Yi Li",
-        "Ashkan Ertefaie",
-        "M. V. D. Laan"
-      ],
-      "publication_date": "2026-07-24",
+      "publication_date": "2026-08-05",
       "doi": null,
-      "paper_id": "371d6459b0380b5c2418c13ac0a37cb68251284d"
+      "paper_id": "4e3fd2f389a5244a45c1cc9cfa436c1eb61bdd6f"
     },
     {
-      "title": "When Does Trial-Real-World Data Fusion Improve Precision? Model Auditing and Selection-Aware Inference for Adaptive-TMLE",
+      "title": "Sample Size Reduction by Applying ML Based Causal Inference Methods.",
       "year": 2026,
       "authors": [
-        "M. Karim"
+        "A. Youn",
+        "Gang Han",
+        "Emma Gerard",
+        "Neeraj Poonia",
+        "S. Olmos",
+        "Bingzhi Zhang",
+        "Meehyung Cho",
+        "A. Houseman"
       ],
-      "publication_date": "2026-07-02",
-      "doi": null,
-      "paper_id": "351c27d993d8bcd2d0b4ac64507ee3597d193440"
+      "publication_date": "2026-07-31",
+      "doi": "10.1002/pst.70105",
+      "paper_id": "220165b86613a53466c2177fadc258af6336f38f"
     },
     {
-      "title": "A Peer- Mother Counseling Intervention Improves Early Infant HIV Testing in Rural Uganda",
-      "year": 2025,
+      "title": "Serum-Proteomic Profiling Reveals Distinct Atopic Dermatitis Severity-Linked Signatures.",
+      "year": 2026,
       "authors": [
-        "J. Kabami",
-        "Stella Kabageni",
-        "Catherine A Koss",
-        "Jaffer Okiring",
-        "Joanita Nangendo",
-        "Emmanuel Ruhamyankaka",
-        "Peter Ssebutinde",
-        "Elizabeth Arinitwe",
-        "Michael Ayebare",
-        "Agnes Napyo",
-        "Valence Mfitumukiza",
-        "Munezero Tamu",
-        "E. Kakande",
-        "Anne Ruhweza Katahoire",
-        "Philippa Musoke",
-        "M. Kamya",
-        "L. B. Balzer"
+        "J. Lally",
+        "Takeshi Yoshida",
+        "Shan Gao",
+        "Xueya Cai",
+        "D. Leung",
+        "Lisa A. Beck",
+        "A. de Benedetto"
       ],
-      "publication_date": "2025-07-22",
-      "doi": "10.1097/inf.0000000000004884",
-      "paper_id": "59765fd3365d4ee607a2025d13754007eb458bfa"
+      "publication_date": "2026-07-31",
+      "doi": "10.1111/all.70464",
+      "paper_id": "4fc856443a08acb1db501061a3839ce537c22b1c"
     },
     {
-      "title": "TARGETED SEQUENTIAL DESIGN FOR TARGETED LEARNING INFERENCE OF THE OPTIMAL TREATMENT RULE AND ITS MEAN REWARD",
-      "year": 2017,
+      "title": "Super Learner-based Ensemble Framework for Improved Classification of Lung Cancer Levels",
+      "year": 2026,
       "authors": [
-        "A. Chambaz",
-        "Wenjing Zheng",
-        "M. J. van der Laan"
+        "P. Jecintha",
+        "Dr. R. Jayakarthik"
       ],
-      "publication_date": "2017-12-01",
-      "doi": "10.1214/16-aos1534",
-      "paper_id": "725b85868fee044f130acf0d18f27a7ff7fa87b3"
+      "publication_date": "2026-07-06",
+      "doi": "10.1109/icicit69063.2026.11633925",
+      "paper_id": "a7b57e1c6ca81b00500b07b2e65cf838433afca5"
     }
   ],
-  "paper_count": 1114,
+  "paper_count": 1118,
   "papers": [
     {
       "title": "A CV-TMLE global test approach to improve power in rare disease clinical studies with multiple-component endpoints",
@@ -297,6 +202,35 @@
         "tmle"
       ],
       "source_queries": [
+        "tmle"
+      ]
+    },
+    {
+      "title": "A Unified Causal Inference Framework for the Desirability of Outcome Ranking Paradigm in Benefit-Risk Evaluation",
+      "authors": [
+        "Yuanming Feng",
+        "Shiyu Shu",
+        "Yixin Fang",
+        "I. Bebu",
+        "Toshimitsu Hamasaki",
+        "Scott R. Evans",
+        "Gouqing Diao"
+      ],
+      "abstract": "We developed a unified covariate-adjusted causal inference framework for estimating the desirability of outcome ranking (DOOR) probability for benefit-risk evaluation in randomized trials and observational studies. The framework expresses the DOOR probability as a bilinear functional of the marginal ordinal outcome distributions under the two treatment strategies, estimates conditional ordinal distributions through sequential risk-set hazards, and derives the efficient influence function (EIF) of the DOOR probability. The point-estimation simulations compared G-computation, normalized inverse probability weighting (IPW), augmented IPW (AIPW), and targeted maximum likelihood estimation (TMLE), with nuisance functions estimated using generalized linear models or Super Learner (SL). TMLE-SL showed the strongest and most consistent point-estimation performance, with AIPW-SL ranking second. EIF-based inference was then evaluated for AIPW-SL and TMLE-SL, with and without cross-fitting, across settings varying in overlap, treatment-effect heterogeneity, and treatment allocation. CVTMLE-SL showed the strongest overall performance across DOOR-scale bias, recovery of the underlying ordinal distributions, standard-error accuracy, and confidence-interval coverage. We illustrate the methodology using data from the multidrug-resistant organism network of the Antibacterial Resistance Leadership Group.",
+      "year": 2026,
+      "publication_date": "2026-08-05",
+      "paper_id": "4e3fd2f389a5244a45c1cc9cfa436c1eb61bdd6f",
+      "url": "https://www.semanticscholar.org/paper/4e3fd2f389a5244a45c1cc9cfa436c1eb61bdd6f",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "super learner",
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "super learner",
+        "targeted maximum likelihood estimation",
         "tmle"
       ]
     },
@@ -1980,7 +1914,7 @@
       "authors": [
         "J. Bis",
         "K. Mendrala",
-        "Marek Deja",
+        "Marek A Deja",
         "T. Darocha",
         "Łukasz Morkisz",
         "Mikołaj Jodłowski",
@@ -2279,7 +2213,7 @@
       ]
     },
     {
-      "title": "Peer support based on Mental Health First Aid for medical residents in Lyon, France: protocol for a non-randomised controlled mixed-methods study.",
+      "title": "Peer support based on Mental Health First Aid for medical residents in Lyon, France: protocol for a non-randomised controlled mixed-methods study",
       "authors": [
         "Guillaume Bailly",
         "Guillaume Barbalat",
@@ -2297,9 +2231,9 @@
         "B-N. Pham",
         "É. Leaune"
       ],
-      "abstract": "INTRODUCTION Medical residents frequently experience anxiety, depression, burnout and suicidal ideation. Existing support strategies have shown limited benefit. The Impact de la Pair-Aidance Étudiante sur la Santé Mentale des internes de Médecine de première année (PAESSM) study will evaluate whether embedding Mental Health First Aid (MHFA)-trained peer supporters within a first-year residency cohort is associated with improved mental well-being and reduced psychological distress over 12 months. METHODS AND ANALYSIS PAESSM is a non-randomised controlled mixed-methods quasi-experimental study in Lyon, France involving the two Lyon medical schools. Two contemporaneous cohorts will be followed for 12 months: first-year residents exposed to a structured peer-support programme and second-year residents receiving usual support resources without a structured peer-support network. About 430 residents are eligible in each cohort, with anticipated enrolment of approximately 260 per group. In the intervention cohort, around 10% of first-year residents will complete certified MHFA training and act as peer supporters. Online questionnaires will be administered at baseline and at 3, 6, 9 and 12 months. The primary outcome is 12-month mental well-being measured by the Warwick-Edinburgh Mental Well-Being Scale. Secondary outcomes include anxiety and depression symptoms, suicidal ideation, job strain and help-seeking behaviours. The primary analysis will use longitudinal targeted maximum likelihood estimation adjusted for prespecified baseline covariates and informative censoring. Sensitivity analyses will include mixed-effects models and complete-case analyses. A qualitative sub-study will explore peer supporters' experiences and implementation processes. ETHICS AND DISSEMINATION Ethical approval was obtained from the Comité de Protection des Personnes Nord-Ouest IV (Ref: 2025-A01549-40). In accordance with French legislation applicable to minimal-risk research, formal written informed consent was waived and participants will provide documented non-opposition before inclusion. Findings will be disseminated through peer-reviewed publications, conference presentations and communication with institutional stakeholders and residents. TRIAL REGISTRATION NUMBER NCT07161284.",
+      "abstract": "Abstract Introduction Medical residents frequently experience anxiety, depression, burnout and suicidal ideation. Existing support strategies have shown limited benefit. The Impact de la Pair-Aidance Étudiante sur la Santé Mentale des internes de Médecine de première année (PAESSM) study will evaluate whether embedding Mental Health First Aid (MHFA)-trained peer supporters within a first-year residency cohort is associated with improved mental well-being and reduced psychological distress over 12 months. Methods and analysis PAESSM is a non-randomised controlled mixed-methods quasi-experimental study in Lyon, France involving the two Lyon medical schools. Two contemporaneous cohorts will be followed for 12 months: first-year residents exposed to a structured peer-support programme and second-year residents receiving usual support resources without a structured peer-support network. About 430 residents are eligible in each cohort, with anticipated enrolment of approximately 260 per group. In the intervention cohort, around 10% of first-year residents will complete certified MHFA training and act as peer supporters. Online questionnaires will be administered at baseline and at 3, 6, 9 and 12 months. The primary outcome is 12-month mental well-being measured by the Warwick-Edinburgh Mental Well-Being Scale. Secondary outcomes include anxiety and depression symptoms, suicidal ideation, job strain and help-seeking behaviours. The primary analysis will use longitudinal targeted maximum likelihood estimation adjusted for prespecified baseline covariates and informative censoring. Sensitivity analyses will include mixed-effects models and complete-case analyses. A qualitative sub-study will explore peer supporters’ experiences and implementation processes. Ethics and dissemination Ethical approval was obtained from the Comité de Protection des Personnes Nord-Ouest IV (Ref: 2025-A01549-40). In accordance with French legislation applicable to minimal-risk research, formal written informed consent was waived and participants will provide documented non-opposition before inclusion. Findings will be disseminated through peer-reviewed publications, conference presentations and communication with institutional stakeholders and residents. Trial registration number NCT07161284.",
       "year": 2026,
-      "publication_date": "2026-07-29",
+      "publication_date": "2026-07-01",
       "paper_id": "150126c88cc2b51928c83b8c329d73c251e130c6",
       "url": "https://www.semanticscholar.org/paper/150126c88cc2b51928c83b8c329d73c251e130c6",
       "venue": "BMJ Open",
@@ -2529,16 +2463,16 @@
       ]
     },
     {
-      "title": "Prescribing of medication to prevent glucocorticoid harms in patients with Polymyalgia Rheumatica: a cross-sectional study and two emulated target trials in the Clinical Practice Research Datalink Aurum.",
+      "title": "Prescribing of Medication to Prevent Glucocorticoid Harms in Patients With Polymyalgia Rheumatica: A Cross‐Sectional Study and Two Emulated Target Trials in the Clinical Practice Research Datalink Aurum",
       "authors": [
         "H. Twohig",
-        "David Jenkinson",
+        "D. Jenkinson",
         "J. Bailey",
         "S. Hider",
         "Ian C. Scott",
         "Sara Muller"
       ],
-      "abstract": "OBJECTIVES Polymyalgia rheumatica (PMR) is a common indication for long-term glucocorticoid (GC) treatment. Bone- and gastro-protective medications are recommended for those at high-risk of adverse events from GCs but no trials have evaluated their effectiveness in PMR. We describe bone-/gastro-protective medicine prescribing in people with PMR and evaluate its impact on adverse GC outcomes using a target trial approach. METHODS A sample of >40,000 individuals aged ≥50 years, with a coded PMR diagnosis from January 2010-March 2022, prescribed GCs within 21 days of first PMR diagnosis code, was constructed in CPRD Aurum. Prescriptions were defined as prevalent (pre-PMR diagnosis), incident (at diagnosis), or late (post-diagnosis, still GC-treated), reported stratified by age/gender/deprivation. A target-trial approach assessed the effect of: a) bisphosphonates on fragility fractures and b) proton-pump inhibitors/H2-receptor antagonists (PPIs/H2RAs) on gastrointestinal (GI) ulceration/bleeding. Treatment effect, adjusted for confounders, was modelled using targeted maximum likelihood estimation. RESULTS 67.2% were co-prescribed bisphosphonates and 78.6% PPIs/H2RAs. Males and those in more deprived areas were less likely to receive bisphosphonates. 1.40% (95%CI 1.10%,1.70%) of those prescribed vs 2.32% (2.12%,2.52%) of those not prescribed bisphosphonates for 12 months experienced a fracture (risk difference 0.92% points [0.56%,1.27%], NNT 109). Prescribing gastro-protective medications was not associated with serious GI events. CONCLUSION Rates of prescribing to mitigate GC harms are higher than previously reported. Bisphosphonates are associated with approximately one less fragility fracture per year for every 100 people treated. Gastro-prophylaxis is not associated with reduced risk of GI ulceration/bleeding, suggesting potential to reduce prescribing for this indication.",
+      "abstract": "Objective Polymyalgia rheumatica (PMR) is a common indication for long‐term glucocorticoid (GC) treatment. Bone‐protective and gastroprotective medications are recommended for those at high risk of adverse events from GCs, but no trials have evaluated their effectiveness in PMR. We describe bone‐protective and gastroprotective medicine prescribing in people with PMR and evaluate its impact on adverse GC outcomes using a target trial approach. Methods A sample of >40,000 individuals aged ≥50 years with a coded PMR diagnosis from January 2010 to March 2022 who were prescribed GCs within 21 days of the first PMR diagnosis code was constructed in the Clinical Practice Research Datalink Aurum. Prescriptions were defined as prevalent (pre‐PMR diagnosis), incident (at diagnosis), or late (post diagnosis, still GC‐treated), reported stratified by age, sex, and deprivation. A target trial approach assessed the effects of (1) bisphosphonates on fragility fractures and (2) proton‐pump inhibitors/H2 receptor antagonists (PPIs/H2RAs) on gastrointestinal (GI) ulceration/bleeding. Treatment effect, adjusted for confounders, was modeled using targeted maximum likelihood estimation. Results 67.2% participants were coprescribed bisphosphonates and 78.6% were coprescribed PPIs/H2RAs. Male patients and those in more deprived areas were less likely to receive bisphosphonates. 1.40% (95% confidence interval [CI] 1.10%–1.70%) of those prescribed bisphosphonates for 12 months versus 2.32% (95% CI 2.12%–2.52%) of those not prescribed bisphosphonates for 12 months experienced a fracture (risk difference 0.92% points [95% CI 0.56%–1.27%], number needed to treat 109). Prescribing gastroprotective medications was not associated with serious GI events. Conclusion Rates of prescribing to mitigate GC harms are higher than previously reported. Bisphosphonates are associated with approximately one less fragility fracture per year for every 100 people treated. Gastro‐prophylaxis is not associated with reduced risk of GI ulceration/bleeding, suggesting potential to reduce prescribing for this indication.",
       "year": 2026,
       "publication_date": "2026-02-10",
       "paper_id": "36e5c7c259ada0518c3aae409f7318488da63c68",
@@ -2602,9 +2536,9 @@
         "Sivan G. Marcus",
         "Michael Mathis",
         "M. Bokoch",
-        "Robert Freundlich",
+        "Robert E Freundlich",
         "David Chen",
-        "Lee-lynn Chen",
+        "Lee-Lynn Chen",
         "Matthieu Legrand"
       ],
       "abstract": "BACKGROUND Rapid Sequence Induction (RSI) is commonly performed in the operating room to quickly secure the airway and minimize aspiration risk, especially in patients undergoing abdominal surgery. Current practice patterns of medications and RSI techniques used by anesthesiologists are not well-described. METHODS This observational cohort study utilized the Multicenter Perioperative Outcomes Group database to evaluate RSI practices on adult patients undergoing abdominal surgery from 2015 to 2022. The primary aim was to describe modern RSI practices. We evaluated peri-induction medication use and intubation techniques. We hypothesized that over time, rocuronium would become the most utilized agent. Additionally, we investigated how the choice of neuromuscular blocking agent (NMB) affected outcomes using mixed-effects models and targeted maximum likelihood estimation. The primary endpoint was 30-day mortality. Secondary endpoints included post-induction hypoxia, pulmonary complications, and acute kidney injury (AKI). RESULTS Across 13 institutions and 82,772 cases, 9,352 (11.3%) had a documented RSI. The most common NMB was succinylcholine (70.5%). However, the use of succinylcholine significantly decreased over the study period (85.4% of RSI cases in 2015; 37.3% in 2022, p < 0.0001), replaced by rocuronium. Patients usually received coadministration of multiple sedatives. Video laryngoscopy was more frequently used (16.2% of RSI vs 8.0% of non-RSI cases, p<0.0001). Rocuronium was not associated with a different risk of mortality (relative risk 0.85; 95% confidence interval 0.67 - 1.09), hypoxia (1.04; 0.61-1.77), pulmonary complications (0.93; 0.81-1.06), or AKI (1.05; 0.84-1.31) as compared to succinylcholine. CONCLUSION Across institutions in the United States, rocuronium has been increasingly used for RSI, eventually overtaking succinylcholine. Rocuronium use was not associated with a different risk of mortality, hypoxia, pulmonary complications, or AKI.",
@@ -2705,6 +2639,32 @@
       ]
     },
     {
+      "title": "Sample Size Reduction by Applying ML Based Causal Inference Methods.",
+      "authors": [
+        "A. Youn",
+        "Gang Han",
+        "Emma Gerard",
+        "Neeraj Poonia",
+        "S. Olmos",
+        "Bingzhi Zhang",
+        "Meehyung Cho",
+        "A. Houseman"
+      ],
+      "abstract": "We conducted a comprehensive comparative analysis of causal machine learning (ML) methods to assess their utility in improving the efficiency of clinical trial designs with or without historical data. Specifically, we compared standard ANCOVA analysis used in a Randomized Controlled Trial (RCT) with several causal ML methods, including PROCOVA, TMLE, DML, and GRF. PROCOVA is gaining popularity in RCT design and requires a historical data for prognostic scores, but other methods can be applied with or without such data. Our primary focus was on strict RCT setting without borrowing historical control data, though we also explored the impact of borrowing data. The historical data used consisted of placebo data from two Phase 3 Ophthalmology studies with a continuous primary endpoint. We employed a generative AI approach, specifically Generative Adversarial Networks (GANs), to simulate RCT data from the historical data under various scenarios, varying treatment effects with and without treatment effect heterogeneity, RCT sizes, and bias. Results showed that causal ML methods can increase power even without borrowing historical data. For example, TMLE increased effective sample size by 21% in one scenario. In scenarios with borrowing of controls, PROCOVA increased power while controlling type 1 error, showing robustness to model misspecification.",
+      "year": 2026,
+      "publication_date": "2026-07-31",
+      "paper_id": "220165b86613a53466c2177fadc258af6336f38f",
+      "url": "https://www.semanticscholar.org/paper/220165b86613a53466c2177fadc258af6336f38f",
+      "venue": "Pharmaceutical statistics",
+      "doi": "10.1002/pst.70105",
+      "matched_keywords": [
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
+      ]
+    },
+    {
       "title": "Semaglutide and risk of adult-onset seizure: A target trial emulation",
       "authors": [
         "Yong Eun",
@@ -2724,6 +2684,31 @@
       "doi": "10.1212/WNL.0000000000218174",
       "matched_keywords": [
         "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
+      ]
+    },
+    {
+      "title": "Serum-Proteomic Profiling Reveals Distinct Atopic Dermatitis Severity-Linked Signatures.",
+      "authors": [
+        "J. Lally",
+        "Takeshi Yoshida",
+        "Shan Gao",
+        "Xueya Cai",
+        "D. Leung",
+        "Lisa A. Beck",
+        "A. de Benedetto"
+      ],
+      "abstract": "INTRODUCTION Atopic Dermatitis (AD) is a chronic inflammatory skin disease characterized by complex pathogenesis, variable clinical phenotypes, and broad severity spectrum. We utilized a serum-proteomic approach integrated with machine learning (ML) to identify novel biomarkers that distinguish mild from severe AD. METHODS Serum from sixty-seven AD adults, stratified by Eczema Area and Severity Index/EASI and Rajka-Langeland/RJL into mild (≤ 7 and ≤ 4, respectively; n = 33) or severe (≥ 20 and ≥ 8, respectively; n = 34), was analyzed with Olink Explore 3072. Differentially expressed proteins (DEPs) were identified using t-tests and False Discovery Rate correction (FDR ≤ 0.05). Tissue enrichment analysis was conducted using HPAStainR. Pearson correlations were performed between DEPs and clinical variables, serum lactate dehydrogenase/LDH and biomarkers for Th-pathways. ML (TMLE/SuperLearner, Boruta, MUVR) was used to identify top severity biomarkers. RESULTS 469 DEPs distinguished severe vs. mild AD. DEPs were significantly enriched for epithelial proteins (e.g., skin, tonsil, and esophagus epithelium). Subsets correlated strongly with LDH (68 DEPs) and/or Th2/Th22 markers (90 DEPs; r ≥ 0.6, FDR ≤ 0.05). Nine serum proteins (CCL17, CCL22, DEFB4A/B, EZR, GPR15L, IL22, PRSS53, SERPINB8, SETMAR) overlapped across three ML analyses as severity discriminating biomarkers (cross-validated AUC = 0.989; 95% CI: 0.974-1.00). CONCLUSIONS Severe AD exhibits a proteomic footprint enriched in epithelial-associated proteins that correlate with LDH-associated tissue injury and/or Th2/Th22 pathways. In this cross-sectional cohort, ML identified biomarkers that discriminated mild/severe AD groups with high cross-validated accuracy. Longitudinal and external validation studies, including healthy controls, are needed to determine specificity, generalizability, and prognostic utility.",
+      "year": 2026,
+      "publication_date": "2026-07-31",
+      "paper_id": "4fc856443a08acb1db501061a3839ce537c22b1c",
+      "url": "https://www.semanticscholar.org/paper/4fc856443a08acb1db501061a3839ce537c22b1c",
+      "venue": "Allergy. European Journal of Allergy and Clinical Immunology",
+      "doi": "10.1111/all.70464",
+      "matched_keywords": [
         "tmle"
       ],
       "source_queries": [
@@ -2864,6 +2849,26 @@
       "url": "https://www.semanticscholar.org/paper/7a63479a49698ef38ae3533f95d12ff607313189",
       "venue": "Acta Diabetologica",
       "doi": "10.1007/s00592-026-02729-x",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
+      "title": "Super Learner-based Ensemble Framework for Improved Classification of Lung Cancer Levels",
+      "authors": [
+        "P. Jecintha",
+        "Dr. R. Jayakarthik"
+      ],
+      "abstract": "",
+      "year": 2026,
+      "publication_date": "2026-07-06",
+      "paper_id": "a7b57e1c6ca81b00500b07b2e65cf838433afca5",
+      "url": "https://www.semanticscholar.org/paper/a7b57e1c6ca81b00500b07b2e65cf838433afca5",
+      "venue": "2026 6th International Conference on Inventive Computation and Information Technologies (ICICIT)",
+      "doi": "10.1109/ICICIT69063.2026.11633925",
       "matched_keywords": [
         "super learner"
       ],
