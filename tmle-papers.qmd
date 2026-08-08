@@ -7,17 +7,17 @@ Auto-updated list of TMLE-related papers tracked from Semantic Scholar queries.
 
 _Note: this list is not complete and may include irrelevant articles; it will be refined over time._
 
-Last refreshed: 2026-07-31T15:02:59Z
+Last refreshed: 2026-08-08T15:33:26Z
 
 Keywords queried: tmle, targeted maximum likelihood estimation, targeted minimum loss based estimation, super learner, super learning, highly adaptive lasso
 
-Total tracked papers: **1114**
+Total tracked papers: **1118**
 
 <!-- monthly-chart:start -->
 
 ## Yearly Papers Trend
 
-Number of papers per year from **2006** to **2025** (coverage: **972/1114** papers with year metadata in range).
+Number of papers per year from **2006** to **2025** (coverage: **972/1118** papers with year metadata in range).
 
 ```{=html}
 <style>
@@ -428,6 +428,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Yaning Feng: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yaning Feng</span></div></div>
     <div class="contrib-item" title="Yichen Xu: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yichen Xu</span></div></div>
     <div class="contrib-item" title="Yining Lu: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yining Lu</span></div></div>
+    <div class="contrib-item" title="Yixin Fang: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yixin Fang</span></div></div>
     <div class="contrib-item" title="Yun Jung Oh: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yun Jung Oh</span></div></div>
     <div class="contrib-item" title="Yunda Huang: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yunda Huang</span></div></div>
     <div class="contrib-item" title="Ze-Yu Wang: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Ze-Yu Wang</span></div></div>
@@ -969,7 +970,6 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Ying Ding: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Ying Ding</span></div></div>
     <div class="contrib-item" title="Ying Huang: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Ying Huang</span></div></div>
     <div class="contrib-item" title="Yiting Li: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yiting Li</span></div></div>
-    <div class="contrib-item" title="Yixin Fang: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yixin Fang</span></div></div>
     <div class="contrib-item" title="Yong Min Cho: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yong Min Cho</span></div></div>
     <div class="contrib-item" title="Yongfei Dong: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yongfei Dong</span></div></div>
     <div class="contrib-item" title="Youmi Suk: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Youmi Suk</span></div></div>
@@ -1007,22 +1007,54 @@ Papers are grouped by publication year. Expand a year to browse papers. Only pap
 .paper-year > .paper-item > summary { cursor: pointer; }
 </style>
 <details class="paper-year">
-  <summary><strong>2026 (131 papers)</strong></summary>
+  <summary><strong>2026 (135 papers)</strong></summary>
 
 <details class="paper-item">
-  <summary><strong>2026-07-29 — Peer support based on Mental Health First Aid for medical residents in Lyon, France: protocol for a non-randomised controlled mixed-methods study.</strong></summary>
+  <summary><strong>2026-08-05 — A Unified Causal Inference Framework for the Desirability of Outcome Ranking Paradigm in Benefit-Risk Evaluation</strong></summary>
 
 <p>
-<strong>Authors</strong>: Guillaume Bailly, Guillaume Barbalat, J. Danckaert, N. Franck, F. Guillotin, Arthur Poncin, Ludivine Nohales, Emmanuel Poulet, Audrey Maillet, I. Celerier, Killian L&#x27;Helgouarc&#x27;h, G. Rode, P. Paparel, B-N. Pham, É. Leaune<br>
+<strong>Authors</strong>: Yuanming Feng, Shiyu Shu, Yixin Fang, I. Bebu, Toshimitsu Hamasaki, Scott R. Evans, Gouqing Diao<br>
 <strong>Year</strong>: 2026<br>
-<strong>Publication Date</strong>: 2026-07-29<br>
-<strong>Venue</strong>: BMJ Open<br>
-<strong>DOI</strong>: 10.1136/bmjopen-2026-120352<br>
-<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/150126c88cc2b51928c83b8c329d73c251e130c6">Semantic Scholar</a><br>
-<strong>Matched Keywords</strong>: targeted maximum likelihood estimation
+<strong>Publication Date</strong>: 2026-08-05<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/4e3fd2f389a5244a45c1cc9cfa436c1eb61bdd6f">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: super learner, targeted maximum likelihood estimation, tmle
 </p>
 <p><strong>Abstract</strong>:<br>
-INTRODUCTION Medical residents frequently experience anxiety, depression, burnout and suicidal ideation. Existing support strategies have shown limited benefit. The Impact de la Pair-Aidance Étudiante sur la Santé Mentale des internes de Médecine de première année (PAESSM) study will evaluate whether embedding Mental Health First Aid (MHFA)-trained peer supporters within a first-year residency cohort is associated with improved mental well-being and reduced psychological distress over 12 months. METHODS AND ANALYSIS PAESSM is a non-randomised controlled mixed-methods quasi-experimental study in Lyon, France involving the two Lyon medical schools. Two contemporaneous cohorts will be followed for 12 months: first-year residents exposed to a structured peer-support programme and second-year residents receiving usual support resources without a structured peer-support network. About 430 residents are eligible in each cohort, with anticipated enrolment of approximately 260 per group. In the intervention cohort, around 10% of first-year residents will complete certified MHFA training and act as peer supporters. Online questionnaires will be administered at baseline and at 3, 6, 9 and 12 months. The primary outcome is 12-month mental well-being measured by the Warwick-Edinburgh Mental Well-Being Scale. Secondary outcomes include anxiety and depression symptoms, suicidal ideation, job strain and help-seeking behaviours. The primary analysis will use longitudinal targeted maximum likelihood estimation adjusted for prespecified baseline covariates and informative censoring. Sensitivity analyses will include mixed-effects models and complete-case analyses. A qualitative sub-study will explore peer supporters&#x27; experiences and implementation processes. ETHICS AND DISSEMINATION Ethical approval was obtained from the Comité de Protection des Personnes Nord-Ouest IV (Ref: 2025-A01549-40). In accordance with French legislation applicable to minimal-risk research, formal written informed consent was waived and participants will provide documented non-opposition before inclusion. Findings will be disseminated through peer-reviewed publications, conference presentations and communication with institutional stakeholders and residents. TRIAL REGISTRATION NUMBER NCT07161284.
+We developed a unified covariate-adjusted causal inference framework for estimating the desirability of outcome ranking (DOOR) probability for benefit-risk evaluation in randomized trials and observational studies. The framework expresses the DOOR probability as a bilinear functional of the marginal ordinal outcome distributions under the two treatment strategies, estimates conditional ordinal distributions through sequential risk-set hazards, and derives the efficient influence function (EIF) of the DOOR probability. The point-estimation simulations compared G-computation, normalized inverse probability weighting (IPW), augmented IPW (AIPW), and targeted maximum likelihood estimation (TMLE), with nuisance functions estimated using generalized linear models or Super Learner (SL). TMLE-SL showed the strongest and most consistent point-estimation performance, with AIPW-SL ranking second. EIF-based inference was then evaluated for AIPW-SL and TMLE-SL, with and without cross-fitting, across settings varying in overlap, treatment-effect heterogeneity, and treatment allocation. CVTMLE-SL showed the strongest overall performance across DOOR-scale bias, recovery of the underlying ordinal distributions, standard-error accuracy, and confidence-interval coverage. We illustrate the methodology using data from the multidrug-resistant organism network of the Antibacterial Resistance Leadership Group.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2026-07-31 — Serum-Proteomic Profiling Reveals Distinct Atopic Dermatitis Severity-Linked Signatures.</strong></summary>
+
+<p>
+<strong>Authors</strong>: J. Lally, Takeshi Yoshida, Shan Gao, Xueya Cai, D. Leung, Lisa A. Beck, A. de Benedetto<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-07-31<br>
+<strong>Venue</strong>: Allergy. European Journal of Allergy and Clinical Immunology<br>
+<strong>DOI</strong>: 10.1111/all.70464<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/4fc856443a08acb1db501061a3839ce537c22b1c">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: tmle
+</p>
+<p><strong>Abstract</strong>:<br>
+INTRODUCTION Atopic Dermatitis (AD) is a chronic inflammatory skin disease characterized by complex pathogenesis, variable clinical phenotypes, and broad severity spectrum. We utilized a serum-proteomic approach integrated with machine learning (ML) to identify novel biomarkers that distinguish mild from severe AD. METHODS Serum from sixty-seven AD adults, stratified by Eczema Area and Severity Index/EASI and Rajka-Langeland/RJL into mild (≤ 7 and ≤ 4, respectively; n = 33) or severe (≥ 20 and ≥ 8, respectively; n = 34), was analyzed with Olink Explore 3072. Differentially expressed proteins (DEPs) were identified using t-tests and False Discovery Rate correction (FDR ≤ 0.05). Tissue enrichment analysis was conducted using HPAStainR. Pearson correlations were performed between DEPs and clinical variables, serum lactate dehydrogenase/LDH and biomarkers for Th-pathways. ML (TMLE/SuperLearner, Boruta, MUVR) was used to identify top severity biomarkers. RESULTS 469 DEPs distinguished severe vs. mild AD. DEPs were significantly enriched for epithelial proteins (e.g., skin, tonsil, and esophagus epithelium). Subsets correlated strongly with LDH (68 DEPs) and/or Th2/Th22 markers (90 DEPs; r ≥ 0.6, FDR ≤ 0.05). Nine serum proteins (CCL17, CCL22, DEFB4A/B, EZR, GPR15L, IL22, PRSS53, SERPINB8, SETMAR) overlapped across three ML analyses as severity discriminating biomarkers (cross-validated AUC = 0.989; 95% CI: 0.974-1.00). CONCLUSIONS Severe AD exhibits a proteomic footprint enriched in epithelial-associated proteins that correlate with LDH-associated tissue injury and/or Th2/Th22 pathways. In this cross-sectional cohort, ML identified biomarkers that discriminated mild/severe AD groups with high cross-validated accuracy. Longitudinal and external validation studies, including healthy controls, are needed to determine specificity, generalizability, and prognostic utility.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2026-07-31 — Sample Size Reduction by Applying ML Based Causal Inference Methods.</strong></summary>
+
+<p>
+<strong>Authors</strong>: A. Youn, Gang Han, Emma Gerard, Neeraj Poonia, S. Olmos, Bingzhi Zhang, Meehyung Cho, A. Houseman<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-07-31<br>
+<strong>Venue</strong>: Pharmaceutical statistics<br>
+<strong>DOI</strong>: 10.1002/pst.70105<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/220165b86613a53466c2177fadc258af6336f38f">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: tmle
+</p>
+<p><strong>Abstract</strong>:<br>
+We conducted a comprehensive comparative analysis of causal machine learning (ML) methods to assess their utility in improving the efficiency of clinical trial designs with or without historical data. Specifically, we compared standard ANCOVA analysis used in a Randomized Controlled Trial (RCT) with several causal ML methods, including PROCOVA, TMLE, DML, and GRF. PROCOVA is gaining popularity in RCT design and requires a historical data for prognostic scores, but other methods can be applied with or without such data. Our primary focus was on strict RCT setting without borrowing historical control data, though we also explored the impact of borrowing data. The historical data used consisted of placebo data from two Phase 3 Ophthalmology studies with a continuous primary endpoint. We employed a generative AI approach, specifically Generative Adversarial Networks (GANs), to simulate RCT data from the historical data under various scenarios, varying treatment effects with and without treatment effect heterogeneity, RCT sizes, and bias. Results showed that causal ML methods can increase power even without borrowing historical data. For example, TMLE increased effective sample size by 21% in one scenario. In scenarios with borrowing of controls, PROCOVA increased power while controlling type 1 error, showing robustness to model misspecification.
 </p>
 </details>
 
@@ -1329,6 +1361,23 @@ Purpose. Confounding adjustment in health-care database studies screens large pr
 </details>
 
 <details class="paper-item">
+  <summary><strong>2026-07-06 — Super Learner-based Ensemble Framework for Improved Classification of Lung Cancer Levels</strong></summary>
+
+<p>
+<strong>Authors</strong>: P. Jecintha, Dr. R. Jayakarthik<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-07-06<br>
+<strong>Venue</strong>: 2026 6th International Conference on Inventive Computation and Information Technologies (ICICIT)<br>
+<strong>DOI</strong>: 10.1109/ICICIT69063.2026.11633925<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/a7b57e1c6ca81b00500b07b2e65cf838433afca5">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: super learner
+</p>
+<p><strong>Abstract</strong>:<br>
+Abstract unavailable from Semantic Scholar.
+</p>
+</details>
+
+<details class="paper-item">
   <summary><strong>2026-07-06 — GLP Medications and Severe Post-COVID-19 Outcomes Among Individuals with Type 2 Diabetes Mellitus</strong></summary>
 
 <p>
@@ -1402,6 +1451,23 @@ Augmenting a randomized controlled trial with real-world data promises greater e
 </p>
 <p><strong>Abstract</strong>:<br>
 We consider efficient estimation of causal parameters in longitudinal two-stage designs with outcome subsampling, motivated by resampling designs in HIV-related mortality studies. In these studies, many participants become lost to follow-up; resampling designs address this by tracing a subset of lost individuals to ascertain their outcomes. Analyses often use inverse-probability-weighted Kaplan-Meier (wKM) estimators that discard longitudinal covariate information and suffer from efficiency losses. We note that resampling designs are an instance of a broader class: two-stage designs with outcome subsampling, in which a first stage collects some data on all participants and a second stage collects outcome information on a selected subset. This connection motivates two estimators. First, drawing on inverse probability of censoring weighted targeted maximum likelihood estimation (IPCW-TMLE) for two-stage designs, we develop its longitudinal extension, IPCW longitudinal TMLE (IPCW-LTMLE) and show that estimating and targeting the known second-stage sampling weights yields variance reductions of up to 36% over the use of known sampling probabilities. Second, given that inverse weighting sacrifices efficiency, we propose an LTMLE that incorporates the second-stage sampling indicator as an intervention node in the sequential regression framework, returning to plug-in estimation and avoiding inverse weighting entirely. Simulations across sample sizes show that LTMLE achieves up to 73% lower variance than wKM with known sampling weights, with reductions of 30-50% common across settings, while IPCW-LTMLE achieves consistent gains of 20-35%. We further demonstrate that cross-fitted variance estimation is essential for valid inference: standard variance estimators yield confidence interval coverage as low as 76%, while our cross-fitted variants consistently restore coverage to nominal levels.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2026-07-01 — Peer support based on Mental Health First Aid for medical residents in Lyon, France: protocol for a non-randomised controlled mixed-methods study</strong></summary>
+
+<p>
+<strong>Authors</strong>: Guillaume Bailly, Guillaume Barbalat, J. Danckaert, N. Franck, F. Guillotin, Arthur Poncin, Ludivine Nohales, Emmanuel Poulet, Audrey Maillet, I. Celerier, Killian L&#x27;Helgouarc&#x27;h, G. Rode, P. Paparel, B-N. Pham, É. Leaune<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-07-01<br>
+<strong>Venue</strong>: BMJ Open<br>
+<strong>DOI</strong>: 10.1136/bmjopen-2026-120352<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/150126c88cc2b51928c83b8c329d73c251e130c6">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: targeted maximum likelihood estimation
+</p>
+<p><strong>Abstract</strong>:<br>
+Abstract Introduction Medical residents frequently experience anxiety, depression, burnout and suicidal ideation. Existing support strategies have shown limited benefit. The Impact de la Pair-Aidance Étudiante sur la Santé Mentale des internes de Médecine de première année (PAESSM) study will evaluate whether embedding Mental Health First Aid (MHFA)-trained peer supporters within a first-year residency cohort is associated with improved mental well-being and reduced psychological distress over 12 months. Methods and analysis PAESSM is a non-randomised controlled mixed-methods quasi-experimental study in Lyon, France involving the two Lyon medical schools. Two contemporaneous cohorts will be followed for 12 months: first-year residents exposed to a structured peer-support programme and second-year residents receiving usual support resources without a structured peer-support network. About 430 residents are eligible in each cohort, with anticipated enrolment of approximately 260 per group. In the intervention cohort, around 10% of first-year residents will complete certified MHFA training and act as peer supporters. Online questionnaires will be administered at baseline and at 3, 6, 9 and 12 months. The primary outcome is 12-month mental well-being measured by the Warwick-Edinburgh Mental Well-Being Scale. Secondary outcomes include anxiety and depression symptoms, suicidal ideation, job strain and help-seeking behaviours. The primary analysis will use longitudinal targeted maximum likelihood estimation adjusted for prespecified baseline covariates and informative censoring. Sensitivity analyses will include mixed-effects models and complete-case analyses. A qualitative sub-study will explore peer supporters’ experiences and implementation processes. Ethics and dissemination Ethical approval was obtained from the Comité de Protection des Personnes Nord-Ouest IV (Ref: 2025-A01549-40). In accordance with French legislation applicable to minimal-risk research, formal written informed consent was waived and participants will provide documented non-opposition before inclusion. Findings will be disseminated through peer-reviewed publications, conference presentations and communication with institutional stakeholders and residents. Trial registration number NCT07161284.
 </p>
 </details>
 
@@ -1624,7 +1690,7 @@ In Lesotho, rapid urbanization and lifestyle transitions have contributed to a r
   <summary><strong>2026-06-08 — Rapid Sequence Induction Practices and Outcomes in Abdominal Surgery Patients: A Multicenter Observational Cohort Study.</strong></summary>
 
 <p>
-<strong>Authors</strong>: Sivan G. Marcus, Michael Mathis, M. Bokoch, Robert Freundlich, David Chen, Lee-lynn Chen, Matthieu Legrand<br>
+<strong>Authors</strong>: Sivan G. Marcus, Michael Mathis, M. Bokoch, Robert E Freundlich, David Chen, Lee-Lynn Chen, Matthieu Legrand<br>
 <strong>Year</strong>: 2026<br>
 <strong>Publication Date</strong>: 2026-06-08<br>
 <strong>Venue</strong>: Anesthesiology<br>
@@ -2018,7 +2084,7 @@ Abstract The prognostic score (PGS) is a function of observed covariates that su
   <summary><strong>2026-05-01 — Levosimendan in Patients With Low Cardiac Ejection Fraction Undergoing Coronary Artery Bypass Grafting: Machine Learning Double Robust Causal Effect Analysis.</strong></summary>
 
 <p>
-<strong>Authors</strong>: J. Bis, K. Mendrala, Marek Deja, T. Darocha, Łukasz Morkisz, Mikołaj Jodłowski, Radosław Gocoł<br>
+<strong>Authors</strong>: J. Bis, K. Mendrala, Marek A Deja, T. Darocha, Łukasz Morkisz, Mikołaj Jodłowski, Radosław Gocoł<br>
 <strong>Year</strong>: 2026<br>
 <strong>Publication Date</strong>: 2026-05-01<br>
 <strong>Venue</strong>: Journal of Cardiothoracic and Vascular Anesthesia<br>
@@ -2724,10 +2790,10 @@ The Highly Adaptive Lasso (HAL) is a nonparametric regression method that achiev
 </details>
 
 <details class="paper-item">
-  <summary><strong>2026-02-10 — Prescribing of medication to prevent glucocorticoid harms in patients with Polymyalgia Rheumatica: a cross-sectional study and two emulated target trials in the Clinical Practice Research Datalink Aurum.</strong></summary>
+  <summary><strong>2026-02-10 — Prescribing of Medication to Prevent Glucocorticoid Harms in Patients With Polymyalgia Rheumatica: A Cross‐Sectional Study and Two Emulated Target Trials in the Clinical Practice Research Datalink Aurum</strong></summary>
 
 <p>
-<strong>Authors</strong>: H. Twohig, David Jenkinson, J. Bailey, S. Hider, Ian C. Scott, Sara Muller<br>
+<strong>Authors</strong>: H. Twohig, D. Jenkinson, J. Bailey, S. Hider, Ian C. Scott, Sara Muller<br>
 <strong>Year</strong>: 2026<br>
 <strong>Publication Date</strong>: 2026-02-10<br>
 <strong>Venue</strong>: Arthritis &amp; Rheumatology<br>
@@ -2736,7 +2802,7 @@ The Highly Adaptive Lasso (HAL) is a nonparametric regression method that achiev
 <strong>Matched Keywords</strong>: targeted maximum likelihood estimation
 </p>
 <p><strong>Abstract</strong>:<br>
-OBJECTIVES Polymyalgia rheumatica (PMR) is a common indication for long-term glucocorticoid (GC) treatment. Bone- and gastro-protective medications are recommended for those at high-risk of adverse events from GCs but no trials have evaluated their effectiveness in PMR. We describe bone-/gastro-protective medicine prescribing in people with PMR and evaluate its impact on adverse GC outcomes using a target trial approach. METHODS A sample of &gt;40,000 individuals aged ≥50 years, with a coded PMR diagnosis from January 2010-March 2022, prescribed GCs within 21 days of first PMR diagnosis code, was constructed in CPRD Aurum. Prescriptions were defined as prevalent (pre-PMR diagnosis), incident (at diagnosis), or late (post-diagnosis, still GC-treated), reported stratified by age/gender/deprivation. A target-trial approach assessed the effect of: a) bisphosphonates on fragility fractures and b) proton-pump inhibitors/H2-receptor antagonists (PPIs/H2RAs) on gastrointestinal (GI) ulceration/bleeding. Treatment effect, adjusted for confounders, was modelled using targeted maximum likelihood estimation. RESULTS 67.2% were co-prescribed bisphosphonates and 78.6% PPIs/H2RAs. Males and those in more deprived areas were less likely to receive bisphosphonates. 1.40% (95%CI 1.10%,1.70%) of those prescribed vs 2.32% (2.12%,2.52%) of those not prescribed bisphosphonates for 12 months experienced a fracture (risk difference 0.92% points [0.56%,1.27%], NNT 109). Prescribing gastro-protective medications was not associated with serious GI events. CONCLUSION Rates of prescribing to mitigate GC harms are higher than previously reported. Bisphosphonates are associated with approximately one less fragility fracture per year for every 100 people treated. Gastro-prophylaxis is not associated with reduced risk of GI ulceration/bleeding, suggesting potential to reduce prescribing for this indication.
+Objective Polymyalgia rheumatica (PMR) is a common indication for long‐term glucocorticoid (GC) treatment. Bone‐protective and gastroprotective medications are recommended for those at high risk of adverse events from GCs, but no trials have evaluated their effectiveness in PMR. We describe bone‐protective and gastroprotective medicine prescribing in people with PMR and evaluate its impact on adverse GC outcomes using a target trial approach. Methods A sample of &gt;40,000 individuals aged ≥50 years with a coded PMR diagnosis from January 2010 to March 2022 who were prescribed GCs within 21 days of the first PMR diagnosis code was constructed in the Clinical Practice Research Datalink Aurum. Prescriptions were defined as prevalent (pre‐PMR diagnosis), incident (at diagnosis), or late (post diagnosis, still GC‐treated), reported stratified by age, sex, and deprivation. A target trial approach assessed the effects of (1) bisphosphonates on fragility fractures and (2) proton‐pump inhibitors/H2 receptor antagonists (PPIs/H2RAs) on gastrointestinal (GI) ulceration/bleeding. Treatment effect, adjusted for confounders, was modeled using targeted maximum likelihood estimation. Results 67.2% participants were coprescribed bisphosphonates and 78.6% were coprescribed PPIs/H2RAs. Male patients and those in more deprived areas were less likely to receive bisphosphonates. 1.40% (95% confidence interval [CI] 1.10%–1.70%) of those prescribed bisphosphonates for 12 months versus 2.32% (95% CI 2.12%–2.52%) of those not prescribed bisphosphonates for 12 months experienced a fracture (risk difference 0.92% points [95% CI 0.56%–1.27%], number needed to treat 109). Prescribing gastroprotective medications was not associated with serious GI events. Conclusion Rates of prescribing to mitigate GC harms are higher than previously reported. Bisphosphonates are associated with approximately one less fragility fracture per year for every 100 people treated. Gastro‐prophylaxis is not associated with reduced risk of GI ulceration/bleeding, suggesting potential to reduce prescribing for this indication.
 </p>
 </details>
 
