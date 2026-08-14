@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T15:33:26Z",
+  "generated_at": "2026-08-14T15:03:36Z",
   "source": "Semantic Scholar Graph API",
   "unauthenticated": true,
   "mode": "bulk",
@@ -18,7 +18,7 @@
   "query_stats": [
     {
       "keyword": "tmle",
-      "fetched_raw_count": 501
+      "fetched_raw_count": 504
     },
     {
       "keyword": "targeted maximum likelihood estimation",
@@ -26,11 +26,11 @@
     },
     {
       "keyword": "targeted minimum loss based estimation",
-      "fetched_raw_count": 349
+      "fetched_raw_count": 351
     },
     {
       "keyword": "super learner",
-      "fetched_raw_count": 1047
+      "fetched_raw_count": 1049
     },
     {
       "keyword": "super learning",
@@ -43,74 +43,84 @@
   ],
   "query_errors": [],
   "incomplete": false,
-  "fetched_paper_count": 965,
-  "newly_appended_count": 4,
+  "fetched_paper_count": 970,
+  "newly_appended_count": 5,
   "updated_existing_count": 4,
   "existing_blocked_removed": 0,
   "existing_duplicates_removed": 0,
   "newly_added_papers": [
     {
-      "title": "A Unified Causal Inference Framework for the Desirability of Outcome Ranking Paradigm in Benefit-Risk Evaluation",
+      "title": "Causal AI for Real-World Data",
       "year": 2026,
       "authors": [
-        "Yuanming Feng",
-        "Shiyu Shu",
-        "Yixin Fang",
-        "I. Bebu",
-        "Toshimitsu Hamasaki",
-        "Scott R. Evans",
-        "Gouqing Diao"
+        "M. Gregg",
+        "Andy Wilson"
       ],
-      "publication_date": "2026-08-05",
+      "publication_date": null,
+      "doi": "10.61700/eh6vg02sypr7n2237",
+      "paper_id": "4453a8cdc7ae7562d82ccae07959661c4256a25e"
+    },
+    {
+      "title": "Causal analysis of radiation dose to the base of the heart and overall survival in lung cancer using targeted maximum likelihood estimation",
+      "year": 2026,
+      "authors": [
+        "B. Jiang",
+        "M. Summers",
+        "E. Osorio",
+        "K. Banfill",
+        "J. Hartfold",
+        "C. Faivre-Finn",
+        "A. McWilliam"
+      ],
+      "publication_date": "2026-08-01",
+      "doi": "10.1093/eurheartjsupp/suag097.012",
+      "paper_id": "b04fa208b53d171c0dd0500655cb68af29e14c4c"
+    },
+    {
+      "title": "Cost-Effectiveness of the IMPALA Monitoring System for Hospitalised Children in Low-Resource Settings: A Pragmatic Before-and-After Study",
+      "year": 2025,
+      "authors": [
+        "Â. Jornada Ben",
+        "D. Mwale",
+        "P. Jansen",
+        "O. Mtambo",
+        "N. Versteegde",
+        "E. Geubbels",
+        "J. Calis",
+        "J. Chikwana",
+        "I. Study Team",
+        "J. Chinkhumba",
+        "W. Janssens"
+      ],
+      "publication_date": "2025-11-02",
+      "doi": "10.1101/2025.10.31.25339214",
+      "paper_id": "69ac88b53c55abe1c8f4eea8deab8ceebcfa2ea9"
+    },
+    {
+      "title": "Targeted Maximum Likelihood Learning: An Optimization Perspective",
+      "year": 2025,
+      "authors": [
+        "Diyang Li",
+        "Kyra Gan"
+      ],
+      "publication_date": null,
+      "doi": "10.52202/085713-4759",
+      "paper_id": "83fc5681118b9b9e5e2a5d7b5c34620ace51c235"
+    },
+    {
+      "title": "Doubly Robust Targeted Estimation of Subgroup Average Treatment Effects for Time-to-event Outcomes with Competing Risks",
+      "year": 2024,
+      "authors": [
+        "Runjia Li",
+        "V. Talisa",
+        "C. H. Chang"
+      ],
+      "publication_date": "2024-07-25",
       "doi": null,
-      "paper_id": "4e3fd2f389a5244a45c1cc9cfa436c1eb61bdd6f"
-    },
-    {
-      "title": "Sample Size Reduction by Applying ML Based Causal Inference Methods.",
-      "year": 2026,
-      "authors": [
-        "A. Youn",
-        "Gang Han",
-        "Emma Gerard",
-        "Neeraj Poonia",
-        "S. Olmos",
-        "Bingzhi Zhang",
-        "Meehyung Cho",
-        "A. Houseman"
-      ],
-      "publication_date": "2026-07-31",
-      "doi": "10.1002/pst.70105",
-      "paper_id": "220165b86613a53466c2177fadc258af6336f38f"
-    },
-    {
-      "title": "Serum-Proteomic Profiling Reveals Distinct Atopic Dermatitis Severity-Linked Signatures.",
-      "year": 2026,
-      "authors": [
-        "J. Lally",
-        "Takeshi Yoshida",
-        "Shan Gao",
-        "Xueya Cai",
-        "D. Leung",
-        "Lisa A. Beck",
-        "A. de Benedetto"
-      ],
-      "publication_date": "2026-07-31",
-      "doi": "10.1111/all.70464",
-      "paper_id": "4fc856443a08acb1db501061a3839ce537c22b1c"
-    },
-    {
-      "title": "Super Learner-based Ensemble Framework for Improved Classification of Lung Cancer Levels",
-      "year": 2026,
-      "authors": [
-        "P. Jecintha",
-        "Dr. R. Jayakarthik"
-      ],
-      "publication_date": "2026-07-06",
-      "doi": "10.1109/icicit69063.2026.11633925",
-      "paper_id": "a7b57e1c6ca81b00500b07b2e65cf838433afca5"
+      "paper_id": "cb77702a884cbca3ad9538952221025cf19de6f6"
     }
   ],
-  "paper_count": 1118,
+  "paper_count": 1123,
   "papers": [
     {
       "title": "A CV-TMLE global test approach to improve power in rare disease clinical studies with multiple-component endpoints",
@@ -591,6 +601,52 @@
       ],
       "source_queries": [
         "super learner"
+      ]
+    },
+    {
+      "title": "Causal AI for Real-World Data",
+      "authors": [
+        "M. Gregg",
+        "Andy Wilson"
+      ],
+      "abstract": "Causal AI for Real-World Data provides a compact, rigorous, hands‑on treatment of contemporary causal inference, guiding researchers from question specification and DAG‑based identification to defensible estimation and sensitivity analysis of observational health data. Participants will learn to apply the Causal Roadmap and implement state‑of‑the‑art tools in R and Python — including DAG construction and causal discovery, propensity methods, g‑computation, TMLE with SuperLearner, double machine learning, and VAE‑based generative validation — and leave with reproducible artifacts to support transparent, peer‑reviewable causal claims.",
+      "year": 2026,
+      "publication_date": null,
+      "paper_id": "4453a8cdc7ae7562d82ccae07959661c4256a25e",
+      "url": "https://www.semanticscholar.org/paper/4453a8cdc7ae7562d82ccae07959661c4256a25e",
+      "venue": null,
+      "doi": "10.61700/eh6vg02sypr7n2237",
+      "matched_keywords": [
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
+      ]
+    },
+    {
+      "title": "Causal analysis of radiation dose to the base of the heart and overall survival in lung cancer using targeted maximum likelihood estimation",
+      "authors": [
+        "B. Jiang",
+        "M. Summers",
+        "E. Osorio",
+        "K. Banfill",
+        "J. Hartfold",
+        "C. Faivre-Finn",
+        "A. McWilliam"
+      ],
+      "abstract": "Radical radiotherapy is delivered with curative intent in approximately 40% of patients with lung cancer. The RTOG 0617 trial and subsequent studies demonstrated that higher cardiac radiation exposure is associated with increased mortality. As clinical equipoise precludes randomisation to different cardiac dose limits, estimation of the causal effect of cardiac radiation dose on survival must rely on observational data. Traditional analyses have relied on multivariable regression models incorporating heart dose parameters and cardiac risk factors, but failure to consider causal structure may induce confounding bias. Targeted maximum likelihood estimation (TMLE) integrates machine learning to estimate outcome and treatment assignment models, approximating a randomised comparison within observational data and providing reliable effect estimates even if one model is misspecified. Previous work has identified radiation dose to the base of the heart as being associated with increased mortality. However, the causal effect of radiation dose to the base of the heart on overall survival remains unclear. We therefore aimed to estimate this effect using a target trial emulation framework with TMLE. The study included 1,051 patients with lung cancer treated with radiotherapy at a tertiary cancer centre between 2010 and 2013, with time zero defined as radiotherapy initiation. Radiation dose to the base of the heart was categorized as low (0–11.26 Gy), medium (11.26–23.34 Gy), or high (23.34–48.85 Gy). Overall survival was defined from radiotherapy initiation to death or censoring at last follow-up. The causal estimand was defined as time-specific differences in survival probability between dose groups. A directed acyclic graph (DAG) identified the minimal adjustment set. TMLE was applied to compare overall survival across dose groups over a 2-year follow-up. After dose categorization, 367 patients were included per group, with approximately 300 retained per group in complete-case analyses. The DAG identified age, tumor volume, tumor location, T stage, M stage, and radiotherapy modality as the minimal adjustment set. No meaningful survival difference was observed between the low- and medium-dose groups. In the high- versus low-dose comparison, survival differences emerged early and became consistent after approximately 5 months, peaking during mid follow-up and remaining evident through the end of follow-up. In the high- versus medium-dose comparison, survival differences showed transient mid follow-up significance and did not become consistently significant until approximately 15 months. Under causal assumptions within regions of sufficient overlap, higher radiation dose to the base of the heart was associated with distinct time-varying survival differences. Further studies should explore dose–response patterns across cardiac substructures within a causal analysis framework.High–low survival difference (TMLE) High–medium survival difference (TMLE)",
+      "year": 2026,
+      "publication_date": "2026-08-01",
+      "paper_id": "b04fa208b53d171c0dd0500655cb68af29e14c4c",
+      "url": "https://www.semanticscholar.org/paper/b04fa208b53d171c0dd0500655cb68af29e14c4c",
+      "venue": "European Heart Journal, Supplement",
+      "doi": "10.1093/eurheartjsupp/suag097.012",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
       ]
     },
     {
@@ -2397,8 +2453,8 @@
       "publication_date": "2026-06-11",
       "paper_id": "a4bd702c1f3276b78ecc1c52303c4587cc026d4e",
       "url": "https://www.semanticscholar.org/paper/a4bd702c1f3276b78ecc1c52303c4587cc026d4e",
-      "venue": null,
-      "doi": null,
+      "venue": "arXiv.org",
+      "doi": "10.48550/arXiv.2606.12892",
       "matched_keywords": [
         "tmle"
       ],
@@ -2862,9 +2918,9 @@
         "P. Jecintha",
         "Dr. R. Jayakarthik"
       ],
-      "abstract": "",
+      "abstract": "Lung cancer (LC) is the most life-threatening diseases globally that accounted to a significant proportion of cancer-based deaths. The key to improve patient survival rates depend on the ability in detecting the disease at its earliest stages, in which the treatment options are more effectual, and outcomes have become more favourable. However, conventional diagnostic methods often failed in accomplishing timely detection that leads to late-stage diagnoses and reduced survival rate probabilities. To address this challenge, the present research focuses on the development of an advanced predictive model using the Machine Learning (ML) framework. ML in medical data detection helps identify patterns, anomalies together with diseases from complex datasets, improving accuracy and speed of diagnosis. By combining diverse ML models, the Superlearner systematically minimizes errors along with generation of more robust classification outcomes compared to traditional single-model techniques. Superlearner is an Ensemble Learning (EL) approach that integrates the strengths of several base learners for enhancing predictive accuracy and reliability. In this study, the proposed Superlearner model is specifically designed for improving the classification of lung cancer levels, enabling precise detection of disease progression stages. Based on the adaptive learning process, the model demonstrates the ability to achieve high accuracy in predicting lung cancer severity, thereby supporting clinicians in making better-informed decisions for early intervention and treatment planning. The findings underscore the potential of the Superlearner model as a promising advancement in medical data analysis together with predictive diagnostics. Ultimately, this research highlights how EL techniques can significantly improve patient outcomes through early and accurate diagnosis.",
       "year": 2026,
-      "publication_date": "2026-07-06",
+      "publication_date": "2026-07-01",
       "paper_id": "a7b57e1c6ca81b00500b07b2e65cf838433afca5",
       "url": "https://www.semanticscholar.org/paper/a7b57e1c6ca81b00500b07b2e65cf838433afca5",
       "venue": "2026 6th International Conference on Inventive Computation and Information Technologies (ICICIT)",
@@ -4830,6 +4886,35 @@
       ],
       "source_queries": [
         "tmle"
+      ]
+    },
+    {
+      "title": "Cost-Effectiveness of the IMPALA Monitoring System for Hospitalised Children in Low-Resource Settings: A Pragmatic Before-and-After Study",
+      "authors": [
+        "Â. Jornada Ben",
+        "D. Mwale",
+        "P. Jansen",
+        "O. Mtambo",
+        "N. Versteegde",
+        "E. Geubbels",
+        "J. Calis",
+        "J. Chikwana",
+        "I. Study Team",
+        "J. Chinkhumba",
+        "W. Janssens"
+      ],
+      "abstract": "BackgroundStaff shortages, limited training, and inadequate hospital equipment often delay responses to patient deterioration in low-resource settings. The IMPALA continuous monitoring system was developed to support proactive care for critically ill children in such settings. This study evaluated IMPALA cost-effectiveness compared with current practice manual intermittent monitoring from provider and societal perspectives. MethodsWe conducted an economic evaluation based on a before-and-after cohort of children (0 to 180 months) admitted to Zomba Central Hospital (ZCH) and St. Lukes Hospital (SLH), Malawi (2022 to 2024), where IMPALA was implemented in high-dependency units (HDUs). Targeted maximum likelihood estimation assessed percentage point (pp) differences in mortality, critical illness events (CIEs), disability-adjusted life years (DALYs), and costs (medical, non-medical, indirect). Incremental cost-effectiveness ratios (ICERs) and cost-effectiveness probabilities were calculated for different willingness-to-pay thresholds. FindingsAt ZCH paediatric ward, 1 840 pre- and 6 255 post-IMPALA children were included; 248 and 736 were admitted to the HDU. Ward mortality decreased (3.7% to 2.8%), with an adjusted 1.9pp reduction (95%CI: - 3.8;-0.6). At ZCH-HDU, mortality slightly increased (8.1% to 9.0%), but IMPALA was associated with an adjusted 9.8pp reduction (95%CI: -26.5;5.0), a 47.1pp decrease in CIEs (95%CI: -52.9;-41.8), and 5.4 DALYs averted (95%CI: -14.2;3.1). At SLH paediatric ward, mortality decreased (4.0% to 2.1%), with an adjusted 1.6pp reduction (95%CI: -3.2;-0.2), a 25.5pp decrease in CIEs (95% CI: -30.1;-20.9), and 1.0 DALYs averted (95% CI: -1.9;-0.1). Provider and societal costs decreased in both wards, but not in the HDU. IMPALA was dominant in wards and slightly more costly but more effective in the HDU (ICERs -$22.5 to $0.4 per life saved). Cost-effectiveness probabilities ranged from 0.8 to 1.0 in wards and 0.3 to 1.0 in the HDU. InterpretationIMPALA was highly cost-effective, reducing mortality by >40%, morbidity by >50%, increasing DALYs averted, shortening hospital stays, and lowering costs, with spillover benefits from HDUs to wards. FundingThis project is part of the EDCTP2 programme (grant number RIA2020I-3294 IMPALA) supported by the European Union and Founders Pledge through GOAL3. Evidence before the studyContinuous monitoring reduces mortality in high-resource settings, but its effectiveness in low-resource contexts remains uncertain. Systems designed for well-resourced environments may not suit settings with high patient-to-staff ratios, power instability, and limited supplies. In Malawi, qualitative findings suggest that the IMPALA monitoring system - including battery-supported automated digital continuous monitoring devices and local server, a tablet decision support app, and staff training - is feasible and potentially beneficial. However, evidence on the potential impact and cost-effectiveness are lacking. Added value of this studyThis study provides empirical evidence that the IMPALA monitoring system is a cost- and life-saving alternative to standard care, which relies on manual intermittent monitoring in low-resource settings. The findings indicate benefits, including saving lives, preventing critical illness events, and reducing disease burden, while lowering inpatient and societal costs by shortening hospital stays on paediatric wards as a spillover effect. Implications of all the available evidenceThis study implies that robust, well-implemented continuous patient monitoring systems can enhance childrens health outcomes and quality of care while reducing costs in a low-resource setting, highlighting the need for its broader implementation to improve paediatric care worldwide.",
+      "year": 2025,
+      "publication_date": "2025-11-02",
+      "paper_id": "69ac88b53c55abe1c8f4eea8deab8ceebcfa2ea9",
+      "url": "https://www.semanticscholar.org/paper/69ac88b53c55abe1c8f4eea8deab8ceebcfa2ea9",
+      "venue": "medRxiv",
+      "doi": "10.1101/2025.10.31.25339214",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
       ]
     },
     {
@@ -7521,6 +7606,27 @@
       ]
     },
     {
+      "title": "Targeted Maximum Likelihood Learning: An Optimization Perspective",
+      "authors": [
+        "Diyang Li",
+        "Kyra Gan"
+      ],
+      "abstract": "Targeted maximum likelihood estimation ( TMLE ) is a widely used debiasing al-gorithm for plug-in estimation. While its statistical guarantees, such as double robustness and asymptotic efﬁciency, are well-studied, the convergence properties of TMLE as an iterative optimization scheme have remained underexplored. To bridge this gap, we study TMLE ’s iterative updates through an optimization-theoretic lens, establishing global convergence under standard assumptions and regularity conditions. We begin by providing the ﬁrst complete characterization of different stopping criteria and their relationship to convergence in TMLE . Next, we provide geometric insights . We show that each submodel induces a smooth, non-self-intersecting path (homotopy) through the probability simplex. We then analyze the solution space of the estimating equation and loss landscape. We show that all valid solutions form a submanifold of the statistical model, with the difference in dimension (i.e., codimension) exactly matching the dimension of the target parameter. Building on these geometric insights, we deliver the ﬁrst strict proof of TMLE ’s convergence from an optimization viewpoint , as well as explicit sufﬁcient criteria under which TMLE terminates in a single update. As a by-product, we discover an unidentiﬁed overshooting phenomenon wherein the algorithm can surpass feasible roots to the estimating equation along a homotopy path, highlighting a promising avenue for designing enhanced debias algorithms.",
+      "year": 2025,
+      "publication_date": null,
+      "paper_id": "83fc5681118b9b9e5e2a5d7b5c34620ace51c235",
+      "url": "https://www.semanticscholar.org/paper/83fc5681118b9b9e5e2a5d7b5c34620ace51c235",
+      "venue": "Neural Information Processing Systems",
+      "doi": "10.52202/085713-4759",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
+      ]
+    },
+    {
       "title": "The Effect of a Life-Stage Based Intervention on Depression in Youth Living with HIV in Kenya and Uganda: Results from the SEARCH-Youth Trial",
       "authors": [
         "F. Mwangwa",
@@ -9312,6 +9418,28 @@
       ]
     },
     {
+      "title": "Doubly Robust Targeted Estimation of Subgroup Average Treatment Effects for Time-to-event Outcomes with Competing Risks",
+      "authors": [
+        "Runjia Li",
+        "V. Talisa",
+        "C. H. Chang"
+      ],
+      "abstract": "In recent years, precision treatment strategies have gained significant attention in medical research, particularly for patient care. We propose a novel framework for estimating subgroup average treatment effects (ATE) in time-to-event data with competing risks, using ICU patients with sepsis as an illustrative example. Our approach, based on cumulative incidence functions and targeted maximum likelihood estimation (TMLE), achieves both asymptotic efficiency and double robustness. The primary contribution of this work lies in our derivation of the efficient influence function for the targeted causal parameter, subgroup ATE. We established the theoretical proofs for these properties, and subsequently confirmed them through simulations. Our TMLE framework is flexible, accommodating various regression and machine learning models, making it applicable in diverse scenarios. In order to identify variables contributing to treatment effect heterogeneity and to facilitate accurate estimation of subgroup ATE, we developed two distinct variable importance measures (VIMs). This work provides a powerful tool for optimizing personalized treatment strategies, furthering the pursuit of precision medicine.",
+      "year": 2024,
+      "publication_date": "2024-07-25",
+      "paper_id": "cb77702a884cbca3ad9538952221025cf19de6f6",
+      "url": "https://www.semanticscholar.org/paper/cb77702a884cbca3ad9538952221025cf19de6f6",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
+      ]
+    },
+    {
       "title": "Duration and timing of depression and risk of family dissolution: A register-based cohort study of newly-formed Danish families.",
       "authors": [
         "Kasper Lolk",
@@ -9846,7 +9974,7 @@
     {
       "title": "IgG Antibody Responses to Epstein-Barr Virus in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Their Effective Potential for Disease Diagnosis and Pathological Antigenic Mimicry",
       "authors": [
-        "A. Fonseca",
+        "André Fonseca",
         "Mateusz Szysz",
         "Hoang Thien Ly",
         "C. Cordeiro",
@@ -13003,7 +13131,7 @@
       "authors": [
         "Ryu Fukase",
         "M. Murakami",
-        "T. Ikeda"
+        "Takaaki Ikeda"
       ],
       "abstract": "Abstract Background The coronavirus disease 2019 (COVID-19) pandemic and associated infodemic increased depression and anxiety. Proper information can help combat the infodemic and promotes mental health; however, rural residents have more difficulties in getting correct information than urban residents. Objective To examine whether the information on COVID-19 provided by the local government maintained the mental health of rural residents in Japan. Methods A self-administered questionnaire survey of Okura Village (northern district of Japan) residents aged ≥16 years was conducted in October 2021. The main outcomes, depressive symptoms, psychological distress, and anxiety were measured using the Center for Epidemiologic Studies Depression Scale, Kessler Psychological Distress Scale, and Generalized Anxiety Disorder scale 7-item. Exposure was defined as whether the resident read the leaflet on COVID-19 distributed by the local government. The targeted maximum likelihood estimation was used to analyse the effect of leaflet reading on the main outcomes. Results A total of 974 respondents were analysed. Reading the leaflet was significantly lower risk for depressive symptoms relative risk (95% confidence interval): 0.64 (0.43–0.95). Meanwhile, no clear effects of leaflet reading were observed on mental distress and anxiety. Conclusions In rural areas with local governments, analogue information may be effective to prevent depression.",
       "year": 2023,
