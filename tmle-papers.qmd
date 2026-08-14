@@ -7,17 +7,17 @@ Auto-updated list of TMLE-related papers tracked from Semantic Scholar queries.
 
 _Note: this list is not complete and may include irrelevant articles; it will be refined over time._
 
-Last refreshed: 2026-08-08T15:33:26Z
+Last refreshed: 2026-08-14T15:03:36Z
 
 Keywords queried: tmle, targeted maximum likelihood estimation, targeted minimum loss based estimation, super learner, super learning, highly adaptive lasso
 
-Total tracked papers: **1118**
+Total tracked papers: **1123**
 
 <!-- monthly-chart:start -->
 
 ## Yearly Papers Trend
 
-Number of papers per year from **2006** to **2025** (coverage: **972/1118** papers with year metadata in range).
+Number of papers per year from **2006** to **2025** (coverage: **975/1123** papers with year metadata in range).
 
 ```{=html}
 <style>
@@ -30,40 +30,40 @@ Number of papers per year from **2006** to **2025** (coverage: **972/1118** pape
 <svg class="yearly-chart-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 280" width="720" height="280" role="img" aria-label="Papers per year line chart">
 <line x1="56" y1="236.00" x2="702" y2="236.00" stroke="#e5e7eb" stroke-width="1"/>
 <text x="48" y="239.00" text-anchor="end">0</text>
-<line x1="56" y1="191.75" x2="702" y2="191.75" stroke="#e5e7eb" stroke-width="1"/>
-<text x="48" y="194.75" text-anchor="end">36</text>
-<line x1="56" y1="147.51" x2="702" y2="147.51" stroke="#e5e7eb" stroke-width="1"/>
-<text x="48" y="150.51" text-anchor="end">72</text>
-<line x1="56" y1="103.26" x2="702" y2="103.26" stroke="#e5e7eb" stroke-width="1"/>
-<text x="48" y="106.26" text-anchor="end">108</text>
-<line x1="56" y1="59.02" x2="702" y2="59.02" stroke="#e5e7eb" stroke-width="1"/>
-<text x="48" y="62.02" text-anchor="end">144</text>
+<line x1="56" y1="191.03" x2="702" y2="191.03" stroke="#e5e7eb" stroke-width="1"/>
+<text x="48" y="194.03" text-anchor="end">37</text>
+<line x1="56" y1="146.06" x2="702" y2="146.06" stroke="#e5e7eb" stroke-width="1"/>
+<text x="48" y="149.06" text-anchor="end">74</text>
+<line x1="56" y1="101.08" x2="702" y2="101.08" stroke="#e5e7eb" stroke-width="1"/>
+<text x="48" y="104.08" text-anchor="end">111</text>
+<line x1="56" y1="56.11" x2="702" y2="56.11" stroke="#e5e7eb" stroke-width="1"/>
+<text x="48" y="59.11" text-anchor="end">148</text>
 <line x1="56" y1="16.00" x2="702" y2="16.00" stroke="#e5e7eb" stroke-width="1"/>
-<text x="48" y="19.00" text-anchor="end">179</text>
+<text x="48" y="19.00" text-anchor="end">181</text>
 <line x1="56" y1="16" x2="56" y2="236" stroke="#374151" stroke-width="1.2"/>
 <line x1="56" y1="236" x2="702" y2="236" stroke="#374151" stroke-width="1.2"/>
-<polygon points="56.00,236.00 56.00,234.77 90.00,236.00 124.00,234.77 158.00,223.71 192.00,227.40 226.00,212.65 260.00,216.34 294.00,222.48 328.00,215.11 362.00,217.56 396.00,204.04 430.00,190.53 464.00,165.94 498.00,172.09 532.00,156.11 566.00,113.09 600.00,105.72 634.00,97.12 668.00,63.93 702.00,16.00 702.00,236.00" fill="#93c5fd" opacity="0.26"/>
-<polyline points="56.00,234.77 90.00,236.00 124.00,234.77 158.00,223.71 192.00,227.40 226.00,212.65 260.00,216.34 294.00,222.48 328.00,215.11 362.00,217.56 396.00,204.04 430.00,190.53 464.00,165.94 498.00,172.09 532.00,156.11 566.00,113.09 600.00,105.72 634.00,97.12 668.00,63.93 702.00,16.00" fill="none" stroke="#1d4ed8" stroke-width="2"/>
-<circle cx="56.00" cy="234.77" r="2.2" fill="#1d4ed8"><title>2006: 1 papers</title></circle>
+<polygon points="56.00,236.00 56.00,234.78 90.00,236.00 124.00,234.78 158.00,223.85 192.00,227.49 226.00,212.91 260.00,216.55 294.00,222.63 328.00,215.34 362.00,217.77 396.00,204.40 430.00,191.03 464.00,166.72 498.00,172.80 532.00,156.99 566.00,114.45 600.00,107.16 634.00,98.65 668.00,64.62 702.00,16.00 702.00,236.00" fill="#93c5fd" opacity="0.26"/>
+<polyline points="56.00,234.78 90.00,236.00 124.00,234.78 158.00,223.85 192.00,227.49 226.00,212.91 260.00,216.55 294.00,222.63 328.00,215.34 362.00,217.77 396.00,204.40 430.00,191.03 464.00,166.72 498.00,172.80 532.00,156.99 566.00,114.45 600.00,107.16 634.00,98.65 668.00,64.62 702.00,16.00" fill="none" stroke="#1d4ed8" stroke-width="2"/>
+<circle cx="56.00" cy="234.78" r="2.2" fill="#1d4ed8"><title>2006: 1 papers</title></circle>
 <circle cx="90.00" cy="236.00" r="2.2" fill="#1d4ed8"><title>2007: 0 papers</title></circle>
-<circle cx="124.00" cy="234.77" r="2.2" fill="#1d4ed8"><title>2008: 1 papers</title></circle>
-<circle cx="158.00" cy="223.71" r="2.2" fill="#1d4ed8"><title>2009: 10 papers</title></circle>
-<circle cx="192.00" cy="227.40" r="2.2" fill="#1d4ed8"><title>2010: 7 papers</title></circle>
-<circle cx="226.00" cy="212.65" r="2.2" fill="#1d4ed8"><title>2011: 19 papers</title></circle>
-<circle cx="260.00" cy="216.34" r="2.2" fill="#1d4ed8"><title>2012: 16 papers</title></circle>
-<circle cx="294.00" cy="222.48" r="2.2" fill="#1d4ed8"><title>2013: 11 papers</title></circle>
-<circle cx="328.00" cy="215.11" r="2.2" fill="#1d4ed8"><title>2014: 17 papers</title></circle>
-<circle cx="362.00" cy="217.56" r="2.2" fill="#1d4ed8"><title>2015: 15 papers</title></circle>
-<circle cx="396.00" cy="204.04" r="2.2" fill="#1d4ed8"><title>2016: 26 papers</title></circle>
-<circle cx="430.00" cy="190.53" r="2.2" fill="#1d4ed8"><title>2017: 37 papers</title></circle>
-<circle cx="464.00" cy="165.94" r="2.2" fill="#1d4ed8"><title>2018: 57 papers</title></circle>
-<circle cx="498.00" cy="172.09" r="2.2" fill="#1d4ed8"><title>2019: 52 papers</title></circle>
-<circle cx="532.00" cy="156.11" r="2.2" fill="#1d4ed8"><title>2020: 65 papers</title></circle>
-<circle cx="566.00" cy="113.09" r="2.2" fill="#1d4ed8"><title>2021: 100 papers</title></circle>
-<circle cx="600.00" cy="105.72" r="2.2" fill="#1d4ed8"><title>2022: 106 papers</title></circle>
-<circle cx="634.00" cy="97.12" r="2.2" fill="#1d4ed8"><title>2023: 113 papers</title></circle>
-<circle cx="668.00" cy="63.93" r="2.2" fill="#1d4ed8"><title>2024: 140 papers</title></circle>
-<circle cx="702.00" cy="16.00" r="2.2" fill="#1d4ed8"><title>2025: 179 papers</title></circle>
+<circle cx="124.00" cy="234.78" r="2.2" fill="#1d4ed8"><title>2008: 1 papers</title></circle>
+<circle cx="158.00" cy="223.85" r="2.2" fill="#1d4ed8"><title>2009: 10 papers</title></circle>
+<circle cx="192.00" cy="227.49" r="2.2" fill="#1d4ed8"><title>2010: 7 papers</title></circle>
+<circle cx="226.00" cy="212.91" r="2.2" fill="#1d4ed8"><title>2011: 19 papers</title></circle>
+<circle cx="260.00" cy="216.55" r="2.2" fill="#1d4ed8"><title>2012: 16 papers</title></circle>
+<circle cx="294.00" cy="222.63" r="2.2" fill="#1d4ed8"><title>2013: 11 papers</title></circle>
+<circle cx="328.00" cy="215.34" r="2.2" fill="#1d4ed8"><title>2014: 17 papers</title></circle>
+<circle cx="362.00" cy="217.77" r="2.2" fill="#1d4ed8"><title>2015: 15 papers</title></circle>
+<circle cx="396.00" cy="204.40" r="2.2" fill="#1d4ed8"><title>2016: 26 papers</title></circle>
+<circle cx="430.00" cy="191.03" r="2.2" fill="#1d4ed8"><title>2017: 37 papers</title></circle>
+<circle cx="464.00" cy="166.72" r="2.2" fill="#1d4ed8"><title>2018: 57 papers</title></circle>
+<circle cx="498.00" cy="172.80" r="2.2" fill="#1d4ed8"><title>2019: 52 papers</title></circle>
+<circle cx="532.00" cy="156.99" r="2.2" fill="#1d4ed8"><title>2020: 65 papers</title></circle>
+<circle cx="566.00" cy="114.45" r="2.2" fill="#1d4ed8"><title>2021: 100 papers</title></circle>
+<circle cx="600.00" cy="107.16" r="2.2" fill="#1d4ed8"><title>2022: 106 papers</title></circle>
+<circle cx="634.00" cy="98.65" r="2.2" fill="#1d4ed8"><title>2023: 113 papers</title></circle>
+<circle cx="668.00" cy="64.62" r="2.2" fill="#1d4ed8"><title>2024: 141 papers</title></circle>
+<circle cx="702.00" cy="16.00" r="2.2" fill="#1d4ed8"><title>2025: 181 papers</title></circle>
 <line x1="56.00" y1="236" x2="56.00" y2="240" stroke="#374151" stroke-width="1"/>
 <text x="56.00" y="252" text-anchor="middle">2006</text>
 <line x1="90.00" y1="236" x2="90.00" y2="240" stroke="#374151" stroke-width="1"/>
@@ -116,7 +116,7 @@ Number of papers per year from **2006** to **2025** (coverage: **972/1118** pape
 
 ## Contributor Ranking
 
-Bars show contributors with at least 2 papers, sorted left to right by paper count. Total shown: **852**.
+Bars show contributors with at least 2 papers, sorted left to right by paper count. Total shown: **855**.
 
 ```{=html}
 <style>
@@ -248,7 +248,6 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Yohann Foucher: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.31px"></div><div class="contrib-label"><span>Yohann Foucher</span></div></div>
     <div class="contrib-item" title="Alan S. Go: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.05px"></div><div class="contrib-label"><span>Alan S. Go</span></div></div>
     <div class="contrib-item" title="Amir Almasi-Hashiani: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.05px"></div><div class="contrib-label"><span>Amir Almasi-Hashiani</span></div></div>
-    <div class="contrib-item" title="Andrew Wilson: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.05px"></div><div class="contrib-label"><span>Andrew Wilson</span></div></div>
     <div class="contrib-item" title="B. Mukherjee: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.05px"></div><div class="contrib-label"><span>B. Mukherjee</span></div></div>
     <div class="contrib-item" title="B. Zareini: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.05px"></div><div class="contrib-label"><span>B. Zareini</span></div></div>
     <div class="contrib-item" title="Carina Marquez: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.05px"></div><div class="contrib-label"><span>Carina Marquez</span></div></div>
@@ -308,6 +307,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Adriano Dias: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Adriano Dias</span></div></div>
     <div class="contrib-item" title="Anders Juul: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Anders Juul</span></div></div>
     <div class="contrib-item" title="Andrew Nguyen: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Andrew Nguyen</span></div></div>
+    <div class="contrib-item" title="Andrew Wilson: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Andrew Wilson</span></div></div>
     <div class="contrib-item" title="Anne Ruhweza Katahoire: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Anne Ruhweza Katahoire</span></div></div>
     <div class="contrib-item" title="Arman Alam Siddique: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Arman Alam Siddique</span></div></div>
     <div class="contrib-item" title="Awa Diop: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Awa Diop</span></div></div>
@@ -363,6 +363,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Kelly L. Moore: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Kelly L. Moore</span></div></div>
     <div class="contrib-item" title="Kirsten E. Landsiedel: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Kirsten E. Landsiedel</span></div></div>
     <div class="contrib-item" title="Kook-Hwan Oh: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Kook-Hwan Oh</span></div></div>
+    <div class="contrib-item" title="Kyra Gan: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Kyra Gan</span></div></div>
     <div class="contrib-item" title="L. Amusa: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>L. Amusa</span></div></div>
     <div class="contrib-item" title="L. Laan: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>L. Laan</span></div></div>
     <div class="contrib-item" title="L.-C. Wang: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>L.-C. Wang</span></div></div>
@@ -432,6 +433,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Yun Jung Oh: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yun Jung Oh</span></div></div>
     <div class="contrib-item" title="Yunda Huang: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yunda Huang</span></div></div>
     <div class="contrib-item" title="Ze-Yu Wang: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Ze-Yu Wang</span></div></div>
+    <div class="contrib-item" title="Ângela Jornada Ben: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Ângela Jornada Ben</span></div></div>
     <div class="contrib-item" title="A. Boulle: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>A. Boulle</span></div></div>
     <div class="contrib-item" title="A. Boyd: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>A. Boyd</span></div></div>
     <div class="contrib-item" title="A. Chokkalingam: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>A. Chokkalingam</span></div></div>
@@ -719,7 +721,6 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Kristin C. Caolo: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Kristin C. Caolo</span></div></div>
     <div class="contrib-item" title="Kristin E. Porter: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Kristin E. Porter</span></div></div>
     <div class="contrib-item" title="Kristin M Follmer: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Kristin M Follmer</span></div></div>
-    <div class="contrib-item" title="Kyra Gan: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Kyra Gan</span></div></div>
     <div class="contrib-item" title="L. Barcellos: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>L. Barcellos</span></div></div>
     <div class="contrib-item" title="L. Blais: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>L. Blais</span></div></div>
     <div class="contrib-item" title="L. Cushing: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>L. Cushing</span></div></div>
@@ -761,6 +762,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="M. Eberg: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>M. Eberg</span></div></div>
     <div class="contrib-item" title="M. Glymour: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>M. Glymour</span></div></div>
     <div class="contrib-item" title="M. Goma: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>M. Goma</span></div></div>
+    <div class="contrib-item" title="M. Gregg: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>M. Gregg</span></div></div>
     <div class="contrib-item" title="M. Hassanzadeh: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>M. Hassanzadeh</span></div></div>
     <div class="contrib-item" title="M. Hindborg: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>M. Hindborg</span></div></div>
     <div class="contrib-item" title="M. Hivert: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>M. Hivert</span></div></div>
@@ -868,6 +870,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Robert Gross: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Robert Gross</span></div></div>
     <div class="contrib-item" title="Ronit Gupta: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Ronit Gupta</span></div></div>
     <div class="contrib-item" title="Ruhollah Taghizadeh‐Mehrjardi: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Ruhollah Taghizadeh‐Mehrjardi</span></div></div>
+    <div class="contrib-item" title="Runjia Li: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Runjia Li</span></div></div>
     <div class="contrib-item" title="S. Akhtar: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>S. Akhtar</span></div></div>
     <div class="contrib-item" title="S. Daneshmand: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>S. Daneshmand</span></div></div>
     <div class="contrib-item" title="S. Jafarzadeh: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>S. Jafarzadeh</span></div></div>
@@ -943,6 +946,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="V. De Gruttola: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>V. De Gruttola</span></div></div>
     <div class="contrib-item" title="V. Jain: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>V. Jain</span></div></div>
     <div class="contrib-item" title="V. Ress: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>V. Ress</span></div></div>
+    <div class="contrib-item" title="V. Talisa: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>V. Talisa</span></div></div>
     <div class="contrib-item" title="Vanessa Didelez: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Vanessa Didelez</span></div></div>
     <div class="contrib-item" title="Vincent X. Liu: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Vincent X. Liu</span></div></div>
     <div class="contrib-item" title="Viraj A Master: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Viraj A Master</span></div></div>
@@ -983,7 +987,6 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Zhengping Che: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Zhengping Che</span></div></div>
     <div class="contrib-item" title="Ziqing Hei: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Ziqing Hei</span></div></div>
     <div class="contrib-item" title="Ziyue Wu: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Ziyue Wu</span></div></div>
-    <div class="contrib-item" title="Ângela Jornada Ben: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Ângela Jornada Ben</span></div></div>
     <div class="contrib-item" title="Özer Depren: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Özer Depren</span></div></div>
   </div>
 </div>
@@ -1007,7 +1010,7 @@ Papers are grouped by publication year. Expand a year to browse papers. Only pap
 .paper-year > .paper-item > summary { cursor: pointer; }
 </style>
 <details class="paper-year">
-  <summary><strong>2026 (135 papers)</strong></summary>
+  <summary><strong>2026 (137 papers)</strong></summary>
 
 <details class="paper-item">
   <summary><strong>2026-08-05 — A Unified Causal Inference Framework for the Desirability of Outcome Ranking Paradigm in Benefit-Risk Evaluation</strong></summary>
@@ -1021,6 +1024,23 @@ Papers are grouped by publication year. Expand a year to browse papers. Only pap
 </p>
 <p><strong>Abstract</strong>:<br>
 We developed a unified covariate-adjusted causal inference framework for estimating the desirability of outcome ranking (DOOR) probability for benefit-risk evaluation in randomized trials and observational studies. The framework expresses the DOOR probability as a bilinear functional of the marginal ordinal outcome distributions under the two treatment strategies, estimates conditional ordinal distributions through sequential risk-set hazards, and derives the efficient influence function (EIF) of the DOOR probability. The point-estimation simulations compared G-computation, normalized inverse probability weighting (IPW), augmented IPW (AIPW), and targeted maximum likelihood estimation (TMLE), with nuisance functions estimated using generalized linear models or Super Learner (SL). TMLE-SL showed the strongest and most consistent point-estimation performance, with AIPW-SL ranking second. EIF-based inference was then evaluated for AIPW-SL and TMLE-SL, with and without cross-fitting, across settings varying in overlap, treatment-effect heterogeneity, and treatment allocation. CVTMLE-SL showed the strongest overall performance across DOOR-scale bias, recovery of the underlying ordinal distributions, standard-error accuracy, and confidence-interval coverage. We illustrate the methodology using data from the multidrug-resistant organism network of the Antibacterial Resistance Leadership Group.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2026-08-01 — Causal analysis of radiation dose to the base of the heart and overall survival in lung cancer using targeted maximum likelihood estimation</strong></summary>
+
+<p>
+<strong>Authors</strong>: B. Jiang, M. Summers, E. Osorio, K. Banfill, J. Hartfold, C. Faivre-Finn, A. McWilliam<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-08-01<br>
+<strong>Venue</strong>: European Heart Journal, Supplement<br>
+<strong>DOI</strong>: 10.1093/eurheartjsupp/suag097.012<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/b04fa208b53d171c0dd0500655cb68af29e14c4c">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: targeted maximum likelihood estimation, tmle
+</p>
+<p><strong>Abstract</strong>:<br>
+Radical radiotherapy is delivered with curative intent in approximately 40% of patients with lung cancer. The RTOG 0617 trial and subsequent studies demonstrated that higher cardiac radiation exposure is associated with increased mortality. As clinical equipoise precludes randomisation to different cardiac dose limits, estimation of the causal effect of cardiac radiation dose on survival must rely on observational data. Traditional analyses have relied on multivariable regression models incorporating heart dose parameters and cardiac risk factors, but failure to consider causal structure may induce confounding bias. Targeted maximum likelihood estimation (TMLE) integrates machine learning to estimate outcome and treatment assignment models, approximating a randomised comparison within observational data and providing reliable effect estimates even if one model is misspecified. Previous work has identified radiation dose to the base of the heart as being associated with increased mortality. However, the causal effect of radiation dose to the base of the heart on overall survival remains unclear. We therefore aimed to estimate this effect using a target trial emulation framework with TMLE. The study included 1,051 patients with lung cancer treated with radiotherapy at a tertiary cancer centre between 2010 and 2013, with time zero defined as radiotherapy initiation. Radiation dose to the base of the heart was categorized as low (0–11.26 Gy), medium (11.26–23.34 Gy), or high (23.34–48.85 Gy). Overall survival was defined from radiotherapy initiation to death or censoring at last follow-up. The causal estimand was defined as time-specific differences in survival probability between dose groups. A directed acyclic graph (DAG) identified the minimal adjustment set. TMLE was applied to compare overall survival across dose groups over a 2-year follow-up. After dose categorization, 367 patients were included per group, with approximately 300 retained per group in complete-case analyses. The DAG identified age, tumor volume, tumor location, T stage, M stage, and radiotherapy modality as the minimal adjustment set. No meaningful survival difference was observed between the low- and medium-dose groups. In the high- versus low-dose comparison, survival differences emerged early and became consistent after approximately 5 months, peaking during mid follow-up and remaining evident through the end of follow-up. In the high- versus medium-dose comparison, survival differences showed transient mid follow-up significance and did not become consistently significant until approximately 15 months. Under causal assumptions within regions of sufficient overlap, higher radiation dose to the base of the heart was associated with distinct time-varying survival differences. Further studies should explore dose–response patterns across cardiac substructures within a causal analysis framework.High–low survival difference (TMLE) High–medium survival difference (TMLE)
 </p>
 </details>
 
@@ -1361,23 +1381,6 @@ Purpose. Confounding adjustment in health-care database studies screens large pr
 </details>
 
 <details class="paper-item">
-  <summary><strong>2026-07-06 — Super Learner-based Ensemble Framework for Improved Classification of Lung Cancer Levels</strong></summary>
-
-<p>
-<strong>Authors</strong>: P. Jecintha, Dr. R. Jayakarthik<br>
-<strong>Year</strong>: 2026<br>
-<strong>Publication Date</strong>: 2026-07-06<br>
-<strong>Venue</strong>: 2026 6th International Conference on Inventive Computation and Information Technologies (ICICIT)<br>
-<strong>DOI</strong>: 10.1109/ICICIT69063.2026.11633925<br>
-<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/a7b57e1c6ca81b00500b07b2e65cf838433afca5">Semantic Scholar</a><br>
-<strong>Matched Keywords</strong>: super learner
-</p>
-<p><strong>Abstract</strong>:<br>
-Abstract unavailable from Semantic Scholar.
-</p>
-</details>
-
-<details class="paper-item">
   <summary><strong>2026-07-06 — GLP Medications and Severe Post-COVID-19 Outcomes Among Individuals with Type 2 Diabetes Mellitus</strong></summary>
 
 <p>
@@ -1451,6 +1454,23 @@ Augmenting a randomized controlled trial with real-world data promises greater e
 </p>
 <p><strong>Abstract</strong>:<br>
 We consider efficient estimation of causal parameters in longitudinal two-stage designs with outcome subsampling, motivated by resampling designs in HIV-related mortality studies. In these studies, many participants become lost to follow-up; resampling designs address this by tracing a subset of lost individuals to ascertain their outcomes. Analyses often use inverse-probability-weighted Kaplan-Meier (wKM) estimators that discard longitudinal covariate information and suffer from efficiency losses. We note that resampling designs are an instance of a broader class: two-stage designs with outcome subsampling, in which a first stage collects some data on all participants and a second stage collects outcome information on a selected subset. This connection motivates two estimators. First, drawing on inverse probability of censoring weighted targeted maximum likelihood estimation (IPCW-TMLE) for two-stage designs, we develop its longitudinal extension, IPCW longitudinal TMLE (IPCW-LTMLE) and show that estimating and targeting the known second-stage sampling weights yields variance reductions of up to 36% over the use of known sampling probabilities. Second, given that inverse weighting sacrifices efficiency, we propose an LTMLE that incorporates the second-stage sampling indicator as an intervention node in the sequential regression framework, returning to plug-in estimation and avoiding inverse weighting entirely. Simulations across sample sizes show that LTMLE achieves up to 73% lower variance than wKM with known sampling weights, with reductions of 30-50% common across settings, while IPCW-LTMLE achieves consistent gains of 20-35%. We further demonstrate that cross-fitted variance estimation is essential for valid inference: standard variance estimators yield confidence interval coverage as low as 76%, while our cross-fitted variants consistently restore coverage to nominal levels.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2026-07-01 — Super Learner-based Ensemble Framework for Improved Classification of Lung Cancer Levels</strong></summary>
+
+<p>
+<strong>Authors</strong>: P. Jecintha, Dr. R. Jayakarthik<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-07-01<br>
+<strong>Venue</strong>: 2026 6th International Conference on Inventive Computation and Information Technologies (ICICIT)<br>
+<strong>DOI</strong>: 10.1109/ICICIT69063.2026.11633925<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/a7b57e1c6ca81b00500b07b2e65cf838433afca5">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: super learner
+</p>
+<p><strong>Abstract</strong>:<br>
+Lung cancer (LC) is the most life-threatening diseases globally that accounted to a significant proportion of cancer-based deaths. The key to improve patient survival rates depend on the ability in detecting the disease at its earliest stages, in which the treatment options are more effectual, and outcomes have become more favourable. However, conventional diagnostic methods often failed in accomplishing timely detection that leads to late-stage diagnoses and reduced survival rate probabilities. To address this challenge, the present research focuses on the development of an advanced predictive model using the Machine Learning (ML) framework. ML in medical data detection helps identify patterns, anomalies together with diseases from complex datasets, improving accuracy and speed of diagnosis. By combining diverse ML models, the Superlearner systematically minimizes errors along with generation of more robust classification outcomes compared to traditional single-model techniques. Superlearner is an Ensemble Learning (EL) approach that integrates the strengths of several base learners for enhancing predictive accuracy and reliability. In this study, the proposed Superlearner model is specifically designed for improving the classification of lung cancer levels, enabling precise detection of disease progression stages. Based on the adaptive learning process, the model demonstrates the ability to achieve high accuracy in predicting lung cancer severity, thereby supporting clinicians in making better-informed decisions for early intervention and treatment planning. The findings underscore the potential of the Superlearner model as a promising advancement in medical data analysis together with predictive diagnostics. Ultimately, this research highlights how EL techniques can significantly improve patient outcomes through early and accurate diagnosis.
 </p>
 </details>
 
@@ -1644,6 +1664,8 @@ Survival analysis in head and neck squamous cell carcinoma (HNSCC) is traditiona
 <strong>Authors</strong>: Masahiro Kato<br>
 <strong>Year</strong>: 2026<br>
 <strong>Publication Date</strong>: 2026-06-11<br>
+<strong>Venue</strong>: arXiv.org<br>
+<strong>DOI</strong>: 10.48550/arXiv.2606.12892<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/a4bd702c1f3276b78ecc1c52303c4587cc026d4e">Semantic Scholar</a><br>
 <strong>Matched Keywords</strong>: tmle
 </p>
@@ -3236,10 +3258,25 @@ Introduction To examine within-class sulfonylurea safety, we compared risks of m
 </p>
 </details>
 
+<details class="paper-item">
+  <summary><strong>2026 — Causal AI for Real-World Data</strong></summary>
+
+<p>
+<strong>Authors</strong>: M. Gregg, Andy Wilson<br>
+<strong>Year</strong>: 2026<br>
+<strong>DOI</strong>: 10.61700/eh6vg02sypr7n2237<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/4453a8cdc7ae7562d82ccae07959661c4256a25e">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: tmle
+</p>
+<p><strong>Abstract</strong>:<br>
+Causal AI for Real-World Data provides a compact, rigorous, hands‑on treatment of contemporary causal inference, guiding researchers from question specification and DAG‑based identification to defensible estimation and sensitivity analysis of observational health data. Participants will learn to apply the Causal Roadmap and implement state‑of‑the‑art tools in R and Python — including DAG construction and causal discovery, propensity methods, g‑computation, TMLE with SuperLearner, double machine learning, and VAE‑based generative validation — and leave with reproducible artifacts to support transparent, peer‑reviewable causal claims.
+</p>
+</details>
+
 </details>
 
 <details class="paper-year">
-  <summary><strong>2025 (179 papers)</strong></summary>
+  <summary><strong>2025 (181 papers)</strong></summary>
 
 <details class="paper-item">
   <summary><strong>2025-12-30 — Causal Inference in High-Dimensional Settings: Machine Learning Integration and Recent Advances</strong></summary>
@@ -3723,6 +3760,23 @@ Structural equation modeling (SEM) and path analysis have long been central tool
 </p>
 <p><strong>Abstract</strong>:<br>
 Structural Equation Modeling (SEM) has gained popularity in the social sciences and causal inference due to its flexibility in modeling complex relationships between variables and its availability in modern statistical software. To move beyond the parametric assumptions of SEM, this paper reviews targeted maximum likelihood estimation (TMLE), a doubly robust, machine learning-based approach that builds on nonparametric SEM. We demonstrate that both TMLE and SEM can be used to estimate standard causal effects and show that TMLE is robust to model misspecification. We conducted simulation studies under both correct and misspecified model conditions, implementing SEM and TMLE to estimate these causal effects. The simulations confirm that TMLE consistently outperforms SEM under misspecification in terms of bias, mean squared error, and the validity of confidence intervals. We applied both approaches to a real-world dataset to analyze the mediation effects of poverty on access to high school, revealing that the direct effect is no longer significant under TMLE, whereas SEM indicates significance. We conclude with practical guidance on using SEM and TMLE in light of recent developments in targeted learning for causal inference.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2025-11-02 — Cost-Effectiveness of the IMPALA Monitoring System for Hospitalised Children in Low-Resource Settings: A Pragmatic Before-and-After Study</strong></summary>
+
+<p>
+<strong>Authors</strong>: Â. Jornada Ben, D. Mwale, P. Jansen, O. Mtambo, N. Versteegde, E. Geubbels, J. Calis, J. Chikwana, I. Study Team, J. Chinkhumba, W. Janssens<br>
+<strong>Year</strong>: 2025<br>
+<strong>Publication Date</strong>: 2025-11-02<br>
+<strong>Venue</strong>: medRxiv<br>
+<strong>DOI</strong>: 10.1101/2025.10.31.25339214<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/69ac88b53c55abe1c8f4eea8deab8ceebcfa2ea9">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: targeted maximum likelihood estimation
+</p>
+<p><strong>Abstract</strong>:<br>
+BackgroundStaff shortages, limited training, and inadequate hospital equipment often delay responses to patient deterioration in low-resource settings. The IMPALA continuous monitoring system was developed to support proactive care for critically ill children in such settings. This study evaluated IMPALA cost-effectiveness compared with current practice manual intermittent monitoring from provider and societal perspectives. MethodsWe conducted an economic evaluation based on a before-and-after cohort of children (0 to 180 months) admitted to Zomba Central Hospital (ZCH) and St. Lukes Hospital (SLH), Malawi (2022 to 2024), where IMPALA was implemented in high-dependency units (HDUs). Targeted maximum likelihood estimation assessed percentage point (pp) differences in mortality, critical illness events (CIEs), disability-adjusted life years (DALYs), and costs (medical, non-medical, indirect). Incremental cost-effectiveness ratios (ICERs) and cost-effectiveness probabilities were calculated for different willingness-to-pay thresholds. FindingsAt ZCH paediatric ward, 1 840 pre- and 6 255 post-IMPALA children were included; 248 and 736 were admitted to the HDU. Ward mortality decreased (3.7% to 2.8%), with an adjusted 1.9pp reduction (95%CI: - 3.8;-0.6). At ZCH-HDU, mortality slightly increased (8.1% to 9.0%), but IMPALA was associated with an adjusted 9.8pp reduction (95%CI: -26.5;5.0), a 47.1pp decrease in CIEs (95%CI: -52.9;-41.8), and 5.4 DALYs averted (95%CI: -14.2;3.1). At SLH paediatric ward, mortality decreased (4.0% to 2.1%), with an adjusted 1.6pp reduction (95%CI: -3.2;-0.2), a 25.5pp decrease in CIEs (95% CI: -30.1;-20.9), and 1.0 DALYs averted (95% CI: -1.9;-0.1). Provider and societal costs decreased in both wards, but not in the HDU. IMPALA was dominant in wards and slightly more costly but more effective in the HDU (ICERs -$22.5 to $0.4 per life saved). Cost-effectiveness probabilities ranged from 0.8 to 1.0 in wards and 0.3 to 1.0 in the HDU. InterpretationIMPALA was highly cost-effective, reducing mortality by &gt;40%, morbidity by &gt;50%, increasing DALYs averted, shortening hospital stays, and lowering costs, with spillover benefits from HDUs to wards. FundingThis project is part of the EDCTP2 programme (grant number RIA2020I-3294 IMPALA) supported by the European Union and Founders Pledge through GOAL3. Evidence before the studyContinuous monitoring reduces mortality in high-resource settings, but its effectiveness in low-resource contexts remains uncertain. Systems designed for well-resourced environments may not suit settings with high patient-to-staff ratios, power instability, and limited supplies. In Malawi, qualitative findings suggest that the IMPALA monitoring system - including battery-supported automated digital continuous monitoring devices and local server, a tablet decision support app, and staff training - is feasible and potentially beneficial. However, evidence on the potential impact and cost-effectiveness are lacking. Added value of this studyThis study provides empirical evidence that the IMPALA monitoring system is a cost- and life-saving alternative to standard care, which relies on manual intermittent monitoring in low-resource settings. The findings indicate benefits, including saving lives, preventing critical illness events, and reducing disease burden, while lowering inpatient and societal costs by shortening hospital stays on paediatric wards as a spillover effect. Implications of all the available evidenceThis study implies that robust, well-implemented continuous patient monitoring systems can enhance childrens health outcomes and quality of care while reducing costs in a low-resource setting, highlighting the need for its broader implementation to improve paediatric care worldwide.
 </p>
 </details>
 
@@ -6075,6 +6129,22 @@ Abstract Background We investigate which procedure selects the most trustworthy 
 </details>
 
 <details class="paper-item">
+  <summary><strong>2025 — Targeted Maximum Likelihood Learning: An Optimization Perspective</strong></summary>
+
+<p>
+<strong>Authors</strong>: Diyang Li, Kyra Gan<br>
+<strong>Year</strong>: 2025<br>
+<strong>Venue</strong>: Neural Information Processing Systems<br>
+<strong>DOI</strong>: 10.52202/085713-4759<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/83fc5681118b9b9e5e2a5d7b5c34620ace51c235">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: targeted maximum likelihood estimation, tmle
+</p>
+<p><strong>Abstract</strong>:<br>
+Targeted maximum likelihood estimation ( TMLE ) is a widely used debiasing al-gorithm for plug-in estimation. While its statistical guarantees, such as double robustness and asymptotic efﬁciency, are well-studied, the convergence properties of TMLE as an iterative optimization scheme have remained underexplored. To bridge this gap, we study TMLE ’s iterative updates through an optimization-theoretic lens, establishing global convergence under standard assumptions and regularity conditions. We begin by providing the ﬁrst complete characterization of different stopping criteria and their relationship to convergence in TMLE . Next, we provide geometric insights . We show that each submodel induces a smooth, non-self-intersecting path (homotopy) through the probability simplex. We then analyze the solution space of the estimating equation and loss landscape. We show that all valid solutions form a submanifold of the statistical model, with the difference in dimension (i.e., codimension) exactly matching the dimension of the target parameter. Building on these geometric insights, we deliver the ﬁrst strict proof of TMLE ’s convergence from an optimization viewpoint , as well as explicit sufﬁcient criteria under which TMLE terminates in a single update. As a by-product, we discover an unidentiﬁed overshooting phenomenon wherein the algorithm can surpass feasible roots to the estimating equation along a homotopy path, highlighting a promising avenue for designing enhanced debias algorithms.
+</p>
+</details>
+
+<details class="paper-item">
   <summary><strong>2025-01-01 — Symmetrical &quot;super learning&quot;: Enhancing causal learning using a bidirectional probabilistic outcome.</strong></summary>
 
 <p>
@@ -6243,7 +6313,7 @@ PURPOSE Epidemiologic studies are important in assessing risk factors of mortali
 </details>
 
 <details class="paper-year">
-  <summary><strong>2024 (140 papers)</strong></summary>
+  <summary><strong>2024 (141 papers)</strong></summary>
 
 <details class="paper-item">
   <summary><strong>2024-12-31 — Semiparametric efficient estimation of small genetic effects in large-scale population cohorts</strong></summary>
@@ -7354,6 +7424,21 @@ Metabolomics has been used extensively to capture the exposome. We investigated 
 </p>
 <p><strong>Abstract</strong>:<br>
 BACKGROUND The purpose of this study was to develop and validate a mortality risk algorithm for pediatric surgery patients treated at KidsOR sites in 14 low- and middle-income countries. METHODS A SuperLearner machine learning algorithm was trained to predict post-operative mortality by hospital discharge using the retrospectively and prospectively collected KidsOR database including patients treated at 20 KidsOR sites from June 2018 to June 2023. Algorithm performance was evaluated by internal-external cross-validated AUC and calibration. FINDINGS Of 23,905 eligible patients, 21,703 with discharge status recorded were included in the analysis, representing a post-operative mortality rate of 3.1% (671 mortality events). The candidate algorithm with the best cross-validated performance was an extreme gradient boosting model. The cross-validated AUC was 0.945 (95% CI 0.936 to 0.954) and cross-validated calibration slope and intercept were 1.01 (95% CI 0.96 to 1.06) and 0.05 (95% CI -0.10 to 0.21). For Super Learner models trained on all but one site and evaluated in the holdout site for sites with at least 25 mortality events, overall external validation AUC was 0.864 (95% CI 0.846 to 0.882) with calibration slope and intercept of 1.03 (95% CI 0.97 to 1.09) and 1.18 (95% CI 0.98 to 1.39). INTERPRETATION The KidsOR post-operative mortality risk algorithm had outstanding cross-validated discrimination and strong cross-validated calibration. Across all external validation sites, discrimination of Super Learner models trained on the remaining sites was excellent, though re-calibration may be necessary prior to use at new sites. This model has the potential to inform clinical practice and guide resource allocation at KidsOR sites world-wide. TYPE OF STUDY AND LEVEL OF EVIDENCE Observational Study, Level III.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2024-07-25 — Doubly Robust Targeted Estimation of Subgroup Average Treatment Effects for Time-to-event Outcomes with Competing Risks</strong></summary>
+
+<p>
+<strong>Authors</strong>: Runjia Li, V. Talisa, C. H. Chang<br>
+<strong>Year</strong>: 2024<br>
+<strong>Publication Date</strong>: 2024-07-25<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/cb77702a884cbca3ad9538952221025cf19de6f6">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: targeted maximum likelihood estimation, tmle
+</p>
+<p><strong>Abstract</strong>:<br>
+In recent years, precision treatment strategies have gained significant attention in medical research, particularly for patient care. We propose a novel framework for estimating subgroup average treatment effects (ATE) in time-to-event data with competing risks, using ICU patients with sepsis as an illustrative example. Our approach, based on cumulative incidence functions and targeted maximum likelihood estimation (TMLE), achieves both asymptotic efficiency and double robustness. The primary contribution of this work lies in our derivation of the efficient influence function for the targeted causal parameter, subgroup ATE. We established the theoretical proofs for these properties, and subsequently confirmed them through simulations. Our TMLE framework is flexible, accommodating various regression and machine learning models, making it applicable in diverse scenarios. In order to identify variables contributing to treatment effect heterogeneity and to facilitate accurate estimation of subgroup ATE, we developed two distinct variable importance measures (VIMs). This work provides a powerful tool for optimizing personalized treatment strategies, furthering the pursuit of precision medicine.
 </p>
 </details>
 
@@ -8521,7 +8606,7 @@ Abstract Objectives Highly flexible nonparametric estimators have gained popular
   <summary><strong>2024-01-01 — IgG Antibody Responses to Epstein-Barr Virus in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Their Effective Potential for Disease Diagnosis and Pathological Antigenic Mimicry</strong></summary>
 
 <p>
-<strong>Authors</strong>: A. Fonseca, Mateusz Szysz, Hoang Thien Ly, C. Cordeiro, N. Sepúlveda<br>
+<strong>Authors</strong>: André Fonseca, Mateusz Szysz, Hoang Thien Ly, C. Cordeiro, N. Sepúlveda<br>
 <strong>Year</strong>: 2024<br>
 <strong>Publication Date</strong>: 2024-01-01<br>
 <strong>Venue</strong>: Medicina<br>
@@ -9659,7 +9744,7 @@ In a real-world observational data analysis setting, guessing the true model spe
   <summary><strong>2023-05-19 — Leaflet information by the local government on mental health during the coronavirus disease 2019 pandemic: a cross-sectional study in a rural area in Japan</strong></summary>
 
 <p>
-<strong>Authors</strong>: Ryu Fukase, M. Murakami, T. Ikeda<br>
+<strong>Authors</strong>: Ryu Fukase, M. Murakami, Takaaki Ikeda<br>
 <strong>Year</strong>: 2023<br>
 <strong>Publication Date</strong>: 2023-05-19<br>
 <strong>Venue</strong>: Family Practice<br>
