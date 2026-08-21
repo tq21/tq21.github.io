@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T15:03:36Z",
+  "generated_at": "2026-08-21T15:03:34Z",
   "source": "Semantic Scholar Graph API",
   "unauthenticated": true,
   "mode": "bulk",
@@ -18,7 +18,7 @@
   "query_stats": [
     {
       "keyword": "tmle",
-      "fetched_raw_count": 504
+      "fetched_raw_count": 507
     },
     {
       "keyword": "targeted maximum likelihood estimation",
@@ -26,11 +26,11 @@
     },
     {
       "keyword": "targeted minimum loss based estimation",
-      "fetched_raw_count": 351
+      "fetched_raw_count": 352
     },
     {
       "keyword": "super learner",
-      "fetched_raw_count": 1049
+      "fetched_raw_count": 1054
     },
     {
       "keyword": "super learning",
@@ -43,85 +43,191 @@
   ],
   "query_errors": [],
   "incomplete": false,
-  "fetched_paper_count": 970,
-  "newly_appended_count": 5,
-  "updated_existing_count": 4,
+  "fetched_paper_count": 981,
+  "newly_appended_count": 11,
+  "updated_existing_count": 1,
   "existing_blocked_removed": 0,
   "existing_duplicates_removed": 0,
   "newly_added_papers": [
     {
-      "title": "Causal AI for Real-World Data",
+      "title": "A Causal Inference Approach for Evaluating Diagnostic Tests and AI-Enabled Medical Devices: From Effect Modification to Information-Augmented Decision-Making",
       "year": 2026,
       "authors": [
-        "M. Gregg",
-        "Andy Wilson"
+        "Wenxin Zhang",
+        "Rachael V. Phillips",
+        "M. V. D. Laan"
       ],
-      "publication_date": null,
-      "doi": "10.61700/eh6vg02sypr7n2237",
-      "paper_id": "4453a8cdc7ae7562d82ccae07959661c4256a25e"
+      "publication_date": "2026-08-19",
+      "doi": null,
+      "paper_id": "20fe1ecccf1577ca0b2c8970774dbb9482dae339"
     },
     {
-      "title": "Causal analysis of radiation dose to the base of the heart and overall survival in lung cancer using targeted maximum likelihood estimation",
+      "title": "Artificial intelligence–driven prediction on oil formation volume factor for Niger delta region",
       "year": 2026,
       "authors": [
-        "B. Jiang",
-        "M. Summers",
-        "E. Osorio",
-        "K. Banfill",
-        "J. Hartfold",
-        "C. Faivre-Finn",
-        "A. McWilliam"
+        "Mbachu Ijeoma Irene",
+        "Ojonugwa David Micheal"
+      ],
+      "publication_date": "2026-08-31",
+      "doi": "10.56781/ijsret.2026.8.1.0017",
+      "paper_id": "183505f4597a2ebc4385f57f5aeb2bfb9e1818c6"
+    },
+    {
+      "title": "Early Surgery and Outcomes in Severe Burns: A Prospective Multicenter Observational Study.",
+      "year": 2026,
+      "authors": [
+        "Matthieu Legrand",
+        "C. Hoffmann",
+        "A. Roquilly",
+        "M. Benyamina",
+        "Olivier Martin",
+        "J. Textoris",
+        "S. Wiramus",
+        "Mathieu Jeanne",
+        "J. Lachamp",
+        "Marc Chaouat",
+        "David Chen",
+        "Bassirou Mboup",
+        "Tina L. Palmieri",
+        "Alexandre Mebazaa",
+        "F. Dépret",
+        "E. Vicaut"
+      ],
+      "publication_date": "2026-08-18",
+      "doi": "10.1097/sla.0000000000007201",
+      "paper_id": "206972e67e3236f311bb303152ee53729ad5f35b"
+    },
+    {
+      "title": "Effect of early versus delayed or no insulin therapy for moderate hyperglycemia in ICU patients: A target trial emulation.",
+      "year": 2026,
+      "authors": [
+        "Christian Lange Gantzel",
+        "P. Yazdanfard",
+        "K. K. Sørensen",
+        "Johan Helleberg",
+        "Navid Soltani",
+        "C. Torp Pedersen",
+        "U. Pedersen-Bjergaard",
+        "M. Bestle",
+        "Johan Mårtensson"
       ],
       "publication_date": "2026-08-01",
-      "doi": "10.1093/eurheartjsupp/suag097.012",
-      "paper_id": "b04fa208b53d171c0dd0500655cb68af29e14c4c"
+      "doi": "10.1016/j.chest.2026.08.007",
+      "paper_id": "4023de3d7cb391bd70e0fd83ebdfe306b3930d18"
     },
     {
-      "title": "Cost-Effectiveness of the IMPALA Monitoring System for Hospitalised Children in Low-Resource Settings: A Pragmatic Before-and-After Study",
-      "year": 2025,
+      "title": "Optimal Control Variates for Survey Sampling and Causal Inference",
+      "year": 2026,
       "authors": [
-        "Â. Jornada Ben",
-        "D. Mwale",
-        "P. Jansen",
-        "O. Mtambo",
-        "N. Versteegde",
-        "E. Geubbels",
-        "J. Calis",
-        "J. Chikwana",
-        "I. Study Team",
-        "J. Chinkhumba",
-        "W. Janssens"
+        "Jinglong Zhao"
       ],
-      "publication_date": "2025-11-02",
-      "doi": "10.1101/2025.10.31.25339214",
-      "paper_id": "69ac88b53c55abe1c8f4eea8deab8ceebcfa2ea9"
-    },
-    {
-      "title": "Targeted Maximum Likelihood Learning: An Optimization Perspective",
-      "year": 2025,
-      "authors": [
-        "Diyang Li",
-        "Kyra Gan"
-      ],
-      "publication_date": null,
-      "doi": "10.52202/085713-4759",
-      "paper_id": "83fc5681118b9b9e5e2a5d7b5c34620ace51c235"
-    },
-    {
-      "title": "Doubly Robust Targeted Estimation of Subgroup Average Treatment Effects for Time-to-event Outcomes with Competing Risks",
-      "year": 2024,
-      "authors": [
-        "Runjia Li",
-        "V. Talisa",
-        "C. H. Chang"
-      ],
-      "publication_date": "2024-07-25",
+      "publication_date": "2026-08-15",
       "doi": null,
-      "paper_id": "cb77702a884cbca3ad9538952221025cf19de6f6"
+      "paper_id": "8edcd1e2ea58e9caca1c2e44111f365993b9c462"
+    },
+    {
+      "title": "Overlap‐Weight Estimators With Machine‐Learned Plug‐Ins and Overlap‐Weight Targeted Maximum Likelihood Estimator",
+      "year": 2026,
+      "authors": [
+        "Myoung-jae Lee",
+        "Sanghyeok Lee"
+      ],
+      "publication_date": "2026-08-01",
+      "doi": "10.1002/bimj.70159",
+      "paper_id": "4f137820733c4573be4e641e9016b7f3b3b9c2d9"
+    },
+    {
+      "title": "Predicting six-year depression trajectories in adulthood: A super learner ensemble approach using the Add Health dataset.",
+      "year": 2026,
+      "authors": [
+        "Jordan W J Chng",
+        "Kean J. Hsu",
+        "Nur Hani Zainal"
+      ],
+      "publication_date": "2026-08-01",
+      "doi": "10.1016/j.jad.2026.122377",
+      "paper_id": "aff61d07cb3b9d2099141e2f7fb9fa13399abe07"
+    },
+    {
+      "title": "Seasonal differences in depressive affect, worry-related sleep disturbance, and low energy among UK young people",
+      "year": 2026,
+      "authors": [
+        "Xu Guan",
+        "Qi Ding",
+        "Yanzhi Li"
+      ],
+      "publication_date": "2026-08-14",
+      "doi": "10.1371/journal.pone.0356293",
+      "paper_id": "d001a8b4b8bf61c324b95bc1431ef12a464726b6"
+    },
+    {
+      "title": "Super Learner G-Computation as a Model-Specification Sensitivity Analysis for Population-Adjusted Indirect Comparisons in Health Technology Assessment.",
+      "year": 2026,
+      "authors": [
+        "Ying Chen",
+        "Yun Bao",
+        "Yue-ting Chen",
+        "Yan Jin",
+        "Kaijie Yao",
+        "Wen Li",
+        "Yanmei Zhong",
+        "Bin Wu"
+      ],
+      "publication_date": "2026-08-01",
+      "doi": "10.1016/j.jval.2026.07.010",
+      "paper_id": "028f905900c90f01f0819aa79f6624875ef46fb4"
+    },
+    {
+      "title": "Targeted maximum likelihood estimation for psychological research: From causal identification to statistical inference.",
+      "year": 2026,
+      "authors": [
+        "Devansh Pandey"
+      ],
+      "publication_date": "2026-08-13",
+      "doi": "10.1016/j.actpsy.2026.107610",
+      "paper_id": "4f9ea77214e2a36588ed52848bfc335aa9602ec6"
+    },
+    {
+      "title": "The prevalence of primary lung cancer among women with previous personal and/or family history of cancer in an integrated health system",
+      "year": 2026,
+      "authors": [
+        "Carissa Villanueva",
+        "Tyler Chervo",
+        "Andrea M. Gochi",
+        "Hyunjee V. Kwak",
+        "Lue-Yen Tucker",
+        "J. B. Velotta"
+      ],
+      "publication_date": "2026-04-01",
+      "doi": "10.1016/j.xjon.2026.101823",
+      "paper_id": "0804f08f661ef6905718d4d35b485fa415a8c634"
     }
   ],
-  "paper_count": 1123,
+  "paper_count": 1134,
   "papers": [
+    {
+      "title": "A Causal Inference Approach for Evaluating Diagnostic Tests and AI-Enabled Medical Devices: From Effect Modification to Information-Augmented Decision-Making",
+      "authors": [
+        "Wenxin Zhang",
+        "Rachael V. Phillips",
+        "M. V. D. Laan"
+      ],
+      "abstract": "Diagnostic medical tests and devices provide useful information for evaluating the potential benefits and risks of therapeutic treatments. However, unlike treatments, their impact on health outcomes is generally indirect because measuring diagnostic information typically does not itself affect patient outcomes, which complicates evaluation of their effectiveness. In this work, we develop a causal inference approach for evaluating diagnostic tests by distinguishing explanatory and pragmatic effectiveness. Explanatory effectiveness evaluates whether a diagnostic test result provides treatment-relevant information beyond baseline covariates by explaining additional treatment-effect heterogeneity, which we characterize using a variance-based treatment-effect variable importance measure. Pragmatic effectiveness evaluates whether incorporating this information into personalized treatment decisions improves expected outcomes, a question central to decision-making for patients, clinicians, and other health care stakeholders. We formalize pragmatic effectiveness as a contrast between expected outcomes under optimal personalized treatment rules defined with and without access to the diagnostic test result. We establish identification of the proposed estimand and provide Targeted Maximum Likelihood Estimation (TMLE) and cross-validated TMLE procedures for nonparametric estimation and inference. Simulation studies and a synthetic colorectal cancer application illustrate the proposed estimands and estimation performance. More broadly, this approach provides a causal inference perspective for evaluating AI-enabled devices by distinguishing their dual roles as information-enrichment and personalized decision-optimization tools, clarifying whether AI improves outcomes by expanding information for downstream decisions, improving the decision rule used to act on that information, or through both pathways.",
+      "year": 2026,
+      "publication_date": "2026-08-19",
+      "paper_id": "20fe1ecccf1577ca0b2c8970774dbb9482dae339",
+      "url": "https://www.semanticscholar.org/paper/20fe1ecccf1577ca0b2c8970774dbb9482dae339",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ]
+    },
     {
       "title": "A CV-TMLE global test approach to improve power in rare disease clinical studies with multiple-component endpoints",
       "authors": [
@@ -472,6 +578,27 @@
       ],
       "source_queries": [
         "super learner"
+      ]
+    },
+    {
+      "title": "Artificial intelligence–driven prediction on oil formation volume factor for Niger delta region",
+      "authors": [
+        "Mbachu Ijeoma Irene",
+        "Ojonugwa David Micheal"
+      ],
+      "abstract": "Oil formation volume factor (OFVF) is very important reservoir fluid property used in the reservoir engineering calculations either directly or indirectly. It indicates the change in the volume of produced oil from the reservoir to surface conditions. The industry standard is to measure this parameter in the laboratory using reservoir samples but the procedures of acquiring these experimental data are very expensive, and time consuming, hence the application of correlations and artificial intelligent. Before now, some empirical correlations existed that determines the oil formation volume factor however, they show high error due to the applied assumptions, and their specification to operate only under a particular range of data. In this study, Super Learner (SL) and Deep Neural Network (DNN) artificial intelligent algorithms were trained to forecast oil formation volume factor at different reservoir condition using Niger Delta reservoir fluid. A total number of 1147 data set was obtained from PVT report from Niger-Delta and validated, out of which, 70% (803) were used to train the models, 15% (172) for cross validation and 15% (172) for test. Quantitative and qualitative statistical analysis were carried out to compare the performance and reliability of the new developed machine learning models with some selected oil formation volume factor empirical correlations. The Super Leaner (SL) model predicted better than Deep Neural Network (DNN) and some of the selected empirical models with the best Rank of 0.05, average absolute percent relative error of 0.054and a correlation coefficient of 0.989. The findings from this research can be applied for estimation of the volumetric properties of hydrocarbon reservoir fluids without the need for conducting routine laboratory analyses.",
+      "year": 2026,
+      "publication_date": "2026-08-31",
+      "paper_id": "183505f4597a2ebc4385f57f5aeb2bfb9e1818c6",
+      "url": "https://www.semanticscholar.org/paper/183505f4597a2ebc4385f57f5aeb2bfb9e1818c6",
+      "venue": "International Journal of Scholarly Research in Engineering and Technology",
+      "doi": "10.56781/ijsret.2026.8.1.0017",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner",
+        "super learning"
       ]
     },
     {
@@ -1211,6 +1338,40 @@
       ]
     },
     {
+      "title": "Early Surgery and Outcomes in Severe Burns: A Prospective Multicenter Observational Study.",
+      "authors": [
+        "Matthieu Legrand",
+        "C. Hoffmann",
+        "A. Roquilly",
+        "M. Benyamina",
+        "Olivier Martin",
+        "J. Textoris",
+        "S. Wiramus",
+        "Mathieu Jeanne",
+        "J. Lachamp",
+        "Marc Chaouat",
+        "David Chen",
+        "Bassirou Mboup",
+        "Tina L. Palmieri",
+        "Alexandre Mebazaa",
+        "F. Dépret",
+        "E. Vicaut"
+      ],
+      "abstract": "OBJECTIVE To examine the association between the timing of surgical excision and survival in severely ill burn patients. SUMMARY BACKGROUND DATA The optimal timing of surgical excision in severe burns remains uncertain. Early excision may limit systemic inflammation but may also increase hemodynamic instability. METHODS This prospective, multicenter, observational cohort study (December 2016-December 2022) included adults (18 y of age or older) admitted within 72 hours of injury with burns involving >20% TBSA across 6 French centers. Early surgery was defined as the first excision within 48 hours. The primary outcome was 90-day all-cause mortality. Secondary outcomes included ICU and 28-day mortality, organ failure, acute kidney injury, ARDS, secondary infections, sepsis, and ICU length of stay. Associations were estimated using AIPTW and targeted maximum likelihood estimation. RESULTS Among 448 patients (median age 47 y; 65% male; median TBSA 33%), 90 (20%) underwent early and 358 (80%) delayed excision. Early-excision patients had more extensive burns and higher severity scores. After adjustment, delayed excision was associated with higher 90-day mortality (aOR: 2.3, 95% CI: 1.2-4.1; P=0.007), higher ICU mortality (aOR: 3.1, 95% CI: 1.5-6.3; P=0.001), and higher 28-day mortality (aOR: 2.9, 95% CI: 1.3-6.7; P=0.007). Sepsis or septic shock occurred more often in the early group (53% vs. 32%; aOR: 0.56, 95% CI: 0.38-0.83; P=0.004). No significant differences were found for other secondary outcomes. CONCLUSIONS Early surgical excision within 48 hours was associated with lower adjusted 90-day mortality in adults with severe burns, supporting early excision as part of modern burn management strategies.",
+      "year": 2026,
+      "publication_date": "2026-08-18",
+      "paper_id": "206972e67e3236f311bb303152ee53729ad5f35b",
+      "url": "https://www.semanticscholar.org/paper/206972e67e3236f311bb303152ee53729ad5f35b",
+      "venue": "Annals of Surgery",
+      "doi": "10.1097/SLA.0000000000007201",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
+      ]
+    },
+    {
       "title": "Early twice-daily toothbrushing and adolescent dental caries: a causal inference analysis using the Longitudinal Study of Australian Children.",
       "authors": [
         "H. M. Alsharani",
@@ -1258,6 +1419,33 @@
       ],
       "source_queries": [
         "targeted maximum likelihood estimation"
+      ]
+    },
+    {
+      "title": "Effect of early versus delayed or no insulin therapy for moderate hyperglycemia in ICU patients: A target trial emulation.",
+      "authors": [
+        "Christian Lange Gantzel",
+        "P. Yazdanfard",
+        "K. K. Sørensen",
+        "Johan Helleberg",
+        "Navid Soltani",
+        "C. Torp Pedersen",
+        "U. Pedersen-Bjergaard",
+        "M. Bestle",
+        "Johan Mårtensson"
+      ],
+      "abstract": "BACKGROUND Hyperglycemia is common in intensive care unit (ICU) patients and associated with increased mortality. Despite several randomized clinical trials within glucose management in critical illness, the effects of insulin treatment, and its timing, in patients with moderate hyperglycemia remain uncertain. RESEARCH QUESTION In acutely admitted ICU patients with moderate hyperglycemia, does insulin treatment improve clinical outcomes and does timing of insulin initiation matter? STUDY DESIGN AND METHODS We performed a multicenter target trial emulation using targeted minimum loss-based estimation. We included patients from four ICUs at Karolinska University Hospitals, Solna, Huddinge, from 2010 to 2021. We assessed the effect of early insulin treatment compared with delayed or no insulin treatment on 30-day all-cause mortality in acutely admitted adult ICU patients with moderate hyperglycemia (10 - 13.9 mmol/L). RESULTS We included 5,755 patients with moderate hyperglycemia; 3,149 (54.7%) received early insulin therapy (intervention group) and 2,606 (45.3%) received delayed or no insulin therapy (control group). The adjusted 30-day mortality was 22.1% (95% CI 21.1 - 23.1) for patients receiving insulin within 6 hours and 24.4% (95% CI 23.5 - 25.4) for patients with later or no insulin treatment, corresponding to an absolute risk reduction of 2.3% (95% CI 1.1 - 3.6). Absolute risk was reduced by 7.7%-points (CI 95% 6.5 - 8.9) when insulin was initiated within 1 hour of the first episode of moderate hyperglycemia and by 6.6%-points (CI 95% 5.4 - 7.8) with initiation within 2 hours. This effect was modified in several subgroups. INTERPRETATIONS In this target trial emulation, early insulin treatment of moderate hyperglycemia showed reduced mortality in acutely admitted adult ICU patients - particularly when insulin was initiated within 2 hours following hyperglycemia. These findings support further investigation in timing of insulin initiation.",
+      "year": 2026,
+      "publication_date": "2026-08-01",
+      "paper_id": "4023de3d7cb391bd70e0fd83ebdfe306b3930d18",
+      "url": "https://www.semanticscholar.org/paper/4023de3d7cb391bd70e0fd83ebdfe306b3930d18",
+      "venue": "Chest",
+      "doi": "10.1016/j.chest.2026.08.007",
+      "matched_keywords": [
+        "targeted minimum loss based estimation"
+      ],
+      "source_queries": [
+        "targeted minimum loss based estimation"
       ]
     },
     {
@@ -1525,7 +1713,7 @@
       ]
     },
     {
-      "title": "Evaluating bias in target trial emulation for heart failure across statistical and deep learning methods.",
+      "title": "Evaluating bias in target trial emulation for heart failure across statistical and deep learning methods",
       "authors": [
         "Z. Fan",
         "Qianqian Yang",
@@ -1535,7 +1723,7 @@
         "Shishir Rao",
         "Kazem Rahimi"
       ],
-      "abstract": "Target trial emulation (TTE) is increasingly used for causal inference from observational data, but remains vulnerable to confounding by indication, and whether advanced adjustment methods mitigate this bias is unclear. Using Clinical Practice Research Datalink Aurum, we emulate target trials of beta-blockers (positive control) and digoxin (negative control) versus usual care on two-year all-cause mortality in patients with heart failure with reduced ejection fraction. We apply four adjustment strategies: propensity score matching, inverse probability of treatment weighting, targeted maximum likelihood estimation, and a Transformer-based deep learning approach. No method reproduces the randomised controlled trial (RCT) benchmarks: all suggest neutral or harmful effects for beta-blockers and elevated mortality for digoxin. In semi-synthetic simulation, all methods recover the true effects when confounders are observed, yet fail in real-world data. TTE, even with advanced adjustment, may not yield trial-equivalent estimates when confounding is strong; randomised evidence remains essential for clinical and policy decisions.",
+      "abstract": "Target trial emulation (TTE) is increasingly used for causal inference from observational data, but remains vulnerable to confounding by indication, and whether advanced adjustment methods mitigate this bias is unclear. Using Clinical Practice Research Datalink Aurum, we emulate target trials of beta-blockers (positive control) and digoxin (negative control) versus usual care on two-year all-cause mortality in patients with heart failure with reduced ejection fraction. We apply four adjustment strategies: propensity score matching, inverse probability of treatment weighting, targeted maximum likelihood estimation, and a Transformer-based deep learning approach. No method reproduces the randomised controlled trial (RCT) benchmarks: all suggest neutral or harmful effects for beta-blockers and elevated mortality for digoxin. In semi-synthetic simulation, all methods recover the true effects when confounders are observed, yet fail in real-world data. TTE, even with advanced adjustment, may not yield trial-equivalent estimates when confounding is strong; randomised evidence remains essential for clinical and policy decisions. Across statistical and deep learning adjustment methods, target trial emulations of heart failure therapies in routine care failed to reproduce randomised trial findings, underscoring the importance of randomised evidence when confounding is strong.",
       "year": 2026,
       "publication_date": "2026-07-13",
       "paper_id": "3e87bed0b016c1a004a6d81e1579bd23cd259ddd",
@@ -2241,6 +2429,45 @@
       ]
     },
     {
+      "title": "Optimal Control Variates for Survey Sampling and Causal Inference",
+      "authors": [
+        "Jinglong Zhao"
+      ],
+      "abstract": "We propose a family of control variate estimators for variance reduction in design-based survey sampling and causal inference, with and without interference. In these settings, inverse probability weighting (IPW) estimators are widely used, but may have large variance when sampling, treatment, or exposure probabilities are small. Building on the observation that several common estimators, including the Hajek estimator, the normalized estimator, the augmented inverse probability weighting (AIPW) estimator, and the targeted maximum likelihood estimator (TMLE), all correct the Horvitz-Thompson estimator by canceling part of its randomness, we provide a unified interpretation of these estimators as special cases of a general control variate estimator. We then construct optimal control variates that can reduce the finite sample variance compared to these common estimators. We parameterize the proposed control variates by their bases and characterize the optimal bases through a stochastic optimization formulation. In survey sampling and causal inference without interference, the optimal bases are characterized by leading eigenvectors of matrices that depend on both the design-based sampling structure and the model-based outcome uncertainty. In causal inference under network interference, the optimal bases solve a nonconvex quadratic optimization problem; we provide a $\\frac{1}{2}$-approximate solution and an alternating local search heuristic. We apply the control variate estimators to the Swiss Environmental Panel survey data and the Chinese social network data, and conduct extensive simulations to show that the proposed control variate estimators can achieve substantial variance reduction.",
+      "year": 2026,
+      "publication_date": "2026-08-15",
+      "paper_id": "8edcd1e2ea58e9caca1c2e44111f365993b9c462",
+      "url": "https://www.semanticscholar.org/paper/8edcd1e2ea58e9caca1c2e44111f365993b9c462",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
+      ]
+    },
+    {
+      "title": "Overlap‐Weight Estimators With Machine‐Learned Plug‐Ins and Overlap‐Weight Targeted Maximum Likelihood Estimator",
+      "authors": [
+        "Myoung-jae Lee",
+        "Sanghyeok Lee"
+      ],
+      "abstract": "In estimating the average treatment effect (ATE), the plug‐in estimator with the efficient influence function and the targeted maximum likelihood estimator (TMLE) are semiparametrically efficient. However, the estimators suffer from the fact that too small/large a propensity score (PS) in the denominators can make the estimators unstable. This is usually overcome by trimming or truncating the data, that is, discarding observations with the PS too small/large or replacing the PS with some lower or upper threshold, which amounts to using a non‐smooth weight to move the target parameter away from the ATE. This paper proposes a smooth weight, quadratic in PS instead, which leads to targeting the “overlap‐weight (OW) treatment effect” that has several advantages over the ATE. We compare various estimators through simulation and empirical studies, including a trimmed efficient influence‐function estimator, TMLE, and their OW versions. We find that the OW versions perform better than the trimmed ones in terms of the absolute bias and root mean squared error, when the ATE is a constant so that all estimators share the same estimand. We also find that “cross‐fit” analogous to cross‐validation improves the asymptotic variance estimators.",
+      "year": 2026,
+      "publication_date": "2026-08-01",
+      "paper_id": "4f137820733c4573be4e641e9016b7f3b3b9c2d9",
+      "url": "https://www.semanticscholar.org/paper/4f137820733c4573be4e641e9016b7f3b3b9c2d9",
+      "venue": "Biometrical journal. Biometrische Zeitschrift",
+      "doi": "10.1002/bimj.70159",
+      "matched_keywords": [
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
+      ]
+    },
+    {
       "title": "Participation in the house-ball community as a social determinant of HIV care and prevention outcomes among transgender women of color.",
       "authors": [
         "Alexander Furuya",
@@ -2389,6 +2616,27 @@
       "source_queries": [
         "targeted maximum likelihood estimation",
         "tmle"
+      ]
+    },
+    {
+      "title": "Predicting six-year depression trajectories in adulthood: A super learner ensemble approach using the Add Health dataset.",
+      "authors": [
+        "Jordan W J Chng",
+        "Kean J. Hsu",
+        "Nur Hani Zainal"
+      ],
+      "abstract": "BACKGROUND Depression is a leading global cause of disability, and much focus has been directed toward identifying population-wide predictors of adult depression. The present study aimed to identify the strongest predictors of future depression severity using a comprehensive panel of biopsychosocial predictors and the Super Learner (a stacked ensemble algorithm based on cross-validation loss). METHOD Participants were 3208 adults from the Add Health dataset, a nationally representative longitudinal cohort study of U.S. adults, split into training (n = 2247) and fully held-out test (n = 961) sets. Data came from two waves: 2016-2018 and 2022-2025. Depression severity was measured at both waves using the 5-item negative affect subscale of the Center for Epidemiologic Studies Depression Scale. The Super Learner ensemble comprised ten base learners, including elastic net and random forest. Shapley Additive Explanations (SHAP) values were calculated on the held-out test set. RESULTS The Super Learner did not outperform all base learners on the test set (root mean squared error = 2.315). Bootstrap and equivalence testing indicated it was not reliably different from eight of ten learners. SHAP analysis revealed baseline depression score as the most influential predictor of future depression score (mean |SHAP| = 0.416), followed by perceived stress, prior depression diagnosis, everyday discrimination, and social gathering frequency. CONCLUSION Depression history was the strongest predictor of depression severity after six years. No model explained more than a quarter of outcome variance. This ceiling and the ensemble's non-superiority compared to other constituent single algorithms tempers individual-level prediction expectations.",
+      "year": 2026,
+      "publication_date": "2026-08-01",
+      "paper_id": "aff61d07cb3b9d2099141e2f7fb9fa13399abe07",
+      "url": "https://www.semanticscholar.org/paper/aff61d07cb3b9d2099141e2f7fb9fa13399abe07",
+      "venue": "Journal of Affective Disorders",
+      "doi": "10.1016/j.jad.2026.122377",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
       ]
     },
     {
@@ -2721,6 +2969,28 @@
       ]
     },
     {
+      "title": "Seasonal differences in depressive affect, worry-related sleep disturbance, and low energy among UK young people",
+      "authors": [
+        "Xu Guan",
+        "Qi Ding",
+        "Yanzhi Li"
+      ],
+      "abstract": "Seasonal differences in young people’s mental health may be concentrated in specific symptoms. This population-based repeated cross-sectional study examined winter–non-winter differences in depressive affect, worry-related sleep disturbance and low energy among people aged 16–24 years in the United Kingdom. Understanding Society Calendar Year Datasets were analysed for 2022–2023, with extensions covering 2020–2023. Winter was defined as an interview data in December, January or February. The primary outcome was the mean of three equally weighted standardised symptom components. Standardised Pearson alpha was 0.717 and ordinal alpha was 0.737, supporting use of the index as a shared descriptive measure alongside component-level analysis. Targeted maximum likelihood estimation with Super Learner estimated covariate-standardised mean contrasts. Survey weights informed point estimation and respondent clustering informed variance estimation. Full survey-design regression and inverse-probability-of-complete-case weighting provided complementary checks. The main analysis included 5,949 person-interview observations from 4,167 young people. The winter–non-winter difference was 0.081 index points, with a 95% confidence interval from 0.029 to 0.132. On the original scales, low energy differed by 0.119 points on a 0–4 scale and depressive affect by 0.080 points on a 0–4 scale. Worry-related sleep disturbance differed by 0.044 points on a 0–3 scale, with greater uncertainty. Estimates were similar across analytical approaches and calendar periods, while winter remained at the upper end of the adjusted four-season profile. This period is for closer youth mental health monitoring and for making existing low-intensity support more visible and accessible.",
+      "year": 2026,
+      "publication_date": "2026-08-14",
+      "paper_id": "d001a8b4b8bf61c324b95bc1431ef12a464726b6",
+      "url": "https://www.semanticscholar.org/paper/d001a8b4b8bf61c324b95bc1431ef12a464726b6",
+      "venue": "PLoS ONE",
+      "doi": "10.1371/journal.pone.0356293",
+      "matched_keywords": [
+        "super learner",
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
       "title": "Semaglutide and risk of adult-onset seizure: A target trial emulation",
       "authors": [
         "Yong Eun",
@@ -2885,6 +3155,34 @@
       "source_queries": [
         "super learner",
         "super learning"
+      ]
+    },
+    {
+      "title": "Super Learner G-Computation as a Model-Specification Sensitivity Analysis for Population-Adjusted Indirect Comparisons in Health Technology Assessment.",
+      "authors": [
+        "Ying Chen",
+        "Yun Bao",
+        "Yue-ting Chen",
+        "Yan Jin",
+        "Kaijie Yao",
+        "Wen Li",
+        "Yanmei Zhong",
+        "Bin Wu"
+      ],
+      "abstract": "OBJECTIVES Parametric G-computation can align population-adjusted indirect comparisons (PAICs) with marginal estimands, but estimates may depend on unverifiable outcome-model specification. We evaluated Super Learner G-computation as a flexible outcome-modeling extension for anchored PAICs. METHODS We simulated 18 anchored A-versus-C and B-versus-C trial scenarios with index-trial individual patient data and comparator-trial aggregate data. Scenarios varied sample size, population overlap, and correct versus misspecified parametric outcome models. The target was the comparator-trial population; the estimand was the marginal A-versus-B log-odds ratio. We compared parametric G-computation, Super Learner G-computation, matching-adjusted indirect comparison, conventional mean-plug-in simulated treatment comparison, split-averaged Super Learner G-computation, and targeted maximum likelihood estimation. We used RMSE as the primary performance measure and empirical coverage to assess interval calibration. RESULTS In the correctly specified large-sample good-overlap scenario, parametric G-computation had the lowest RMSE (0.263). In the nonlinear small-sample poor-overlap scenario, Super Learner G-computation had RMSE 0.513 versus 0.811 for parametric G-computation, 0.901 for conventional simulated treatment comparison, and 1.153 for matching-adjusted indirect comparison. The split-averaged version reduced RMSE to 0.475. Across nine nonlinear scenarios, flexible plug-in estimators had lower RMSE than parametric G-computation in seven, mainly under poor or moderate overlap, but coverage was lower in all nine. Targeted maximum likelihood estimation improved coverage in some settings but did not consistently reduce RMSE. CONCLUSIONS Super Learner G-computation may be useful as an outcome-model specification sensitivity analysis for marginal PAIC estimands. Lower RMSE came with lower coverage, so uncertainty intervals require caution.",
+      "year": 2026,
+      "publication_date": "2026-08-01",
+      "paper_id": "028f905900c90f01f0819aa79f6624875ef46fb4",
+      "url": "https://www.semanticscholar.org/paper/028f905900c90f01f0819aa79f6624875ef46fb4",
+      "venue": "Value in Health",
+      "doi": "10.1016/j.jval.2026.07.010",
+      "matched_keywords": [
+        "super learner",
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "super learner",
+        "targeted maximum likelihood estimation"
       ]
     },
     {
@@ -3079,6 +3377,29 @@
       ]
     },
     {
+      "title": "Targeted maximum likelihood estimation for psychological research: From causal identification to statistical inference.",
+      "authors": [
+        "Devansh Pandey"
+      ],
+      "abstract": "Causal questions have long been central to psychological research, particularly in randomized experiments, while formal causal-inference methods are increasingly being applied to observational and quasi-experimental data. Common outcome-regression and propensity-score approaches can be sensitive to nuisance-model misspecification, whereas flexible machine learning alone does not ensure valid target-parameter estimation or inference. Targeted maximum likelihood estimation (TMLE) addresses this estimation problem by combining outcome and treatment information through an efficient-influence-function-based update, yielding doubly robust estimation and influence-function-based inference under appropriate conditions. TMLE targets a parameter of the observed-data distribution; causal interpretation additionally requires a well-defined intervention, causal model, and identification assumptions. Although the Causal Roadmap and targeted-learning literature establish the general framework, guidance for modern applied implementation remains fragmented. This research integrates causal-to-statistical parameter mapping, accessible semiparametric explanation, reproducible Python code, positivity diagnostics, fully nested cross-fitting, and TMLE-specific reporting guidance for psychological researchers. The formal exposition and simulations use the point-treatment average treatment effect for a binary treatment or exposure as an illustrative target. The two empirical examples are instead framed as statistical implementation exercises targeting covariate-standardized observed-data risk differences, with the assumptions under which those parameters would equal causal effects stated separately. The examples contrast transparent parametric estimation with cross-fitted Super Learner TMLE, while the simulations examine nuisance-model misspecification, limited overlap, propensity-score truncation, and flexible TMLE with and without cross-fitting. The contribution is translational rather than theoretical: TMLE is presented as the estimation stage of a broader causal-inference workflow, not as a procedure that independently establishes causality.",
+      "year": 2026,
+      "publication_date": "2026-08-13",
+      "paper_id": "4f9ea77214e2a36588ed52848bfc335aa9602ec6",
+      "url": "https://www.semanticscholar.org/paper/4f9ea77214e2a36588ed52848bfc335aa9602ec6",
+      "venue": "Acta Psychologica",
+      "doi": "10.1016/j.actpsy.2026.107610",
+      "matched_keywords": [
+        "super learner",
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "super learner",
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ]
+    },
+    {
       "title": "Targeted maximum likelihood estimation of vaccine effectiveness and immune correlates in test-negative design studies with missing data",
       "authors": [
         "Leah I B Andrews",
@@ -3196,6 +3517,30 @@
         "super learner",
         "targeted maximum likelihood estimation",
         "tmle"
+      ]
+    },
+    {
+      "title": "The prevalence of primary lung cancer among women with previous personal and/or family history of cancer in an integrated health system",
+      "authors": [
+        "Carissa Villanueva",
+        "Tyler Chervo",
+        "Andrea M. Gochi",
+        "Hyunjee V. Kwak",
+        "Lue-Yen Tucker",
+        "J. B. Velotta"
+      ],
+      "abstract": "Objective To evaluate whether personal and/or family history of cancer increases the prevalence of new primary lung cancer in adult women, regardless of smoking status. Methods A retrospective review was performed using the data from Kaiser Permanente Northern California region electronic health record between January 1, 2010, and December 31, 2022. We included all adult women without a previous personal history of lung cancer and with at least 1 year of membership during the study period. We estimated the prevalence ratio (PR) of new primary lung cancer among people with a personal or family history of cancer using targeted maximum likelihood estimation adjusting for smoking status, race/ethnicity, age, Charlson comorbidity index, and Neighborhood Deprivation Index. Results We identified 2.8 million patients who met the selection criteria. A previous personal history of any cancer was associated with an 88% increased prevalence of lung cancer (PR, 1.88; 95% CI, 1.84-1.92); a family history of any cancer also was associated with increased prevalence (PR, 1.23; 95% CI, 1.20-1.26). Specifically, a previous personal history of breast, cervical, uterine, or ovarian cancers was also associated with increased prevalence. Conclusions Personal history of previous malignancy and family history of malignancy were associated with increased prevalence of future lung cancer in our population. It suggests that smoking status alone in our population is not sufficient for gauging clinical suspicion of new primary lung cancer. Reevaluation and expansion of guidelines of screening criteria for use of lung cancer screening tools may be prudent.",
+      "year": 2026,
+      "publication_date": "2026-04-01",
+      "paper_id": "0804f08f661ef6905718d4d35b485fa415a8c634",
+      "url": "https://www.semanticscholar.org/paper/0804f08f661ef6905718d4d35b485fa415a8c634",
+      "venue": "JTCVS Open",
+      "doi": "10.1016/j.xjon.2026.101823",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
       ]
     },
     {
