@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T15:03:34Z",
+  "generated_at": "2026-08-28T15:10:13Z",
   "source": "Semantic Scholar Graph API",
   "unauthenticated": true,
   "mode": "bulk",
@@ -18,7 +18,7 @@
   "query_stats": [
     {
       "keyword": "tmle",
-      "fetched_raw_count": 507
+      "fetched_raw_count": 509
     },
     {
       "keyword": "targeted maximum likelihood estimation",
@@ -30,7 +30,7 @@
     },
     {
       "keyword": "super learner",
-      "fetched_raw_count": 1054
+      "fetched_raw_count": 1060
     },
     {
       "keyword": "super learning",
@@ -38,172 +38,125 @@
     },
     {
       "keyword": "highly adaptive lasso",
-      "fetched_raw_count": 246
+      "fetched_raw_count": 249
     }
   ],
   "query_errors": [],
   "incomplete": false,
-  "fetched_paper_count": 981,
-  "newly_appended_count": 11,
-  "updated_existing_count": 1,
+  "fetched_paper_count": 986,
+  "newly_appended_count": 7,
+  "updated_existing_count": 3,
   "existing_blocked_removed": 0,
   "existing_duplicates_removed": 0,
   "newly_added_papers": [
     {
-      "title": "A Causal Inference Approach for Evaluating Diagnostic Tests and AI-Enabled Medical Devices: From Effect Modification to Information-Augmented Decision-Making",
+      "title": "Alcohol amount, drinking patterns, and gastric cancer risk: a nationwide study using targeted maximum likelihood estimation.",
       "year": 2026,
       "authors": [
-        "Wenxin Zhang",
-        "Rachael V. Phillips",
-        "M. V. D. Laan"
+        "C. Kim",
+        "Byungmi Kim",
+        "Hye Ah Lee",
+        "Yewon Choi",
+        "Hwiyoung Kim",
+        "Bomi Park"
       ],
-      "publication_date": "2026-08-19",
-      "doi": null,
-      "paper_id": "20fe1ecccf1577ca0b2c8970774dbb9482dae339"
+      "publication_date": "2026-08-22",
+      "doi": "10.1007/s10654-026-01452-9",
+      "paper_id": "4c778b9a0c16726a7071d45df069ec20df467f1d"
     },
     {
-      "title": "Artificial intelligence–driven prediction on oil formation volume factor for Niger delta region",
+      "title": "An Investigation of Ensemble and Explainable Machine Learning Models for Consumer Price Index Prediction in Ethiopia: Evidence from 1990-2023",
       "year": 2026,
       "authors": [
-        "Mbachu Ijeoma Irene",
-        "Ojonugwa David Micheal"
+        "F. Mohammed",
+        "Abduselam Abdulahi Mohamed",
+        "Umar Aliyi",
+        "Firi Ziyad",
+        "Desalegn Wogaso",
+        "Habtamu Alemayehu",
+        "Getachew Semegn"
       ],
-      "publication_date": "2026-08-31",
-      "doi": "10.56781/ijsret.2026.8.1.0017",
-      "paper_id": "183505f4597a2ebc4385f57f5aeb2bfb9e1818c6"
+      "publication_date": "2026-08-17",
+      "doi": "10.11648/j.ijdst.20261203.11",
+      "paper_id": "8c1ea47a3d5f47328b3784433ab2daefe18aabc0"
     },
     {
-      "title": "Early Surgery and Outcomes in Severe Burns: A Prospective Multicenter Observational Study.",
+      "title": "Causal AI for cancer immunotherapy: a narrative framework review of target trial emulation, treatment-effect learning and clinical translation",
       "year": 2026,
       "authors": [
-        "Matthieu Legrand",
-        "C. Hoffmann",
-        "A. Roquilly",
-        "M. Benyamina",
-        "Olivier Martin",
-        "J. Textoris",
-        "S. Wiramus",
-        "Mathieu Jeanne",
-        "J. Lachamp",
-        "Marc Chaouat",
-        "David Chen",
-        "Bassirou Mboup",
-        "Tina L. Palmieri",
-        "Alexandre Mebazaa",
-        "F. Dépret",
-        "E. Vicaut"
+        "Xin Zhao",
+        "Zhuoran Liu",
+        "Jie Yang",
+        "Qingyun Xie",
+        "Tianyang Mao",
+        "Heng Zhou",
+        "Hongyuan Wang",
+        "Peng Zheng",
+        "Kangyi Jiang",
+        "Fengwei Gao"
       ],
-      "publication_date": "2026-08-18",
-      "doi": "10.1097/sla.0000000000007201",
-      "paper_id": "206972e67e3236f311bb303152ee53729ad5f35b"
+      "publication_date": "2026-08-20",
+      "doi": "10.3389/fimmu.2026.1896755",
+      "paper_id": "3d297911efc5d0d12cb77b000ee5ea072338965e"
     },
     {
-      "title": "Effect of early versus delayed or no insulin therapy for moderate hyperglycemia in ICU patients: A target trial emulation.",
+      "title": "Does Data Preprocessing Affect Tree-Based Super Learners? An Investigation of Ensemble Optimization and Oracle Properties in Clinical Classification.",
       "year": 2026,
       "authors": [
-        "Christian Lange Gantzel",
-        "P. Yazdanfard",
-        "K. K. Sørensen",
-        "Johan Helleberg",
-        "Navid Soltani",
-        "C. Torp Pedersen",
-        "U. Pedersen-Bjergaard",
-        "M. Bestle",
-        "Johan Mårtensson"
+        "R. Darko",
+        "D. Dwumah",
+        "K. S. Agyapong",
+        "Y. Agyenim-Boateng",
+        "R. Darko Anim",
+        "J. Wisdom Jakper",
+        "N. K. Owusu-Ansah",
+        "R. Owusu-Ansah"
       ],
-      "publication_date": "2026-08-01",
-      "doi": "10.1016/j.chest.2026.08.007",
-      "paper_id": "4023de3d7cb391bd70e0fd83ebdfe306b3930d18"
+      "publication_date": "2026-08-24",
+      "doi": "10.64898/2026.08.20.26360880",
+      "paper_id": "d53b4c36864d0347376e3ab932c1db8027866721"
     },
     {
-      "title": "Optimal Control Variates for Survey Sampling and Causal Inference",
+      "title": "Ensemble machine learning model for predicting surface roughness during drilling of hybrid sisal-cotton fiber reinforced polyester composites",
       "year": 2026,
       "authors": [
-        "Jinglong Zhao"
+        "Desalegn Wogaso",
+        "Firi Ziyad",
+        "Habtamu Alemayehu",
+        "Abdifetah Ahmed Rabi",
+        "Sadik Ali"
       ],
-      "publication_date": "2026-08-15",
-      "doi": null,
-      "paper_id": "8edcd1e2ea58e9caca1c2e44111f365993b9c462"
+      "publication_date": "2026-08-21",
+      "doi": "10.1007/s42452-026-09375-6",
+      "paper_id": "470be22b5af855ae7214f53c3f09e71303d0c673"
     },
     {
-      "title": "Overlap‐Weight Estimators With Machine‐Learned Plug‐Ins and Overlap‐Weight Targeted Maximum Likelihood Estimator",
+      "title": "Predictive Modeling of Rolling Bearing RUL Using Super Learner Regression and Degradation Phase Analysis",
       "year": 2026,
       "authors": [
-        "Myoung-jae Lee",
-        "Sanghyeok Lee"
+        "Abaiche Karima",
+        "Fouad Slaoui-Hasnaoui",
+        "Abdelhak Mehadjbia"
       ],
-      "publication_date": "2026-08-01",
-      "doi": "10.1002/bimj.70159",
-      "paper_id": "4f137820733c4573be4e641e9016b7f3b3b9c2d9"
+      "publication_date": "2026-07-02",
+      "doi": "10.1109/iccsc71566.2026.11650030",
+      "paper_id": "159fcf26abbd51f3c8a917102c32f74907d076c4"
     },
     {
-      "title": "Predicting six-year depression trajectories in adulthood: A super learner ensemble approach using the Add Health dataset.",
-      "year": 2026,
+      "title": "Causal Analyses of Statin to Prevent Liver Disease Progression: A Nationwide Study Using Superlearning Targeted Maximum Likelihood Estimation",
+      "year": 2024,
       "authors": [
-        "Jordan W J Chng",
-        "Kean J. Hsu",
-        "Nur Hani Zainal"
+        "Sunyoung Cho",
+        "Heejo Koo",
+        "Beom Kyung Kim",
+        "E. Han"
       ],
-      "publication_date": "2026-08-01",
-      "doi": "10.1016/j.jad.2026.122377",
-      "paper_id": "aff61d07cb3b9d2099141e2f7fb9fa13399abe07"
-    },
-    {
-      "title": "Seasonal differences in depressive affect, worry-related sleep disturbance, and low energy among UK young people",
-      "year": 2026,
-      "authors": [
-        "Xu Guan",
-        "Qi Ding",
-        "Yanzhi Li"
-      ],
-      "publication_date": "2026-08-14",
-      "doi": "10.1371/journal.pone.0356293",
-      "paper_id": "d001a8b4b8bf61c324b95bc1431ef12a464726b6"
-    },
-    {
-      "title": "Super Learner G-Computation as a Model-Specification Sensitivity Analysis for Population-Adjusted Indirect Comparisons in Health Technology Assessment.",
-      "year": 2026,
-      "authors": [
-        "Ying Chen",
-        "Yun Bao",
-        "Yue-ting Chen",
-        "Yan Jin",
-        "Kaijie Yao",
-        "Wen Li",
-        "Yanmei Zhong",
-        "Bin Wu"
-      ],
-      "publication_date": "2026-08-01",
-      "doi": "10.1016/j.jval.2026.07.010",
-      "paper_id": "028f905900c90f01f0819aa79f6624875ef46fb4"
-    },
-    {
-      "title": "Targeted maximum likelihood estimation for psychological research: From causal identification to statistical inference.",
-      "year": 2026,
-      "authors": [
-        "Devansh Pandey"
-      ],
-      "publication_date": "2026-08-13",
-      "doi": "10.1016/j.actpsy.2026.107610",
-      "paper_id": "4f9ea77214e2a36588ed52848bfc335aa9602ec6"
-    },
-    {
-      "title": "The prevalence of primary lung cancer among women with previous personal and/or family history of cancer in an integrated health system",
-      "year": 2026,
-      "authors": [
-        "Carissa Villanueva",
-        "Tyler Chervo",
-        "Andrea M. Gochi",
-        "Hyunjee V. Kwak",
-        "Lue-Yen Tucker",
-        "J. B. Velotta"
-      ],
-      "publication_date": "2026-04-01",
-      "doi": "10.1016/j.xjon.2026.101823",
-      "paper_id": "0804f08f661ef6905718d4d35b485fa415a8c634"
+      "publication_date": "2024-02-28",
+      "doi": "10.17480/psk.2024.68.1.44",
+      "paper_id": "d989e0748df21d6ebaf0ada57c92b74d2365a17a"
     }
   ],
-  "paper_count": 1134,
+  "paper_count": 1141,
   "papers": [
     {
       "title": "A Causal Inference Approach for Evaluating Diagnostic Tests and AI-Enabled Medical Devices: From Effect Modification to Information-Augmented Decision-Making",
@@ -541,6 +494,57 @@
       ]
     },
     {
+      "title": "Alcohol amount, drinking patterns, and gastric cancer risk: a nationwide study using targeted maximum likelihood estimation.",
+      "authors": [
+        "C. Kim",
+        "Byungmi Kim",
+        "Hye Ah Lee",
+        "Yewon Choi",
+        "Hwiyoung Kim",
+        "Bomi Park"
+      ],
+      "abstract": "",
+      "year": 2026,
+      "publication_date": "2026-08-22",
+      "paper_id": "4c778b9a0c16726a7071d45df069ec20df467f1d",
+      "url": "https://www.semanticscholar.org/paper/4c778b9a0c16726a7071d45df069ec20df467f1d",
+      "venue": "European Journal of Epidemiology",
+      "doi": "10.1007/s10654-026-01452-9",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "super learner",
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ]
+    },
+    {
+      "title": "An Investigation of Ensemble and Explainable Machine Learning Models for Consumer Price Index Prediction in Ethiopia: Evidence from 1990-2023",
+      "authors": [
+        "F. Mohammed",
+        "Abduselam Abdulahi Mohamed",
+        "Umar Aliyi",
+        "Firi Ziyad",
+        "Desalegn Wogaso",
+        "Habtamu Alemayehu",
+        "Getachew Semegn"
+      ],
+      "abstract": "A plenty of research investigations have demonstrated the pivotal role that the consumer price index (CPI) plays in the comprehensive assessment and understanding of inflationary trends within an economy. For prediction of consumer price index, researchers have used a variety of empirical methodologies and sophisticated statistical techniques, each of which come up with inherent challenges regarding their generalizability. To solve issues with generalizability, researchers developed artificial intelligence and machine learning. In this work, the sophisticated machine learning models such as decision tree (DT), random forest (RF), and gradient boosting (GB)s have integrated together to develop super learner machine learning to enhance the predictive capabilities concerning the consumer price index robustly. To ensure the optimization of these models, rigorous methodologies such as K-fold cross-validation and an extensive grid search for hyperparameter tuning are meticulously applied to refine the model's performance. The efficiency and predictive performance of the proposed super learner model are then critically compared with those of other base models, thereby establishing a benchmark for assessing improvements in predictive accuracy. Remarkably, the suggested super learner model demonstrated superior prediction capabilities, achieving highest coefficient of determination (R 2 ) of 98.3%, with the lowest mean absolute error of 2.89%, a mean absolute percentage error of 2.60%, and a root mean square error of 3.46%. Moreover, the interpretability of the model's predictions is significantly explained through the application of Shapley additive explanations. This method explains the essential factors that influence the consumer price index in the context of Ethiopia. The super learner model that has been developed possesses the versatility and accuracy necessary for application across various economic sectors, enabling researchers and practitioners to predict dependent variables with both precision and efficiency, thus facilitating informed decision-making in financial planning.",
+      "year": 2026,
+      "publication_date": "2026-08-17",
+      "paper_id": "8c1ea47a3d5f47328b3784433ab2daefe18aabc0",
+      "url": "https://www.semanticscholar.org/paper/8c1ea47a3d5f47328b3784433ab2daefe18aabc0",
+      "venue": "International Journal on Data Science and Technology",
+      "doi": "10.11648/j.ijdst.20261203.11",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
       "title": "Application of machine learning using hormonal biomarkers in male infertility prediction: a systematic mapping review",
       "authors": [
         "S. Parsaie",
@@ -728,6 +732,34 @@
       ],
       "source_queries": [
         "super learner"
+      ]
+    },
+    {
+      "title": "Causal AI for cancer immunotherapy: a narrative framework review of target trial emulation, treatment-effect learning and clinical translation",
+      "authors": [
+        "Xin Zhao",
+        "Zhuoran Liu",
+        "Jie Yang",
+        "Qingyun Xie",
+        "Tianyang Mao",
+        "Heng Zhou",
+        "Hongyuan Wang",
+        "Peng Zheng",
+        "Kangyi Jiang",
+        "Fengwei Gao"
+      ],
+      "abstract": "This narrative framework Review examines how artificial intelligence (AI) can move cancer immunotherapy research from outcome prediction toward target-trial-based treatment-effect learning. AI has produced increasingly accurate models for predicting response, survival and immune-related toxicity during cancer immunotherapy. Yet most models estimate outcome risk under observed care rather than the causal effect of choosing one strategy over another. We therefore frame immunotherapy AI as a causal digital-medicine problem: clinically useful AI should begin with a target-trial question that specifies eligibility, time zero, treatment strategies, comparators, outcomes, estimands and bias-control plans before model development. Within this framework, multimodal AI outputs from imaging, digital pathology, omics, microbiome data, electronic health records and clinical text can function as baseline confounders, candidate effect modifiers, longitudinal state variables or outcome-ascertainment tools. We distinguish established causal-inference approaches, such as target trial emulation, propensity-score weighting, g-methods, TMLE, DML and heterogeneous-treatment-effect estimation, from exploratory technologies such as reinforcement learning and digital twins that require prospective safety validation. We close by outlining validation, reporting, workflow, regulatory and lifecycle-monitoring requirements for moving from predictive biomarkers to trustworthy causal learning systems in immuno-oncology.",
+      "year": 2026,
+      "publication_date": "2026-08-20",
+      "paper_id": "3d297911efc5d0d12cb77b000ee5ea072338965e",
+      "url": "https://www.semanticscholar.org/paper/3d297911efc5d0d12cb77b000ee5ea072338965e",
+      "venue": "Frontiers in Immunology",
+      "doi": "10.3389/fimmu.2026.1896755",
+      "matched_keywords": [
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
       ]
     },
     {
@@ -1295,6 +1327,32 @@
       ]
     },
     {
+      "title": "Does Data Preprocessing Affect Tree-Based Super Learners? An Investigation of Ensemble Optimization and Oracle Properties in Clinical Classification.",
+      "authors": [
+        "R. Darko",
+        "D. Dwumah",
+        "K. S. Agyapong",
+        "Y. Agyenim-Boateng",
+        "R. Darko Anim",
+        "J. Wisdom Jakper",
+        "N. K. Owusu-Ansah",
+        "R. Owusu-Ansah"
+      ],
+      "abstract": "Machine learning workflows frequently incorporate data preprocessing to enhance predictive performance. However, the need for Super Learner ensembles made up only of preprocessing-invariant tree-based algorithms remains unexplored. Using three benchmark clinical classification datasets, this study examined how preprocessing affected the Super Learner's prediction performance, learner weight distribution, and oracle behavior. The Heart Disease (207 observations), Indian Liver Patient Dataset (583 observations), and Pima Indians Diabetes (768 observations) datasets were used to create a Super Learner ensemble model that included Classification and Regression Trees (CART), Random Forest, Ranger, and Extreme Gradient Boosting (XGBoost). Models were evaluated under raw and preprocessed data conditions using repeated cross-validation. Predictive performance was assessed using the area under the receiver operating characteristic curve (AUC), Matthews correlation coefficient (MCC), and Brier score. Learner weight allocation and Oracle Gap were compared using paired Wilcoxon signed-rank tests with Benjamini-Hochberg adjustment. Preprocessing produced negligible changes in predictive performance for the Heart Disease and Pima datasets. For the ILPD dataset, preprocessing significantly improved AUC (0.746 to 0.752; adjusted p = 0.0017) and reduced the Brier score (0.177 to 0.175; adjusted p < 0.001). Learner weights remained largely stable, although Random Forest replaced Ranger as the dominant learner for the Heart Disease dataset. Oracle Gaps remained extremely small (<0.002) across all datasets and did not differ significantly between preprocessing conditions. Preprocessing provides limited benefit for Super Learner ensembles composed of preprocessing-invariant learners and does not materially alter their oracle behavior. Preprocessing decisions should therefore be guided by dataset characteristics rather than adopted as a universal modelling practice.",
+      "year": 2026,
+      "publication_date": "2026-08-24",
+      "paper_id": "d53b4c36864d0347376e3ab932c1db8027866721",
+      "url": "https://www.semanticscholar.org/paper/d53b4c36864d0347376e3ab932c1db8027866721",
+      "venue": "medRxiv",
+      "doi": "10.64898/2026.08.20.26360880",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
       "title": "Doubly Robust Causal Estimation Under Multi-View Network Interference (Student Abstract)",
       "authors": [
         "Hanzhang Yuan",
@@ -1608,6 +1666,29 @@
       "url": "https://www.semanticscholar.org/paper/bc63dc08260bd62369e89e2019b116158d637c9f",
       "venue": "arXiv.org",
       "doi": "10.48550/arXiv.2602.19761",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
+      "title": "Ensemble machine learning model for predicting surface roughness during drilling of hybrid sisal-cotton fiber reinforced polyester composites",
+      "authors": [
+        "Desalegn Wogaso",
+        "Firi Ziyad",
+        "Habtamu Alemayehu",
+        "Abdifetah Ahmed Rabi",
+        "Sadik Ali"
+      ],
+      "abstract": "Composites that integrate natural fibers with polymer matrix possess versatile properties and profoundly contribute to sustainability and eco-friendless. Machining of these composite materials is challenging due to material’s anisotropic property, non-homogeneous structure and abrasive nature of fibers. Surface roughness measures the quality characteristics of drilled hole on hybrid sisal-cotton reinforced polyester composite materials. To predict surface roughness, researchers have used empirical and statistical techniques, both of which have issues with generalizability when forecasting unseen data. The objective of this work is to build a super-learner machine-learning model to predict surface roughness of drilled hole on hybrid sisal-cotton reinforced polyester composite using a variety of machine-learning techniques, such as decision trees, random forests, gradient boosting, and extreme gradient boosting. K-fold cross-validation and grid search hyperparameter optimization are used to optimize the models. The proposed super learner model’s prediction performance is contrasted with the other models. With a coefficient of determination (R 2 ) of 99.4% between the experimental and predicted values for surface roughness for the test dataset, the proposed super learner model outperformed the other models in terms of prediction. With the highest coefficient of determination (R 2 ), lowest mean absolute error (4.75%), mean absolute percentage error (3.30%), and root mean square error (5.32%), this model is shown to be the most accurate. Additionally, the Shapley additive explanation technique, which highlights the crucial elements influencing the surface roughness of polyester matrix composites reinforced with sisal and cotton fibers, explain the model’s predictions. In the end, a tool based graphical user interface has been developed for the machine learning prediction model’s practical use. This software predicts surface roughness quickly, accurately, and intelligently.",
+      "year": 2026,
+      "publication_date": "2026-08-21",
+      "paper_id": "470be22b5af855ae7214f53c3f09e71303d0c673",
+      "url": "https://www.semanticscholar.org/paper/470be22b5af855ae7214f53c3f09e71303d0c673",
+      "venue": "Discover Applied Sciences",
+      "doi": "10.1007/s42452-026-09375-6",
       "matched_keywords": [
         "super learner"
       ],
@@ -2326,7 +2407,7 @@
       ]
     },
     {
-      "title": "Minimal long-term impact of anastomotic leakage on quality of life after anterior resection for rectal cancer: A population-based cohort study.",
+      "title": "Minimal long-term impact of anastomotic leakage on quality of life after anterior resection for rectal cancer: A population-based cohort study",
       "authors": [
         "Marcus Lindsköld",
         "Anders Gerdin",
@@ -2341,7 +2422,7 @@
         "P. Buchwald",
         "M. Rutegård"
       ],
-      "abstract": "BACKGROUND Anastomotic leakage after anterior resection for rectal cancer is associated with long-term morbidity, such as bowel dysfunction, but its impact on health-related quality of life remains insufficiently studied. The aim of this study was to evaluate the association between anastomotic leakage and health-related quality of life 3 years after surgery. METHODS In this population-based prospective cohort study, patients who underwent anterior resection for rectal cancer in Sweden between 2015 and 2017 were identified through the Swedish Colorectal Cancer Registry. Health-related quality of life was assessed 3 years after surgery using the EORTC QLQ-C30 and QLQ-CR29 questionnaires. The primary outcome was the QLQ-C30 summary score. Targeted maximum likelihood estimation was applied to estimate the adjusted effect of anastomotic leakage on health-related quality of life. RESULTS Of 1778 eligible patients, 1178 (66.3%) responded, including 104 (8.8%) with anastomotic leakage. Patients with anastomotic leakage reported a lower mean QLQ-C30 summary score compared to those without anastomotic leakage (80 vs 86, p < 0.001). After adjustment for confounders, anastomotic leakage was associated with a 4-point difference in summary score (p < 0.01). Patients with anastomotic leakage also reported worse body image. Compared with patients without anastomotic leakage, those with anastomotic leakage and no stoma reported more perianal skin irritation, while those with a stoma more frequently reported stool leakage from the stoma bag. CONCLUSIONS Anastomotic leakage after anterior resection is associated with a small negative effect on overall health-related quality of life 3 years after surgery. Nevertheless, specific functional impairments-particularly related to body image, and stoma- or perianal symptoms-persist and warrant attention. These findings highlight the importance of patient counseling and long-term follow-up after anastomotic leakage.",
+      "abstract": "Background: Anastomotic leakage after anterior resection for rectal cancer is associated with long-term morbidity, such as bowel dysfunction, but its impact on health-related quality of life remains insufficiently studied. The aim of this study was to evaluate the association between anastomotic leakage and health-related quality of life 3 years after surgery. Methods: In this population-based prospective cohort study, patients who underwent anterior resection for rectal cancer in Sweden between 2015 and 2017 were identified through the Swedish Colorectal Cancer Registry. Health-related quality of life was assessed 3 years after surgery using the EORTC QLQ-C30 and QLQ-CR29 questionnaires. The primary outcome was the QLQ-C30 summary score. Targeted maximum likelihood estimation was applied to estimate the adjusted effect of anastomotic leakage on health-related quality of life. Results: Of 1778 eligible patients, 1178 (66.3%) responded, including 104 (8.8%) with anastomotic leakage. Patients with anastomotic leakage reported a lower mean QLQ-C30 summary score compared to those without anastomotic leakage (80 vs 86, p < 0.001). After adjustment for confounders, anastomotic leakage was associated with a 4-point difference in summary score (p < 0.01). Patients with anastomotic leakage also reported worse body image. Compared with patients without anastomotic leakage, those with anastomotic leakage and no stoma reported more perianal skin irritation, while those with a stoma more frequently reported stool leakage from the stoma bag. Conclusions: Anastomotic leakage after anterior resection is associated with a small negative effect on overall health-related quality of life 3 years after surgery. Nevertheless, specific functional impairments—particularly related to body image, and stoma- or perianal symptoms—persist and warrant attention. These findings highlight the importance of patient counseling and long-term follow-up after anastomotic leakage.",
       "year": 2026,
       "publication_date": "2026-07-20",
       "paper_id": "4bf32f70a289f7c8da5beec90e264bd3bdd88f9a",
@@ -2727,6 +2808,27 @@
       "url": "https://www.semanticscholar.org/paper/71da780ae870bcd497a02774648f8a5d7b372c34",
       "venue": "medRxiv",
       "doi": "10.64898/2026.02.04.26345559",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
+      "title": "Predictive Modeling of Rolling Bearing RUL Using Super Learner Regression and Degradation Phase Analysis",
+      "authors": [
+        "Abaiche Karima",
+        "Fouad Slaoui-Hasnaoui",
+        "Abdelhak Mehadjbia"
+      ],
+      "abstract": "",
+      "year": 2026,
+      "publication_date": "2026-07-02",
+      "paper_id": "159fcf26abbd51f3c8a917102c32f74907d076c4",
+      "url": "https://www.semanticscholar.org/paper/159fcf26abbd51f3c8a917102c32f74907d076c4",
+      "venue": "IEEE International Conference on Circuits and Systems for Communications",
+      "doi": "10.1109/ICCSC71566.2026.11650030",
       "matched_keywords": [
         "super learner"
       ],
@@ -7774,7 +7876,7 @@
       "authors": [
         "Haolin Li",
         "Haibo Zhou",
-        "David J Couper",
+        "David J. Couper",
         "Jianwen Cai"
       ],
       "abstract": "",
@@ -9268,6 +9370,29 @@
       ]
     },
     {
+      "title": "Causal Analyses of Statin to Prevent Liver Disease Progression: A Nationwide Study Using Superlearning Targeted Maximum Likelihood Estimation",
+      "authors": [
+        "Sunyoung Cho",
+        "Heejo Koo",
+        "Beom Kyung Kim",
+        "E. Han"
+      ],
+      "abstract": "Many studies have shown that statins reduce the risk of progression to liver cirrhosis (LC) and hepatocellular carcinoma (HCC) among at-risk populations. However, causality has not been proved. This study examined whether statins could prevent LC and HCC in patients with progressive and worsening chronic liver disease, using a robust methodology for causality. Between 2002 and 2013, 52,145 patients with chronic liver diseases were identified from the National Health Insurance Service database in South Korea. The inverse probability weighting (IPW) and superlearning targeted maximum likelihood estimation (TMLE) were used to assess the causality of statin use on the risk of LC and HCC, adjusting for sex, age, comorbidities, and co-medications. Multivariable superlearning TMLE revealed that statin use was associated with reduction in the incidence risk of LC (Marginal odds ratio (MOR) 0.59, 95% confidence interval [CI] 0.50-0.65) and HCC (MOR 0.59, 95% CI 0.50-0.67). Such a protective effect was more evident with atorvastatin and lipophilic statin. This population-based observational study indicated the benefit of statin use, particularly atorvastatin and lipophilic statin, for causally reducing the risk of LC and HCC.",
+      "year": 2024,
+      "publication_date": "2024-02-28",
+      "paper_id": "d989e0748df21d6ebaf0ada57c92b74d2365a17a",
+      "url": "https://www.semanticscholar.org/paper/d989e0748df21d6ebaf0ada57c92b74d2365a17a",
+      "venue": "Yakhak Hoeji",
+      "doi": "10.17480/psk.2024.68.1.44",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
+      ]
+    },
+    {
       "title": "Causal inference in randomized trials with partial clustering",
       "authors": [
         "Joshua R Nugent",
@@ -10132,20 +10257,20 @@
       ]
     },
     {
-      "title": "HAL-Based Plug-in Estimation with Pointwise Asymptotic Normality of the Causal Dose-Response Curve",
+      "title": "HAL-based plug-in estimation with pointwise asymptotic normality of the causal dose–response curve",
       "authors": [
         "Junming Shi",
         "Wenxin Zhang",
         "Alan Hubbard",
-        "M. V. D. Laan"
+        "M. J. van der Laan"
       ],
-      "abstract": "Estimating and obtaining reliable inference for the marginally adjusted causal dose-response curve for continuous treatments without relying on parametric assumptions is a well-known statistical challenge. Parametric models risk introducing significant bias through model misspecification, compromising the accurate representation of the underlying data and dose-response relationship. On the other hand, nonparametric models face difficulties as the dose-response curve is not pathwise differentiable, preventing consistent estimation at standard rates. The Highly Adaptive Lasso (HAL) maximum likelihood estimator offers a promising approach to this issue. In this paper, we introduce a HAL-based plug-in estimator for the causal dose-response curve, bridge theoretical development and empirical application, and assess its empirical performance against other estimators. This work emphasizes not just theoretical proofs, but also demonstrates their application through comprehensive simulations, thereby filling an essential gap between theory and practice. Our comprehensive simulations demonstrate that the HAL-based estimator achieves pointwise asymptotic normality with valid inference and consistently outperforms existing approaches for estimating the causal dose-response curve.",
+      "abstract": "Abstract Estimating and obtaining reliable inference for the marginally adjusted causal dose–response curve for continuous treatments without relying on parametric assumptions is a well-known statistical challenge. Parametric models risk introducing significant bias through model misspecification, compromising the accurate representation of the underlying data and dose–response relationship. On the other hand, nonparametric models face difficulties as the dose–response curve is not pathwise differentiable, preventing consistent estimation at standard rates and making the construction of confidence intervals challenging. The Highly Adaptive Lasso (HAL) maximum likelihood estimator offers a promising approach to this issue. In this paper, we introduce a HAL-based plug-in estimator for the causal dose–response curve, bridge between recent theoretical developments and empirical applications, and assess its empirical performance against other estimators. This work emphasizes the translation of existing HAL asymptotic theory to the causal dose–response setting and demonstrates its practical implications through comprehensive simulations, thereby filling an essential gap between theory and practice. Our comprehensive simulations demonstrate that the HAL-based estimator approaches pointwise asymptotic normality under the assumed smoothness conditions and yields confidence intervals that are consistently closer to nominal coverage than those of competing methods. While undercoverage can persist in more complex settings at moderate sample sizes, the HAL estimator consistently outperforms existing approaches for estimating the causal dose–response curve.",
       "year": 2024,
       "publication_date": "2024-06-09",
       "paper_id": "43884c81d7f4c65a7c1bf100fb8904b6e1fe7e5b",
       "url": "https://www.semanticscholar.org/paper/43884c81d7f4c65a7c1bf100fb8904b6e1fe7e5b",
       "venue": null,
-      "doi": null,
+      "doi": "10.1515/jci-2025-0059",
       "matched_keywords": [
         "highly adaptive lasso"
       ],
