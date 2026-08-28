@@ -7,17 +7,17 @@ Auto-updated list of TMLE-related papers tracked from Semantic Scholar queries.
 
 _Note: this list is not complete and may include irrelevant articles; it will be refined over time._
 
-Last refreshed: 2026-08-21T15:03:34Z
+Last refreshed: 2026-08-28T15:10:13Z
 
 Keywords queried: tmle, targeted maximum likelihood estimation, targeted minimum loss based estimation, super learner, super learning, highly adaptive lasso
 
-Total tracked papers: **1134**
+Total tracked papers: **1141**
 
 <!-- monthly-chart:start -->
 
 ## Yearly Papers Trend
 
-Number of papers per year from **2006** to **2025** (coverage: **975/1134** papers with year metadata in range).
+Number of papers per year from **2006** to **2025** (coverage: **976/1141** papers with year metadata in range).
 
 ```{=html}
 <style>
@@ -42,8 +42,8 @@ Number of papers per year from **2006** to **2025** (coverage: **975/1134** pape
 <text x="48" y="19.00" text-anchor="end">181</text>
 <line x1="56" y1="16" x2="56" y2="236" stroke="#374151" stroke-width="1.2"/>
 <line x1="56" y1="236" x2="702" y2="236" stroke="#374151" stroke-width="1.2"/>
-<polygon points="56.00,236.00 56.00,234.78 90.00,236.00 124.00,234.78 158.00,223.85 192.00,227.49 226.00,212.91 260.00,216.55 294.00,222.63 328.00,215.34 362.00,217.77 396.00,204.40 430.00,191.03 464.00,166.72 498.00,172.80 532.00,156.99 566.00,114.45 600.00,107.16 634.00,98.65 668.00,64.62 702.00,16.00 702.00,236.00" fill="#93c5fd" opacity="0.26"/>
-<polyline points="56.00,234.78 90.00,236.00 124.00,234.78 158.00,223.85 192.00,227.49 226.00,212.91 260.00,216.55 294.00,222.63 328.00,215.34 362.00,217.77 396.00,204.40 430.00,191.03 464.00,166.72 498.00,172.80 532.00,156.99 566.00,114.45 600.00,107.16 634.00,98.65 668.00,64.62 702.00,16.00" fill="none" stroke="#1d4ed8" stroke-width="2"/>
+<polygon points="56.00,236.00 56.00,234.78 90.00,236.00 124.00,234.78 158.00,223.85 192.00,227.49 226.00,212.91 260.00,216.55 294.00,222.63 328.00,215.34 362.00,217.77 396.00,204.40 430.00,191.03 464.00,166.72 498.00,172.80 532.00,156.99 566.00,114.45 600.00,107.16 634.00,98.65 668.00,63.40 702.00,16.00 702.00,236.00" fill="#93c5fd" opacity="0.26"/>
+<polyline points="56.00,234.78 90.00,236.00 124.00,234.78 158.00,223.85 192.00,227.49 226.00,212.91 260.00,216.55 294.00,222.63 328.00,215.34 362.00,217.77 396.00,204.40 430.00,191.03 464.00,166.72 498.00,172.80 532.00,156.99 566.00,114.45 600.00,107.16 634.00,98.65 668.00,63.40 702.00,16.00" fill="none" stroke="#1d4ed8" stroke-width="2"/>
 <circle cx="56.00" cy="234.78" r="2.2" fill="#1d4ed8"><title>2006: 1 papers</title></circle>
 <circle cx="90.00" cy="236.00" r="2.2" fill="#1d4ed8"><title>2007: 0 papers</title></circle>
 <circle cx="124.00" cy="234.78" r="2.2" fill="#1d4ed8"><title>2008: 1 papers</title></circle>
@@ -62,7 +62,7 @@ Number of papers per year from **2006** to **2025** (coverage: **975/1134** pape
 <circle cx="566.00" cy="114.45" r="2.2" fill="#1d4ed8"><title>2021: 100 papers</title></circle>
 <circle cx="600.00" cy="107.16" r="2.2" fill="#1d4ed8"><title>2022: 106 papers</title></circle>
 <circle cx="634.00" cy="98.65" r="2.2" fill="#1d4ed8"><title>2023: 113 papers</title></circle>
-<circle cx="668.00" cy="64.62" r="2.2" fill="#1d4ed8"><title>2024: 141 papers</title></circle>
+<circle cx="668.00" cy="63.40" r="2.2" fill="#1d4ed8"><title>2024: 142 papers</title></circle>
 <circle cx="702.00" cy="16.00" r="2.2" fill="#1d4ed8"><title>2025: 181 papers</title></circle>
 <line x1="56.00" y1="236" x2="56.00" y2="240" stroke="#374151" stroke-width="1"/>
 <text x="56.00" y="252" text-anchor="middle">2006</text>
@@ -116,7 +116,7 @@ Number of papers per year from **2006** to **2025** (coverage: **975/1134** pape
 
 ## Contributor Ranking
 
-Bars show contributors with at least 2 papers, sorted left to right by paper count. Total shown: **858**.
+Bars show contributors with at least 2 papers, sorted left to right by paper count. Total shown: **861**.
 
 ```{=html}
 <style>
@@ -252,13 +252,17 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="B. Zareini: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.02px"></div><div class="contrib-label"><span>B. Zareini</span></div></div>
     <div class="contrib-item" title="Carina Marquez: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.02px"></div><div class="contrib-label"><span>Carina Marquez</span></div></div>
     <div class="contrib-item" title="Catherine J. Lee: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.02px"></div><div class="contrib-label"><span>Catherine J. Lee</span></div></div>
+    <div class="contrib-item" title="Chansoo Kim: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.02px"></div><div class="contrib-label"><span>Chansoo Kim</span></div></div>
     <div class="contrib-item" title="D. Bangsberg: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.02px"></div><div class="contrib-label"><span>D. Bangsberg</span></div></div>
     <div class="contrib-item" title="D. Kwarisiima: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.02px"></div><div class="contrib-label"><span>D. Kwarisiima</span></div></div>
+    <div class="contrib-item" title="Desalegn Wogaso: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.02px"></div><div class="contrib-label"><span>Desalegn Wogaso</span></div></div>
     <div class="contrib-item" title="Dimitris Rizopoulos: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.02px"></div><div class="contrib-label"><span>Dimitris Rizopoulos</span></div></div>
     <div class="contrib-item" title="E. LeDell: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.02px"></div><div class="contrib-label"><span>E. LeDell</span></div></div>
     <div class="contrib-item" title="F. Mwangwa: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.02px"></div><div class="contrib-label"><span>F. Mwangwa</span></div></div>
+    <div class="contrib-item" title="Firi Ziyad: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.02px"></div><div class="contrib-label"><span>Firi Ziyad</span></div></div>
     <div class="contrib-item" title="Geoffrey Ecoto: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.02px"></div><div class="contrib-label"><span>Geoffrey Ecoto</span></div></div>
     <div class="contrib-item" title="Gihan M. Ali: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.02px"></div><div class="contrib-label"><span>Gihan M. Ali</span></div></div>
+    <div class="contrib-item" title="Habtamu Alemayehu: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.02px"></div><div class="contrib-label"><span>Habtamu Alemayehu</span></div></div>
     <div class="contrib-item" title="Haodong Li: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.02px"></div><div class="contrib-label"><span>Haodong Li</span></div></div>
     <div class="contrib-item" title="Hossein Mozafar Saadati: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.02px"></div><div class="contrib-label"><span>Hossein Mozafar Saadati</span></div></div>
     <div class="contrib-item" title="Ichiro Kawachi: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.02px"></div><div class="contrib-label"><span>Ichiro Kawachi</span></div></div>
@@ -324,7 +328,6 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Carlos Garc&#x27;ia Meixide: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Carlos Garc&#x27;ia Meixide</span></div></div>
     <div class="contrib-item" title="Carlos Ruíz-Frutos: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Carlos Ruíz-Frutos</span></div></div>
     <div class="contrib-item" title="Carolyn T. Bramante: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Carolyn T. Bramante</span></div></div>
-    <div class="contrib-item" title="Chansoo Kim: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Chansoo Kim</span></div></div>
     <div class="contrib-item" title="Chenchen Yu: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Chenchen Yu</span></div></div>
     <div class="contrib-item" title="Chi Zhang: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Chi Zhang</span></div></div>
     <div class="contrib-item" title="Craig A. Magaret: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Craig A. Magaret</span></div></div>
@@ -492,6 +495,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="B. Gallego: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>B. Gallego</span></div></div>
     <div class="contrib-item" title="B. Taiwo: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>B. Taiwo</span></div></div>
     <div class="contrib-item" title="Bingxiao Li: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Bingxiao Li</span></div></div>
+    <div class="contrib-item" title="Bomi Park: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Bomi Park</span></div></div>
     <div class="contrib-item" title="Bopha Chrea: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Bopha Chrea</span></div></div>
     <div class="contrib-item" title="Brian R. Lane: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Brian R. Lane</span></div></div>
     <div class="contrib-item" title="Brock B O&#x27;Neil: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Brock B O&#x27;Neil</span></div></div>
@@ -544,7 +548,6 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="David S. Morris: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>David S. Morris</span></div></div>
     <div class="contrib-item" title="DeShauna Jones: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>DeShauna Jones</span></div></div>
     <div class="contrib-item" title="Deirdre Weymann: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Deirdre Weymann</span></div></div>
-    <div class="contrib-item" title="Desalegn Wogaso: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Desalegn Wogaso</span></div></div>
     <div class="contrib-item" title="Di Zhang: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Di Zhang</span></div></div>
     <div class="contrib-item" title="Diarmuid Grimes: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Diarmuid Grimes</span></div></div>
     <div class="contrib-item" title="Dilvin Taşkın: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Dilvin Taşkın</span></div></div>
@@ -588,7 +591,6 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Fan Li: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Fan Li</span></div></div>
     <div class="contrib-item" title="Fang Shi: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Fang Shi</span></div></div>
     <div class="contrib-item" title="Feng Ji: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Feng Ji</span></div></div>
-    <div class="contrib-item" title="Firi Ziyad: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Firi Ziyad</span></div></div>
     <div class="contrib-item" title="Frank Eriksson: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Frank Eriksson</span></div></div>
     <div class="contrib-item" title="Fredrick J Opel: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Fredrick J Opel</span></div></div>
     <div class="contrib-item" title="G. C. Alexander: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>G. C. Alexander</span></div></div>
@@ -600,6 +602,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Gabriella Barratt Heitmann: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Gabriella Barratt Heitmann</span></div></div>
     <div class="contrib-item" title="Geeta Reddy: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Geeta Reddy</span></div></div>
     <div class="contrib-item" title="Geraldine M. Clarke: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Geraldine M. Clarke</span></div></div>
+    <div class="contrib-item" title="Getachew Semegn: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Getachew Semegn</span></div></div>
     <div class="contrib-item" title="Gilmer Valdes: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Gilmer Valdes</span></div></div>
     <div class="contrib-item" title="Guanbo Wang: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Guanbo Wang</span></div></div>
     <div class="contrib-item" title="Guangye He: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Guangye He</span></div></div>
@@ -614,7 +617,6 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="H. Jutesten: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>H. Jutesten</span></div></div>
     <div class="contrib-item" title="H. Tsai: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>H. Tsai</span></div></div>
     <div class="contrib-item" title="H. Yonis: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>H. Yonis</span></div></div>
-    <div class="contrib-item" title="Habtamu Alemayehu: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Habtamu Alemayehu</span></div></div>
     <div class="contrib-item" title="Hadeel El-Muzaini: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Hadeel El-Muzaini</span></div></div>
     <div class="contrib-item" title="Hai Zhu: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Hai Zhu</span></div></div>
     <div class="contrib-item" title="Hamdan Mustafa Hamdan Ali: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Hamdan Mustafa Hamdan Ali</span></div></div>
@@ -629,6 +631,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Hind A Beydoun: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Hind A Beydoun</span></div></div>
     <div class="contrib-item" title="Honghu Liu: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Honghu Liu</span></div></div>
     <div class="contrib-item" title="Howard Liu: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Howard Liu</span></div></div>
+    <div class="contrib-item" title="Hye-Lim Lee: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Hye-Lim Lee</span></div></div>
     <div class="contrib-item" title="I. Khan: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>I. Khan</span></div></div>
     <div class="contrib-item" title="I. Martín-Loeches: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>I. Martín-Loeches</span></div></div>
     <div class="contrib-item" title="I.C. Williams: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>I.C. Williams</span></div></div>
@@ -1013,7 +1016,7 @@ Papers are grouped by publication year. Expand a year to browse papers. Only pap
 .paper-year > .paper-item > summary { cursor: pointer; }
 </style>
 <details class="paper-year">
-  <summary><strong>2026 (148 papers)</strong></summary>
+  <summary><strong>2026 (154 papers)</strong></summary>
 
 <details class="paper-item">
   <summary><strong>2026-08-31 — Artificial intelligence–driven prediction on oil formation volume factor for Niger delta region</strong></summary>
@@ -1029,6 +1032,74 @@ Papers are grouped by publication year. Expand a year to browse papers. Only pap
 </p>
 <p><strong>Abstract</strong>:<br>
 Oil formation volume factor (OFVF) is very important reservoir fluid property used in the reservoir engineering calculations either directly or indirectly. It indicates the change in the volume of produced oil from the reservoir to surface conditions. The industry standard is to measure this parameter in the laboratory using reservoir samples but the procedures of acquiring these experimental data are very expensive, and time consuming, hence the application of correlations and artificial intelligent. Before now, some empirical correlations existed that determines the oil formation volume factor however, they show high error due to the applied assumptions, and their specification to operate only under a particular range of data. In this study, Super Learner (SL) and Deep Neural Network (DNN) artificial intelligent algorithms were trained to forecast oil formation volume factor at different reservoir condition using Niger Delta reservoir fluid. A total number of 1147 data set was obtained from PVT report from Niger-Delta and validated, out of which, 70% (803) were used to train the models, 15% (172) for cross validation and 15% (172) for test. Quantitative and qualitative statistical analysis were carried out to compare the performance and reliability of the new developed machine learning models with some selected oil formation volume factor empirical correlations. The Super Leaner (SL) model predicted better than Deep Neural Network (DNN) and some of the selected empirical models with the best Rank of 0.05, average absolute percent relative error of 0.054and a correlation coefficient of 0.989. The findings from this research can be applied for estimation of the volumetric properties of hydrocarbon reservoir fluids without the need for conducting routine laboratory analyses.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2026-08-24 — Does Data Preprocessing Affect Tree-Based Super Learners? An Investigation of Ensemble Optimization and Oracle Properties in Clinical Classification.</strong></summary>
+
+<p>
+<strong>Authors</strong>: R. Darko, D. Dwumah, K. S. Agyapong, Y. Agyenim-Boateng, R. Darko Anim, J. Wisdom Jakper, N. K. Owusu-Ansah, R. Owusu-Ansah<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-08-24<br>
+<strong>Venue</strong>: medRxiv<br>
+<strong>DOI</strong>: 10.64898/2026.08.20.26360880<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/d53b4c36864d0347376e3ab932c1db8027866721">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: super learner
+</p>
+<p><strong>Abstract</strong>:<br>
+Machine learning workflows frequently incorporate data preprocessing to enhance predictive performance. However, the need for Super Learner ensembles made up only of preprocessing-invariant tree-based algorithms remains unexplored. Using three benchmark clinical classification datasets, this study examined how preprocessing affected the Super Learner&#x27;s prediction performance, learner weight distribution, and oracle behavior. The Heart Disease (207 observations), Indian Liver Patient Dataset (583 observations), and Pima Indians Diabetes (768 observations) datasets were used to create a Super Learner ensemble model that included Classification and Regression Trees (CART), Random Forest, Ranger, and Extreme Gradient Boosting (XGBoost). Models were evaluated under raw and preprocessed data conditions using repeated cross-validation. Predictive performance was assessed using the area under the receiver operating characteristic curve (AUC), Matthews correlation coefficient (MCC), and Brier score. Learner weight allocation and Oracle Gap were compared using paired Wilcoxon signed-rank tests with Benjamini-Hochberg adjustment. Preprocessing produced negligible changes in predictive performance for the Heart Disease and Pima datasets. For the ILPD dataset, preprocessing significantly improved AUC (0.746 to 0.752; adjusted p = 0.0017) and reduced the Brier score (0.177 to 0.175; adjusted p &lt; 0.001). Learner weights remained largely stable, although Random Forest replaced Ranger as the dominant learner for the Heart Disease dataset. Oracle Gaps remained extremely small (&lt;0.002) across all datasets and did not differ significantly between preprocessing conditions. Preprocessing provides limited benefit for Super Learner ensembles composed of preprocessing-invariant learners and does not materially alter their oracle behavior. Preprocessing decisions should therefore be guided by dataset characteristics rather than adopted as a universal modelling practice.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2026-08-22 — Alcohol amount, drinking patterns, and gastric cancer risk: a nationwide study using targeted maximum likelihood estimation.</strong></summary>
+
+<p>
+<strong>Authors</strong>: C. Kim, Byungmi Kim, Hye Ah Lee, Yewon Choi, Hwiyoung Kim, Bomi Park<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-08-22<br>
+<strong>Venue</strong>: European Journal of Epidemiology<br>
+<strong>DOI</strong>: 10.1007/s10654-026-01452-9<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/4c778b9a0c16726a7071d45df069ec20df467f1d">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: targeted maximum likelihood estimation
+</p>
+<p><strong>Abstract</strong>:<br>
+Abstract unavailable from Semantic Scholar.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2026-08-21 — Ensemble machine learning model for predicting surface roughness during drilling of hybrid sisal-cotton fiber reinforced polyester composites</strong></summary>
+
+<p>
+<strong>Authors</strong>: Desalegn Wogaso, Firi Ziyad, Habtamu Alemayehu, Abdifetah Ahmed Rabi, Sadik Ali<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-08-21<br>
+<strong>Venue</strong>: Discover Applied Sciences<br>
+<strong>DOI</strong>: 10.1007/s42452-026-09375-6<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/470be22b5af855ae7214f53c3f09e71303d0c673">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: super learner
+</p>
+<p><strong>Abstract</strong>:<br>
+Composites that integrate natural fibers with polymer matrix possess versatile properties and profoundly contribute to sustainability and eco-friendless. Machining of these composite materials is challenging due to material’s anisotropic property, non-homogeneous structure and abrasive nature of fibers. Surface roughness measures the quality characteristics of drilled hole on hybrid sisal-cotton reinforced polyester composite materials. To predict surface roughness, researchers have used empirical and statistical techniques, both of which have issues with generalizability when forecasting unseen data. The objective of this work is to build a super-learner machine-learning model to predict surface roughness of drilled hole on hybrid sisal-cotton reinforced polyester composite using a variety of machine-learning techniques, such as decision trees, random forests, gradient boosting, and extreme gradient boosting. K-fold cross-validation and grid search hyperparameter optimization are used to optimize the models. The proposed super learner model’s prediction performance is contrasted with the other models. With a coefficient of determination (R 2 ) of 99.4% between the experimental and predicted values for surface roughness for the test dataset, the proposed super learner model outperformed the other models in terms of prediction. With the highest coefficient of determination (R 2 ), lowest mean absolute error (4.75%), mean absolute percentage error (3.30%), and root mean square error (5.32%), this model is shown to be the most accurate. Additionally, the Shapley additive explanation technique, which highlights the crucial elements influencing the surface roughness of polyester matrix composites reinforced with sisal and cotton fibers, explain the model’s predictions. In the end, a tool based graphical user interface has been developed for the machine learning prediction model’s practical use. This software predicts surface roughness quickly, accurately, and intelligently.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2026-08-20 — Causal AI for cancer immunotherapy: a narrative framework review of target trial emulation, treatment-effect learning and clinical translation</strong></summary>
+
+<p>
+<strong>Authors</strong>: Xin Zhao, Zhuoran Liu, Jie Yang, Qingyun Xie, Tianyang Mao, Heng Zhou, Hongyuan Wang, Peng Zheng, Kangyi Jiang, Fengwei Gao<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-08-20<br>
+<strong>Venue</strong>: Frontiers in Immunology<br>
+<strong>DOI</strong>: 10.3389/fimmu.2026.1896755<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/3d297911efc5d0d12cb77b000ee5ea072338965e">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: tmle
+</p>
+<p><strong>Abstract</strong>:<br>
+This narrative framework Review examines how artificial intelligence (AI) can move cancer immunotherapy research from outcome prediction toward target-trial-based treatment-effect learning. AI has produced increasingly accurate models for predicting response, survival and immune-related toxicity during cancer immunotherapy. Yet most models estimate outcome risk under observed care rather than the causal effect of choosing one strategy over another. We therefore frame immunotherapy AI as a causal digital-medicine problem: clinically useful AI should begin with a target-trial question that specifies eligibility, time zero, treatment strategies, comparators, outcomes, estimands and bias-control plans before model development. Within this framework, multimodal AI outputs from imaging, digital pathology, omics, microbiome data, electronic health records and clinical text can function as baseline confounders, candidate effect modifiers, longitudinal state variables or outcome-ascertainment tools. We distinguish established causal-inference approaches, such as target trial emulation, propensity-score weighting, g-methods, TMLE, DML and heterogeneous-treatment-effect estimation, from exploratory technologies such as reinforcement learning and digital twins that require prospective safety validation. We close by outlining validation, reporting, workflow, regulatory and lifecycle-monitoring requirements for moving from predictive biomarkers to trustworthy causal learning systems in immuno-oncology.
 </p>
 </details>
 
@@ -1061,6 +1132,23 @@ Diagnostic medical tests and devices provide useful information for evaluating t
 </p>
 <p><strong>Abstract</strong>:<br>
 OBJECTIVE To examine the association between the timing of surgical excision and survival in severely ill burn patients. SUMMARY BACKGROUND DATA The optimal timing of surgical excision in severe burns remains uncertain. Early excision may limit systemic inflammation but may also increase hemodynamic instability. METHODS This prospective, multicenter, observational cohort study (December 2016-December 2022) included adults (18 y of age or older) admitted within 72 hours of injury with burns involving &gt;20% TBSA across 6 French centers. Early surgery was defined as the first excision within 48 hours. The primary outcome was 90-day all-cause mortality. Secondary outcomes included ICU and 28-day mortality, organ failure, acute kidney injury, ARDS, secondary infections, sepsis, and ICU length of stay. Associations were estimated using AIPTW and targeted maximum likelihood estimation. RESULTS Among 448 patients (median age 47 y; 65% male; median TBSA 33%), 90 (20%) underwent early and 358 (80%) delayed excision. Early-excision patients had more extensive burns and higher severity scores. After adjustment, delayed excision was associated with higher 90-day mortality (aOR: 2.3, 95% CI: 1.2-4.1; P=0.007), higher ICU mortality (aOR: 3.1, 95% CI: 1.5-6.3; P=0.001), and higher 28-day mortality (aOR: 2.9, 95% CI: 1.3-6.7; P=0.007). Sepsis or septic shock occurred more often in the early group (53% vs. 32%; aOR: 0.56, 95% CI: 0.38-0.83; P=0.004). No significant differences were found for other secondary outcomes. CONCLUSIONS Early surgical excision within 48 hours was associated with lower adjusted 90-day mortality in adults with severe burns, supporting early excision as part of modern burn management strategies.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2026-08-17 — An Investigation of Ensemble and Explainable Machine Learning Models for Consumer Price Index Prediction in Ethiopia: Evidence from 1990-2023</strong></summary>
+
+<p>
+<strong>Authors</strong>: F. Mohammed, Abduselam Abdulahi Mohamed, Umar Aliyi, Firi Ziyad, Desalegn Wogaso, Habtamu Alemayehu, Getachew Semegn<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-08-17<br>
+<strong>Venue</strong>: International Journal on Data Science and Technology<br>
+<strong>DOI</strong>: 10.11648/j.ijdst.20261203.11<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/8c1ea47a3d5f47328b3784433ab2daefe18aabc0">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: super learner
+</p>
+<p><strong>Abstract</strong>:<br>
+A plenty of research investigations have demonstrated the pivotal role that the consumer price index (CPI) plays in the comprehensive assessment and understanding of inflationary trends within an economy. For prediction of consumer price index, researchers have used a variety of empirical methodologies and sophisticated statistical techniques, each of which come up with inherent challenges regarding their generalizability. To solve issues with generalizability, researchers developed artificial intelligence and machine learning. In this work, the sophisticated machine learning models such as decision tree (DT), random forest (RF), and gradient boosting (GB)s have integrated together to develop super learner machine learning to enhance the predictive capabilities concerning the consumer price index robustly. To ensure the optimization of these models, rigorous methodologies such as K-fold cross-validation and an extensive grid search for hyperparameter tuning are meticulously applied to refine the model&#x27;s performance. The efficiency and predictive performance of the proposed super learner model are then critically compared with those of other base models, thereby establishing a benchmark for assessing improvements in predictive accuracy. Remarkably, the suggested super learner model demonstrated superior prediction capabilities, achieving highest coefficient of determination (R 2 ) of 98.3%, with the lowest mean absolute error of 2.89%, a mean absolute percentage error of 2.60%, and a root mean square error of 3.46%. Moreover, the interpretability of the model&#x27;s predictions is significantly explained through the application of Shapley additive explanations. This method explains the essential factors that influence the consumer price index in the context of Ethiopia. The super learner model that has been developed possesses the versatility and accuracy necessary for application across various economic sectors, enabling researchers and practitioners to predict dependent variables with both precision and efficiency, thus facilitating informed decision-making in financial planning.
 </p>
 </details>
 
@@ -1331,7 +1419,7 @@ OBJECTIVES To assess 30-day mortality, readmissions, and cost-effectiveness foll
 </details>
 
 <details class="paper-item">
-  <summary><strong>2026-07-20 — Minimal long-term impact of anastomotic leakage on quality of life after anterior resection for rectal cancer: A population-based cohort study.</strong></summary>
+  <summary><strong>2026-07-20 — Minimal long-term impact of anastomotic leakage on quality of life after anterior resection for rectal cancer: A population-based cohort study</strong></summary>
 
 <p>
 <strong>Authors</strong>: Marcus Lindsköld, Anders Gerdin, Jennifer Park, Jenny Häggström, M. Lydrup, P. Matthiessen, H. Jutesten, Sofia Sandberg, E. Angenete, Petrus Vinnars, P. Buchwald, M. Rutegård<br>
@@ -1343,7 +1431,7 @@ OBJECTIVES To assess 30-day mortality, readmissions, and cost-effectiveness foll
 <strong>Matched Keywords</strong>: targeted maximum likelihood estimation
 </p>
 <p><strong>Abstract</strong>:<br>
-BACKGROUND Anastomotic leakage after anterior resection for rectal cancer is associated with long-term morbidity, such as bowel dysfunction, but its impact on health-related quality of life remains insufficiently studied. The aim of this study was to evaluate the association between anastomotic leakage and health-related quality of life 3 years after surgery. METHODS In this population-based prospective cohort study, patients who underwent anterior resection for rectal cancer in Sweden between 2015 and 2017 were identified through the Swedish Colorectal Cancer Registry. Health-related quality of life was assessed 3 years after surgery using the EORTC QLQ-C30 and QLQ-CR29 questionnaires. The primary outcome was the QLQ-C30 summary score. Targeted maximum likelihood estimation was applied to estimate the adjusted effect of anastomotic leakage on health-related quality of life. RESULTS Of 1778 eligible patients, 1178 (66.3%) responded, including 104 (8.8%) with anastomotic leakage. Patients with anastomotic leakage reported a lower mean QLQ-C30 summary score compared to those without anastomotic leakage (80 vs 86, p &lt; 0.001). After adjustment for confounders, anastomotic leakage was associated with a 4-point difference in summary score (p &lt; 0.01). Patients with anastomotic leakage also reported worse body image. Compared with patients without anastomotic leakage, those with anastomotic leakage and no stoma reported more perianal skin irritation, while those with a stoma more frequently reported stool leakage from the stoma bag. CONCLUSIONS Anastomotic leakage after anterior resection is associated with a small negative effect on overall health-related quality of life 3 years after surgery. Nevertheless, specific functional impairments-particularly related to body image, and stoma- or perianal symptoms-persist and warrant attention. These findings highlight the importance of patient counseling and long-term follow-up after anastomotic leakage.
+Background: Anastomotic leakage after anterior resection for rectal cancer is associated with long-term morbidity, such as bowel dysfunction, but its impact on health-related quality of life remains insufficiently studied. The aim of this study was to evaluate the association between anastomotic leakage and health-related quality of life 3 years after surgery. Methods: In this population-based prospective cohort study, patients who underwent anterior resection for rectal cancer in Sweden between 2015 and 2017 were identified through the Swedish Colorectal Cancer Registry. Health-related quality of life was assessed 3 years after surgery using the EORTC QLQ-C30 and QLQ-CR29 questionnaires. The primary outcome was the QLQ-C30 summary score. Targeted maximum likelihood estimation was applied to estimate the adjusted effect of anastomotic leakage on health-related quality of life. Results: Of 1778 eligible patients, 1178 (66.3%) responded, including 104 (8.8%) with anastomotic leakage. Patients with anastomotic leakage reported a lower mean QLQ-C30 summary score compared to those without anastomotic leakage (80 vs 86, p &lt; 0.001). After adjustment for confounders, anastomotic leakage was associated with a 4-point difference in summary score (p &lt; 0.01). Patients with anastomotic leakage also reported worse body image. Compared with patients without anastomotic leakage, those with anastomotic leakage and no stoma reported more perianal skin irritation, while those with a stoma more frequently reported stool leakage from the stoma bag. Conclusions: Anastomotic leakage after anterior resection is associated with a small negative effect on overall health-related quality of life 3 years after surgery. Nevertheless, specific functional impairments—particularly related to body image, and stoma- or perianal symptoms—persist and warrant attention. These findings highlight the importance of patient counseling and long-term follow-up after anastomotic leakage.
 </p>
 </details>
 
@@ -1623,6 +1711,23 @@ Augmenting a randomized controlled trial with real-world data promises greater e
 </p>
 <p><strong>Abstract</strong>:<br>
 We consider efficient estimation of causal parameters in longitudinal two-stage designs with outcome subsampling, motivated by resampling designs in HIV-related mortality studies. In these studies, many participants become lost to follow-up; resampling designs address this by tracing a subset of lost individuals to ascertain their outcomes. Analyses often use inverse-probability-weighted Kaplan-Meier (wKM) estimators that discard longitudinal covariate information and suffer from efficiency losses. We note that resampling designs are an instance of a broader class: two-stage designs with outcome subsampling, in which a first stage collects some data on all participants and a second stage collects outcome information on a selected subset. This connection motivates two estimators. First, drawing on inverse probability of censoring weighted targeted maximum likelihood estimation (IPCW-TMLE) for two-stage designs, we develop its longitudinal extension, IPCW longitudinal TMLE (IPCW-LTMLE) and show that estimating and targeting the known second-stage sampling weights yields variance reductions of up to 36% over the use of known sampling probabilities. Second, given that inverse weighting sacrifices efficiency, we propose an LTMLE that incorporates the second-stage sampling indicator as an intervention node in the sequential regression framework, returning to plug-in estimation and avoiding inverse weighting entirely. Simulations across sample sizes show that LTMLE achieves up to 73% lower variance than wKM with known sampling weights, with reductions of 30-50% common across settings, while IPCW-LTMLE achieves consistent gains of 20-35%. We further demonstrate that cross-fitted variance estimation is essential for valid inference: standard variance estimators yield confidence interval coverage as low as 76%, while our cross-fitted variants consistently restore coverage to nominal levels.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2026-07-02 — Predictive Modeling of Rolling Bearing RUL Using Super Learner Regression and Degradation Phase Analysis</strong></summary>
+
+<p>
+<strong>Authors</strong>: Abaiche Karima, Fouad Slaoui-Hasnaoui, Abdelhak Mehadjbia<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-07-02<br>
+<strong>Venue</strong>: IEEE International Conference on Circuits and Systems for Communications<br>
+<strong>DOI</strong>: 10.1109/ICCSC71566.2026.11650030<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/159fcf26abbd51f3c8a917102c32f74907d076c4">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: super learner
+</p>
+<p><strong>Abstract</strong>:<br>
+Abstract unavailable from Semantic Scholar.
 </p>
 </details>
 
@@ -4442,7 +4547,7 @@ Preeclampsia remains a leading cause of maternal and perinatal morbidity and mor
   <summary><strong>2025-10-08 — Super learner for survival prediction in case-cohort and generalized case-cohort studies.</strong></summary>
 
 <p>
-<strong>Authors</strong>: Haolin Li, Haibo Zhou, David J Couper, Jianwen Cai<br>
+<strong>Authors</strong>: Haolin Li, Haibo Zhou, David J. Couper, Jianwen Cai<br>
 <strong>Year</strong>: 2025<br>
 <strong>Publication Date</strong>: 2025-10-08<br>
 <strong>Venue</strong>: Biometrics<br>
@@ -6499,7 +6604,7 @@ PURPOSE Epidemiologic studies are important in assessing risk factors of mortali
 </details>
 
 <details class="paper-year">
-  <summary><strong>2024 (141 papers)</strong></summary>
+  <summary><strong>2024 (142 papers)</strong></summary>
 
 <details class="paper-item">
   <summary><strong>2024-12-31 — Semiparametric efficient estimation of small genetic effects in large-scale population cohorts</strong></summary>
@@ -7763,17 +7868,18 @@ Cefepime and piperacillin/tazobactam are antimicrobials recommended by IDSA/ATS 
 </details>
 
 <details class="paper-item">
-  <summary><strong>2024-06-09 — HAL-Based Plug-in Estimation with Pointwise Asymptotic Normality of the Causal Dose-Response Curve</strong></summary>
+  <summary><strong>2024-06-09 — HAL-based plug-in estimation with pointwise asymptotic normality of the causal dose–response curve</strong></summary>
 
 <p>
-<strong>Authors</strong>: Junming Shi, Wenxin Zhang, Alan Hubbard, M. V. D. Laan<br>
+<strong>Authors</strong>: Junming Shi, Wenxin Zhang, Alan Hubbard, M. J. van der Laan<br>
 <strong>Year</strong>: 2024<br>
 <strong>Publication Date</strong>: 2024-06-09<br>
+<strong>DOI</strong>: 10.1515/jci-2025-0059<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/43884c81d7f4c65a7c1bf100fb8904b6e1fe7e5b">Semantic Scholar</a><br>
 <strong>Matched Keywords</strong>: highly adaptive lasso
 </p>
 <p><strong>Abstract</strong>:<br>
-Estimating and obtaining reliable inference for the marginally adjusted causal dose-response curve for continuous treatments without relying on parametric assumptions is a well-known statistical challenge. Parametric models risk introducing significant bias through model misspecification, compromising the accurate representation of the underlying data and dose-response relationship. On the other hand, nonparametric models face difficulties as the dose-response curve is not pathwise differentiable, preventing consistent estimation at standard rates. The Highly Adaptive Lasso (HAL) maximum likelihood estimator offers a promising approach to this issue. In this paper, we introduce a HAL-based plug-in estimator for the causal dose-response curve, bridge theoretical development and empirical application, and assess its empirical performance against other estimators. This work emphasizes not just theoretical proofs, but also demonstrates their application through comprehensive simulations, thereby filling an essential gap between theory and practice. Our comprehensive simulations demonstrate that the HAL-based estimator achieves pointwise asymptotic normality with valid inference and consistently outperforms existing approaches for estimating the causal dose-response curve.
+Abstract Estimating and obtaining reliable inference for the marginally adjusted causal dose–response curve for continuous treatments without relying on parametric assumptions is a well-known statistical challenge. Parametric models risk introducing significant bias through model misspecification, compromising the accurate representation of the underlying data and dose–response relationship. On the other hand, nonparametric models face difficulties as the dose–response curve is not pathwise differentiable, preventing consistent estimation at standard rates and making the construction of confidence intervals challenging. The Highly Adaptive Lasso (HAL) maximum likelihood estimator offers a promising approach to this issue. In this paper, we introduce a HAL-based plug-in estimator for the causal dose–response curve, bridge between recent theoretical developments and empirical applications, and assess its empirical performance against other estimators. This work emphasizes the translation of existing HAL asymptotic theory to the causal dose–response setting and demonstrates its practical implications through comprehensive simulations, thereby filling an essential gap between theory and practice. Our comprehensive simulations demonstrate that the HAL-based estimator approaches pointwise asymptotic normality under the assumed smoothness conditions and yields confidence intervals that are consistently closer to nominal coverage than those of competing methods. While undercoverage can persist in more complex settings at moderate sample sizes, the HAL estimator consistently outperforms existing approaches for estimating the causal dose–response curve.
 </p>
 </details>
 
@@ -8484,6 +8590,23 @@ Background The primary treatment for patients with myocardial infarction (MI) is
 </p>
 <p><strong>Abstract</strong>:<br>
 Abstract unavailable from Semantic Scholar.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2024-02-28 — Causal Analyses of Statin to Prevent Liver Disease Progression: A Nationwide Study Using Superlearning Targeted Maximum Likelihood Estimation</strong></summary>
+
+<p>
+<strong>Authors</strong>: Sunyoung Cho, Heejo Koo, Beom Kyung Kim, E. Han<br>
+<strong>Year</strong>: 2024<br>
+<strong>Publication Date</strong>: 2024-02-28<br>
+<strong>Venue</strong>: Yakhak Hoeji<br>
+<strong>DOI</strong>: 10.17480/psk.2024.68.1.44<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/d989e0748df21d6ebaf0ada57c92b74d2365a17a">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: targeted maximum likelihood estimation, tmle
+</p>
+<p><strong>Abstract</strong>:<br>
+Many studies have shown that statins reduce the risk of progression to liver cirrhosis (LC) and hepatocellular carcinoma (HCC) among at-risk populations. However, causality has not been proved. This study examined whether statins could prevent LC and HCC in patients with progressive and worsening chronic liver disease, using a robust methodology for causality. Between 2002 and 2013, 52,145 patients with chronic liver diseases were identified from the National Health Insurance Service database in South Korea. The inverse probability weighting (IPW) and superlearning targeted maximum likelihood estimation (TMLE) were used to assess the causality of statin use on the risk of LC and HCC, adjusting for sex, age, comorbidities, and co-medications. Multivariable superlearning TMLE revealed that statin use was associated with reduction in the incidence risk of LC (Marginal odds ratio (MOR) 0.59, 95% confidence interval [CI] 0.50-0.65) and HCC (MOR 0.59, 95% CI 0.50-0.67). Such a protective effect was more evident with atorvastatin and lipophilic statin. This population-based observational study indicated the benefit of statin use, particularly atorvastatin and lipophilic statin, for causally reducing the risk of LC and HCC.
 </p>
 </details>
 
