@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T15:10:13Z",
+  "generated_at": "2026-09-04T15:05:29Z",
   "source": "Semantic Scholar Graph API",
   "unauthenticated": true,
   "mode": "bulk",
@@ -18,7 +18,7 @@
   "query_stats": [
     {
       "keyword": "tmle",
-      "fetched_raw_count": 509
+      "fetched_raw_count": 510
     },
     {
       "keyword": "targeted maximum likelihood estimation",
@@ -26,11 +26,11 @@
     },
     {
       "keyword": "targeted minimum loss based estimation",
-      "fetched_raw_count": 352
+      "fetched_raw_count": 351
     },
     {
       "keyword": "super learner",
-      "fetched_raw_count": 1060
+      "fetched_raw_count": 1062
     },
     {
       "keyword": "super learning",
@@ -38,132 +38,50 @@
     },
     {
       "keyword": "highly adaptive lasso",
-      "fetched_raw_count": 249
+      "fetched_raw_count": 250
     }
   ],
   "query_errors": [],
   "incomplete": false,
-  "fetched_paper_count": 986,
-  "newly_appended_count": 7,
-  "updated_existing_count": 3,
+  "fetched_paper_count": 988,
+  "newly_appended_count": 2,
+  "updated_existing_count": 64,
   "existing_blocked_removed": 0,
   "existing_duplicates_removed": 0,
   "newly_added_papers": [
     {
-      "title": "Alcohol amount, drinking patterns, and gastric cancer risk: a nationwide study using targeted maximum likelihood estimation.",
+      "title": "Multifidelity Computer Model Emulation Via Diffusion Model Steering and Targeted Maximum Likelihood",
       "year": 2026,
       "authors": [
-        "C. Kim",
-        "Byungmi Kim",
-        "Hye Ah Lee",
-        "Yewon Choi",
-        "Hwiyoung Kim",
-        "Bomi Park"
+        "Jongmin Mun"
       ],
-      "publication_date": "2026-08-22",
-      "doi": "10.1007/s10654-026-01452-9",
-      "paper_id": "4c778b9a0c16726a7071d45df069ec20df467f1d"
+      "publication_date": "2026-08-31",
+      "doi": null,
+      "paper_id": "6e903fd0a38c894b755a06bf0f7c5686c1338c76"
     },
     {
-      "title": "An Investigation of Ensemble and Explainable Machine Learning Models for Consumer Price Index Prediction in Ethiopia: Evidence from 1990-2023",
+      "title": "The effect of increases in physical activity on oral health and function in older adults in Singapore: A longitudinal causal inference study.",
       "year": 2026,
       "authors": [
-        "F. Mohammed",
-        "Abduselam Abdulahi Mohamed",
-        "Umar Aliyi",
-        "Firi Ziyad",
-        "Desalegn Wogaso",
-        "Habtamu Alemayehu",
-        "Getachew Semegn"
+        "J.R.H. Tay",
+        "G. G. Nascimento",
+        "R. Malhotra",
+        "P. Hallal",
+        "Marco A. Peres"
       ],
-      "publication_date": "2026-08-17",
-      "doi": "10.11648/j.ijdst.20261203.11",
-      "paper_id": "8c1ea47a3d5f47328b3784433ab2daefe18aabc0"
-    },
-    {
-      "title": "Causal AI for cancer immunotherapy: a narrative framework review of target trial emulation, treatment-effect learning and clinical translation",
-      "year": 2026,
-      "authors": [
-        "Xin Zhao",
-        "Zhuoran Liu",
-        "Jie Yang",
-        "Qingyun Xie",
-        "Tianyang Mao",
-        "Heng Zhou",
-        "Hongyuan Wang",
-        "Peng Zheng",
-        "Kangyi Jiang",
-        "Fengwei Gao"
-      ],
-      "publication_date": "2026-08-20",
-      "doi": "10.3389/fimmu.2026.1896755",
-      "paper_id": "3d297911efc5d0d12cb77b000ee5ea072338965e"
-    },
-    {
-      "title": "Does Data Preprocessing Affect Tree-Based Super Learners? An Investigation of Ensemble Optimization and Oracle Properties in Clinical Classification.",
-      "year": 2026,
-      "authors": [
-        "R. Darko",
-        "D. Dwumah",
-        "K. S. Agyapong",
-        "Y. Agyenim-Boateng",
-        "R. Darko Anim",
-        "J. Wisdom Jakper",
-        "N. K. Owusu-Ansah",
-        "R. Owusu-Ansah"
-      ],
-      "publication_date": "2026-08-24",
-      "doi": "10.64898/2026.08.20.26360880",
-      "paper_id": "d53b4c36864d0347376e3ab932c1db8027866721"
-    },
-    {
-      "title": "Ensemble machine learning model for predicting surface roughness during drilling of hybrid sisal-cotton fiber reinforced polyester composites",
-      "year": 2026,
-      "authors": [
-        "Desalegn Wogaso",
-        "Firi Ziyad",
-        "Habtamu Alemayehu",
-        "Abdifetah Ahmed Rabi",
-        "Sadik Ali"
-      ],
-      "publication_date": "2026-08-21",
-      "doi": "10.1007/s42452-026-09375-6",
-      "paper_id": "470be22b5af855ae7214f53c3f09e71303d0c673"
-    },
-    {
-      "title": "Predictive Modeling of Rolling Bearing RUL Using Super Learner Regression and Degradation Phase Analysis",
-      "year": 2026,
-      "authors": [
-        "Abaiche Karima",
-        "Fouad Slaoui-Hasnaoui",
-        "Abdelhak Mehadjbia"
-      ],
-      "publication_date": "2026-07-02",
-      "doi": "10.1109/iccsc71566.2026.11650030",
-      "paper_id": "159fcf26abbd51f3c8a917102c32f74907d076c4"
-    },
-    {
-      "title": "Causal Analyses of Statin to Prevent Liver Disease Progression: A Nationwide Study Using Superlearning Targeted Maximum Likelihood Estimation",
-      "year": 2024,
-      "authors": [
-        "Sunyoung Cho",
-        "Heejo Koo",
-        "Beom Kyung Kim",
-        "E. Han"
-      ],
-      "publication_date": "2024-02-28",
-      "doi": "10.17480/psk.2024.68.1.44",
-      "paper_id": "d989e0748df21d6ebaf0ada57c92b74d2365a17a"
+      "publication_date": "2026-08-28",
+      "doi": "10.1016/j.jnha.2026.100968",
+      "paper_id": "99c652d83180729ff812878bab9bfb66c8d5eff0"
     }
   ],
-  "paper_count": 1141,
+  "paper_count": 1143,
   "papers": [
     {
       "title": "A Causal Inference Approach for Evaluating Diagnostic Tests and AI-Enabled Medical Devices: From Effect Modification to Information-Augmented Decision-Making",
       "authors": [
         "Wenxin Zhang",
         "Rachael V. Phillips",
-        "M. V. D. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "Diagnostic medical tests and devices provide useful information for evaluating the potential benefits and risks of therapeutic treatments. However, unlike treatments, their impact on health outcomes is generally indirect because measuring diagnostic information typically does not itself affect patient outcomes, which complicates evaluation of their effectiveness. In this work, we develop a causal inference approach for evaluating diagnostic tests by distinguishing explanatory and pragmatic effectiveness. Explanatory effectiveness evaluates whether a diagnostic test result provides treatment-relevant information beyond baseline covariates by explaining additional treatment-effect heterogeneity, which we characterize using a variance-based treatment-effect variable importance measure. Pragmatic effectiveness evaluates whether incorporating this information into personalized treatment decisions improves expected outcomes, a question central to decision-making for patients, clinicians, and other health care stakeholders. We formalize pragmatic effectiveness as a contrast between expected outcomes under optimal personalized treatment rules defined with and without access to the diagnostic test result. We establish identification of the proposed estimand and provide Targeted Maximum Likelihood Estimation (TMLE) and cross-validated TMLE procedures for nonparametric estimation and inference. Simulation studies and a synthetic colorectal cancer application illustrate the proposed estimands and estimation performance. More broadly, this approach provides a causal inference perspective for evaluating AI-enabled devices by distinguishing their dual roles as information-enrichment and personalized decision-optimization tools, clarifying whether AI improves outcomes by expanding information for downstream decisions, improving the decision rule used to act on that information, or through both pathways.",
       "year": 2026,
@@ -608,7 +526,7 @@
     {
       "title": "Association between Milrinone Use and Mortality Risk in Sepsis: Insights from the MIMIC-IV Database.",
       "authors": [
-        "Jiali Wu",
+        "Jia-Li Wu",
         "Cong Liu",
         "Xiaojing Ji",
         "Bo Li",
@@ -925,7 +843,7 @@
         "Stacey M. Sklepinski",
         "Jeph Herrin",
         "J. Neumiller",
-        "Eric C Polley",
+        "Eric C. Polley",
         "K. Swarna",
         "Yihong Deng",
         "Rodolfo J. Galindo",
@@ -1176,13 +1094,13 @@
     {
       "title": "Cortical thickness analysis combined with CSF dynamics improves diagnostic stratification in idiopathic normal pressure hydrocephalus",
       "authors": [
-        "D. Piccolo",
+        "Daniele Piccolo",
         "D. Bagatto",
         "S. D'agostini",
-        "M. De Colle",
-        "Enrico Belgrado",
+        "Maria Cristina De Colle",
+        "E. Belgrado",
         "Y. Tereshko",
-        "Marco Vindigni",
+        "M. Vindigni",
         "F. Tuniz"
       ],
       "abstract": "The diagnostic landscape for idiopathic normal-pressure hydrocephalus is intricate, and there is a pressing need for accurate and cost-effective methods. Because of the lack of accurate diagnostic and prognostic quantitative biomarkers, the frequent presence of comorbidities, and the limited understanding of the pathophysiology of the disorder, only a minority of patients receive disease-specific treatment. While traditional neuroimaging offers insights, its isolated diagnostic precision can be enhanced. Emerging quantitative methods analyzing cortical thickness based on standard T1-weighted brain MR images offer new diagnostic possibilities. We analyzed 294 patients referred to our clinic from January 2015 until December 2022. After the exclusion criteria, the final sample consisted of 100 possible iNPH patients. Of these, 71 underwent ventriculoperitoneal shunt surgery, while 29 did not qualify post-evaluation. Cortical thickness was assessed using an advanced deep-learning neuroimaging pipeline. For predictive modeling, we employed a comprehensive set of Machine Learning algorithms, including Distributed Random Forests, Extremely Randomized Trees, Generalized Linear Model with Regularization, Gradient Boosting Machines, Extreme Gradient Boosting machines, and a fully connected multi-layer Artificial Neural Network. These algorithms were strategically combined into a Super Learner ensemble approach to harness their collective predictive power. Among patients with negative CSFTT outcomes or subpar VPS surgery responses, distinct cortical variations emerged, particularly in the caudal middle frontal, rostral middle frontal, superior frontal, and superior parietal regions. Our Super Learner model, integrating CSF dynamics and cortical thickness data, achieved a 90% positive predictive value, signifying a tangible advancement over traditional measures. Analyzing preoperative cortical thickness emerges as a viable strategy for streamlining therapeutic decisions for potential iNPH patients. Future endeavors should focus on large-scale multicentric studies to further delineate specific cortical thickness patterns, potentially enhancing the prediction accuracy for VPS surgery outcomes.",
@@ -1557,9 +1475,9 @@
       "authors": [
         "Sky Qiu",
         "Susan Gruber",
-        "Pamela A. Shaw",
+        "P. A. Shaw",
         "Brian D. Williamson",
-        "M. V. D. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "In a typical two-phase design, a random sample is drawn from the target population in phase 1, during which only a subset of variables is collected. In phase 2, a subsample of the phase-1 cohort is selected, and additional variables are measured. This setting induces a coarsened data structure on the data from the second phase. We assume coarsening at random, that is, the phase-2 sampling mechanism depends only on variables fully observed. We review existing estimators, including the generalized raking estimator and the inverse probability of censoring weighted targeted maximum likelihood estimation (IPCW-TMLE) along with its extensions that also target the phase-2 sampling mechanism to improve efficiency. We further introduce a new class of estimators constructed within the TMLE framework that are asymptotically equivalent.",
       "year": 2026,
@@ -1824,7 +1742,7 @@
         "Leah Pirondini",
         "Karla Diaz-Ordaz",
         "Edward Palmer",
-        "Ruth H Keogh"
+        "Ruth H. Keogh"
       ],
       "abstract": "Routinely collected data from electronic health records (EHR) provide opportunities to study effects of longitudinal treatment strategies in real-world clinical settings. A challenge presented by EHR data is that frequency of covariate monitoring differs by patient, covariate type and over time, and may be informative about a patient's health status. Many causal inference methods assume measurements of covariates are observed at a common set of regular time points. In this paper we describe and evaluate methods for estimating causal effects of longitudinal treatments on time-to-event outcomes in the presence of informative monitoring of time-dependent confounders. We show how methods based on inverse probability weighting, G-computation and longitudinal targeted maximum likelihood estimation (TMLE) can be adapted to allow for informative monitoring by incorporating monitoring indicator variables as additional time-dependent confounders. We evaluate these methods using a simulation study, comparing against more simple approaches that ignore monitoring variables. We demonstrate that ignoring monitoring can result in biased estimates of treatment effects. The methods are illustrated through an investigation into the effect of early versus delayed initiation of invasive mechanical ventilation on mortality of intensive care patients using routinely-collected data from an intensive care unit. We consider static treatment strategies such as `always treat'and `never treat'but also generalise to treatment strategies that allow for flexibility in the exact initiation time and duration of treatment.",
       "year": 2026,
@@ -1935,9 +1853,9 @@
       "title": "HAL-MLE Log-Splines Density Estimation (Part I: Univariate)",
       "authors": [
         "Yilong Hou",
-        "Zhengpu Zhao",
+        "Zheng Zhao",
         "Yi Li",
-        "M. V. D. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "We study nonparametric maximum likelihood estimation of probability densities under a total variation (TV) type penalty, sectional variation norm (also named as Hardy-Krause variation). TV regularization has a long history in regression and density estimation, including results on $L^2$ and KL divergence convergence rates. Here, we revisit this task using the Highly Adaptive Lasso (HAL) framework. We formulate a HAL-based maximum likelihood estimator (HAL-MLE) using the log-spline link function from \\citet{kooperberg1992logspline}, and show that in the univariate setting the bounded sectional variation norm assumption underlying HAL coincides with the classical bounded TV assumption. This equivalence directly connects HAL-MLE to existing TV-penalized approaches such as local adaptive splines \\citep{mammen1997locally}. We establish three new theoretical results: (i) the univariate HAL-MLE is asymptotically linear, (ii) it admits pointwise asymptotic normality, and (iii) it achieves uniform convergence at rate $n^{-(k+1)/(2k+3)}$ up to logarithmic factors for the smoothness order $k \\geq 1$. These results extend existing results from \\citet{van2017uniform}, which previously guaranteed only uniform consistency without rates when $k=0$. We will include the uniform convergence for general dimension $d$ in the follow-up work of this paper. The intention of this paper is to provide a unified framework for the TV-penalized density estimation methods, and to connect the HAL-MLE to the existing TV-penalized methods in the univariate case, despite that the general HAL-MLE is defined for multivariate cases.",
       "year": 2026,
@@ -2459,6 +2377,27 @@
       ]
     },
     {
+      "title": "Multifidelity Computer Model Emulation Via Diffusion Model Steering and Targeted Maximum Likelihood",
+      "authors": [
+        "Jongmin Mun"
+      ],
+      "abstract": "We develop a multifidelity method for fusing low-resolution simulations with computationally expensive high-resolution simulations, which are run infrequently and are therefore prone to bias. We formulate this fusion as a constrained optimization under missing-not-at-random (MNAR) selection bias. This formulation searches for the exponentially tilted high-resolution distribution that minimizes KL divergence from the biased baseline, subject to moment constraints derived from low-resolution simulations. This optimization requires first estimating the biased baseline conditional density $f$ as a nuisance parameter. We estimate $f$ using a score-based diffusion model. To eliminate the generative model's regularization bias that harms the downstream task, we apply targeted maximum likelihood estimation (TMLE). TMLE debiases $\\hat{f}$ via a targeted exponential tilting, rendering the target parameters insensitive to first-order nuisance estimation errors. To execute this computationally, we adapt generative model steering, a technique originally developed for human-preference alignment. Using Feynman-Kac steering with a reward function based on our formulation, we simultaneously execute the exponential tilts for MNAR and TMLE at inference time, avoiding expensive retraining costs. Code available [here](https://github.com/Jong-Min-Moon/multifidel_emul_by_FK).",
+      "year": 2026,
+      "publication_date": "2026-08-31",
+      "paper_id": "6e903fd0a38c894b755a06bf0f7c5686c1338c76",
+      "url": "https://www.semanticscholar.org/paper/6e903fd0a38c894b755a06bf0f7c5686c1338c76",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ]
+    },
+    {
       "title": "Oncological Outcomes of Left Upper Tri-segmentectomy vs. Lobectomy for Clinical Stage I NSCLC with Occult Lymph Node Metastasis: A Target Trial Emulation with Targeted Minimum Loss-Based Estimation and Propensity Score Matching.",
       "authors": [
         "Zhang-Yi Dai",
@@ -2822,9 +2761,9 @@
         "Fouad Slaoui-Hasnaoui",
         "Abdelhak Mehadjbia"
       ],
-      "abstract": "",
+      "abstract": "Predictive maintenance of industrial machines is an important challenge in the Industry 4.0 era. Its goal is to detect problems early and plan maintenance before failures happen. This article proposes a hybrid approach to analyze the health condition of rolling bearings. Our method combines two main tasks: predicting the remaining useful life and identifying different degradation phases. First, we extract statistical features from vibration signals. Then, we use several regression models combined in a Super Learner framework to estimate how long the bearing can continue working. After that, we apply an unsupervised clustering method to automatically divide the degradation process into phases. Finally, we test different supervised classification models to predict the phase of a new signal sample. This article validates our approach using the NASA IMS Bearing Data Set. The results show good performance in predicting the remaining useful life and in classifying the degradation phases. These results confirm that the proposed method can be useful for predictive maintenance applications.",
       "year": 2026,
-      "publication_date": "2026-07-02",
+      "publication_date": "2026-07-01",
       "paper_id": "159fcf26abbd51f3c8a917102c32f74907d076c4",
       "url": "https://www.semanticscholar.org/paper/159fcf26abbd51f3c8a917102c32f74907d076c4",
       "venue": "IEEE International Conference on Circuits and Systems for Communications",
@@ -2942,7 +2881,7 @@
         "Sivan G. Marcus",
         "Michael Mathis",
         "M. Bokoch",
-        "Robert E Freundlich",
+        "Robert E. Freundlich",
         "David Chen",
         "Lee-Lynn Chen",
         "Matthieu Legrand"
@@ -3127,7 +3066,7 @@
         "Xueya Cai",
         "D. Leung",
         "Lisa A. Beck",
-        "A. de Benedetto"
+        "Anna De Benedetto"
       ],
       "abstract": "INTRODUCTION Atopic Dermatitis (AD) is a chronic inflammatory skin disease characterized by complex pathogenesis, variable clinical phenotypes, and broad severity spectrum. We utilized a serum-proteomic approach integrated with machine learning (ML) to identify novel biomarkers that distinguish mild from severe AD. METHODS Serum from sixty-seven AD adults, stratified by Eczema Area and Severity Index/EASI and Rajka-Langeland/RJL into mild (≤ 7 and ≤ 4, respectively; n = 33) or severe (≥ 20 and ≥ 8, respectively; n = 34), was analyzed with Olink Explore 3072. Differentially expressed proteins (DEPs) were identified using t-tests and False Discovery Rate correction (FDR ≤ 0.05). Tissue enrichment analysis was conducted using HPAStainR. Pearson correlations were performed between DEPs and clinical variables, serum lactate dehydrogenase/LDH and biomarkers for Th-pathways. ML (TMLE/SuperLearner, Boruta, MUVR) was used to identify top severity biomarkers. RESULTS 469 DEPs distinguished severe vs. mild AD. DEPs were significantly enriched for epithelial proteins (e.g., skin, tonsil, and esophagus epithelium). Subsets correlated strongly with LDH (68 DEPs) and/or Th2/Th22 markers (90 DEPs; r ≥ 0.6, FDR ≤ 0.05). Nine serum proteins (CCL17, CCL22, DEFB4A/B, EZR, GPR15L, IL22, PRSS53, SERPINB8, SETMAR) overlapped across three ML analyses as severity discriminating biomarkers (cross-validated AUC = 0.989; 95% CI: 0.974-1.00). CONCLUSIONS Severe AD exhibits a proteomic footprint enriched in epithelial-associated proteins that correlate with LDH-associated tissue injury and/or Th2/Th22 pathways. In this cross-sectional cohort, ML identified biomarkers that discriminated mild/severe AD groups with high cross-validated accuracy. Longitudinal and external validation studies, including healthy controls, are needed to determine specificity, generalizability, and prognostic utility.",
       "year": 2026,
@@ -3268,7 +3207,7 @@
         "Yan Jin",
         "Kaijie Yao",
         "Wen Li",
-        "Yanmei Zhong",
+        "Yan-Mei Zhong",
         "Bin Wu"
       ],
       "abstract": "OBJECTIVES Parametric G-computation can align population-adjusted indirect comparisons (PAICs) with marginal estimands, but estimates may depend on unverifiable outcome-model specification. We evaluated Super Learner G-computation as a flexible outcome-modeling extension for anchored PAICs. METHODS We simulated 18 anchored A-versus-C and B-versus-C trial scenarios with index-trial individual patient data and comparator-trial aggregate data. Scenarios varied sample size, population overlap, and correct versus misspecified parametric outcome models. The target was the comparator-trial population; the estimand was the marginal A-versus-B log-odds ratio. We compared parametric G-computation, Super Learner G-computation, matching-adjusted indirect comparison, conventional mean-plug-in simulated treatment comparison, split-averaged Super Learner G-computation, and targeted maximum likelihood estimation. We used RMSE as the primary performance measure and empirical coverage to assess interval calibration. RESULTS In the correctly specified large-sample good-overlap scenario, parametric G-computation had the lowest RMSE (0.263). In the nonlinear small-sample poor-overlap scenario, Super Learner G-computation had RMSE 0.513 versus 0.811 for parametric G-computation, 0.901 for conventional simulated treatment comparison, and 1.153 for matching-adjusted indirect comparison. The split-averaged version reduced RMSE to 0.475. Across nine nonlinear scenarios, flexible plug-in estimators had lower RMSE than parametric G-computation in seven, mainly under poor or moderate overlap, but coverage was lower in all nine. Targeted maximum likelihood estimation improved coverage in some settings but did not consistently reduce RMSE. CONCLUSIONS Super Learner G-computation may be useful as an outcome-model specification sensitivity analysis for marginal PAIC estimands. Lower RMSE came with lower coverage, so uncertainty intervals require caution.",
@@ -3288,14 +3227,14 @@
       ]
     },
     {
-      "title": "Super learner model for predicting carotid plaque regression in type 2 diabetes on PCSK9 inhibitors.",
+      "title": "Super learner model for predicting carotid plaque regression in type 2 diabetes on PCSK9 inhibitors",
       "authors": [
-        "Jingyao Chen",
+        "Jing-Yao Chen",
         "Qinglong Yang",
         "Gaoming Hou",
         "Jianqiao Bi",
         "Qi Xu",
-        "Haiting Guo",
+        "Hai-Ting Guo",
         "Jia Sun"
       ],
       "abstract": "",
@@ -3396,7 +3335,7 @@
         "Menglun Wang",
         "Spencer R. Haupert",
         "Gabriel K Innes",
-        "Sarah K Dutcher",
+        "Sarah K. Dutcher",
         "Susan Gruber",
         "Qi Liu"
       ],
@@ -3419,7 +3358,7 @@
     {
       "title": "Targeted Maximum Likelihood Estimation for Causal Effects Based on Poisson Regression Models",
       "authors": [
-        "思默 李"
+        "Siqi Li"
       ],
       "abstract": "",
       "year": 2026,
@@ -3525,7 +3464,7 @@
     {
       "title": "The Counterfactual Combine: A Causal Framework for Player Evaluation",
       "authors": [
-        "Herbert P Susmann",
+        "Herbert P. Susmann",
         "Antonio D'Alessandro"
       ],
       "abstract": "Evaluating sports players based on their performance shares core challenges with evaluating healthcare providers based on patient outcomes. Drawing on recent advances in healthcare provider profiling, we cast sports player evaluation within a rigorous causal inference framework and define a flexible class of causal player evaluation estimands. Using stochastic interventions, we compare player success rates on repeated tasks (such as field goal attempts or plate appearance) to counterfactual success rates had those same attempts been randomly reassigned to players according to prespecified reference distributions. This setup encompasses direct and indirect standardization parameters familiar from healthcare provider profiling, and we additionally propose a\"performance above random replacement\"estimand designed for interpretability in sports settings. We develop doubly robust estimators for these evaluation metrics based on modern semiparametric statistical methods, with a focus on Targeted Minimum Loss-based Estimation, and incorporate machine learning methods to capture complex relationships driving player performance. We illustrate our framework in detailed case studies of field goal kickers in the National Football League and batters in Major League Baseball, highlighting how different causal estimands yield distinct interpretations and insights about player performance.",
@@ -3540,6 +3479,30 @@
       ],
       "source_queries": [
         "targeted minimum loss based estimation"
+      ]
+    },
+    {
+      "title": "The effect of increases in physical activity on oral health and function in older adults in Singapore: A longitudinal causal inference study.",
+      "authors": [
+        "J.R.H. Tay",
+        "G. G. Nascimento",
+        "R. Malhotra",
+        "P. Hallal",
+        "Marco A. Peres"
+      ],
+      "abstract": "BACKGROUND Physical activity may benefit oral health, but causal evidence is lacking. This study estimated the effect of modifying physical activity on self-rated oral health and masticatory function impairment in older adults using longitudinal modified treatment policies. METHODS Data from three waves (2016-2024) of THE SIGNS Study, a nationally representative cohort of community-dwelling adults aged 60 years and above in Singapore (N = 3981), were analysed. Ten physical activity scenarios were emulated, including upward, downward, and stochastic shifts in weekly metabolic equivalent (MET) minutes (WHO guideline: ≥600MET-min/week). Causal parameters were estimated using targeted maximum likelihood estimation with Super Learner. RESULTS For poor self-rated oral health, raising all participants to at least 450 MET-min/week (equivalent to 112.5 min per week of moderate-intensity physical activity) produced the largest risk reduction (RR: 0.88, 95% CI: 0.82-0.95). Even raising participants below 150 MET-min/week toward 150 MET-min/week reduced risk by 7% (RR: 0.93, 95% CI: 0.88-0.99). For masticatory function impairment, reducing physical activity increased risk in a dose-response manner: eliminating all activity increased risk by 21% (RR: 1.21, 95% CI: 1.10-1.33), while raising 50% of inactive participants toward 600 MET-min/week reduced risk by 6% (RR: 0.94, 95% CI: 0.90-0.99). A stricter masticatory function impairment definition produced consistent but stronger effects. Estimates were robust across estimators and under extreme attrition assumptions. Increasing physical activity may reduce the risk of poor self-rated oral health, while reducing physical activity may increase masticatory function impairment. CONCLUSIONS These findings support integrating physical activity promotion within oral health strategies for ageing populations.",
+      "year": 2026,
+      "publication_date": "2026-08-28",
+      "paper_id": "99c652d83180729ff812878bab9bfb66c8d5eff0",
+      "url": "https://www.semanticscholar.org/paper/99c652d83180729ff812878bab9bfb66c8d5eff0",
+      "venue": "The Journal of Nutrition, Health & Aging",
+      "doi": "10.1016/j.jnha.2026.100968",
+      "matched_keywords": [
+        "super learner",
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "super learner"
       ]
     },
     {
@@ -3650,7 +3613,7 @@
       "authors": [
         "Yi Li",
         "Ashkan Ertefaie",
-        "M. V. D. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "For decades, the bootstrap has been a default tool for statistical inference because of its broad applicability and minimal analytic requirements. Although its validity is well understood for smooth parametric estimators, its theoretical properties for many modern semiparametric and machine-learning estimators remain largely unstudied. Nevertheless, bootstrap procedures are often used routinely in such settings, even when their validity is unknown and their computational cost is substantial. We develop the $V$-fold jackknife as a computationally efficient and theoretically justified alternative for semiparametric inference. It requires only $V$ leave-fold-out refits and uses the empirical dispersion of jackknife pseudo-values to quantify uncertainty, without deriving or evaluating an influence function. For regular asymptotically linear estimators of pathwise differentiable parameters, we show that, for fixed $V$, the Studentized $V$-fold jackknife statistic converges to a $t$-distribution with $V-1$ degrees of freedom, giving valid confidence intervals even though the jackknife variance estimator does not converge in probability. When $V\\to\\infty$, we establish consistency of the variance estimator at rate $V^{-1/2}$, allowing $V$ to diverge slowly, for example at rate $\\log n$. We also develop simultaneous confidence bands based on the correct componentwise-Studentized limiting distribution. Finally, we extend the theory to generalized asymptotically linear estimators with diverging influence-function variance and slower-than-$\\sqrt n$ convergence; scale invariance of Studentization eliminates the need to know the effective convergence rate. Simulations on the average treatment effect, Kaplan--Meier survival curve, and highly adaptive lasso dose-response curves confirm reliable inference, including where influence-function-based standard errors are anti-conservative or unstable.",
       "year": 2026,
@@ -3882,7 +3845,7 @@
       "title": "Which Regularized Propensity-Score and Doubly Robust Methods Are Best Calibrated When Exposures or Outcomes Are Rare? A Plasmode Study of Proxy-Based Confounding Adjustment",
       "authors": [
         "M. E. Karim",
-        "Wanqing Hu"
+        "Wan-Qing Hu"
       ],
       "abstract": "Purpose. Confounding adjustment in health-care database studies screens large proxy libraries where events per variable are low, straining standard propensity score (PS) methods, and many regularized variable-selection strategies exist (outcome-adaptive LASSO [OAL], group LASSO/GLiDeR, highly adaptive LASSO [HAL]). Yet few comparisons have varied exposure prevalence within such a selection menu, and none pairs it with doubly robust estimation, compute accounting, and a null-RD truth anchor. Methods. We conducted a plasmode simulation anchored on National Health and Nutrition Examination Survey data (2013-2018; 25 investigator-specified covariates, 142 prescription-derived proxies), comparing ten pipelines combining these strategies with inverse probability of treatment weighting (IPTW) and targeted maximum likelihood estimation (TMLE). Three scenarios were evaluated under a known null (true risk difference, RD = 0): frequent, rare-exposure, and rare-outcome. We report bias, standard error (SE), relative error, 95% coverage, and runtime. Results. HAL (G-Computation) had near-zero bias but highly concentrated estimates, giving near-unity coverage and large relative error (106-186%). OAL (IPTW), GLiDeR, and HAL (TMLE) were best calibrated, whereas the regularized-LASSO TMLE pipelines under-covered modestly (91-93%) in the rare scenarios. Under rare exposure, LASSO-IPTW had the largest bias and inflated SE and over-covered (conservatively), problems that TMLE removed. On real data, methods agreed (RD approximately 0.07-0.085). Runtimes spanned<1 s to>16 h. Conclusions. Under a null benchmark, pairing outcome-aware selection (OAL, GLiDeR) or doubly robust estimation (TMLE) with regularized models best balanced bias, calibration, and robustness to rarity. The rare-exposure arm exposed the largest gaps; method choice should weigh the prioritized metric against compute.",
       "year": 2026,
@@ -5116,7 +5079,7 @@
         "Kenneth A. Feder",
         "Catherine Tomko",
         "Javier A. Cepeda",
-        "Gregory D Kirk",
+        "Gregory D. Kirk",
         "S. Mehta",
         "Danielle German",
         "B. Genberg"
@@ -5158,7 +5121,7 @@
     {
       "title": "Cluster‐Level Analyses to Estimate a Risk Difference in a Cluster Randomized Trial With Confounding Individual‐Level Covariates: A Simulation Study",
       "authors": [
-        "J. P. Pereira Macedo",
+        "Jules Antoine Pereira Macedo",
         "B. Giraudeau"
       ],
       "abstract": "Cluster randomized trials (CRTs) may be analyzed using cluster‐level analyses. For binary outcomes, proportions are estimated for each cluster, and a risk difference can be estimated. The confidence interval is estimated using a Student distribution. However, in doing so, individual‐level characteristics are not adjusted for even though CRTs are known to be prone to recruitment/identification bias, possibly implying individual‐level confounders. With a simulation study, we compared cluster‐level analyses to estimate a risk difference for a two‐arm parallel CRT with individual‐level confounders and cluster‐level covariates. We considered the unadjusted (UN) method, two two‐stage procedure (TSP) methods considering a binomial or a Gaussian distribution, G‐computation (GC), and targeted maximum likelihood estimation (TMLE) methods. As expected, the UN method was biased. TSP methods were also biased for scenarios with a treatment effect when the number of clusters per arm was small. GC and TMLE methods were unbiased. For these latter methods, adjustment on only individual‐level covariates led to better performance measures (type I error rate, coverage rate and relative error of the standard error) than adjustment on both individual‐ and cluster‐level covariates. TSP, GC and TMLE had very similar results except in scenarios with a small number of clusters: Biased results for TSP methods and convergence problems for GC methods. In this case, TMLE should be preferred.",
@@ -5248,7 +5211,7 @@
         "Hui Wang",
         "Ying Ding",
         "Zheng Zeng",
-        "Julia Kofler",
+        "Julia K. Kofler",
         "Lirong Wang"
       ],
       "abstract": "Abstract Background: Second-generation antipsychotics (SGAs) are frequently used off-label to manage behavioral symptoms in Alzheimer's disease (AD), despite ongoing concerns about their safety. Comparative evidence on mortality risk across specific SGAs remains limited. Objective: To compare all-cause mortality among AD patients treated with commonly prescribed SGAs and to explore treatment effect heterogeneity using causal machine learning. Methods: We conducted a retrospective cohort study using de-identified electronic health records from the Truveta platform (2018-2024). Patients with incident AD initiating treatment with aripiprazole, risperidone, quetiapine, or olanzapine were identified using an active comparator, new-user design. Drug exposure was modeled as a time-varying covariate in Cox proportional hazards models, with propensity score matching applied to control for confounding. Causal tree and targeted maximum likelihood estimation (TMLE) were used to identify subgroups with heterogeneous treatment effects. Results: Among 17,004 AD patients, aripiprazole was associated with significantly lower mortality than olanzapine (HR = 0.667, 95% CI: 0.472-0.941) and quetiapine (HR = 0.677, 95% CI: 0.462-0.990). Quetiapine was also associated with lower mortality than olanzapine (HR = 0.833, 95% CI: 0.702-0.990) and risperidone (HR = 0.830, 95% CI: 0.705-0.978). Causal tree analysis revealed treatment effect heterogeneity by clinical characteristics, particularly among patients using type 2 diabetes (T2DM) medications. In subgroup analyses, aripiprazole remained protective in T2DM users (HR = 0.604 vs. quetiapine and risperidone, p = 0.002). Conclusions: Mortality risks vary substantially across SGAs in AD patients. Aripiprazole and quetiapine were associated with lower mortality compared to olanzapine and risperidone. Treatment effect heterogeneity suggests the need for individualized prescribing based on patient characteristics such as comorbid T2DM.",
@@ -5604,7 +5567,7 @@
     {
       "title": "Doubly robust nonparametric efficient estimation for healthcare provider evaluation",
       "authors": [
-        "Herbert P Susmann",
+        "Herbert P. Susmann",
         "Yiting Li",
         "Mara A. McAdams-DeMarco",
         "Iván Díaz",
@@ -5695,7 +5658,7 @@
       "title": "Effects of the triglyceride-glucose index on non-alcoholic fatty liver disease: Causal evidence from longitudinal cohort studies.",
       "authors": [
         "Tengrui Cao",
-        "X. Ni",
+        "Xue-Tong Ni",
         "A. Halengbieke",
         "Jianmin Tang",
         "Yumei Han",
@@ -5960,7 +5923,7 @@
         "Andrew Nguyen",
         "Dayna Long",
         "Neeta Thakur",
-        "R. de la Rosa"
+        "Rosemarie de la Rosa"
       ],
       "abstract": "OBJECTIVE Chronic exposure to environmental stressors may result in dysregulation across the body's adaptive stress-response systems, which can be conceptualized as allostatic load (AL). We estimated the effect of reducing annual average ambient fine particulate matter (PM2.5) on AL in children. METHODS Cross-sectional data were collected from 279 participants, 1-12 years old. Recruitment occurred at the Benioff Children's Hospital in Oakland, California, during routine child wellness checks from March 2017-October 2018. Monthly ground-level ambient PM2.5 concentrations were mapped to each participant's residential address and averaged over the year prior to biospecimen collection. Inflammatory, metabolic, neurological, and cardiovascular plasma biomarkers related to hypothalamic-pituitary-adrenal (HPA) axis activation were measured to operationalize AL. Targeted maximum likelihood estimation paired with the Super Learner machine learning algorithm were used to estimate the effect of hypothetically reducing the observed ambient PM2.5 exposure distribution by 3, 4, 5, 6 and 7 μg/m3 on average AL score. RESULTS Observed average annual ambient PM2.5 concentration was 10.93 μg/m3 (SD: 1.86) and observed average AL score was 1.46 (SD: 1.24). Shifting the sample's exposure distribution down by 4 and 5 μg/m3 resulted in an average exposure concentration of 7.94 (SD: 1.84) and 6.96 μg/m3 (SD:1.80). These reductions in exposure were associated with a -0.41 (95% CI: -0.71, -0.12) and -0.6 (95% CI: -1, -0.17) point decrease in average AL score, respectively. CONCLUSIONS Reducing ambient PM2.5 concentrations to an annual average of 8 μg/m3 or below may reduce AL in children, prompting further consideration of the current PM2.5 national ambient air quality standard.",
       "year": 2025,
@@ -7303,7 +7266,7 @@
         "Yining Lu",
         "Kevin Jurgensmeier",
         "Abhinav Lamba",
-        "Linjun Yang",
+        "Lin-Jun Yang",
         "Mario Hevesi",
         "Christopher L. Camp",
         "A. Krych",
@@ -7362,16 +7325,16 @@
       "authors": [
         "P. Pradhan",
         "F. W. Haug",
-        "N. Abu Hussein",
+        "Nebal S. Abu Hussein",
         "D. Moukheiber",
         "Lama Moukheiber",
         "M. Moukheiber",
         "Sulaiman Moukheiber",
         "L. Weishaupt",
         "J. Ellen",
-        "H. D'Couto",
-        "I.C. Williams",
-        "L. A. Celi",
+        "H. D’couto",
+        "I. C. Williams",
+        "L. Celi",
         "J. Matos",
         "T. Struja"
       ],
@@ -7758,7 +7721,7 @@
     {
       "title": "STATISTICAL APPLICATIONS IN PEDIATRIC ENDOCRINOLOGY: A SIMULATION ON METFORMIN EFFECT ON HBA1c IN HIGH-RISK ADOLESCENTS",
       "authors": [
-        "W. Shi"
+        "Wei Shi"
       ],
       "abstract": "Metformin has been increasingly used off label in adolescents with type 1 diabetes (T1D) or prediabetic conditions to improve glycemic control. Despite clinical trials suggesting modest improvements in HbA1c, evidence remains mixed and methodologically limited. This paper introduces a simulation framework to evaluate advanced causal inference estimators including Targeted Maximum Likelihood Estimation (TMLE), Double Machine Learning (DML), and Bayesian Causal Forests (BCF) for estimating the causal effect of metformin on HbA1c reduction in high risk adolescents. The framework incorporates realistic confounding structures based on empirical data and provides theoretical derivations for estimator properties.",
       "year": 2025,
@@ -8255,7 +8218,7 @@
       "authors": [
         "Hossein Mozafar Saadati",
         "Niloufar Taherpour",
-        "S. H. Hashemi Nazari"
+        "Seyed Saeed Hashemi Nazari"
       ],
       "abstract": "Aim This study examines the association between general and central obesity and the risk of cardiovascular diseases, utilizing the Targeted Maximum Likelihood Estimator (TMLE) method to account for time-varying covariates and also we compares the findings with those derived from conventional regression methods in the Atherosclerosis Risk in Communities (ARIC) cohort study. Methods We considered 15,792 participants 45–75 years of age registered in the Atherosclerosis Risk in Communities study, visit 1 and followed to visit 4. General obesity defined as body mass index and central obesity defined as Waist Circumference (WC), Waist-Hip-Ratio (WHR), Waist-Height-Ratio (WHtR), Body Shape Index (BSI) and Body Roundness Index (BRI). The effect of obesity on Coronary Heart Disease (CHD) was estimated and compared by Longitudinal Targeted Maximum Likelihood Estimation (LTMLE) and generalized linear model. Results The effects of BMI, adjusted for baseline and time-varying confounders, was 1.15 (95 %CI =1.00, 1.34). About the gender groups, the effect of BMI for males and females was 1.17 (95 %CI =0.97,1.40) and 1.19 (95 %CI =0.94,1.52), respectively. Considering age groups, the effect of BMI was 1.21 (95 %CI =0.95, 1.53) and 1.13 (95 %CI = 0.93, 1.36) for age ≤ 54 years and age > 54 years, respectively. With regards to central obesity, the BSI and WC were shown the strongest effects, respectively. Among females and age group≤54 years, WHtR was associated with a higher incidence of CHD. Conclusions According to the results, the appropriate index for obesity varies based on gender and age. Knowledge about this difference will help to experts to implement appropriate interventions.",
       "year": 2025,
@@ -9210,7 +9173,7 @@
         "Tongsen Luo",
         "Jirong Yang",
         "Yaxin Lu",
-        "Shaoli Zhou",
+        "Shao-Li Zhou",
         "Ziqing Hei",
         "Chaojin Chen"
       ],
@@ -9844,9 +9807,9 @@
     {
       "title": "Doubly Robust Nonparametric Efficient Estimation for Provider Evaluation",
       "authors": [
-        "Herbert P Susmann",
+        "Herbert P. Susmann",
         "Yiting Li",
-        "M. McAdams‐DeMarco",
+        "M. McAdams-Demarco",
         "Iv'an D'iaz",
         "Wenbo Wu"
       ],
@@ -10262,14 +10225,14 @@
         "Junming Shi",
         "Wenxin Zhang",
         "Alan Hubbard",
-        "M. J. van der Laan"
+        "M. van der Laan"
       ],
       "abstract": "Abstract Estimating and obtaining reliable inference for the marginally adjusted causal dose–response curve for continuous treatments without relying on parametric assumptions is a well-known statistical challenge. Parametric models risk introducing significant bias through model misspecification, compromising the accurate representation of the underlying data and dose–response relationship. On the other hand, nonparametric models face difficulties as the dose–response curve is not pathwise differentiable, preventing consistent estimation at standard rates and making the construction of confidence intervals challenging. The Highly Adaptive Lasso (HAL) maximum likelihood estimator offers a promising approach to this issue. In this paper, we introduce a HAL-based plug-in estimator for the causal dose–response curve, bridge between recent theoretical developments and empirical applications, and assess its empirical performance against other estimators. This work emphasizes the translation of existing HAL asymptotic theory to the causal dose–response setting and demonstrates its practical implications through comprehensive simulations, thereby filling an essential gap between theory and practice. Our comprehensive simulations demonstrate that the HAL-based estimator approaches pointwise asymptotic normality under the assumed smoothness conditions and yields confidence intervals that are consistently closer to nominal coverage than those of competing methods. While undercoverage can persist in more complex settings at moderate sample sizes, the HAL estimator consistently outperforms existing approaches for estimating the causal dose–response curve.",
       "year": 2024,
       "publication_date": "2024-06-09",
       "paper_id": "43884c81d7f4c65a7c1bf100fb8904b6e1fe7e5b",
       "url": "https://www.semanticscholar.org/paper/43884c81d7f4c65a7c1bf100fb8904b6e1fe7e5b",
-      "venue": null,
+      "venue": "Journal of Causal Inference",
       "doi": "10.1515/jci-2025-0059",
       "matched_keywords": [
         "highly adaptive lasso"
@@ -11956,15 +11919,15 @@
         "C. Christian",
         "E. Kakande",
         "V. Nahurira",
-        "L.B Balzer",
+        "L. B. Balzer",
         "A. Owaraganise",
-        "J.R. Nugent",
+        "J. Nugent",
         "W. DiIeso",
         "D. Rast",
         "J. Kabami",
         "J. J. Peretz",
         "C. S. Camlin",
-        "S. Shade",
+        "S. B. Shade",
         "M. Kamya",
         "D. Havlir",
         "G. Chamie"
@@ -12295,12 +12258,12 @@
     {
       "title": "A comparative effectiveness study of carotid intervention for long-term stroke prevention in patients with severe asymptomatic stenosis from a large integrated health system",
       "authors": [
-        "R. Chang",
+        "Robert W. Chang",
         "N. Pimentel",
         "Lue-Yen Tucker",
         "Kara A. Rothenberg",
         "A. Avins",
-        "A. C. Flint",
+        "A. Flint",
         "R. Faruqi",
         "Mai N. Nguyen-Huynh",
         "R. Neugebauer"
@@ -13178,7 +13141,7 @@
       "authors": [
         "Julie M Petersen",
         "A. Naimi",
-        "L. Bodnar"
+        "Lisa M. Bodnar"
       ],
       "abstract": "Purpose: A strength of SuperLearner is that it may accommodate key interactions between model variables without a priori specification. In prior research, protective associations between fruit intake and preeclampsia were stronger when estimated using SuperLearner with targeted maximum likelihood estimation (TMLE) compared with multivariable logistic regression without any interaction terms. We explored whether heterogeneity (i.e., differences in the effect estimate due to interactions between fruit intake and covariates) may partly explain differences in estimates from these two models. Methods: Using a US prospective pregnancy cohort (2010–2013, n=7781), we estimated preeclampsia risk differences (RDs) for higher versus lower fruit density using multivariable logistic regression and included 2-way statistical interactions between fruit density and each of the 25 model covariates. We compared the RDs with those from SuperLearner with TMLE (gold standard) and logistic regression with no interaction. Results: From the logistic regression models with 2-way statistical interactions, 48% of the preeclampsia RDs were ≤−0.02 (closer to SuperLearner with TMLE estimate); 40% equaled −0.01 (same as logistic regression with no interaction estimate); the minority were at or crossed the null. Conclusions: Our exploratory analysis provided preliminary evidence that heterogeneity may partly explain differences in estimates from logistic regression versus SuperLearner with TMLE.",
       "year": 2023,
@@ -13511,7 +13474,7 @@
     {
       "title": "Inference in Marginal Structural Models by Automatic Targeted Bayesian and Minimum Loss-Based Estimation",
       "authors": [
-        "Herbert Susmann",
+        "Herbert P. Susmann",
         "A. Chambaz"
       ],
       "abstract": "Two of the principle tasks of causal inference are to define and estimate the effect of a treatment on an outcome of interest. Formally, such treatment effects are defined as a possibly functional summary of the data generating distribution, and are referred to as target parameters. Estimation of the target parameter can be difficult, especially when it is high-dimensional. Marginal Structural Models (MSMs) provide a way to summarize such target parameters in terms of a lower dimensional working model. We introduce the semi-parametric efficiency bound for estimating MSM parameters in a general setting. We then present a frequentist estimator that achieves this bound based on Targeted Minimum Loss-Based Estimation. Our results are derived in a general context, and can be easily adapted to specific data structures and target parameters. We then describe a novel targeted Bayesian estimator and provide a Bernstein von-Mises type result analyzing its asymptotic behavior. We propose a universal algorithm that uses automatic differentiation to put the estimator into practice for arbitrary choice of working model. The frequentist and Bayesian estimators have been implemented in the Julia software package TargetedMSM.jl. Finally, we illustrate our proposed methods by investigating the effect of interventions on family planning behavior using data from a randomized field experiment conducted in Malawi.",
@@ -14510,7 +14473,7 @@
     {
       "title": "Quantile Super Learning for independent and online settings with application to solar power forecasting",
       "authors": [
-        "Herbert Susmann",
+        "Herbert P. Susmann",
         "Antoine Chambaz"
       ],
       "abstract": "Estimating quantiles of an outcome conditional on covariates is of fundamental interest in statistics with broad application in probabilistic prediction and forecasting. We propose an ensemble method for conditional quantile estimation, Quantile Super Learning, that combines predictions from multiple candidate algorithms based on their empirical performance measured with respect to a cross-validated empirical risk of the quantile loss function. We present theoretical guarantees for both iid and online data scenarios. The performance of our approach for quantile estimation and in forming prediction intervals is tested in simulation studies. Two case studies related to solar energy are used to illustrate Quantile Super Learning: in an iid setting, we predict the physical properties of perovskite materials for photovoltaic cells, and in an online setting we forecast ground solar irradiance based on output from dynamic weather ensemble models.",
@@ -15482,17 +15445,17 @@
         "Elise Dumas",
         "F. Reyal",
         "B. Grandal",
-        "Nadir Sella",
+        "N. Sella",
         "Eric Daoud",
         "A. Latouche",
         "T. Dubois",
-        "Annabelle Ballesta",
+        "A. Ballesta",
         "S. Alsafadi",
-        "E. D. Nery",
+        "Elaine Del Nery",
         "Élodie Anthony",
         "Benjamin Marande",
-        "C. De Bazelaire",
-        "A. de Roquancourt",
+        "Cedric de Bazelaire",
+        "Anne de Roquancourt",
         "C. Michel",
         "S. Giacchetti",
         "M. Espié"
@@ -17132,7 +17095,7 @@
       "authors": [
         "Yafei Wu",
         "Maoni Jia",
-        "Chaoyi Xiang",
+        "Chao-Yi Xiang",
         "Shaowu Lin",
         "Zhongquan Jiang",
         "Ya Fang"
@@ -17262,7 +17225,7 @@
     {
       "title": "Register variation in spoken and written language use across technology-mediated and non-technology-mediated learning environments",
       "authors": [
-        "K. Kyle",
+        "Kristopher Kyle",
         "Masaki Eguchi",
         "Ann Tai Choe",
         "Geoffrey T. LaFlair"
@@ -17632,11 +17595,11 @@
     {
       "title": "The Influence of Concomitant Hammertoe Correction on Postoperative Outcomes in Patients Undergoing Hallux Valgus Correction",
       "authors": [
-        "L. Rajan",
+        "Lavan Rajan",
         "R. Fuller",
         "Jiaqi Zhu",
         "Tonya W. An",
-        "S. Ellis"
+        "Scott J. Ellis"
       ],
       "abstract": "Category: Bunion; Lesser Toes Introduction/Purpose: Patients with hallux valgus often develop secondary hammertoe deformities of the lesser toes. Chronic lateral deviation of the hallux leads to proximal interphalangeal joint flexion contracture, metatarsophalangeal joint subluxation and ultimately a cross-toe deformity. Operative management of bunions with hammertoe is more extensive since both the primary bunion deformity and the secondary defect have to be corrected simultaneously; however, it is unclear whether simultaneous bunion and hammertoe correction affects patient outcomes. The objective of this study was to compare postoperative patient reported outcomes using the patient-reported outcome measure information system (PROMIS) scores and radiographic outcomes between patients who underwent isolated bunion deformity correction and patients who underwent operative repair of hallux valgus with concomitant hammertoe correction. Methods: This retrospective cohort study included patients over the age of 18 who were treated operatively by 1 of 7 fellowship-trained foot and ankle surgeons for hallux valgus. Those with clinically symptomatic hammertoes were also corrected at the surgeon's discretion. All patients had minimum 1-year postoperative PROMIS scores and minimum 3-month postoperative radiographs. Preoperative, final postoperative and change in PROMIS scores from 6 domains (physical function, pain interference, pain intensity, global physical and mental health, and depression) were compared between the isolated bunion and bunion with hammertoe correction groups. Radiographic measurements compared between cohorts included hallux valgus angle (HVA), intermetatarsal angle (IMA), distal metatarsal-articular angle (DMAA), and Meary's angle. Radiographic parameters were measured on anteroposterior (AP) and lateral weightbearing radiographs. Statistical analysis utilized targeted minimum-loss estimation (TMLE) to control for confounders (age, gender, BMI). Results: A total of 221 patients (134 with isolated bunion correction, 87 with concomitant hammertoe correction) with an average of 19.2 months follow-up were included in this study. Demographically, patients in the concomitant hammertoe cohort were older than the isolated bunion group (58.5 vs 53.1, p<0.01) and had a higher BMI (24.8 vs 58.5, p<0.05). Both cohorts demonstrated improvement in all PROMIS domains except for global mental health and depression. The isolated bunion cohort had significantly better improvements in pain interference and pain intensity when compared to the concomitant hammertoe group (p<0.01, p<0.05 respectively) (Table 1). The isolated bunion cohort had lower postoperative pain interference scores (p<.01). Radiographically, the concomitant hammertoe group had a higher preoperative HVA than the isolated bunion group (30 vs 27.6, p<.05). There were no statistically significant differences between the two cohorts in postoperative radiographic parameters, in addition to the probability of achieving normal postoperative radiographic measures. Conclusion: Patients undergoing simultaneous bunion and hammertoe correction experienced worse postoperative outcomes measured by PROMIS pain interference, had significantly less improvement in PROMIS pain interference and pain intensity scores, and had more severe preoperative radiographic deformity when compared to those who underwent isolated bunion correction. The relationship between hallux valgus and hammertoe development should be considered when counseling patients for surgery. Patients with hallux valgus who show early signs of hammertoe formation such as second toe elevation or pain under the second metatarsal head may benefit from earlier bunion correction before the hammertoe progresses to the point of needing surgical management.",
       "year": 2022,
@@ -18074,7 +18037,7 @@
       "authors": [
         "Yongqi Zhong",
         "Edward H. Kennedy",
-        "L. Bodnar",
+        "Lisa M. Bodnar",
         "A. Naimi"
       ],
       "abstract": "An increasing number of recent studies suggest doubly robust estimators with cross-fitting should be used when estimating causal effects with machine learning methods. However, existing programs that implement doubly robust estimators do not all support machine learning methods and cross-fitting, or provide estimates on multiplicative scales. To address these needs, we developed the AIPW package implementing the augmented inverse probability weighting (AIPW) estimation of average causal effects in R. Key features of the AIPW package includes cross-fitting and flexible covariate adjustment for observational studies and randomized trials (RCTs). In this paper, we use a simulated RCT to present the implementation of the AIPW estimator. We also perform a simulation study to evaluate the performance of the AIPW package compared with other doubly robust implementations including CausalGAM, npcausal, tmle, and tmle3. Our simulation shows that the xtbfAIPW package yielded comparable performance to other programs. Furthermore, we also found that cross-fitting substantively decreases the bias and improves the confidence interval coverage for doubly robust estimators fit with machine learning algorithms. Our findings suggest that the AIPW package can be a useful tool for estimating average causal effects with machine learning methods in RCTs and observational studies.",
@@ -18096,7 +18059,7 @@
       "authors": [
         "Opeoluwa Owoyele",
         "P. Pal",
-        "A. V. Torreira"
+        "Alvaro Vidal Torreira"
       ],
       "abstract": "The use of machine learning (ML)-based surrogate models is a promising technique to significantly accelerate simulation-driven design optimization of internal combustion (IC) engines, due to the high computational cost of running computational fluid dynamics (CFD) simulations. However, training the ML models requires hyperparameter selection, which is often done using trial-and-error and domain expertise. Another challenge is that the data required to train these models are often unknown a priori. In this work, we present an automated hyperparameter selection technique coupled with an active learning approach to address these challenges. The technique presented in this study involves the use of a Bayesian approach to optimize the hyperparameters of the base learners that make up a super learner model. In addition to performing hyperparameter optimization (HPO), an active learning approach is employed, where the process of data generation using simulations, ML training, and surrogate optimization is performed repeatedly to refine the solution in the vicinity of the predicted optimum. The proposed approach is applied to the optimization of a compression ignition engine with control parameters relating to fuel injection, in-cylinder flow, and thermodynamic conditions. It is demonstrated that by automatically selecting the best values of the hyperparameters, a 1.6% improvement in merit value is obtained, compared to an improvement of 1.0% with default hyperparameters. Overall, the framework introduced in this study reduces the need for technical expertise in training ML models for optimization while also reducing the number of simulations needed for performing surrogate-based design optimization.",
       "year": 2021,
@@ -18580,7 +18543,7 @@
         "S. Sabour",
         "M. Mansournia",
         "Y. Mehrabi",
-        "S. H. Hashemi Nazari"
+        "Seyed Saeed Hashemi Nazari"
       ],
       "abstract": "BACKGROUND AND AIMS To elucidate the effect modification of general and central obesity by sex and age on the risk of cardiovascular events. METHODS The analysis included 14,983 males and females aged 45-75 years from the Atherosclerosis Risk in Communities study. Obesity was defined with body mass index (BMI), waist-to-hip ratio (WHR) and body shape index (BSI) which categorized the participants as obese and non-obese. Targeted maximum likelihood estimation was used to estimate the risk ratio (RR) with the tmle package in R software. RESULTS After adjustment, the strongest effect of BMI on CHD was in females (RR (95%CI): 1.26 (1.11, 1.42)) and in age>54 (RR (95%CI): 1.16 (1.06, 1.27)) and for HF it was in age>54 (RR (95%CI): 1.18 (1.10, 1.26)) and in females (RR (95%CI): 1.17 (1.08, 1.28)). Regarding central obesity, WHR (RR (95%CI): 1.19 (1.05, 1.34)) had the strongest effects on CHD for males and BSI (RR (95%CI): 1.140 (1.02, 1.26)) for age ≤ 54, and for HF the WHR (RR (95%CI): 1.22 (1.10, 1.36)) and BSI (RR (95%CI): 1.18 (1.07, 1.30)) had the strongest effects for age≤54, respectively. CONCLUSION Among males and age≤54, WHR index was associated with a higher risk of CHD and HF while BMI was so for females and age>54.",
       "year": 2021,
@@ -19419,7 +19382,7 @@
         "Kristin C. Caolo",
         "Nicholas Williams",
         "M. Drakos",
-        "S. Ellis"
+        "Scott J. Ellis"
       ],
       "abstract": "Background: The Lapidus procedure and scarf osteotomy are indicated for the operative treatment of hallux valgus; however, no prior studies have compared outcomes between the procedures. The aim of this study was to compare clinical and radiographic outcomes between patients with symptomatic hallux valgus treated with the modified Lapidus procedure versus scarf osteotomy. Methods: This retrospective cohort study included patients treated by 1 of 7 fellowship-trained foot and ankle surgeons. Inclusion criteria were age older than 18 years, primary modified Lapidus procedure or scarf osteotomy for hallux valgus, minimum 1-year postoperative Patient-Reported Outcomes Measurement Information System (PROMIS) scores, and minimum 3-month postoperative radiographs. Revision cases were excluded. Clinical outcomes were assessed using 6 PROMIS domains. Pre- and postoperative radiographic parameters were measured on anteroposterior (AP) and lateral weightbearing radiographs. Statistical analysis utilized targeted minimum-loss estimation (TMLE) to control for confounders. Results: A total of 136 patients (73 Lapidus, 63 scarf) with an average of 17.8 months of follow-up were included in this study. There was significant improvement in PROMIS physical function scores in the modified Lapidus (mean change, 5.25; P < .01) and scarf osteotomy (mean change, 5.50; P < .01) cohorts, with no significant differences between the 2 groups (P = .85). After controlling for bunion severity, the probability of having a normal postoperative intermetatarsal angle (IMA; <9 degrees) was 25% lower (P = .04) with the scarf osteotomy compared with the Lapidus procedure. Conclusion: Although the modified Lapidus procedure led to a higher probability of achieving a normal IMA, both procedures yielded similar improvements in 1-year patient-reported outcome measures. Level of Evidence: Level III, retrospective cohort.",
       "year": 2021,
@@ -19622,8 +19585,8 @@
       "title": "Performance and Application of Estimators for the Value of an Optimal Dynamic Treatment Rule",
       "authors": [
         "L. Montoya",
-        "Jennifer L. Skeem",
-        "M. Laan",
+        "J. Skeem",
+        "M. J. van der Laan",
         "M. Petersen"
       ],
       "abstract": "Given an (optimal) dynamic treatment rule, it may be of interest to evaluate that rule – that is, to ask the causal question: what is the expected outcome had every subject received treatment according to that rule? In this paper, we study the performance of estimators that approximate the true value of: 1) an a priori known dynamic treatment rule 2) the true, unknown optimal dynamic treatment rule (ODTR); 3) an estimated ODTR, a so-called “data-adaptive parameter,” whose true value depends on the sample. Using simulations of point-treatment data, we speciﬁcally investigate: 1) the impact of increasingly data-adaptive estimation of nuisance parameters and/or of the ODTR on performance; 2) the potential for improved efﬁciency and bias reduction through the use of semiparametric efﬁcient estimators; and, 3) the importance of sample splitting based on CV-TMLE for accurate inference. In the simulations considered, there was very little cost and many beneﬁts to using the cross-validated targeted maximum likelihood estimator (CV-TMLE) to estimate the value of the true and estimated ODTR; impor-tantly, and in contrast to non cross-validated estimators, the performance of CV-TMLE was maintained even when highly data-adaptive algorithms were used to estimate both nuisance parameters and the ODTR. In addition, we apply these estimators for the value of the rule to the “Interventions” Study, an ongoing randomized controlled trial, to identify whether assigning cognitive behavioral therapy (CBT) to criminal justice-involved adults with mental illness using an ODTR signiﬁcantly reduces the probability of recidivism, compared to assigning CBT in a non-individualized way.",
@@ -20543,7 +20506,7 @@
       "title": "Automated analyses: Because we can, does it mean we should?",
       "authors": [
         "S. Shortreed",
-        "E. Moodie"
+        "Erica E. M. Moodie"
       ],
       "abstract": "We commend Benkeser, Cai and van der Laan (2019) for their interesting proposal and efforts to further automate the machinery of collaborative targeted minimum loss estimation (TMLE). Reducing human impact on an analysis, i.e. to circumvent the need for analysts to “select an increasingly complex sequence of estimators [...] and implement each of these” is an important goal that could bring us closer to reproducible and transparent research. We agree that striving for estimators which have stable properties is a benefit, and practical positivity violations can render many estimators “erratic” or “non-robust”. In the examples, the authors showcase success in constructing data-specific robust estimators with well-behaved properties. Petersen et al. (2010) describe TMLE as “an explicit trade-off [that is ideally] made in a systematic way rather than on an ad hoc basis at the discretion of the investigator.” No statistical or machine learning-based approach is exempt from human-made decisions. For example, in ensemble-based machine learning methods, often used in conjunction with TMLE, the analyst must choose which methods to include in the ensemble learner, select hyperparameter values (e.g. random forests minimum node size), and select the number of folds for cross-validation. The question then arises as to whether it does, or should, trouble the scientific community that TMLE is less automated than we might think. Here we wish to probe two fundamental questions: Should automation and data-driven analyses be preferred when inferential, rather than predictive, analyses are undertaken? For example, is a data-adaptive estimand or an a priori human-defined estimand preferred? What do we lose by automating an increasing number of steps of scientific discovery?",
       "year": 2020,
@@ -20685,7 +20648,7 @@
         "Bopha Chrea",
         "Nicholas Williams",
         "M. Drakos",
-        "S. Ellis"
+        "Scott J. Ellis"
       ],
       "abstract": "Category: Bunion; Midfoot/Forefoot Introduction/Purpose: Lapidus procedure and Scarf osteotomy are indicated for treatment of mild to moderate hallux valgus. Advantages of modified Lapidus procedure include ability to address severe deformity, first tarsometatarsal arthritis, and first ray hypermobility. Advantages of Scarf osteotomy include greater correction of the distal metatarsal articular angle (DMAA) and greater fixation stability than other techniques. Both procedures have shown good radiographic and clinical outcomes; however, no prior studies have compared these outcomes between the procedures. The aim of this study was to compare clinical and radiographic outcomes between patients with hallux valgus treated with the modified Lapidus procedure or Scarf osteotomy. Methods: This retrospective cohort study included patients treated by one of seven fellowship-trained foot and ankle surgeons were identified. Inclusion criteria were age greater than 18 years, primary modified Lapidus procedure or Scarf osteotomy for hallux valgus, minimum 1-year postoperative PROMIS scores, and minimum 3-month postoperative radiographs. Revision cases were excluded. Clinical outcomes were assessed using six PROMIS domains: Pain Interference, Pain Intensity, Physical Function, Global Mental Health, Global Physical Health, and Depression. Pre- and postoperative radiographic parameters were measured on AP (HVA, IMA, DMAA, tibial sesamoid position), and lateral (talo-1st-metatarsal angle (Meary’s), Horton index, Seiberg index, sagittal IMA) x-rays. Statistical analysis utilized targeted maximum likelihood estimation controls for confounding of bunion severity by including covariates for baseline HVA and IMA. Statistics were also analyzed in a restricted cohort of mild to moderate severity bunions (HVA<40 and IMA<16; n=57 each). Complications including repeat surgeries, recurrence of deformity, and malunion/nonunion were recorded. Results: 136 patients (73 Lapidus, 63 Scarf) with average 17.8 month follow-up constituted our study. Both groups demonstrated significant improvement in Global Physical Health, Global Mental Health, and Physical Function, with patients in the Lapidus group showing a significantly greater improvement of 3.6 points (p=0.01) compared to Scarf. After controlling for bunion severity, the probability of having normal postoperative IMA (<10 ) was 17% lower (p<0.001) with Scarf compared to Lapidus. This finding was consistent in the restricted cohort of mild to moderate severity bunions. Lapidus group demonstrated significantly greater correction in Meary’s angle, Seiberg index, and sagittal IMA. Complications in the Lapidus group included one nonunion, three symptomatic implants, two hallux varus. The Scarf group had one reoperative cheilectomy and one second metatarsal stress fracture. Conclusion: This is the first study to compare both radiographic and patient-reported outcomes between Lapidus procedure and Scarf osteotomy for correction of hallux valgus deformity. While both procedures yielded improvements in outcomes, results suggest that the probability of having a normal postoperative IMA is greater with Lapidus procedure, even when adjusted for severity of deformity. In addition, greater correction reflected in sagittal measurements may further support the role of rotational correction in the Lapidus procedure.",
       "year": 2020,
@@ -20708,7 +20671,7 @@
         "J. Gu",
         "Yuan Lu",
         "Xiaoqing Wang",
-        "S. Si",
+        "Shucheng Si",
         "F. Xue"
       ],
       "abstract": "OBJECTIVE Improved prognostic prediction for patients with colorectal cancer stays an important challenge. This study aimed to develop an effective prognostic model for predicting survival in resected colorectal cancer patients through the implementation of the Super learner. METHODS A total of 2333 patients who met the inclusion criteria were enrolled in the cohort. We used multivariate Cox regression analysis to identify significant prognostic factors and Super learner to construct prognostic models. Prediction models were internally validated by 10-fold cross-validation and externally validated with a dataset from The Cancer Genome Atlas. Discrimination and calibration were evaluated by Harrell concordence index (C-index) and calibration plots, respectively. RESULTS Age, T stage, N stage, histological type, tumor location, lymph-vascular invasion, preoperative carcinoembryonic antigen and sample lymph nodes were integrated into prediction models. The concordance index of Super learner-based prediction model (SLM) was 0.792 (95% confidence interval: 0.767-0.818), which is higher than that of the seventh edition American Joint Committee on Cancer TNM staging system 0.689 (95% confidence interval: 0.672-0.703) for predicting overall survival (P < 0.05). In the external validation, the concordance index of the SLM for predicting overall survival was also higher than that of tumor-node-metastasis (TNM) stage system (0.764 vs. 0.682, respectively; P < 0.001). In addition, the SLM showed good calibration properties. CONCLUSIONS We developed and externally validated an effective prognosis prediction model based on Super learner, which offered more reliable and accurate prognosis prediction and may be used to more accurately identify high-risk patients who need more active surveillance in patients with resected colorectal cancer.",
@@ -20910,7 +20873,7 @@
         "L. Mwananyanda",
         "M. Kapasa",
         "S. Machona",
-        "C. Pierre",
+        "Cassandra M. Pierre",
         "N. Mitra",
         "D. Hamer",
         "S. Coffin"
@@ -21128,7 +21091,7 @@
     {
       "title": "MineCap: Detecção de Mineração de Criptomoedas em Redes Corporativas com Aprendizado de Máquina e Prevenção de Abusos com Redes Definidas por Software",
       "authors": [
-        "H. N. C. Neto",
+        "Helio N. Cunha",
         "N. C. Fernandes",
         "Diogo M. F. Mattos"
       ],
@@ -21336,20 +21299,20 @@
         "Taryn A McLaughlin",
         "A. Nizam",
         "Felix Odhiambo Hayara",
-        "G. Ouma",
+        "Gregory Sadat Ouma",
         "Angela Campbell",
         "Jeremiah Khayumbi",
         "Joshua Ongalo",
-        "S. Ouma",
+        "Samuel Gurrion Ouma",
         "N. Shah",
-        "J. Altman",
+        "John D. Altman",
         "D. Kaushal",
         "Jyothi Rengarajan",
         "J. Ernst",
-        "H. Blumberg",
-        "L. Waller",
+        "Henry M. Blumberg",
+        "Lance A. Waller",
         "N. Gandhi",
-        "C. Day",
+        "Cheryl L. Day",
         "D. Benkeser"
       ],
       "abstract": "Background: Helminth infections can modulate immunity to Mycobacterium tuberculosis (Mtb). However, the effect of helminths, including Schistosoma mansoni (SM), on Mtb infection outcomes is less clear. Furthermore, HIV is a known risk factor for tuberculosis (TB) disease and has been implicated in SM pathogenesis. Therefore, it is important to evaluate whether HIV modifies the association between SM and Mtb infection. Setting: HIV-infected and HIV-uninfected adults were enrolled in Kisumu County, Kenya between 2014 and 2017 and categorized into three groups based on Mtb infection status: Mtb-uninfected healthy controls (HC), latent TB infection (LTBI), and active TB disease. Participants were subsequently evaluated for infection with SM. Methods: We used targeted minimum loss estimation and super learning to estimate a covariate-adjusted association between SM and Mtb infection outcomes, defined as the probability of being HC, LTBI or TB. HIV status was evaluated as an effect modifier of this association. Results: SM was not associated with differences in baseline demographic or clinical features of participants in this study, nor with additional parasitic infections. Covariate-adjusted analyses indicated that infection with SM was associated with a 4% higher estimated proportion of active TB cases in HIV-uninfected individuals and a 14% higher estimated proportion of active TB cases in HIV-infected individuals. There were no differences in estimated proportions of LTBI cases. Conclusions: We provide evidence that SM infection is associated with a higher probability of active TB disease, particularly in HIV-infected individuals.",
@@ -21742,7 +21705,7 @@
       "authors": [
         "J. Coyle",
         "N. Hejazi",
-        "M. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "",
       "year": 2020,
@@ -22127,7 +22090,7 @@
       "title": "Comparison of Parametric and Nonparametric Estimators for the Association Between Incident Prepregnancy Obesity and Stillbirth in a Population-Based Cohort Study.",
       "authors": [
         "Ya-Hui Yu",
-        "L. Bodnar",
+        "Lisa M. Bodnar",
         "M. Brooks",
         "K. Himes",
         "A. Naimi"
@@ -23351,7 +23314,7 @@
       "authors": [
         "Cheng Ju",
         "A. Chambaz",
-        "M. J. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "Suppose that we wish to infer the value of a statistical parameter at a law from which we sample independent observations. Suppose that this parameter is smooth and that we can define two variation-independent, infinite-dimensional features of the law, its so called Q-and G-components (comp.), such that if we estimate them consistently at a fast enough product of rates, then we can build a confidence interval (CI) with a given asymptotic level based on a plain targeted minimum loss estimator (TMLE). The estimators of the Q-and G-comp. would typically be by products of machine learning algorithms. We focus on the case that the machine learning algorithm for the G-comp. is fine-tuned by a real-valued parameter h. Then, a plain TMLE with an h chosen by cross-validation would typically not lend itself to the construction of a CI, because the selection of h would trade-off its empirical bias with something akin to the empirical variance of the estimator of the G-comp. as opposed to that of the TMLE. A collaborative TMLE (C-TMLE) might, however, succeed in achieving the relevant trade-off. We prove that this is the case indeed. We construct a C-TMLE and show that, under high-level empirical processes conditions, and if there exists an oracle h that makes a bulky remainder term asymptotically Gaussian, then the C-TMLE is asymptotically Gaussian hence amenable to building a CI provided that its asymptotic variance can be estimated too. The construction hinges on guaranteeing that an additional, well chosen estimating equation is solved on top of the estimating equation that a plain TMLE solves. The optimal h is chosen by cross-validating an empirical criterion that guarantees the wished trade-off between empirical bias and variance. We illustrate the construction and main result with the inference of the so called average treatment effect, where the Q-comp. consists in a marginal law and a conditional expectation, and the G-comp. is a propensity score (a conditional probability). We also conduct a multi-faceted simulation study to investigate the empirical properties of the collaborative TMLE when the G-comp. is estimated by the LASSO. Here, h is the bound on the 1-norm of the candidate coefficients. The variety of scenarios shed light on small and moderate sample properties, in the face of low-, moderate-or high-dimensional baseline covariates, and possibly positivity violation.",
       "year": 2018,
@@ -24177,7 +24140,7 @@
       "title": "Should a propensity score model be super? The utility of ensemble procedures for causal adjustment",
       "authors": [
         "Shomoita Alam",
-        "E. Moodie",
+        "Erica E. M. Moodie",
         "D. Stephens"
       ],
       "abstract": "In investigations of the effect of treatment on outcome, the propensity score is a tool to eliminate imbalance in the distribution of confounding variables between treatment groups. Recent work has suggested that Super Learner, an ensemble method, outperforms logistic regression in nonlinear settings; however, experience with real‐data analyses tends to show overfitting of the propensity score model using this approach. We investigated a wide range of simulated settings of varying complexities including simulations based on real data to compare the performances of logistic regression, generalized boosted models, and Super Learner in providing balance and for estimating the average treatment effect via propensity score regression, propensity score matching, and inverse probability of treatment weighting. We found that Super Learner and logistic regression are comparable in terms of covariate balance, bias, and mean squared error (MSE); however, Super Learner is computationally very expensive thus leaving no clear advantage to the more complex approach. Propensity scores estimated by generalized boosted models were inferior to the other two estimation approaches. We also found that propensity score regression adjustment was superior to either matching or inverse weighting when the form of the dependence on the treatment on the outcome is correctly specified.",
@@ -24491,7 +24454,7 @@
       "authors": [
         "L. Balzer",
         "Wenjing Zheng",
-        "M. Laan",
+        "M. J. van der Laan",
         "M. Petersen"
       ],
       "abstract": "",
@@ -24646,7 +24609,7 @@
         "Milan Seth",
         "S. Dixon",
         "A. Khandelwal",
-        "Thomas A Lalonde",
+        "Thomas A. Lalonde",
         "H. Gurm"
       ],
       "abstract": "Objectives We sought to describe trends in the use of pre-procedural P2Y12 inhibitors and their clinical impact in patients undergoing percutaneous coronary intervention (PCI). Background Oral P2Y12 inhibitors are ubiquitously used medications; however, the specific timing of initial P2Y12 inhibitor administration remains intensely debated. Methods Our study population comprised 74,053 consecutive patients undergoing PCI at 47 hospitals in Michigan from January 2013 through June 2015. In-hospital outcomes included stent thrombosis, bleeding, need for transfusion, and death. Hierarchical logistic regression, propensity matching, and targeted maximum likelihood estimation were used to adjust for baseline patient differences, clustering, and to minimize bias. Results Of 24,733 patients who received a pre-procedural P2Y12 inhibitor, 82% received clopidogrel, 8% prasugrel, and 10% ticagrelor. Pre-procedural administration of P2Y12 inhibitors declined during the study (49.3% to 24.8%; P <0.001), and varied greatly across hospitals (14.5% – 95.9%). No significant differences in outcomes were observed between patients receiving pre-procedural clopidogrel and a matched cohort of those not receiving any pre-procedural P2Y12 inhibitor [adjusted odds ratio (95% confidence interval)] for stent thrombosis: 1.55 (0.30–7.84); bleeding: 0.96 (0.63–1.46); transfusion: 1.03 (0.69–1.55); death: 0.95 (0.38–2.37)]. Similar findings were demonstrated for pre-procedural ticagrelor and prasugrel. Results from a subgroup analysis of patients with non-ST-segment elevation acute coronary syndrome (n=28,072) were consistent with the overall findings. Conclusions There was a substantial decline in the rate of pre-procedural P2Y12 inhibitor administration during the study period. Furthermore, there were no significant differences in outcomes between patients treated with pre-procedural P2Y12 inhibitors and those that were not.",
@@ -24760,7 +24723,7 @@
         "N. Kreif",
         "Linh Tran",
         "R. Grieve",
-        "B. D. De Stavola",
+        "Bianca De Stavola",
         "R. Tasker",
         "M. Petersen"
       ],
@@ -25206,7 +25169,7 @@
     {
       "title": "Uniform Consistency of the Highly Adaptive Lasso Estimator of Infinite Dimensional Parameters",
       "authors": [
-        "M. Laan",
+        "M. J. van der Laan",
         "Aurélien F. Bibaut"
       ],
       "abstract": "Consider the case that we observe $n$ independent and identically distributed copies of a random variable with a probability distribution known to be an element of a specified statistical model. We are interested in estimating an infinite dimensional target parameter that minimizes the expectation of a specified loss function. In \\cite{generally_efficient_TMLE} we defined an estimator that minimizes the empirical risk over all multivariate real valued cadlag functions with variation norm bounded by some constant $M$ in the parameter space, and selects $M$ with cross-validation. We referred to this estimator as the Highly-Adaptive-Lasso estimator due to the fact that the constrained can be formulated as a bound $M$ on the sum of the coefficients a linear combination of a very large number of basis functions. Specifically, in the case that the target parameter is a conditional mean, then it can be implemented with the standard LASSO regression estimator. In \\cite{generally_efficient_TMLE} we proved that the HAL-estimator is consistent w.r.t. the (quadratic) loss-based dissimilarity at a rate faster than $n^{-1/2}$ (i.e., faster than $n^{-1/4}$ w.r.t. a norm), even when the parameter space is completely nonparametric. The only assumption required for this rate is that the true parameter function has a finite variation norm. The loss-based dissimilarity is often equivalent with the square of an $L^2(P_0)$-type norm. In this article, we establish that under some weak continuity condition, the HAL-estimator is also uniformly consistent.",
@@ -25315,7 +25278,7 @@
         "V. Sarovar",
         "R. Basu",
         "B. Malig",
-        "M. Laan",
+        "M. J. van der Laan",
         "M. Petersen"
       ],
       "abstract": "",
@@ -25575,7 +25538,7 @@
       "title": "Pathway analysis of genome-wide association study in childhood leukemia among Hispanics",
       "authors": [
         "L. Hsu",
-        "F. Briggs",
+        "Farren B. S. Briggs",
         "Xiaorong Shao",
         "C. Metayer",
         "J. Wiemels",
@@ -25746,7 +25709,7 @@
       "title": "The Highly Adaptive Lasso Estimator",
       "authors": [
         "David C. Benkeser",
-        "M. J. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "Estimation of a regression functions is a common goal of statistical learning. We propose a novel nonparametric regression estimator that, in contrast to many existing methods, does not rely on local smoothness assumptions nor is it constructed using local smoothing techniques. Instead, our estimator respects global smoothness constraints by virtue of falling in a class of right-hand continuous functions with left-hand limits that have variation norm bounded by a constant. Using empirical process theory, we establish a fast minimal rate of convergence of our proposed estimator and illustrate how such an estimator can be constructed using standard software. In simulations, we show that the finite-sample performance of our estimator is competitive with other popular machine learning techniques across a variety of data generating mechanisms. We also illustrate competitive performance in real data examples using several publicly available data sets.",
       "year": 2016,
@@ -27439,9 +27402,9 @@
     {
       "title": "Targeted Maximum Likelihood Estimation of Effect Modification Parameters in Survival Analysis",
       "authors": [
-        "Ori Stitelman",
+        "Ori M. Stitelman",
         "C. Wester",
-        "V. De Gruttola",
+        "Victor De Gruttola",
         "M. J. van der Laan"
       ],
       "abstract": "",
@@ -27483,14 +27446,14 @@
     {
       "title": "Targeted Minimum Loss Based Estimation of an Intervention Specific Mean Outcome",
       "authors": [
-        "M. J. Laan",
+        "M. J. van der Laan",
         "Susan Gruber"
       ],
       "abstract": "",
       "year": 2011,
       "publication_date": null,
-      "paper_id": "b669a6fff30ea7be5909e90f33a3767687150486",
-      "url": "https://www.semanticscholar.org/paper/b669a6fff30ea7be5909e90f33a3767687150486",
+      "paper_id": "d2d59063445f007a6a6e9153ca614eb3d78f96cf",
+      "url": "https://www.semanticscholar.org/paper/d2d59063445f007a6a6e9153ca614eb3d78f96cf",
       "venue": null,
       "doi": null,
       "matched_keywords": [
@@ -27651,7 +27614,7 @@
       "title": "Super Learner In Prediction",
       "authors": [
         "E. Polley",
-        "M. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "",
       "year": 2010,
