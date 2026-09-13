@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T15:05:29Z",
+  "generated_at": "2026-09-13T00:56:56Z",
   "source": "Semantic Scholar Graph API",
   "unauthenticated": true,
   "mode": "bulk",
@@ -18,7 +18,7 @@
   "query_stats": [
     {
       "keyword": "tmle",
-      "fetched_raw_count": 510
+      "fetched_raw_count": 512
     },
     {
       "keyword": "targeted maximum likelihood estimation",
@@ -26,11 +26,11 @@
     },
     {
       "keyword": "targeted minimum loss based estimation",
-      "fetched_raw_count": 351
+      "fetched_raw_count": 350
     },
     {
       "keyword": "super learner",
-      "fetched_raw_count": 1062
+      "fetched_raw_count": 1067
     },
     {
       "keyword": "super learning",
@@ -43,38 +43,93 @@
   ],
   "query_errors": [],
   "incomplete": false,
-  "fetched_paper_count": 988,
-  "newly_appended_count": 2,
-  "updated_existing_count": 64,
+  "fetched_paper_count": 992,
+  "newly_appended_count": 5,
+  "updated_existing_count": 92,
   "existing_blocked_removed": 0,
   "existing_duplicates_removed": 0,
   "newly_added_papers": [
     {
-      "title": "Multifidelity Computer Model Emulation Via Diffusion Model Steering and Targeted Maximum Likelihood",
+      "title": "A global dataset of immigration flow composition by age, sex and educational attainment",
       "year": 2026,
-      "authors": [
-        "Jongmin Mun"
-      ],
-      "publication_date": "2026-08-31",
-      "doi": null,
-      "paper_id": "6e903fd0a38c894b755a06bf0f7c5686c1338c76"
+      "authors": [],
+      "publication_date": "2026-09-07",
+      "doi": "10.1038/s41597-026-07969-8",
+      "paper_id": "8ff4303b42f9835e779ab43e7cbef900dede2cdb"
     },
     {
-      "title": "The effect of increases in physical activity on oral health and function in older adults in Singapore: A longitudinal causal inference study.",
+      "title": "A Scalable Biological Clock for Metabolic Disease Prediction from the Phenome India Cohort",
       "year": 2026,
       "authors": [
-        "J.R.H. Tay",
-        "G. G. Nascimento",
-        "R. Malhotra",
-        "P. Hallal",
-        "Marco A. Peres"
+        "P. Tiwari",
+        "M. Garg",
+        "S. Pattanayak",
+        "I. Sarkar",
+        "R. Roy",
+        "N. Bhatraju",
+        "A. Verma",
+        "S. R. K",
+        "S. Prakash",
+        "V. S. Kumar",
+        "M. A. Uddin",
+        "N. Rawat",
+        "A. Sahu",
+        "Y. Kumar",
+        "P. H. Leuva",
+        "A. Mridha",
+        "V. Yenamandra",
+        "A. P. Singh",
+        "A. Mishra",
+        "S. Raychaudhuri",
+        "K. B. Tallapaka",
+        "G. Chandak",
+        "M. Kulkarni",
+        "M. Dharne",
+        "R. Wahengbam",
+        "J. Kalita",
+        "P. Manna",
+        "U. Subudhi",
+        "S. Majumder",
+        "P. Chakraborty",
+        "K. Chaudhary",
+        "S. Sengupta",
+        "Phenome India Consortium",
+        "V. Sardana",
+        "S. Chatterjee",
+        "D. Ganguly"
       ],
-      "publication_date": "2026-08-28",
-      "doi": "10.1016/j.jnha.2026.100968",
-      "paper_id": "99c652d83180729ff812878bab9bfb66c8d5eff0"
+      "publication_date": "2026-09-03",
+      "doi": "10.64898/2026.08.29.26361656",
+      "paper_id": "a11494473eef7bd39aac06eb06d377db6dc178af"
+    },
+    {
+      "title": "Estimating the effect of very low nicotine content cigarettes on abstinence by menthol status using novel statistical methods: A reanalysis of a randomized trial in an experimental marketplace with alternative nicotine systems.",
+      "year": 2026,
+      "authors": [],
+      "publication_date": "2026-09-04",
+      "doi": "10.1093/ntr/ntag200",
+      "paper_id": "29d0b548b9c5fffecd17b8c10e4b9c84bbd38e69"
+    },
+    {
+      "title": "Sweetening the Odds: Can Newer Glucose-Lowering Drugs Bend the Arc of Epileptogenesis?",
+      "year": 2026,
+      "authors": [
+        "Ifrah Zawar"
+      ],
+      "publication_date": "2026-09-01",
+      "doi": "10.1177/15357597261484442",
+      "paper_id": "f9a0b24de8238f22a4f6631a9ec18f3c12e6c0d4"
+    },
+    {
+      "title": "Treatment persistence drives estimator performance in longitudinal causal inference based on observational data: A simulation study",
+      "year": 2026,
+      "authors": [],
+      "publication_date": "2026-09-04",
+      "doi": null,
+      "paper_id": "66292c8c88fa7a3d45c238fd20100c265d3271d2"
     }
   ],
-  "paper_count": 1143,
+  "paper_count": 1148,
   "papers": [
     {
       "title": "A Causal Inference Approach for Evaluating Diagnostic Tests and AI-Enabled Medical Devices: From Effect Modification to Information-Augmented Decision-Making",
@@ -107,7 +162,7 @@
         "Hana Lee",
         "Wonyul Lee",
         "Lei Nie",
-        "M. V. D. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "Rare disease trials face unique statistical challenges due to limited patient populations and heterogeneous clinical manifestations among patients. Multiple endpoints are often necessary to comprehensively capture treatment benefits. A global test is an approach for evaluating whether a treatment has any beneficial effect across multiple endpoints. We propose a new global test based on a weighted composite endpoint. The proposed global test employs shrinkage-based cross-validated targeted maximum likelihood estimation (CV-TMLE) to learn data-adaptive weights that maximize power while maintaining Type I error control. Shrinkage can be tailored to incorporate existing domain knowledge, such as anticipated relative effect sizes. In simulation studies designed to reflect real rare disease trial settings, the proposed procedure demonstrated improved power over standard multiplicity adjustments and classical global tests (such as the O'Brien test), while maintaining nominal Type I error, when effects are heterogeneous across endpoints. The proposed method simultaneously learns an optimal weighted composite outcome and provides an unbiased and efficient targeted maximum likelihood estimator (TMLE) for the average treatment effect (ATE) on that weighted outcome, with valid inference taking into account that the ATE is data dependent.",
       "year": 2026,
@@ -152,6 +207,24 @@
       ]
     },
     {
+      "title": "A global dataset of immigration flow composition by age, sex and educational attainment",
+      "authors": [],
+      "abstract": "People at different ages and with different educational background have different migration patterns. However, international migration flows by age and educational attainment are scarce and not always comparable. We use a super learning algorithm with multiple initial models to estimate age and education composition of male and female immigrants for 199 countries over six five-year periods from 1990–1995 to 2015–2020. We access the performance of our approach through cross-validation and comparing initial learners with the super learner algorithm using multiple evaluation metrics. We also compare our age composition estimates against equivalent measures from Eurostat. The estimates indicate that while the proportion of immigration flows with higher education increase in all regions, Europe has the highest immigration flow with secondary or higher education.",
+      "year": 2026,
+      "publication_date": "2026-09-07",
+      "paper_id": "8ff4303b42f9835e779ab43e7cbef900dede2cdb",
+      "url": "https://www.semanticscholar.org/paper/8ff4303b42f9835e779ab43e7cbef900dede2cdb",
+      "venue": "Scientific Data",
+      "doi": "10.1038/s41597-026-07969-8",
+      "matched_keywords": [
+        "super learner",
+        "super learning"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
       "title": "A Riesz Representer Perspective on Targeted Learning",
       "authors": [
         "Salvador V. Balkus",
@@ -170,6 +243,60 @@
       ],
       "source_queries": [
         "targeted minimum loss based estimation"
+      ]
+    },
+    {
+      "title": "A Scalable Biological Clock for Metabolic Disease Prediction from the Phenome India Cohort",
+      "authors": [
+        "P. Tiwari",
+        "M. Garg",
+        "S. Pattanayak",
+        "I. Sarkar",
+        "R. Roy",
+        "N. Bhatraju",
+        "A. Verma",
+        "S. R. K",
+        "S. Prakash",
+        "V. S. Kumar",
+        "M. A. Uddin",
+        "N. Rawat",
+        "A. Sahu",
+        "Y. Kumar",
+        "P. H. Leuva",
+        "A. Mridha",
+        "V. Yenamandra",
+        "A. P. Singh",
+        "A. Mishra",
+        "S. Raychaudhuri",
+        "K. B. Tallapaka",
+        "G. Chandak",
+        "M. Kulkarni",
+        "M. Dharne",
+        "R. Wahengbam",
+        "J. Kalita",
+        "P. Manna",
+        "U. Subudhi",
+        "S. Majumder",
+        "P. Chakraborty",
+        "K. Chaudhary",
+        "S. Sengupta",
+        "Phenome India Consortium",
+        "V. Sardana",
+        "S. Chatterjee",
+        "D. Ganguly"
+      ],
+      "abstract": "Background: India has a rising incidence of chronic non-communicable diseases, making it a major healthcare burden today. Growing evidence suggests that chronic low-grade inflammation links ageing with cardiometabolic disorders, captured by the emerging concept of inflammaging. However, most evidence on biological ageing comes from Western populations, with no similar models developed for the Indian population. Given the country's distinctive genetic makeup, unique exposome, and heterogeneous NCD presentation, Western models may not capture inflammaging and its effects in the Indian population. Methods: We analysed baseline data from 4,240 adults in the Phenome India CSIR Health Cohort Knowledgebase (PI CheCK), a nationwide multi-centre cohort. Participants were stratified into eight cardiometabolic phenotype groups by BMI (Asian cut off), blood pressure and HbA1c status. We trained a Super Learner ensemble to predict chronological age in the lean normotensive-normoglycaemic reference group (n=615) using 44 plasma cytokines, sex, haemoglobin, and bioimpedance-derived visceral fat area, per cent body fat, and total body water. Performance was assessed by repeated five-fold cross-validation and in a held-out healthy test set. Calibrated biological age acceleration was then estimated in the remaining 3,625 participants. Results: Median age was 51.0 years (IQR 41.0 to 62.0) and 49.4% were female. The Super Learner outperformed elastic net and XGBoost comparators. Permutation importance identified visceral fat area, per cent body fat, CTACK, SDF1a, haemoglobin and sex as leading contributors, with body composition measures accounting for the largest share, indicating an immune-metabolic rather than cytokine-only signal. Biological age acceleration was concentrated in overweight/obese phenotypes. Lean phenotypes showed acceleration close to the reference (0.32 0.50 years). Conclusions: Cytokine and body composition measures capture a quantifiable immunometabolic ageing signal in a South Asian cohort, with acceleration driven predominantly by adiposity. External validation and longitudinal follow up are required.",
+      "year": 2026,
+      "publication_date": "2026-09-03",
+      "paper_id": "a11494473eef7bd39aac06eb06d377db6dc178af",
+      "url": "https://www.semanticscholar.org/paper/a11494473eef7bd39aac06eb06d377db6dc178af",
+      "venue": "medRxiv",
+      "doi": "10.64898/2026.08.29.26361656",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
       ]
     },
     {
@@ -341,8 +468,8 @@
     {
       "title": "Adaptive Targeted Maximum Likelihood Estimation of the Mean Potential Outcome under a Treatment Rule",
       "authors": [
-        "Yichen Xu",
-        "M. V. D. Laan"
+        "Yi-Chen Xu",
+        "M. J. van der Laan"
       ],
       "abstract": "Estimating the mean counterfactual outcome under a treatment rule is a central problem in causal inference and policy evaluation. Standard estimators, including inverse probability weighting (IPW), augmented IPW (AIPW), and targeted maximum likelihood estimation (TMLE), can become unstable under practical positivity violations because their targeting or weighting steps depend on inverse propensity scores. We propose an adaptive targeted maximum likelihood estimation (A-TMLE) framework that uses a data-adaptive working model for the conditional average treatment effect (CATE). This working model induces a projected policy-value parameter, which coincides with the nonparametric mean potential outcome when the CATE is well represented by the adaptive basis. We derive the efficient influence function for the projected parameter and characterize its second-order remainder. We also introduce a regularized TMLE that targets the nonparametric policy value using a stabilized targeting covariate obtained by projecting the standard TMLE clever covariate onto the score space induced by the CATE working model. We quantify the first-order plug-in bias of regularized TMLE relative to the nonparametric target. The resulting targeting steps avoid direct inverse propensity score weighting, improving stability under limited overlap. In simulations, A-TMLE and regularized TMLE achieve lower mean squared error and improved coverage compared with IPW, AIPW, and standard TMLE under practical positivity violations, while remaining competitive when treatment overlap is strong. A real-data application to the Right Heart Catheterization study illustrates that the adaptive estimators produce stable policy-value estimates with substantially shorter confidence intervals than IPW and AIPW.",
       "year": 2026,
@@ -551,7 +678,7 @@
     {
       "title": "Association of household wealth and education with hypertension among adults in Lesotho: Evidence from a propensity score–based study",
       "authors": [
-        "R. Gupta",
+        "R. Das Gupta",
         "Amrit Baral",
         "Shams Shabab Haider",
         "P. Chakraborty"
@@ -1049,7 +1176,7 @@
         "M. Luque-fernandez",
         "F. Rubio"
       ],
-      "abstract": "The Super Learner (SL) is a widely used ensemble method that combines predictions from a library of learners based on their predictive performance. Interval predictions are of considerable practical interest because they allow uncertainty in predictions produced by an individual learner or an ensemble to be quantified. Several methods have been proposed for constructing interval predictions based on the SL, however, these approaches are typically justified using asymptotic arguments or rely on computationally intensive procedures such as the bootstrap. Conformal prediction (CP) is a machine learning framework for constructing prediction intervals with finite-sample and asymptotic coverage guarantees under mild conditions. We propose coupling CP with the SL through a natural construction that mirrors the original SL framework, using individual learner weights and combining learner-specific conformity scores via a weighted majority vote. We characterize the properties of the resulting SL-based prediction intervals for continuous outcomes. We cover settings under exchangeability, potential violations of exchangeability, and data-generating mechanisms exhibiting heteroscedasticity, sparsity, and other forms of distributional heterogeneity. A comprehensive simulation study shows that the conformalized SL achieves valid finite-sample coverage with competitive performance relative to the true data-generating mechanism. A central contribution of this work is an application to predicting creatinine levels using socio-demographic, biometric, and laboratory measurements. This example demonstrates the benefits of an ensemble with carefully selected learners designed to capture key aspects of complex regression functions, including non-linear effects, interactions, sparsity, heteroscedasticity, and robustness to outliers.R",
+      "abstract": "The Super Learner (SL) is a widely used ensemble method that combines point predictions from a library of learners based on their predictive performance. Interval predictions are of considerable practical interest because they allow uncertainty in predictions produced by an individual learner or an ensemble to be quantified. Several methods have been proposed for constructing interval predictions based on the SL, however, these approaches are typically justified using asymptotic arguments or rely on computationally intensive procedures such as the bootstrap. Conformal prediction (CP) is a machine learning framework for constructing prediction intervals with finite-sample and asymptotic coverage guarantees under mild conditions. We propose coupling CP with the SL through a natural construction that mirrors the original SL framework, using individual learner weights and combining learner-specific conformity scores via a weighted majority vote. We characterize the properties of the resulting SL-based prediction intervals for continuous outcomes. We cover settings under exchangeability, potential violations of exchangeability, and data-generating mechanisms exhibiting heteroscedasticity, sparsity, and other forms of distributional heterogeneity. A comprehensive simulation study shows that the conformalized SL achieves valid finite-sample coverage with competitive performance relative to the true data-generating mechanism. A central contribution of this work is an application to predicting creatinine levels using socio-demographic, biometric, and laboratory measurements. This example demonstrates the benefits of an ensemble with carefully selected learners designed to capture key aspects of complex regression functions, including non-linear effects, interactions, sparsity, heteroscedasticity, and robustness to outliers.",
       "year": 2026,
       "publication_date": "2026-04-24",
       "paper_id": "99f409586d407c5c9aeb81619bdb6d69ea46ec06",
@@ -1686,13 +1813,30 @@
       ]
     },
     {
+      "title": "Estimating the effect of very low nicotine content cigarettes on abstinence by menthol status using novel statistical methods: A reanalysis of a randomized trial in an experimental marketplace with alternative nicotine systems.",
+      "authors": [],
+      "abstract": "INTRODUCTION Very low nicotine content (VLNC) cigarettes have been proposed to reduce cigarette consumption. However, previous studies were not adequately powered to analyze the effects of VLNC cigarettes on abstinence, especially within subpopulations (e.g., people who smoke (PWS) menthol cigarettes). Here, we developed and applied two statistical approaches to address these power limitations in analyses stratified by menthol status. METHODS Using data from a recent randomized trial of VLNC cigarettes available within an experimental marketplace with alternative nicotine delivery systems (ANDS), we estimated the treatment effect on abstinence stratified by menthol status. Two novel methods leveraged secondary endpoints (total nicotine equivalents, NNAL) to improve efficiency: the multiple endpoint multisource exchangeability model (ME-MEM) and the super learner structural equation model (SL-SEM). RESULTS Among 206 PWS menthol cigarettes, VLNC cigarettes were estimated to increase the probability of abstinence by 11.3 percentage points (95% credible interval: 4.7-19.6) using the ME-MEM and 18.4 percentage points using the SL-SEM (95% confidence interval: 7.7-27.0), increasing precision by 46% and 12%, respectively. For 232 PWS non-menthol cigarettes, the ME-MEM estimated an increase of 10.2 percentage points (95% credible interval: 2.3-17.3) and the SL-SEM estimated an increase of 8.1 percentage points (95% confidence interval: -1.0-13.2), increasing precision by 35% and 99%, respectively. CONCLUSIONS In the presence of ANDS, randomization to VLNC cigarettes increases the probability of abstinence for PWS menthol cigarettes and may increase the probability of abstinence for PWS non-menthol cigarettes. Methods that leverage secondary endpoints may improve precision when conventional methods are underpowered.",
+      "year": 2026,
+      "publication_date": "2026-09-04",
+      "paper_id": "29d0b548b9c5fffecd17b8c10e4b9c84bbd38e69",
+      "url": "https://www.semanticscholar.org/paper/29d0b548b9c5fffecd17b8c10e4b9c84bbd38e69",
+      "venue": "Nicotine & Tobacco Research",
+      "doi": "10.1093/ntr/ntag200",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
       "title": "Estimation of treatment effects in presence of differential use of post-randomization concomitant medication with time-to-event outcomes",
       "authors": [
         "H. Rytgaard",
         "E. Fong",
         "J. Tarp",
         "Thomas A. Gerds",
-        "M. V. D. Laan",
+        "M. J. van der Laan",
         "Henrik Ravn"
       ],
       "abstract": "In placebo-controlled randomized trials, the post-randomization use of concomitant medications may be higher in the placebo arm than in the treatment arm. This may dilute the full benefits of the randomized drug as estimated by the intention-to-treat analysis. We focus on cardiovascular outcomes trials in type-2 diabetes patients of glucose-lowering treatments where patients in the placebo arm are more likely to add other glucose-lowering agents with established cardio-protective properties. As a supplement to the intention-to-treat analysis, we propose a class of estimands within a causal framework that isolates the specific impact of the treatment being studied from that of concomitant treatment use. These estimands are defined under time-dependent treatment interventions to balance exposure to additional medications across intervention arms. We advocate for specific stochastic interventions to achieve this balance while minimizing positivity violations, which arise when certain treatment combinations or characteristics are not sufficiently represented in the data. We employ targeted minimum loss-based estimation (TMLE) to optimize the estimation procedure for our estimands while allowing for flexible adjustments for time-dependent covariates from follow-up visits. Finally, we demonstrate the application of the methods through a simulation study and a real-world example from the LEADER cardiovascular outcomes trial, which assessed cardiovascular risk for liraglutide versus placebo.",
@@ -1718,7 +1862,7 @@
         "Qianqian Yang",
         "Yifan Hu",
         "G. Danaei",
-        "G. Davey Smith",
+        "George Davey Smith",
         "Shishir Rao",
         "Kazem Rahimi"
       ],
@@ -1782,7 +1926,7 @@
     {
       "title": "Generative Synthetic Data for Causal Inference: Pitfalls, Remedies, and Opportunities",
       "authors": [
-        "Yichen Xu"
+        "Yi-Chen Xu"
       ],
       "abstract": "Synthetic tabular data are often evaluated by distributional similarity, privacy distance, or train-on-synthetic-test-on-real predictive performance, but these criteria do not ensure validity for causal inference. We show that fully generative tabular synthesizers, including GAN- and LLM-based models, can preserve predictive utility while distorting average treatment effect (ATE) estimates. The failure is structural: ATE preservation requires both a realistic covariate law and an accurate treatment-effect contrast, whereas prediction loss penalizes treatment-effect error only through an overlap-weighted term. Thus, under imbalance or limited overlap, a generator may reproduce dominant observed outcomes while underlearning intervention-relevant contrasts. We formalize this mismatch through sensitivity and loss-decomposition results. Motivated by this causal analysis and intuition, we propose a hybrid synthetic-data framework for causal inference that generates covariates while modeling treatment and outcome mechanisms separately. We evaluate the framework in three settings: ATE preservation under fully generative versus hybrid synthesis, augmentation for practical positivity problems, and diagnostic simulation engines for comparing OR, IPW, AIPW, and TMLE before real-data analysis. We also stress-test the hybrid construction across settings that vary overlap, covariate dimension, seed sample size, and treatment-effect complexity, including a logistic outcome-model misspecification check. Across controlled simulation experiments, hybrid synthesis improves causal fidelity relative to fully generative baselines; the ACTG application shows improved predictive fidelity and potential for finite-sample estimator benchmarking. LLM-based hybrid synthesis is often more faithful than CTGAN in settings where causal fidelity can be assessed.",
       "year": 2026,
@@ -1896,7 +2040,7 @@
       "title": "Higher-Order Efficient Estimators: A Review and Simulation-Based Benchmark Study",
       "authors": [
         "Ze Wang",
-        "M. V. D. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "Higher-order efficient estimators extend standard first-order semiparametric estimators by replacing second-order residuals with third- or higher-order terms, potentially enabling asymptotic efficiency under slower nuisance function convergence rates and improving finite-sample performance. Existing methods achieve higher-order expansions through structurally different approximation strategies, including basis truncation, kernel smoothing, and highly adaptive lasso (HAL) representations, making direct theoretical and practical comparison difficult. In this manuscript, we provide a focused review and a simulation-based empirical benchmark for second-order efficient estimators, using treatment-specific mean estimation as a canonical causal inference and missing data problem. We compare how higher-order influence function (HOIF) estimators, kernel-based higher-order targeted minimum loss-based estimator (HOTMLE), and HAL-based HOTMLE construct higher-order expansions and the approximation or regularization burdens they introduce. The asymptotic and numerical study evaluates first-order and empirical second-order estimators under controlled nuisance errors with constant or increasing sectional variation complexity. Results show that higher-order debiasing can substantially reduce first-order estimation bias; however, gains depend strongly on stability of the approximation or regularization required for higher-order correction. Empirical HAL-based HOTMLE shows relatively stable performance, while empirical HOIF remains sensitive to basis truncation and tuning choices. Overall, this manuscript clarifies when higher-order asymptotic improvements are attained in theory, when they may be practically visible, and when implementation instability may offset theoretical advantages.",
       "year": 2026,
@@ -1919,7 +2063,7 @@
         "Carlos Garc'ia Meixide",
         "Mingxun Wang",
         "Alejandro Schuler",
-        "M. V. D. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "The Highly Adaptive Lasso (HAL) delivers unprecedented guarantees in nonparametric minimum loss estimation under minimal smoothness assumptions, such as dimension-free minimax optimal rates. However, the practical use of HAL has been severely limited by its exponentially growing computationally prohibitive indicator basis expansion in moderate to high dimensions. Existing screening strategies drastically reduce this dimension but lack any theoretical justification. We introduce the Principal Component Highly Adaptive (PC-HA) family of estimators, which for the first time provide a principled and theoretically valid dimension reduction. We establish formal results on the score equations solved by these PC-HA estimators, allowing to transfer plug-in efficiency and pointwise asymptotic normality results from HAL to these PC-HA estimators, under comparable complexity control.",
       "year": 2026,
@@ -1940,8 +2084,8 @@
       "authors": [
         "Mingxun Wang",
         "Alejandro Schuler",
-        "M. V. D. Laan",
-        "Carlos García-Meixide"
+        "M. J. van der Laan",
+        "Carlos Garc'ia Meixide"
       ],
       "abstract": "The Highly Adaptive Lasso (HAL) is a nonparametric regression method that achieves almost dimension-free convergence rates under minimal smoothness assumptions, but its implementation can be computationally prohibitive in high dimensions due to the large design matrix it requires. The Highly Adaptive Ridge (HAR) has been proposed as a related ridge-regularized analogue. Building on both procedures, we introduce the Principal Component Highly Adaptive Lasso (PCHAL) and Principal Component Highly Adaptive Ridge (PCHAR). These estimators use an outcome-blind principal-component reduction of the HAL basis, offering substantial computational gains over HAL while achieving empirical performance comparable to HAL and HAR. We also describe an early-stopped gradient descent variant, which provides a convenient form of smooth spectral regularization without explicitly selecting a hard principal-component cutoff. Finally, we uncover that under special circumstances, the HAL kernel is identical to the covariance function of Brownian motion.",
       "year": 2026,
@@ -2045,7 +2189,7 @@
         "Rachael V. Phillips",
         "J. Tarp",
         "Maya L. Petersen",
-        "M. V. D. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "Subgroup analyses within randomized controlled trials are often underpowered due to limited sample sizes. We address this challenge by leveraging trial participants outside the subgroup of interest to augment estimation within the subgroup. Specifically, we study two Targeted Maximum Likelihood Estimators (TMLEs) that borrow information from non-subgroup participants within the same trial: a TMLE with pooled regression (TMLE-PR) and an Adaptive Targeted Maximum Likelihood Estimator (A-TMLE). Both estimators enable information sharing without relying on any external real-world data, thereby capitalizing on key strengths of the trial: most importantly, the protection against bias afforded by the randomized treatment, but also harmonized data collection, and consistent treatment and outcome definitions. The general strategy proposed here directly advances the priorities of key regulatory agencies, including the FDA, by improving the precision of subgroup-specific treatment effect estimates without introducing external sources of bias, thereby facilitating rigorous inference to support equitable labeling, access, and post-market evaluation. In a case study based on analysis of data from a cardiovascular outcome trial (LEADER, NCT01179048), we estimate the risk reduction of major adverse cardiac events (MACE) under liraglutide treatment among Black and Asian subgroups -- each comprising less than 10\\% of the trial population -- using the proposed estimators that borrow information from the remainder of the trial. Using A-TMLE, in particular, we find estimated absolute MACE risk reductions of 1.6, 1.5, and 1.5 percentage points among Asian participants and 2.1, 2.0, and 2.1 percentage points among Black participants at 365, 540, and 730 days, respectively, with 95\\% confidence intervals excluding the null at each time point.",
       "year": 2026,
@@ -2133,9 +2277,9 @@
     {
       "title": "Investigating Targeting Strategies and Truncation in TMLE for the Average Treatment Effect under Practical Positivity Violations",
       "authors": [
-        "Yichen Xu",
+        "Yi-Chen Xu",
         "Susan Gruber",
-        "M. V. D. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "Estimating average treatment effects from observational data is challenging under practical violations of the positivity assumption. Targeted Maximum Likelihood Estimators (TMLEs) are widely used because of their double robustness and efficiency, but they can remain sensitive to such violations. We conduct extensive simulation studies to examine how targeting strategies and truncation levels affect TMLE performance under varying degrees of outcome regression misspecification and practical positivity stress. We show that loss-weighted targeting can induce substantial systematic bias relative to clever-covariate-scaled targeting, while insufficient truncation for clever-covariate-scaled targeting leads to inflated variance and unstable estimation. We further find that fixed truncation rules of the form c/(sqrt(n) log n), especially with c = 5 or c = 6, provide robust practical defaults in many settings, although the optimal choice varies with sample size. Motivated by the limitations of standard Lepski selection, we propose a Lepski-type adaptive truncation procedure with a brake mechanism that improves stability in data-adaptive tuning. We also compare variance estimators and find that targeted bootstrap variance estimation provides a stable alternative across truncation levels.",
       "year": 2026,
@@ -2359,7 +2503,7 @@
       "authors": [
         "G. Faggioli",
         "A. Buonanno",
-        "M. V. D. Meent",
+        "Maarten van de Meent",
         "Gaurav Khanna"
       ],
       "abstract": "We characterize and phenomenologically model the merger-ringdown of gravitational waves emitted by a small compact object that plunges and merges into a Kerr black hole from equatorial-eccentric inspirals. The waveforms are generated employing a time-domain Teukolsky code sourced with trajectories computed using the effective-one-body framework. We span values of the Kerr spin $a\\in[-0.9, 0.9] $, eccentricity at the last stable orbit (LSO) $ e_{\\rm LSO} \\in [0,0.9] $, and relativistic anomaly $ \\xi_{\\rm LSO} \\in [0 , 2 \\pi]$. We characterize the last peak of the waveform and ringdown features across the parameter space, finding that the eccentricity mainly affects the last peak features, while it has a smaller impact on the ringdown signal. In contrast, the relativistic anomaly measured at the LSO influences the morphology of the last peak in a restricted portion of the parameter space and has no impact on the ringdown part. We perform the analysis for all the spin-weighted spherical harmonic modes normally included in the $\\texttt{SEOBNR}$ family of models, $(\\ell,m)\\in\\{ (2,2), (3,3), (4,4), (5,5), (2,1), (3,2), (4,3)\\}$. Finally, we introduce a merger-ringdown model for $\\texttt{SEOB-TMLE}$, a forthcoming inspiral-merger-ringdown waveform model for eccentric spin-aligned binary black holes in the test-mass limit, whose features can be extended to comparable-mass regimes. The model also accounts for quasinormal mode mixing during the ringdown. It provides a first step toward incorporating the impact of residual eccentricity close to merger into spin-aligned effective-one-body merger-ringdown models for binary black holes.",
@@ -2613,7 +2757,7 @@
       "title": "Predicting return-to-work outcomes: A comparative analysis of logistic regression and machine learning in occupational mental health",
       "authors": [
         "Adriano Dias",
-        "H. R. C. Nunes",
+        "Hélio Rubens de Carvalho Nunes",
         "Carlos Ruíz-Frutos",
         "J. Gómez‐Salgado",
         "M. Alonso",
@@ -2784,12 +2928,12 @@
         "G. Moirano",
         "C. Pizzi",
         "E. Migliore",
-        "Piero Fariselli",
+        "P. Fariselli",
         "T. Sanavia",
         "Franca Rusconi",
-        "A. Nybo Andersen",
+        "Anne-Marie Nybo Andersen",
         "L. Richiardi",
-        "Milena Maule"
+        "Milena M. Maule"
       ],
       "abstract": "Introduction Targeted maximum likelihood estimation (TMLE) is a semiparametric doubly‐robust estimator that integrates the SuperLearner in the estimation process, an ensemble method that allows us to model the exposure–outcome relationship combining multiple parametric and non-parametric methods. Aim We applied TMLE to assess the effect of maternal paracetamol use during the first trimester of pregnancy on child wheezing during the first 18 months of life, using data of the Italian NINFEA birth cohort. Methods We included three progressively larger sets of covariates for confounding adjustment. Set 1 included baseline socioeconomic and maternal characteristics, conditions and disorders. Set 2 additionally included maternal respiratory infections in the first pregnancy trimester. Set 3 added prepregnancy maternal mental health disorders. The effect was estimated with three TMLE implementations, differing in the methods used to model the exposure–outcome relationship: (1) parametric; (2) SuperLearner with parametric and semiparametric approaches and (3) SuperLearner with parametric, semiparametric and non-parametric approaches, and with hyperparameters tuning. We compared TMLE with multivariable regression, propensity score regression adjustment and inverse probability weighting. Results All methods provided similar results, suggesting a weak positive association that attenuated toward the null as progressively more covariates were adjusted for, from set 1 (TMLE 3: risk ratio, RR 1.15 (95% CI 1.03 to 1.29)) to set 3 (TMLE 3: RR 1.10 (95% CI 0.97 to 1.26), N=4099). Conclusions Such an association could be interpreted as a small positive effect or incomplete control for residual or unmeasured confounding, and its consistency across methods suggests it is unlikely to be driven by model misspecification.",
       "year": 2026,
@@ -2879,7 +3023,7 @@
       "title": "Rapid Sequence Induction Practices and Outcomes in Abdominal Surgery Patients: A Multicenter Observational Cohort Study.",
       "authors": [
         "Sivan G. Marcus",
-        "Michael Mathis",
+        "Michael R. Mathis",
         "M. Bokoch",
         "Robert E. Freundlich",
         "David Chen",
@@ -3305,6 +3449,26 @@
       ]
     },
     {
+      "title": "Sweetening the Odds: Can Newer Glucose-Lowering Drugs Bend the Arc of Epileptogenesis?",
+      "authors": [
+        "Ifrah Zawar"
+      ],
+      "abstract": "Sodium-Glucose Cotransporter 2 Inhibitors and the Risk of Late Onset Epilepsy: A Real-World Cohort Study Lin BH, Huang HM, Lin HA, Lin SF. Epilepsia. 2026;67(7):3444–3456. doi:10.1002/epi.70239. Objective: Late onset epilepsy (LOE) is associated with substantial morbidity. Sodium-glucose cotransporter 2 inhibitors (SGLT2i) may exert neuroprotective effects. This study evaluated the association between SGLT2i and risk of LOE among older adults with type 2 diabetes mellitus. Methods: This retrospective cohort study was conducted between 2013 and 2025 with a 3-year follow-up using the TriNetX global network. Patients ≥ 60 years old with type 2 diabetes mellitus were classified into two cohorts—new SGLT2i users and new dipeptidyl peptidase-4 inhibitors users—following a 6-month washout of other antihyperglycemic agents except metformin. Patients with major neurological diseases or contraindications to SGLT2i were excluded. Propensity score matching was used to balance baseline characteristics between two cohorts. The primary outcomes were incident LOE, status epilepticus, and initiation of antiseizure medications. Unadjusted Cox proportional hazards models were applied to estimate hazard ratios (HRs) and 95% confidence interval (CIs). Results: A total of 1435648 patients were identified. After matching, 60203 patients were included in the SGLT2i cohort (mean age = 67.7 years, 42.3% female) and 60203 in the control cohort (mean age = 67.7 years, 41.7% female). SGLT2i use was associated with lower risk of LOE (HR = .55, 95% CI = .44–.68), status epilepticus (HR = .38, 95% CI = .21–.69), and antiseizure medication initiation (HR = .63, 95% CI = .58–.69). SGLT2i reduced LOE risk in patients with stroke (HR = .69, 95% CI = .42–.88) and dementia (HR = .44, 95% CI = .25–.78) but not in those with traumatic brain injury or brain tumors. Significance: SGLT2i use was associated with reduced risk of LOE among selected patients, supporting its role in an etiology-specific therapeutic approach for older adults at risk of epilepsy. Semaglutide and Risk of Adult-Onset Seizure: A Target Trial Emulation Eun Y, Bong S, Koh HY, Trousdale RK, Cho YM, Jang Y, Lee ST. Neurology. 2026 Jul 14;107(1):e218174. doi: 10.1212/WNL.0000000000218174. Epub 2026 Jun 17. PMID: 42308439; PMCID: PMC13278381. Background and objectives: Adult-onset seizure reflects the burden of acquired brain insults, but established disease-modifying preventive strategies are limited. We evaluated whether semaglutide initiation is associated with a lower incidence of adult-onset seizure compared with sodium-glucose cotransporter 2 inhibitors (SGLT2i) and other glucose-lowering drugs (GLDs) in adults with type 2 diabetes. Methods: Using the All of Us Research Program, we emulated a population-based target trial in new-user, active-comparator cohorts from January 2018 to October 2023. We compared semaglutide vs other GLDs and semaglutide vs SGLT2i. Incident epilepsy or seizure was identified from diagnostic codes. Effects were estimated using inverse probability of treatment weighting with weighted Cox models and targeted maximum likelihood estimation (TMLE). Subgroup and sensitivity analyses with multiple outcome definitions and analytic approaches were conducted to assess the robustness of findings. We evaluated mediation through hemoglobin A1c (HbA1c) and body mass index (BMI) using the longitudinal Vansteelandt framework. Results: We analyzed 10,213 patients in the semaglutide (n = 2,586, mean age, 60.1 years; 56.8% female) vs other GLDs cohort (n = 7,627, mean age, 63.7 years; 54.2% female) and 8,605 patients in the semaglutide (n = 2,814, mean age, 60.5 years; 66.2% female) vs SGLT2i cohort (n = 5,791, mean age, 64.4 years; 47.3% female). Semaglutide was associated with a lower risk of adult-onset seizure compared with other GLDs (weighted HR 0.44 [95% CI 0.25-0.79]; 4-year risk difference -1.78% [95% CI -2.58 to -0.98]) and SGLT2i (weighted HR 0.48 [95% CI 0.27-0.85]; 4-year risk difference -1.46% [95% CI -2.41 to -0.51]). TMLE estimated risk differences per 1,000 persons of -14.20 (95% CI -18.33 to -10.07) vs other GLDs and -7.62 (95% CI -11.65 to -3.60) vs SGLT2i, corresponding to numbers needed to treat of 70 and 131, respectively. Mediation was minimal for HbA1c (2.4% vs other GLDs; 6.5% vs SGLT2i) and BMI (0% vs other GLDs; 0.7% vs SGLT2i). Discussion: Semaglutide initiation was associated with a lower risk of adult-onset seizure compared with SGLT2i and other GLDs in patients with type 2 diabetes, independent of glycemic and weight effects. Residual confounding, low event counts, and shorter follow-up limit causal interpretation. Classification of evidence: This study provides Class II evidence that semaglutide use was associated with a lower risk of adult-onset seizures compared with other GLDs and SGLT2i.",
+      "year": 2026,
+      "publication_date": "2026-09-01",
+      "paper_id": "f9a0b24de8238f22a4f6631a9ec18f3c12e6c0d4",
+      "url": "https://www.semanticscholar.org/paper/f9a0b24de8238f22a4f6631a9ec18f3c12e6c0d4",
+      "venue": "Epilepsy Currents",
+      "doi": "10.1177/15357597261484442",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
+      ]
+    },
+    {
       "title": "Targeted Highly Adaptive Lasso Minimum Loss Estimation of Target Functions",
       "authors": [
         "V. Rodriguez",
@@ -3400,7 +3564,7 @@
       "authors": [
         "Kirsten E. Landsiedel",
         "Maya L. Petersen",
-        "M. V. D. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "We consider efficient estimation of causal parameters in longitudinal two-stage designs with outcome subsampling, motivated by resampling designs in HIV-related mortality studies. In these studies, many participants become lost to follow-up; resampling designs address this by tracing a subset of lost individuals to ascertain their outcomes. Analyses often use inverse-probability-weighted Kaplan-Meier (wKM) estimators that discard longitudinal covariate information and suffer from efficiency losses. We note that resampling designs are an instance of a broader class: two-stage designs with outcome subsampling, in which a first stage collects some data on all participants and a second stage collects outcome information on a selected subset. This connection motivates two estimators. First, drawing on inverse probability of censoring weighted targeted maximum likelihood estimation (IPCW-TMLE) for two-stage designs, we develop its longitudinal extension, IPCW longitudinal TMLE (IPCW-LTMLE) and show that estimating and targeting the known second-stage sampling weights yields variance reductions of up to 36% over the use of known sampling probabilities. Second, given that inverse weighting sacrifices efficiency, we propose an LTMLE that incorporates the second-stage sampling indicator as an intervention node in the sequential regression framework, returning to plug-in estimation and avoiding inverse weighting entirely. Simulations across sample sizes show that LTMLE achieves up to 73% lower variance than wKM with known sampling weights, with reductions of 30-50% common across settings, while IPCW-LTMLE achieves consistent gains of 20-35%. We further demonstrate that cross-fitted variance estimation is essential for valid inference: standard variance estimators yield confidence interval coverage as low as 76%, while our cross-fitted variants consistently restore coverage to nominal levels.",
       "year": 2026,
@@ -3444,8 +3608,8 @@
       "title": "Targeted maximum likelihood estimation of vaccine effectiveness and immune correlates in test-negative design studies with missing data",
       "authors": [
         "Leah I B Andrews",
-        "L. Laan",
-        "Peter B Gilbert"
+        "Lars van der Laan",
+        "Peter B. Gilbert"
       ],
       "abstract": "The test-negative design (TND) is a resource-efficient observational study design that can assess vaccine effectiveness and exposure-proximal immune correlates of disease. The TND enrolls symptomatic individuals seeking diagnostic testing and compares case status by an exposure variable, such as vaccination status or immune marker level, that is measured at testing. While the TND reduces confounding by healthcare-seeking behavior, other sources of confounding may remain. TND studies may also have missing data in the exposure variable due to incomplete records or two-phase sampling designs. We present a targeted maximum likelihood estimation approach involving a semiparametric logistic regression model that targets a causal conditional risk ratio of symptomatic disease in the healthcare-seeking population. Under causal and missing at random assumptions, our method produces an efficient, asymptotically linear estimator that provides flexible, data-driven confounding control and valid causal inference when analyzing TND studies with missing exposure variable data. We evaluate our method's finite sample properties using plasmode simulations of a two-phase TND immune correlates study. We also apply our method to assess COVID-19 vaccine effectiveness and antibody marker correlates of COVID-19 from TND study cohorts derived from the Moderna Coronavirus Efficacy phase 3 trial.",
       "year": 2026,
@@ -3719,6 +3883,23 @@
       ]
     },
     {
+      "title": "Treatment persistence drives estimator performance in longitudinal causal inference based on observational data: A simulation study",
+      "authors": [],
+      "abstract": "Longitudinal clinical data are increasingly available, offering opportunities to study treatment effects over time but also raising challenges related to time-varying confounding and evolving treatment decisions. We investigate how longitudinal treatment dynamics affect causal effect estimation when baseline and longitudinal methods target different causal estimands. Using a structural causal model (SCM), we simulate data with time-varying confounding, binary treatment, and an absorbing binary outcome under 9 scenarios combining functional complexity and treatment persistence. We compare three baseline and two longitudinal estimators against Monte Carlo ground-truth risk ratios (RRs) under sustained treatment regimes. Results show that treatment persistence is the main driver of estimator behaviour. High persistence reduces the discrepancy between baseline and sustained-regime estimands, making baseline estimators closer to the sustained-regime ground truth (average relative deviation of baseline IPTW/TMLE decreasing from 61% under low persistence to 10% under high persistence), whereas low persistence induces practical positivity challenges and increases the variability of longitudinal estimators, with empirical 95% interval widths increasing from 0.22 to 0.46 for longitudinal IPTW and from 0.20 to 0.36 for LTMLE when moving from high to low persistence. These findings emphasise that estimator performance should be interpreted jointly with the target intervention and the treatment process generating the observed data.",
+      "year": 2026,
+      "publication_date": "2026-09-04",
+      "paper_id": "66292c8c88fa7a3d45c238fd20100c265d3271d2",
+      "url": "https://www.semanticscholar.org/paper/66292c8c88fa7a3d45c238fd20100c265d3271d2",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
+      ]
+    },
+    {
       "title": "Use of a veterinary therapeutic renal diet in cats with early chronic kidney disease is associated with slower disease progression and improved survival.",
       "authors": [
         "Michael Coyne",
@@ -3869,11 +4050,11 @@
       "title": "XAI Based Early Menopause Detection using Super Learner and Discriminant Analysis",
       "authors": [
         "Mercy Paul Selvan",
-        "S. Sahana",
-        "D. KalaivaniS",
-        "S. Lekhana",
+        "S. D. Kalaivani",
         "Kalyani Parida",
-        "S. Prince"
+        "S. Sahana",
+        "Y. Sai Lekhana",
+        "S. Mary"
       ],
       "abstract": "The early detection of menopause is essential for ensuring women’s good health status. This paper presents an Explainable Artificial Intelligence-based machine learning approach for predicting the early onset of menopause using various types of data, including physiological, biochemical, psychological, lifestyle, and text information. The machine learning techniques we will apply include Linear Discriminant Analysis (LDA), Quadratic Discriminant Analysis (QDA), Random Forest (RF), and Super Learner (SL), because they account for complex relationships among features. The main biological and psychological characteristics taken into account in our research include weight fluctuations, anxiety disorders, irritability, insomnia, irregular menstrual periods, and hot flashes. Additionally, our study will cover biochemical markers including estrogen, follicle-stimulating hormone (FSH), and body mass index (BMI). Moreover, we will investigate the effects of smoking, drinking alcohol, and physical exercise. To select appropriate features, we will adopt the LASSO approach. To achieve model interpretability, the SHAP framework will be employed. SHAP stands for Shapley Additive Explanations, a method for interpreting machine learning model outputs based on feature contributions. We will evaluate the performance of our models in terms of accuracy, precision, recall, F1-score, and the Receiver Operating Characteristic (ROC) Area Under the Curve (AUC). The experimental results reveal the superiority of the Super Learner ensembles over single machine learning algorithms, thus illustrating the applicability of the ensemble learning approach for predicting early menopause onset. The experimental results show that the Explainable Artificial Intelligence approach is vital for making machine learning models more understandable and trustworthy for medical applications.",
       "year": 2026,
@@ -4069,9 +4250,9 @@
         "Tristan Struja",
         "N. Woite",
         "David Restrepo",
-        "A. K. Waschka",
-        "L. A. Celi",
-        "C. M. Sauer"
+        "A. Waschka",
+        "L. Celi",
+        "Christopher M. Sauer"
       ],
       "abstract": "The rise in cancer patients could lead to an increase in intensive care units (ICUs) admissions. We explored differences in treatment practices and outcomes of invasive therapies between patients with sepsis with and without cancer. Adults from 2008 to 2019 admitted to the ICU for sepsis were extracted from the databases MIMIC‐IV and eICU‐CRD. Using Extreme Gradient Boosting, we estimated the odds for invasive mechanical ventilation (IMV) or vasopressors. Targeted maximum likelihood estimation (TMLE) models estimated treatment effects of IMV and vasopressors on in‐hospital mortality and 28 hospital‐free days. 58,988 adult septic patients were included, of which 6145 had cancer. In‐hospital mortality was higher for cancer patients (30.3% vs. 16.1%). Patients with cancer had lower odds of receiving IMV (aOR [95%CI], 0.94 [0.90–0.97]); pronounced for hematologic patients (aOR 0.89 [0.84–0.93]). Odds for vasopressors were also lower for hematologic patients (aOR 0.89 [0.84–0.94]). TMLE models found IMV to be overall associated with higher in‐hospital mortality for solid and hematological patients (ATE 3% [1%–5%], 6% [3%–9%], respectively), while vasopressors were associated with higher in‐hospital mortality for patients with solid and metastatic cancer (ATE 6% [4%–8%], 3% [1%–6%], respectively). We utilized US‐wide ICU data to estimate a relationship between mortality and the use of common therapies. With the exception of hematologic patients being less likely to receive IMV, we did not find differential treatment patterns. We did not demonstrate an average survival benefit for therapies, underscoring the need for a more granular analysis to identify subgroups who benefit from these interventions.",
       "year": 2025,
@@ -4524,7 +4705,7 @@
         "Sky Qiu",
         "J. Tarp",
         "Andrew Mertens",
-        "M. V. D. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "Augmenting randomized controlled trials (RCTs) with external real-world data (RWD) has the potential to improve the finite sample efficiency of treatment effect estimators. We describe using adaptive targeted maximum likelihood estimation (A-TMLE) for estimating the average treatment effect (ATE) by decomposing the ATE estimand into two components: a pooled-ATE estimand that combines data from both the RCT and external sources, and a bias estimand that captures the conditional effect of RCT enrollment on the outcome. This approach views the RCT data as the reference and corrects for inconsistencies of any kind between the RCT and the external data source. Given the growing abundance of external RWD from modern electronic health records, determining the optimal strategy to select candidate external patients for data integration remains an open yet critical problem. In this work, we begin by studying the robustness property of the A-TMLE estimator and then propose a matching-based sampling strategy that attempts to improve the robustness of the estimator with respect to the target estimand. Our proposed strategy is outcome-blind and involves matching based on two one-dimensional scores: the trial enrollment score and the propensity score in the external data. We demonstrate in simulations that our sampling strategy improves the coverage and narrows the widths of confidence intervals produced by A-TMLE. We illustrate our method with a case study of augmenting the DEVOTE cardiovascular safety trial by using the Optum Clinformatics claims database.",
       "year": 2025,
@@ -5259,7 +5440,7 @@
         "Wenxin Zhang",
         "Junming Shi",
         "Alan Hubbard",
-        "M. V. D. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "Estimating the conditional mean function is a central task in statistical learning. In this paper, we consider estimation and inference for a nonparametric class of real-valued cadlag functions with bounded sectional variation (Gill et al., 1995), using the Highly Adaptive Lasso (HAL) (van der Laan, 2015; Benkeser and van der Laan, 2016; van der Laan, 2023), a flexible empirical risk minimizer over linear combinations of tensor products of zero- or higher-order spline basis functions under an L1 norm constraint. Building on recent theoretical advances in asymptotic normality and uniform convergence rates for higher-order spline HAL estimators, this work focuses on constructing robust confidence intervals for HAL-based estimators of conditional means. First, we propose a targeted HAL with a debiasing step to remove the regularization bias of the targeted conditional mean and also consider a relaxed HAL estimator to reduce such bias within the working model. Second, we propose both global and local undersmoothing strategies to adaptively enlarge the working model and further reduce bias relative to variance. Third, we combine these estimation strategies with delta-method-based variance estimators to construct confidence intervals for the conditional mean. Through extensive simulation studies, we evaluate different combinations of our estimation procedures, model selection strategies, and confidence-interval constructions. The results show that our proposed approaches substantially reduce bias relative to variance and yield confidence intervals with coverage rates close to nominal levels across different scenarios. Finally, we demonstrate the general applicability of our framework by estimating conditional average treatment effect (CATE) functions, highlighting how HAL-based inference methods extend to other infinite-dimensional, non-pathwise-differentiable parameters.",
       "year": 2025,
@@ -6654,7 +6835,7 @@
       "authors": [
         "L. Balzer",
         "M. J. van der Laan",
-        "Maya L Petersen"
+        "Maya L. Petersen"
       ],
       "abstract": "Covariate adjustment is an approach to improve the precision of trial analyses by adjusting for baseline variables that are prognostic of the primary endpoint. Motivated by the SEARCH Universal HIV Test-and-Treat Trial (2013–2017), we tell our story of developing, evaluating, and implementing a machine learning-based approach for covariate adjustment. We provide the rationale for as well as the practical concerns with such an approach for estimating marginal effects. Using schematics, we illustrate our procedure: targeted machine learning estimation (TMLE) with Adaptive Pre-specification. Briefly, sample-splitting is used to data-adaptively select the combination of estimators of the outcome regression (i.e. the conditional expectation of the outcome given the trial arm and covariates) and known propensity score (i.e. the conditional probability of being randomized to the intervention given the covariates) that minimizes the cross-validated variance estimate and, thereby, maximizes empirical efficiency. We discuss our approach for evaluating finite sample performance with parametric and plasmode simulations, pre-specifying the Statistical Analysis Plan, and unblinding in real-time on video conference with our colleagues from around the world. We present the results from applying our approach in the primary, pre-specified analysis of eight recently published trials (2022–2024). We conclude with practical recommendations and an invitation to implement our approach in the primary analysis of your next trial.",
       "year": 2025,
@@ -7674,9 +7855,9 @@
     {
       "title": "Score-Preserving Targeted Maximum Likelihood Estimation",
       "authors": [
-        "Noel Pimentel",
+        "N. Pimentel",
         "Alejandro Schuler",
-        "M. V. D. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "Targeted maximum likelihood estimators (TMLEs) are asymptotically optimal among regular, asymptotically linear estimators. In small samples, however, we may be far from\"asymptopia\"and not reap the benefits of optimality. Here we propose a variant (score-preserving TMLE; SP-TMLE) that leverages an initial estimator defined as the solution of a large number of possibly data-dependent score equations. Instead of targeting only the efficient influence function in the TMLE update to knock out the plug-in bias, we also target the already-solved scores. Solving additional scores reduces the remainder term in the von-Mises expansion of our estimator because these scores may come close to spanning higher-order influence functions. The result is an estimator with better finite-sample performance. We demonstrate our approach in simulation studies leveraging the (relaxed) highly adaptive lasso (HAL) as our initial estimator. These simulations show that in small samples SP-TMLE has reduced bias relative to plug-in HAL and reduced variance relative to vanilla TMLE, blending the advantages of the two approaches. We also observe improved estimation of standard errors in small samples.",
       "year": 2025,
@@ -7743,10 +7924,10 @@
       "authors": [
         "W. Hao",
         "A. Cathey",
-        "Max M Aung",
+        "Max Aung",
         "J. Boss",
         "J. Meeker",
-        "B. Mukherjee"
+        "Bhramar Mukherjee"
       ],
       "abstract": "Background: Quantitative characterization of the health impacts associated with exposure to chemical mixtures has received considerable attention in current environmental and epidemiological studies. With many existing statistical methods and emerging approaches, it is important for practitioners to understand which method is best suited for their inferential goals. Objective: The goal of this paper is to provide empirical simulation-based evidence regarding performance of mixture methods to help guide researchers on selecting the best available methods to address three scientific questions in mixtures analysis: identifying important components of a mixture, identifying interactions among mixture components, and creating a summary score for risk stratification and prediction. Methods: We conducted a review and comparison of 11 analytical methods available for use in mixtures research through extensive simulation studies for continuous and binary outcomes. In addition, we carried out an illustrative data analysis using the PROTECT birth cohort from Puerto Rico to examine the associations between exposure to chemical mixtures—metals, polycyclic aromatic hydrocarbons (PAHs), phthalates, and phenols—and birth outcomes. Results: Our simulation results suggest that the choice of methods depends on the goal of analysis and that there is no clear winner across the board. For selection of important toxicants in the mixtures and for identifying interactions, Elastic net (Enet) by Zou et al., Lasso for Hierarchical Interactions (HierNet) by Bien et al., and selection of nonlinear interactions by a forward stepwise algorithm (SNIF) by Narisetty et al. have the most stable performance across simulation settings. For overall summary or a cumulative measure, we find that using the Super Learner to combine multiple environmental risk scores can lead to improved risk stratification and prediction properties. Conclusions: We develop an integrated R package “CompMix” that provides a platform for mixtures analysis where the practitioners can implement a pipeline that includes several approaches for mixtures analysis. Our study offers guidelines for selecting appropriate statistical methods for addressing specific scientific questions related to mixtures research. We identify critical gaps where new and better methods are needed. https://doi.org/10.1289/EHP15305",
       "year": 2025,
@@ -9172,7 +9353,7 @@
         "Qing Huang",
         "Tongsen Luo",
         "Jirong Yang",
-        "Yaxin Lu",
+        "Ya-Xin Lu",
         "Shao-Li Zhou",
         "Ziqing Hei",
         "Chaojin Chen"
@@ -10225,7 +10406,7 @@
         "Junming Shi",
         "Wenxin Zhang",
         "Alan Hubbard",
-        "M. van der Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "Abstract Estimating and obtaining reliable inference for the marginally adjusted causal dose–response curve for continuous treatments without relying on parametric assumptions is a well-known statistical challenge. Parametric models risk introducing significant bias through model misspecification, compromising the accurate representation of the underlying data and dose–response relationship. On the other hand, nonparametric models face difficulties as the dose–response curve is not pathwise differentiable, preventing consistent estimation at standard rates and making the construction of confidence intervals challenging. The Highly Adaptive Lasso (HAL) maximum likelihood estimator offers a promising approach to this issue. In this paper, we introduce a HAL-based plug-in estimator for the causal dose–response curve, bridge between recent theoretical developments and empirical applications, and assess its empirical performance against other estimators. This work emphasizes the translation of existing HAL asymptotic theory to the causal dose–response setting and demonstrates its practical implications through comprehensive simulations, thereby filling an essential gap between theory and practice. Our comprehensive simulations demonstrate that the HAL-based estimator approaches pointwise asymptotic normality under the assumed smoothness conditions and yields confidence intervals that are consistently closer to nominal coverage than those of competing methods. While undercoverage can persist in more complex settings at moderate sample sizes, the HAL estimator consistently outperforms existing approaches for estimating the causal dose–response curve.",
       "year": 2024,
@@ -10694,9 +10875,9 @@
         "Yuxuan Li",
         "Mingduo Zhao",
         "Hiroyasu Iso",
-        "M. V. D. Laan"
+        "M. J. van der Laan"
       ],
-      "abstract": "We propose Deep Longitudinal Targeted Minimum Loss-based Estimation (Deep LTMLE), a novel approach to estimate the mean of counterfactual outcome under dynamic treatment policies in longitudinal problem settings. Our approach utilizes a transformer architecture with heterogeneous type embedding trained using temporal-difference learning. After obtaining an initial estimate using the transformer, following the targeted minimum loss-based likelihood estimation (TMLE) framework, we statistically corrected for the bias commonly associated with machine learning algorithms. Furthermore, our method also facilitates statistical inference by enabling the provision of 95% confidence intervals grounded in asymptotic statistical theory. Simulation results demonstrate our method's superior performance over existing approaches, particularly in complex, long time-horizon scenarios. It remains effective in small-sample, short-duration contexts, matching the performance of asymptotically efficient estimators. To demonstrate our method in practice, we applied our method to estimate counterfactual mean outcomes for standard versus intensive blood pressure management strategies in a real-world cardiovascular epidemiology cohort study.",
+      "abstract": "We propose Deep Longitudinal Targeted Minimum Loss-based Estimation (Deep LTMLE), a novel approach to estimate the mean of counterfactual outcome under dynamic treatment policies in longitudinal problem settings. Our approach utilizes a transformer architecture with heterogeneous type embedding trained using temporal-difference learning. After obtaining an initial estimate using the transformer, following the targeted minimum loss-based likelihood estimation (TMLE) framework, we statistically corrected for the bias commonly associated with machine learning algorithms. Furthermore, our method also facilitates statistical inference by enabling the provision of 95% confidence intervals grounded in asymptotic statistical theory. Simulation results demonstrate our method’s superior performance over existing approaches, particularly in complex, long time-horizon scenarios. It remains effective in small-sample, short-duration contexts, matching the performance of asymptotically efficient estimators. To demonstrate our method in practice, we applied our method to estimate counterfactual mean outcomes for standard versus intensive blood pressure management strategies in a real-world cardiovascular epidemiology cohort study.",
       "year": 2024,
       "publication_date": "2024-04-05",
       "paper_id": "55f81deb5e0a514ed075994a9b58d9adcbb45ecc",
@@ -10968,7 +11149,7 @@
       "title": "Nonparametric efficient causal estimation of the intervention-specific expected number of recurrent events with continuous-time targeted maximum likelihood and highly adaptive lasso estimation",
       "authors": [
         "H. Rytgaard",
-        "M. J. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "Longitudinal settings involving outcome, competing risks and censoring events occurring and recurring in continuous time are common in medical research, but are often analyzed with methods that do not allow for taking post-baseline information into account. In this work, we define statistical and causal target parameters via the g-computation formula by carrying out interventions directly on the product integral representing the observed data distribution in a continuous-time counting process model framework. In recurrent events settings our target parameter identifies the expected number of recurrent events also in settings where the censoring mechanism or post-baseline treatment decisions depend on past information of post-baseline covariates such as the recurrent event process. We propose a flexible estimation procedure based on targeted maximum likelihood estimation coupled with highly adaptive lasso estimation to provide a novel approach for double robust and nonparametric inference for the considered target parameter. We illustrate the methods in a simulation study.",
       "year": 2024,
@@ -11737,18 +11918,18 @@
     {
       "title": "SSRI Use During Acute COVID-19 Infection Associated with Lower Risk of Long COVID Among Patients with Depression",
       "authors": [
-        "Zachary Butzin-Dozier",
+        "Z. Butzin-Dozier",
         "Yunwen Ji",
         "Sarang Deshpande",
         "Eric Hurwitz",
-        "Jeremy Coyle",
+        "J. Coyle",
         "Junming Shi",
         "Andrew Mertens",
-        "M. V. D. Laan",
+        "M. J. van der Laan",
         "J. Colford",
-        "Rena C Patel",
-        "Alan E. Hubbard",
-        "-. O. B. O. T. N. C. C. Collaborative"
+        "Rena C. Patel",
+        "A. Hubbard",
+        "On Behalf Of The National Covid Cohort Collaborative"
       ],
       "abstract": "Background: Long COVID, also known as post-acute sequelae of COVID-19 (PASC), is a poorly understood condition with symptoms across a range of biological domains that often have debilitating consequences. Some have recently suggested that lingering SARS-CoV-2 virus in the gut may impede serotonin production and that low serotonin may drive many Long COVID symptoms across a range of biological systems. Therefore, selective serotonin reuptake inhibitors (SSRIs), which increase synaptic serotonin availability, may prevent or treat Long COVID. SSRIs are commonly prescribed for depression, therefore restricting a study sample to only include patients with depression can reduce the concern of confounding by indication. Methods: In an observational sample of electronic health records from patients in the National COVID Cohort Collaborative (N3C) with a COVID-19 diagnosis between September 1, 2021, and December 1, 2022, and pre-existing major depressive disorder, the leading indication for SSRI use, we evaluated the relationship between SSRI use at the time of COVID-19 infection and subsequent 12-month risk of Long COVID (defined by ICD-10 code U09.9). We defined SSRI use as a prescription for SSRI medication beginning at least 30 days before COVID-19 infection and not ending before COVID-19 infection. To minimize bias, we estimated the causal associations of interest using a nonparametric approach, targeted maximum likelihood estimation, to aggressively adjust for high-dimensional covariates. Results: We analyzed a sample (n = 506,903) of patients with a diagnosis of major depressive disorder before COVID-19 diagnosis, where 124,928 (25%) were using an SSRI. We found that SSRI users had a significantly lower risk of Long COVID compared to nonusers (adjusted causal relative risk 0.90, 95% CI (0.86, 0.94)). Conclusion: These findings suggest that SSRI use during COVID-19 infection may be protective against Long COVID, supporting the hypothesis that serotonin may be a key mechanistic biomarker of Long COVID.",
       "year": 2024,
@@ -12027,16 +12208,16 @@
       "authors": [
         "Stefanie Do",
         "Vanessa Didelez",
-        "C. Börnhorst",
+        "Claudia Börnhorst",
         "J. Coumans",
         "L. Reisch",
         "U. Danner",
         "P. Russo",
         "T. Veidebaum",
         "M. Tornaritis",
-        "Dénes Molnár",
+        "D. Molnár",
         "M. Hunsberger",
-        "S. de Henauw",
+        "Stefaan De Henauw",
         "Luis A. Moreno",
         "W. Ahrens",
         "A. Hebestreit"
@@ -13188,7 +13369,7 @@
         "P. Wesson",
         "Manjari Das",
         "Miao-Jung Chen",
-        "L. Hsu",
+        "Ling C. Hsu",
         "Willi McFarland",
         "Edward H. Kennedy",
         "Nicholas P. Jewell"
@@ -13276,7 +13457,7 @@
     {
       "title": "Higher Order Spline Highly Adaptive Lasso Estimators of Functional Parameters: Pointwise Asymptotic Normality and Uniform Convergence Rates",
       "authors": [
-        "M. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "We consider estimation of a functional of the data distribution based on i.i.d. observations. We assume the target function can be defined as the minimizer of the expectation of a loss function over a class of $d$-variate real valued cadlag functions that have finite sectional variation norm. For all $k=0,1,\\ldots$, we define a $k$-th order smoothness class of functions as $d$-variate functions on the unit cube for which each of a sequentially defined $k$-th order Radon-Nikodym derivative w.r.t. Lebesgue measure is cadlag and of bounded variation. For a target function in this $k$-th order smoothness class we provide a representation of the target function as an infinite linear combination of tensor products of $\\leq k$-th order spline basis functions indexed by a knot-point, where the lower (than $k$) order spline basis functions are used to represent the function at the $0$-edges. The $L_1$-norm of the coefficients represents the sum of the variation norms across all the $k$-th order derivatives, which is called the $k$-th order sectional variation norm of the target function. This generalizes the zero order spline representation of cadlag functions with bounded sectional variation norm to higher order smoothness classes. We use this $k$-th order spline representation of a function to define the $k$-th order spline sieve minimum loss estimator (MLE), Highly Adaptive Lasso (HAL) MLE, and Relax HAL-MLE. For first and higher order smoothness classes, in this article we analyze these three classes of estimators and establish pointwise asymptotic normality and uniform convergence at dimension free rate $n^{-k^*/(2k^*+1)}$ up till a power of $\\log n$ depending on the dimension, where $k^*=k+1$, assuming appropriate undersmoothing is used in selecting the $L_1$-norm. We also establish asymptotic linearity of plug-in estimators of pathwise differentiable features of the target function.",
       "year": 2023,
@@ -13802,7 +13983,7 @@
       "authors": [
         "I. Srivani",
         "M. Sridhar",
-        "K.C.T. Swamy",
+        "K. C. T. Swamy",
         "D. Venkata Ratnam"
       ],
       "abstract": "",
@@ -13825,9 +14006,9 @@
         "I. Malenica",
         "Rachael V. Phillips",
         "D. Lazzareschi",
-        "Jeremy Coyle",
+        "J. Coyle",
         "R. Pirracchio",
-        "M. J. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "We propose a novel, fully nonparametric approach for the multi-task learning, the Multi-task Highly Adaptive Lasso (MT-HAL). MT-HAL simultaneously learns features, samples and task associations important for the common model, while imposing a shared sparse structure among similar tasks. Given multiple tasks, our approach automatically finds a sparse sharing structure. The proposed MTL algorithm attains a powerful dimension-free convergence rate of $o_p(n^{-1/4})$ or better. We show that MT-HAL outperforms sparsity-based MTL competitors across a wide range of simulation studies, including settings with nonlinear and linear relationships, varying levels of sparsity and task correlations, and different numbers of covariates and sample size.",
       "year": 2023,
@@ -14737,11 +14918,11 @@
       "title": "Targeted maximum likelihood based estimation for longitudinal mediation analysis",
       "authors": [
         "Ze-Yu Wang",
-        "L. Laan",
+        "Lars van der Laan",
         "M. Petersen",
         "Thomas A. Gerds",
         "K. Kvist",
-        "M. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "Abstract Causal mediation analysis with random interventions has become an area of significant interest for understanding time-varying effects with longitudinal and survival outcomes. To tackle causal and statistical challenges due to the complex longitudinal data structure with time-varying confounders, competing risks, and informative censoring, there exists a general desire to combine machine learning techniques and semiparametric theory. In this article, we focus on targeted maximum likelihood estimation (TMLE) of longitudinal natural direct and indirect effects defined with random interventions. The proposed estimators are multiply robust, locally efficient, and directly estimate and update the conditional densities that factorize data likelihoods. We utilize the highly adaptive lasso (HAL) and projection representations to derive new estimators (HAL-EIC) of the efficient influence curves (EICs) of longitudinal mediation problems and propose a fast one-step TMLE algorithm using HAL-EIC while preserving the asymptotic properties. The proposed method can be generalized for other longitudinal causal parameters that are smooth functions of data likelihoods, and thereby provides a novel and flexible statistical toolbox.",
       "year": 2023,
@@ -14855,8 +15036,8 @@
     {
       "title": "The impact of disease changes and mental health illness on readapted return to work after repeated sick leaves among Brazilian public university employees",
       "authors": [
-        "Adriano Dias",
-        "H. R. C. Nunes",
+        "A. Dias",
+        "Hélio Rubens de Carvalho Nunes",
         "C. Ruiz-Frutos",
         "Juan Gómez-Salgado",
         "Melissa Spröesser Alonso",
@@ -15005,8 +15186,8 @@
         "Weijia Jin",
         "W. Hao",
         "Xu Shi",
-        "L. Fritsche",
-        "M. Salvatore",
+        "Lars G. Fritsche",
+        "Maxwell Salvatore",
         "A. Admon",
         "Christopher R. Friese",
         "B. Mukherjee"
@@ -15105,7 +15286,7 @@
       "title": "'haldensify': Highly adaptive lasso conditional density estimation in 'R'",
       "authors": [
         "N. Hejazi",
-        "M. J. Laan",
+        "M. J. van der Laan",
         "David C. Benkeser"
       ],
       "abstract": "The haldensify R package serves as a toolbox for nonparametric conditional density estimation based on the highly adaptive lasso, a flexible nonparametric algorithm for the estimation of functional statistical parameters (e.g., conditional mean, hazard, density). Building upon an earlier proposal (Dı́az & van der Laan, 2011), haldensify leverages the relationship between the hazard and density functions to estimate the latter by applying pooled hazard regression to a synthetic repeated measures dataset created from the input data, relying upon the framework of cross-validated loss-based estimation to yield an optimal estimator (Dudoit & van der Laan, 2005; van der Laan et al., 2004). While conditional density estimation is a fundamental problem in statistics, arising naturally in a variety of applications (including machine learning), it plays a critical role in estimating the causal effects of continuousor ordinal-valued treatments. In such settings this covariate-conditional treatment density has been termed the generalized propensity score (Hirano & Imbens, 2004; Imai & Van Dyk, 2004), and, like its analog for binary treatments (Rosenbaum & Rubin, 1983), serves as a key ingredient in developing both inverse probability weighted and doubly robust estimators of causal effects (Dı́az & van der Laan, 2012, 2018; Haneuse & Rotnitzky, 2013; Hejazi et al., 2022).",
@@ -16556,7 +16737,7 @@
         "M. Jassim",
         "G. Coskuner",
         "N. Sultana",
-        "S. Hossain"
+        "S. M. Zakir Hossain"
       ],
       "abstract": "Accurate prediction of domestic waste generation is a challenging task for municipalities to implement sustainable waste management strategies. In the present study, domestic waste generation in the Kingdom of Bahrain, representing a Small Island Developing State (SIDS) case study, has been investigated during successive COVID-19 lockdowns due to the pandemic in 2020. Temporal trends of daily domestic waste generation between 2019 and 2020 and their statistical analyses exhibited remarkable variations highlighting the impact of consecutive COVID-19 lockdowns on domestic waste generation. Machine learning has great potential for predicting solid waste generation rates, but only a few studies utilized deep learning approaches. The state-of-the-art Bidirectional Long Short-Term Memory (BiLSTM) network model as a deep learning method is applied to forecast daily domestic waste data in 2020. Bayesian optimization algorithm (BOA) was hybridized with BiLSTM to generate a super learner approach. The performance of the BOA-BiLSTM super learner model was further compared with the statistical ARIMA model. Performance indicators of the developed models using ARIMA and BiLSTM showed that the latter yielded superior performance for short-term forecasts of domestic waste generation. The MAE, RMSE, MAPE, and R2 were 47.38, 60.73, 256.43, and 0.46, respectively, for the ARIMA model, compared to 3.67, 12.57, 0.24, and 0.96, respectively, for the BiLSTM model. Additionally, the relative errors for the BiLSTM model were lower than those of the ARIMA model. This study highlights that the BiLSTM can be a reliable forecasting tool for solid waste management policymakers during public health emergencies.",
       "year": 2022,
@@ -17596,9 +17777,11 @@
       "title": "The Influence of Concomitant Hammertoe Correction on Postoperative Outcomes in Patients Undergoing Hallux Valgus Correction",
       "authors": [
         "Lavan Rajan",
+        "Jaeyoung Kim",
+        "Tonya W. An",
         "R. Fuller",
         "Jiaqi Zhu",
-        "Tonya W. An",
+        "S. Pinney",
         "Scott J. Ellis"
       ],
       "abstract": "Category: Bunion; Lesser Toes Introduction/Purpose: Patients with hallux valgus often develop secondary hammertoe deformities of the lesser toes. Chronic lateral deviation of the hallux leads to proximal interphalangeal joint flexion contracture, metatarsophalangeal joint subluxation and ultimately a cross-toe deformity. Operative management of bunions with hammertoe is more extensive since both the primary bunion deformity and the secondary defect have to be corrected simultaneously; however, it is unclear whether simultaneous bunion and hammertoe correction affects patient outcomes. The objective of this study was to compare postoperative patient reported outcomes using the patient-reported outcome measure information system (PROMIS) scores and radiographic outcomes between patients who underwent isolated bunion deformity correction and patients who underwent operative repair of hallux valgus with concomitant hammertoe correction. Methods: This retrospective cohort study included patients over the age of 18 who were treated operatively by 1 of 7 fellowship-trained foot and ankle surgeons for hallux valgus. Those with clinically symptomatic hammertoes were also corrected at the surgeon's discretion. All patients had minimum 1-year postoperative PROMIS scores and minimum 3-month postoperative radiographs. Preoperative, final postoperative and change in PROMIS scores from 6 domains (physical function, pain interference, pain intensity, global physical and mental health, and depression) were compared between the isolated bunion and bunion with hammertoe correction groups. Radiographic measurements compared between cohorts included hallux valgus angle (HVA), intermetatarsal angle (IMA), distal metatarsal-articular angle (DMAA), and Meary's angle. Radiographic parameters were measured on anteroposterior (AP) and lateral weightbearing radiographs. Statistical analysis utilized targeted minimum-loss estimation (TMLE) to control for confounders (age, gender, BMI). Results: A total of 221 patients (134 with isolated bunion correction, 87 with concomitant hammertoe correction) with an average of 19.2 months follow-up were included in this study. Demographically, patients in the concomitant hammertoe cohort were older than the isolated bunion group (58.5 vs 53.1, p<0.01) and had a higher BMI (24.8 vs 58.5, p<0.05). Both cohorts demonstrated improvement in all PROMIS domains except for global mental health and depression. The isolated bunion cohort had significantly better improvements in pain interference and pain intensity when compared to the concomitant hammertoe group (p<0.01, p<0.05 respectively) (Table 1). The isolated bunion cohort had lower postoperative pain interference scores (p<.01). Radiographically, the concomitant hammertoe group had a higher preoperative HVA than the isolated bunion group (30 vs 27.6, p<.05). There were no statistically significant differences between the two cohorts in postoperative radiographic parameters, in addition to the probability of achieving normal postoperative radiographic measures. Conclusion: Patients undergoing simultaneous bunion and hammertoe correction experienced worse postoperative outcomes measured by PROMIS pain interference, had significantly less improvement in PROMIS pain interference and pain intensity scores, and had more severe preoperative radiographic deformity when compared to those who underwent isolated bunion correction. The relationship between hallux valgus and hammertoe development should be considered when counseling patients for surgery. Patients with hallux valgus who show early signs of hammertoe formation such as second toe elevation or pain under the second metatarsal head may benefit from earlier bunion correction before the hammertoe progresses to the point of needing surgical management.",
@@ -18058,7 +18241,7 @@
       "title": "An Automated Machine Learning-Genetic Algorithm Framework With Active Learning for Design Optimization",
       "authors": [
         "Opeoluwa Owoyele",
-        "P. Pal",
+        "Pinaki Pal",
         "Alvaro Vidal Torreira"
       ],
       "abstract": "The use of machine learning (ML)-based surrogate models is a promising technique to significantly accelerate simulation-driven design optimization of internal combustion (IC) engines, due to the high computational cost of running computational fluid dynamics (CFD) simulations. However, training the ML models requires hyperparameter selection, which is often done using trial-and-error and domain expertise. Another challenge is that the data required to train these models are often unknown a priori. In this work, we present an automated hyperparameter selection technique coupled with an active learning approach to address these challenges. The technique presented in this study involves the use of a Bayesian approach to optimize the hyperparameters of the base learners that make up a super learner model. In addition to performing hyperparameter optimization (HPO), an active learning approach is employed, where the process of data generation using simulations, ML training, and surrogate optimization is performed repeatedly to refine the solution in the vicinity of the predicted optimum. The proposed approach is applied to the optimization of a compression ignition engine with control parameters relating to fuel injection, in-cylinder flow, and thermodynamic conditions. It is demonstrated that by automatically selecting the best values of the hyperparameters, a 1.6% improvement in merit value is obtained, compared to an improvement of 1.0% with default hyperparameters. Overall, the framework introduced in this study reduces the need for technical expertise in training ML models for optimization while also reducing the number of simulations needed for performing surrogate-based design optimization.",
@@ -18393,7 +18576,7 @@
       "authors": [
         "H. Rytgaard",
         "T. Gerds",
-        "M. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "This paper generalizes the targeted minimum loss-based estimation (TMLE) framework to allow for estimating the effects of time-varying interventions in settings where both interventions, covariates, and outcome can happen at subject-specific time-points on an arbitrarily fine time-scale. TMLE is a general template for constructing asymptotically linear substitution estimators for smooth low-dimensional parameters in infinite-dimensional models. Existing longitudinal TMLE methods are developed for data where observations are made on a discrete time-grid. We consider a continuous-time counting process model where intensity measures track the monitoring of subjects, and focus on a low-dimensional target parameter defined as the intervention-specific mean outcome at the end of follow-up. To construct our TMLE algorithm for the given statistical estimation problem we derive an expression for the efficient influence curve and represent the target parameter as a functional of intensities and conditional expectations. The high-dimensional nuisance parameters of our model are estimated and updated in an iterative manner according to separate targeting steps for the involved intensities and conditional expectations. The resulting estimator solves the efficient influence curve equation. We state a general efficiency theorem and describe a highly adaptive lasso estimator for nuisance parameters that allows us to establish asymptotic linearity and efficiency of our estimator under minimal conditions on the underlying statistical model.",
       "year": 2021,
@@ -19164,9 +19347,9 @@
     {
       "title": "Higher Order Targeted Maximum Likelihood Estimation",
       "authors": [
-        "M. Laan",
+        "M. J. van der Laan",
         "Ze-Yu Wang",
-        "L. Laan"
+        "Lars van der Laan"
       ],
       "abstract": "Asymptotic efficiency of targeted maximum likelihood estimators (TMLE) of target features of the data distribution relies on a a second order remainder being asymptotically negligible. In previous work we proposed a nonparametric MLE termed Highly Adaptive Lasso (HAL) which parametrizes the relevant functional of the data distribution in terms of a multivariate real valued cadlag function that is assumed to have finite variation norm. We showed that the HAL-MLE converges in Kullback-Leibler dissimilarity at a rate n-1/3 up till logn factors. Therefore, by using HAL as initial density estimator in the TMLE, the resulting HAL-TMLE is an asymptotically efficient estimator only assuming that the relevant nuisance functions of the data density are cadlag and have finite variation norm. However, in finite samples, the second order remainder can dominate the sampling distribution so that inference based on asymptotic normality would be anti-conservative. In this article we propose a new higher order TMLE, generalizing the regular first order TMLE. We prove that it satisfies an exact linear expansion, in terms of efficient influence functions of sequentially defined higher order fluctuations of the target parameter, with a remainder that is a k+1th order remainder. As a consequence, this k-th order TMLE allows statistical inference only relying on the k+1th order remainder being negligible. We also provide a rationale for the higher order TMLE that it will be superior to the first order TMLE by (iteratively) locally minimizing the exact finite sample remainder of the first order TMLE. The second order TMLE is demonstrated for nonparametric estimation of the integrated squared density and for the treatment specific mean outcome. We also provide an initial simulation study for the second order TMLE of the treatment specific mean confirming the theoretical analysis.",
       "year": 2021,
@@ -19376,7 +19559,7 @@
       "authors": [
         "M. Reilly",
         "Matthew S. Conti",
-        "J. Day",
+        "Jonathan D. Day",
         "A. MacMahon",
         "Bopha Chrea",
         "Kristin C. Caolo",
@@ -20081,7 +20264,7 @@
       "title": "The unintended impact of helmet use on bicyclists' risk-taking behaviors.",
       "authors": [
         "Lei Kang",
-        "A. Vij",
+        "Akshay Vij",
         "Alan Hubbard",
         "David Shaw"
       ],
@@ -20335,7 +20518,7 @@
         "Xiang Peng",
         "Zheng Liu",
         "Eric Li",
-        "Yafei Hu"
+        "Ya-Fei Hu"
       ],
       "abstract": "Abstract The health condition of infrastructure including water transmission and distribution mains has a great impact on the quality of human life. The performance of these water infrastructure is affected by the surrounding soil environment as well as the weather or climate changes. To investigate the structural response of water mains to varying soil movements, field data were collected with a sensor monitoring system. This included pipe wall strain in-situ soil water content, soil pressure, and temperature. Combined with weather factors, an automatic variable selection method, i.e., recursive feature elimination, was first applied to identify critical predictors contributing to pipe deformation. Then, a super learning algorithm was employed to characterize the relationship between pipe deformation and environmental factors. Both base and super learners were built to predict three types of pipe deformation which verified the adaptability of two modeling methods to different predictive models. Predictive performance was evaluated through R-squared, root-mean-square error, and mean absolute error values. The performance metrics demonstrate the advantage of the super learning algorithm in comparison with the baseline methods, especially its capability to further incorporate extra base learners and predictors in a more complex setting. This study shows that the pipe structure behavior could be successfully inferred from surrounding soil properties and weather conditions.",
       "year": 2020,
@@ -20642,7 +20825,7 @@
       "title": "Correcting the Hallux Valgus Deformity: A Comparison Between Modified Lapidus Procedure and Scarf Osteotomy",
       "authors": [
         "M. Reilly",
-        "J. Day",
+        "Jonathan D. Day",
         "A. MacMahon",
         "Kristin C. Caolo",
         "Bopha Chrea",
@@ -20806,8 +20989,8 @@
       "title": "hal9001: Scalable highly adaptive lasso regression in R",
       "authors": [
         "N. Hejazi",
-        "J. Coyle",
-        "M. Laan"
+        "Jeremy R. Coyle",
+        "M. J. van der Laan"
       ],
       "abstract": "The hal9001 R package provides a computationally efficient implementation of the highly adaptive lasso (HAL), a flexible nonparametric regression and machine learning algorithm endowed with several theoretically convenient properties. hal9001 pairs an implementation of this estimator with an array of practical variable selection tools and sensible defaults in order to improve the scalability of the algorithm. By building on existing R packages for lasso regression and leveraging compiled code in key internal functions, the hal9001 R package provides a family of highly adaptive lasso estimators suitable for use in both modern large-scale data analysis and cutting-edge research efforts at the intersection of statistics and machine learning, including the emerging subfield of computational causal inference (Wong, 2020).",
       "year": 2020,
@@ -20828,7 +21011,7 @@
       "authors": [
         "N. Hejazi",
         "David C. Benkeser",
-        "M. J. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "",
       "year": 2020,
@@ -20849,7 +21032,7 @@
       "authors": [
         "N. Hejazi",
         "David C. Benkeser",
-        "M. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "",
       "year": 2020,
@@ -20984,13 +21167,13 @@
     {
       "title": "Long-term effects of asthma medication on asthma symptoms: an application of the targeted maximum likelihood estimation",
       "authors": [
-        "Carolin Veit",
-        "R. Herrera",
+        "C. Veit",
+        "Ronald Herrera",
         "G. Weinmayr",
         "J. Genuneit",
         "D. Windstetter",
         "C. Vogelberg",
-        "E. von Mutius",
+        "Erika von Mutius",
         "D. Nowak",
         "K. Radon",
         "Jessica Gerlich",
@@ -21252,13 +21435,13 @@
         "A. Nardone",
         "K. Rudolph",
         "R. Morello-Frosch",
-        "J. Casey"
+        "Joan A. Casey"
       ],
       "abstract": "Introduction: Redlining, a racist mortgage appraisal practice of the 1930s, established and exacerbated racial residential segregation boundaries in the United States. Investment risk grades assigned >80y ago through security maps from the Home Owners’ Loan Corporation (HOLC) are associated with current sociodemographics and adverse health outcomes. We assessed whether historical HOLC investment grades are associated with 2010 greenspace, a health-promoting neighborhood resource. Objectives: We compared 2010 normalized difference vegetation index (NDVI) across previous HOLC neighborhood grades using propensity score restriction and matching. Methods: Security map shapefiles were downloaded from the Mapping Inequality Project. Neighborhood investment risk grades included A (best, green), B (blue), C (yellow), and D (hazardous, red, i.e., redlined). We used 2010 satellite imagery to calculate the average NDVI for each HOLC neighborhood. Our main outcomes were 2010 annual average NDVI and summer NDVI. We assigned areal-apportioned 1940 census measures to each HOLC neighborhood. We used propensity score restriction, matching, and targeted maximum likelihood estimation to limit model extrapolation, reduce confounding, and estimate the association between HOLC grade and NDVI for the following comparisons: Grades B vs. A, C vs. B, and D vs. C. Results: Across 102 urban areas (4,141 HOLC polygons), annual average ±standard deviation (SD) 2010 NDVI was 0.47 (±0.09), 0.43 (±0.09), 0.39 (±0.09), and 0.36 (±0.10) in Grades A–D, respectively. In analyses adjusted for current ecoregion and census region, 1940s census measures, and 1940s population density, annual average NDVI values in 2010 were estimated at −0.039 (95% CI: −0.045, −0.034), −0.024 (95% CI: −0.030, −0.018), and −0.026 (95% CI: −0.037, −0.015) for Grades B vs. A, C vs. B, and D vs. C, respectively, in the 1930s. Discussion: Estimates adjusted for historical characteristics indicate that neighborhoods assigned worse HOLC grades in the 1930s are associated with reduced present-day greenspace. https://doi.org/10.1289/EHP7495",
       "year": 2020,
       "publication_date": "2020-10-26",
-      "paper_id": "b937a65084374d54d28419941d85179f341190f8",
-      "url": "https://www.semanticscholar.org/paper/b937a65084374d54d28419941d85179f341190f8",
+      "paper_id": "6ad5aaae96b486d2def405ec919c06313cc18053",
+      "url": "https://www.semanticscholar.org/paper/6ad5aaae96b486d2def405ec919c06313cc18053",
       "venue": "Environmental Health Perspectives",
       "doi": "10.1289/EHP7495",
       "matched_keywords": [
@@ -21703,7 +21886,7 @@
     {
       "title": "The Scalable Highly Adaptive Lasso [R package hal9001 version 0.2.6]",
       "authors": [
-        "J. Coyle",
+        "Jeremy R. Coyle",
         "N. Hejazi",
         "M. J. van der Laan"
       ],
@@ -21943,7 +22126,7 @@
       "authors": [
         "Daloha Rodríguez-Molina",
         "Swaantje Barth",
-        "R. Herrera",
+        "Ronald Herrera",
         "C. Rossmann",
         "K. Radon",
         "V. Karnowski"
@@ -22356,7 +22539,7 @@
     {
       "title": "Estimating treatment importance in multidrug‐resistant tuberculosis using Targeted Learning: An observational individual patient data network meta‐analysis",
       "authors": [
-        "Guanbo Wang",
+        "Guan-Bo Wang",
         "M. Schnitzer",
         "D. Menzies",
         "P. Viiklepp",
@@ -22616,7 +22799,7 @@
         "Aurélien F. Bibaut",
         "I. Malenica",
         "N. Vlassis",
-        "M. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "We study the problem of off-policy evaluation (OPE) in Reinforcement Learning (RL), where the aim is to estimate the performance of a new policy given historical data that may have been generated by a different policy, or policies. In particular, we introduce a novel doubly-robust estimator for the OPE problem in RL, based on the Targeted Maximum Likelihood Estimation principle from the statistical causal inference literature. We also introduce several variance reduction techniques that lead to impressive performance gains in off-policy evaluation. We show empirically that our estimator uniformly wins over existing off-policy evaluation methods across multiple RL environments and various levels of model misspecification. Finally, we further the existing theoretical analysis of estimators for the RL off-policy estimation problem by showing their $O_P(1/\\sqrt{n})$ rate of convergence and characterizing their asymptotic distribution.",
       "year": 2019,
@@ -22636,7 +22819,7 @@
       "title": "Nonparametric Bootstrap Inference for the Targeted Highly Adaptive LASSO Estimator.",
       "authors": [
         "Weixin Cai",
-        "M. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "The Highly-Adaptive-LASSO Targeted Minimum Loss Estimator (HAL-TMLE) is an efficient plug-in estimator of a pathwise differentiable parameter in a statistical model that at minimal (and possibly only) assumes that the sectional variation norm of the true nuisance functional parameters (i.e., the relevant part of data distribution) are finite. It relies on an initial estimator (HAL-MLE) of the nuisance functional parameters by minimizing the empirical risk over the parameter space under the constraint that the sectional variation norm of the candidate functions are bounded by a constant, where this constant can be selected with cross-validation. In this article, we establish that the nonparametric bootstrap for the HAL-TMLE, fixing the value of the sectional variation norm at a value larger or equal than the cross-validation selector, provides a consistent method for estimating the normal limit distribution of the HAL-TMLE. In order to optimize the finite sample coverage of the nonparametric bootstrap confidence intervals, we propose a selection method for this sectional variation norm that is based on running the nonparametric bootstrap for all values of the sectional variation norm larger than the one selected by cross-validation, and subsequently determining a value at which the width of the resulting confidence intervals reaches a plateau. We demonstrate our method for 1) nonparametric estimation of the average treatment effect based on observing on each unit a covariate vector, binary treatment, and outcome, and for 2) nonparametric estimation of the integral of the square of the multivariate density of the data distribution. In addition, we also present simulation results for these two examples demonstrating the excellent finite sample coverage of bootstrap-based confidence intervals.",
       "year": 2019,
@@ -23047,7 +23230,7 @@
     {
       "title": "Unconventional natural gas development and adverse birth outcomes in Pennsylvania: the potential mediating role of antenatal anxiety and depression",
       "authors": [
-        "J. Casey",
+        "Joan A. Casey",
         "Dana E. Goin",
         "K. Rudolph",
         "B. Schwartz",
@@ -23138,7 +23321,7 @@
     {
       "title": "A Generally Efficient HAL-TMLE",
       "authors": [
-        "M. J. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "",
       "year": 2018,
@@ -23241,7 +23424,7 @@
     {
       "title": "C-TMLE for Continuous Tuning",
       "authors": [
-        "M. J. Laan",
+        "M. J. van der Laan",
         "A. Chambaz",
         "Cheng Ju"
       ],
@@ -23424,7 +23607,7 @@
     {
       "title": "CV-TMLE for Nonpathwise Differentiable Target Parameters",
       "authors": [
-        "M. Laan",
+        "M. J. van der Laan",
         "Aurélien F. Bibaut",
         "Alexander Luedtke"
       ],
@@ -23602,7 +23785,7 @@
     {
       "title": "Highly Adaptive Lasso (HAL)",
       "authors": [
-        "M. J. Laan",
+        "M. J. van der Laan",
         "David C. Benkeser"
       ],
       "abstract": "",
@@ -23651,7 +23834,7 @@
       "title": "Kernel Smoothing of the Treatment Effect CDF",
       "authors": [
         "Jonathan Levy",
-        "M. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "The strata-specific treatment effect or so-called blip for a randomly drawn strata of confounders defines a random variable and a corresponding cumulative distribution function. However, the CDF is not pathwise differentiable, necessitating a kernel smoothing approach to estimate it at a given point or perhaps many points. Assuming the CDF is continuous, we derive the efficient influence curve of the kernel smoothed version of the blip CDF and a CV-TMLE estimator. The estimator is asymptotically efficient under two conditions, one of which involves a second order remainder term which, in this case, shows us that knowledge of the treatment mechanism does not guarantee a consistent estimate. The remainder term also teaches us exactly how well we need to estimate the nuisance parameters (outcome model and treatment mechanism) to guarantee asymptotic efficiency. Through simulations we verify theoretical properties of the estimator and show the importance of machine learning over conventional regression approaches to fitting the nuisance parameters. We also derive the bias and variance of the estimator, the orders of which are analogous to a kernel density estimator. This estimator opens up the possibility of developing methodology for optimal choice of the kernel and bandwidth to form confidence bounds for the CDF itself.",
       "year": 2018,
@@ -23855,7 +24038,7 @@
       "title": "One-step Targeted Maximum Likelihood for Time-to-event Outcomes",
       "authors": [
         "Weixin Cai",
-        "M. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "Current targeted maximum likelihood estimation methods used to analyze time to event data estimates the survival probability for each time point separately, which result in estimates that are not necessarily monotone. In this paper, we present an extension of Targeted Maximum Likelihood Estimator (TMLE) for observational time to event data, the one-step Targeted Maximum Likelihood Estimator for the treatment- rule specific survival curve. We construct a one-dimensional universal least favorable submodel that targets the entire survival curve, and thereby requires minimal extra fitting with data to achieve its goal of solving the efficient influence curve equation. Through the use of a simulation study we will show that this method improves on previously proposed methods in both robustness and efficiency, and at the same time respects the monotone decreasing nature of the survival curve.",
       "year": 2018,
@@ -23876,8 +24059,8 @@
     {
       "title": "One-Step TMLE",
       "authors": [
-        "M. V. D. Laan",
-        "Wilson Cai",
+        "M. J. van der Laan",
+        "W. Cai",
         "Susan Gruber"
       ],
       "abstract": "",
@@ -24031,12 +24214,12 @@
     {
       "title": "Reassessing the Effectiveness of Right Heart Catheterization (RHC) in the Initial Care of Critically Ill Patients using Targeted Maximum Likelihood Estimation",
       "authors": [
-        "Zhu Hai",
+        "Hai Zhu",
         "A. Mary",
-        "Zhang Shuqin",
-        "P. JohnsonNils",
-        "Lai Dejian",
-        "Zhu Hongjian"
+        "Shu-Qing Zhang",
+        "Johnson Nils P",
+        "De-Jian Lai",
+        "Hong-Jian Zhu"
       ],
       "abstract": "Citation: Akosile M, Zhu H, Zhang S, Johnson NP, Lai D, et al. (2018) Reassessing the Effectiveness of Right Heart Catheterization (RHC) in the Initial Care of Critically Ill Patients using Targeted Maximum Likelihood Estimation. Int J Clin Biostat Biom 4:018. doi.org/10.23937/2469-5831/1510018 Accepted: July 26, 2018: Published: July 28, 2018 Copyright: © 2018 Akosile M, et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
       "year": 2018,
@@ -24695,9 +24878,9 @@
     {
       "title": "Estimating the Causal Impact of Proximity to Gold and Copper Mines on Respiratory Diseases in Chilean Children: An Application of Targeted Maximum Likelihood Estimation",
       "authors": [
-        "R. Herrera",
+        "Ronald Herrera",
         "U. Berger",
-        "Ondine S von Ehrenstein",
+        "O. V. von Ehrenstein",
         "I. Díaz",
         "S. Huber",
         "Daniel Moraga Muñoz",
@@ -24746,7 +24929,7 @@
     {
       "title": "Finite Sample Inference for Targeted Learning",
       "authors": [
-        "M. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "The Highly-Adaptive-Lasso(HAL)-TMLE is an efficient estimator of a pathwise differentiable parameter in a statistical model that at minimal (and possibly only) assumes that the sectional variation norm of the true nuisance parameters are finite. It relies on an initial estimator (HAL-MLE) of the nuisance parameters by minimizing the empirical risk over the parameter space under the constraint that sectional variation norm is bounded by a constant, where this constant can be selected with cross-validation. In the formulation of the HALMLE this sectional variation norm corresponds with the sum of absolute value of coefficients for an indicator basis. Due to its reliance on machine learning, statistical inference for the TMLE has been based on its normal limit distribution, thereby potentially ignoring a large second order remainder in finite samples. In this article, we present four methods for construction of a finite sample 0.95-confidence interval that use the nonparametric bootstrap to estimate the finite sample distribution of the HAL-TMLE or a conservative distribution dominating the true finite sample distribution. We prove that it consistently estimates the optimal normal limit distribution, while its approximation error is driven by the performance of the bootstrap for a well behaved empirical process. We demonstrate our general inferential methods for 1) nonparametric estimation of the average treatment effect based on observing on each unit a covariate vector, binary treatment, and outcome, and for 2) nonparametric estimation of the integral of the square of the multivariate density of the data distribution.",
       "year": 2017,
@@ -24828,7 +25011,7 @@
         "S. Lendle",
         "Joshua Schwab",
         "M. Petersen",
-        "M. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "In recent years, targeted minimum loss-based estimation methodology has been used to develop estimators of parameters in longitudinal data structures (Gruber and van der Laan 2012; Petersen, Schwab, Gruber, Blaser, Schomaker, and van der Laan 2014; Schnitzer, Moodie, van der Laan, Platt, and Klein 2013). These methods are implemented in the ltmle package for R. The ltmle package provides methods to estimate intervention-specific means and measures of association including the average treatment effect, causal odds ratio and causal risk ratio and parameters of a longitudinal working marginal structural model. The package allows for multiple time point treatments, time-varying covariates and right censoring of the outcome. In this paper we described the usage of the ltmle package and provide examples.",
       "year": 2017,
@@ -24970,8 +25153,8 @@
       "title": "Sequential Double Robustness in Right-Censored Longitudinal Models",
       "authors": [
         "Alexander Luedtke",
-        "Oleg Sofrygin",
-        "M. Laan",
+        "O. Sofrygin",
+        "M. J. van der Laan",
         "M. Carone"
       ],
       "abstract": "Consider estimating the G-formula for the counterfactual mean outcome under a given treatment regime in a longitudinal study. Bang and Robins provided an estimator for this quantity that relies on a sequential regression formulation of this parameter. This approach is doubly robust in that it is consistent if either the outcome regressions or the treatment mechanisms are consistently estimated. We define a stronger notion of double robustness, termed sequential double robustness, for estimators of the longitudinal G-formula. The definition emerges naturally from a more general definition of sequential double robustness for the outcome regression estimators. An outcome regression estimator is sequentially doubly robust (SDR) if, at each subsequent time point, either the outcome regression or the treatment mechanism is consistently estimated. This form of robustness is exactly what one would anticipate is attainable by studying the remainder term of a first-order expansion of the G-formula parameter. We show that a particular implementation of an existing procedure is SDR. We also introduce a novel SDR estimator, whose development involves a novel translation of ideas used in targeted minimum loss-based estimation to the infinite-dimensional setting.",
@@ -25319,7 +25502,7 @@
       "authors": [
         "E. LeDell",
         "M. J. van der Laan",
-        "Maya Peterson"
+        "Maya L. Petersen"
       ],
       "abstract": "Abstract Area Under the ROC Curve (AUC) is often used to measure the performance of an estimator in binary classification problems. An AUC-maximizing classifier can have significant advantages in cases where ranking correctness is valued or if the outcome is rare. In a Super Learner ensemble, maximization of the AUC can be achieved by the use of an AUC-maximining metalearning algorithm. We discuss an implementation of an AUC-maximization technique that is formulated as a nonlinear optimization problem. We also evaluate the effectiveness of a large number of different nonlinear optimization algorithms to maximize the cross-validated AUC of the ensemble fit. The results provide evidence that AUC-maximizing metalearners can, and often do, out-perform non-AUC-maximizing metalearning methods, with respect to ensemble AUC. The results also demonstrate that as the level of imbalance in the training data increases, the Super Learner ensemble outperforms the top base algorithm by a larger degree.",
       "year": 2016,
@@ -25373,7 +25556,7 @@
       "title": "Doubly Robust and Efficient Estimation of Marginal Structural Models for the Hazard Function",
       "authors": [
         "Wenjing Zheng",
-        "Maya L Petersen",
+        "Maya L. Petersen",
         "M. J. van der Laan"
       ],
       "abstract": "Abstract In social and health sciences, many research questions involve understanding the causal effect of a longitudinal treatment on mortality (or time-to-event outcomes in general). Often, treatment status may change in response to past covariates that are risk factors for mortality, and in turn, treatment status may also affect such subsequent covariates. In these situations, Marginal Structural Models (MSMs), introduced by Robins (1997. Marginal structural models Proceedings of the American Statistical Association. Section on Bayesian Statistical Science, 1–10), are well-established and widely used tools to account for time-varying confounding. In particular, a MSM can be used to specify the intervention-specific counterfactual hazard function, i. e. the hazard for the outcome of a subject in an ideal experiment where he/she was assigned to follow a given intervention on their treatment variables. The parameters of this hazard MSM are traditionally estimated using the Inverse Probability Weighted estimation Robins (1999. Marginal structural models versus structural nested models as tools for causal inference. In: Statistical models in epidemiology: the environment and clinical trials. Springer-Verlag, 1999:95–134), Robins et al. (2000), (IPTW, van der Laan and Petersen (2007. Causal effect models for realistic individualized treatment and intention to treat rules. Int J Biostat 2007;3:Article 3), Robins et al. (2008. Estimaton and extrapolation of optimal treatment and testing strategies. Statistics in Medicine 2008;27(23):4678–721)). This estimator is easy to implement and admits Wald-type confidence intervals. However, its consistency hinges on the correct specification of the treatment allocation probabilities, and the estimates are generally sensitive to large treatment weights (especially in the presence of strong confounding), which are difficult to stabilize for dynamic treatment regimes. In this paper, we present a pooled targeted maximum likelihood estimator (TMLE, van der Laan and Rubin (2006. Targeted maximum likelihood learning. The International Journal of Biostatistics 2006;2:1–40)) for MSM for the hazard function under longitudinal dynamic treatment regimes. The proposed estimator is semiparametric efficient and doubly robust, offering bias reduction over the incumbent IPTW estimator when treatment probabilities may be misspecified. Moreover, the substitution principle rooted in the TMLE potentially mitigates the sensitivity to large treatment weights in IPTW. We compare the performance of the proposed estimator with the IPTW and a on-targeted substitution estimator in a simulation study.",
@@ -25907,7 +26090,7 @@
         "Joshua Schwab",
         "S. Lendle",
         "M. Petersen",
-        "M. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "",
       "year": 2015,
@@ -26160,7 +26343,7 @@
       "title": "Adaptive pair-matching in randomized trials with unbiased and efficient effect estimation",
       "authors": [
         "L. B. Balzer",
-        "Maya L Petersen",
+        "Maya L. Petersen",
         "M. J. van der Laan"
       ],
       "abstract": "In randomized trials, pair‐matching is an intuitive design strategy to protect study validity and to potentially increase study power. In a common design, candidate units are identified, and their baseline characteristics used to create the best n/2 matched pairs. Within the resulting pairs, the intervention is randomized, and the outcomes measured at the end of follow‐up. We consider this design to be adaptive, because the construction of the matched pairs depends on the baseline covariates of all candidate units. As a consequence, the observed data cannot be considered as n/2 independent, identically distributed pairs of units, as common practice assumes. Instead, the observed data consist of n dependent units. This paper explores the consequences of adaptive pair‐matching in randomized trials for estimation of the average treatment effect, conditional the baseline covariates of the n study units. By avoiding estimation of the covariate distribution, estimators of this conditional effect will often be more precise than estimators of the marginal effect. We contrast the unadjusted estimator with targeted minimum loss based estimation and show substantial efficiency gains from matching and further gains with adjustment. This work is motivated by the Sustainable East Africa Research in Community Health study, an ongoing community randomized trial to evaluate the impact of immediate and streamlined antiretroviral therapy on HIV incidence in rural East Africa. Copyright © 2014 John Wiley & Sons, Ltd.",
@@ -26204,7 +26387,7 @@
         "H. Leslie",
         "D. Karasek",
         "L. F. Harris",
-        "Emily G Chang",
+        "Emily G. Chang",
         "N. Abdulrahim",
         "May Maloba",
         "M. Huchko"
@@ -26474,7 +26657,7 @@
     {
       "title": "Targeted learning: From MLE to TMLE",
       "authors": [
-        "M. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "",
       "year": 2014,
@@ -26789,7 +26972,7 @@
       "title": "A General Implementation of TMLE for Longitudinal Data Applied to Causal Inference in Survival Analysis",
       "authors": [
         "Ori Stitelman",
-        "V. De Gruttola",
+        "Victor De Gruttola",
         "M. J. van der Laan"
       ],
       "abstract": "",
@@ -26832,7 +27015,7 @@
       "title": "Application of Targeted Maximum Likelihood Estimation to the Meta-Analysis of Safety Data",
       "authors": [
         "Susan Gruber",
-        "M. J. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "",
       "year": 2012,
@@ -27051,7 +27234,7 @@
       "authors": [
         "M. Carone",
         "M. Petersen",
-        "M. J. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "",
       "year": 2012,
@@ -27131,7 +27314,7 @@
       "title": "C-TMLE for Time-to-Event Outcomes",
       "authors": [
         "Ori Stitelman",
-        "M. J. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "",
       "year": 2011,
@@ -27151,7 +27334,7 @@
       "title": "C-TMLE of an Additive Point Treatment Effect",
       "authors": [
         "Susan Gruber",
-        "M. J. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "",
       "year": 2011,
@@ -27171,7 +27354,7 @@
       "title": "Dimension reduction with gene expression data using targeted variable importance measurement",
       "authors": [
         "Hui Wang",
-        "M. J. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "BackgroundWhen a large number of candidate variables are present, a dimension reduction procedure is usually conducted to reduce the variable space before the subsequent analysis is carried out. The goal of dimension reduction is to find a list of candidate genes with a more operable length ideally including all the relevant genes. Leaving many uninformative genes in the analysis can lead to biased estimates and reduced power. Therefore, dimension reduction is often considered a necessary predecessor of the analysis because it can not only reduce the cost of handling numerous variables, but also has the potential to improve the performance of the downstream analysis algorithms.ResultsWe propose a TMLE-VIM dimension reduction procedure based on the variable importance measurement (VIM) in the frame work of targeted maximum likelihood estimation (TMLE). TMLE is an extension of maximum likelihood estimation targeting the parameter of interest. TMLE-VIM is a two-stage procedure. The first stage resorts to a machine learning algorithm, and the second step improves the first stage estimation with respect to the parameter of interest.ConclusionsWe demonstrate with simulations and data analyses that our approach not only enjoys the prediction power of machine learning algorithms, but also accounts for the correlation structures among variables and therefore produces better variable rankings. When utilized in dimension reduction, TMLE-VIM can help to obtain the shortest possible list with the most truly associated variables.",
       "year": 2011,
@@ -27192,8 +27375,8 @@
     {
       "title": "Foundations of TMLE",
       "authors": [
-        "M. J. Laan",
-        "Sherri Rose"
+        "M. J. van der Laan",
+        "S. Rose"
       ],
       "abstract": "",
       "year": 2011,
@@ -27258,7 +27441,7 @@
         "J. Sekhon",
         "Susan Gruber",
         "Kristin E. Porter",
-        "M. J. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "",
       "year": 2011,
@@ -27383,13 +27566,13 @@
       "authors": [
         "C. Tuglus",
         "Kristin E. Porter",
-        "M. J. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "",
       "year": 2011,
       "publication_date": null,
-      "paper_id": "df0a5d064790041c356c1ad154a69f0159ff7875",
-      "url": "https://www.semanticscholar.org/paper/df0a5d064790041c356c1ad154a69f0159ff7875",
+      "paper_id": "0acc2d6289a5f238fd0e6c035da5806eea368342",
+      "url": "https://www.semanticscholar.org/paper/0acc2d6289a5f238fd0e6c035da5806eea368342",
       "venue": null,
       "doi": null,
       "matched_keywords": [
@@ -27510,7 +27693,7 @@
       "title": "TMLE in Adaptive Group Sequential Covariate-Adjusted RCTs",
       "authors": [
         "A. Chambaz",
-        "M. J. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "",
       "year": 2011,
@@ -27594,7 +27777,7 @@
       "title": "Simple Examples of Estimating Causal Effects Using Targeted Maximum Likelihood Estimation",
       "authors": [
         "Michael Rosenblum",
-        "M. J. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "",
       "year": 2010,
@@ -27737,7 +27920,7 @@
       "title": "Covariate adjustment in randomized trials with binary outcomes: Targeted maximum likelihood estimation",
       "authors": [
         "Kelly L. Moore",
-        "M. V. D. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "Covariate adjustment using linear models for continuous outcomes in randomized trials has been shown to increase efficiency and power over the unadjusted method in estimating the marginal effect of treatment. However, for binary outcomes, investigators generally rely on the unadjusted estimate as the literature indicates that covariate‐adjusted estimates based on the logistic regression models are less efficient. The crucial step that has been missing when adjusting for covariates is that one must integrate/average the adjusted estimate over those covariates in order to obtain the marginal effect. We apply the method of targeted maximum likelihood estimation (tMLE) to obtain estimators for the marginal effect using covariate adjustment for binary outcomes. We show that the covariate adjustment in randomized trials using the logistic regression models can be mapped, by averaging over the covariate(s), to obtain a fully robust and efficient estimator of the marginal effect, which equals a targeted maximum likelihood estimator. This tMLE is obtained by simply adding a clever covariate to a fixed initial regression. We present simulation studies that demonstrate that this tMLE increases efficiency and power over the unadjusted method, particularly for smaller sample sizes, even when the regression model is mis‐specified. Copyright © 2008 John Wiley & Sons, Ltd.",
       "year": 2009,
@@ -27759,7 +27942,7 @@
       "authors": [
         "B. Arnold",
         "B. Arana",
-        "D. Mäusezahl",
+        "Daniel Mäusezahl",
         "A. Hubbard",
         "J. Colford"
       ],
@@ -27865,7 +28048,7 @@
       "title": "tmleLite: A simplified R package for targeted maximum likelihood estimation",
       "authors": [
         "Susan Gruber",
-        "M. J. Laan"
+        "M. J. van der Laan"
       ],
       "abstract": "",
       "year": 2009,
@@ -27884,14 +28067,14 @@
     {
       "title": "A Guide to Causal Parameters in Case-Control Designs: Targeted Maximum Likelihood Estimation",
       "authors": [
-        "Sherri Rose",
-        "M. J. Laan"
+        "S. Rose",
+        "M. J. van der Laan"
       ],
       "abstract": "",
       "year": 2008,
       "publication_date": null,
-      "paper_id": "7077353ec1430aa2d22a67724c471ac8d5afeeba",
-      "url": "https://www.semanticscholar.org/paper/7077353ec1430aa2d22a67724c471ac8d5afeeba",
+      "paper_id": "4622a9677e76ed2bb9062dbc88018e9a14a9366a",
+      "url": "https://www.semanticscholar.org/paper/4622a9677e76ed2bb9062dbc88018e9a14a9366a",
       "venue": null,
       "doi": null,
       "matched_keywords": [

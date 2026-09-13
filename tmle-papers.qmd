@@ -7,17 +7,17 @@ Auto-updated list of TMLE-related papers tracked from Semantic Scholar queries.
 
 _Note: this list is not complete and may include irrelevant articles; it will be refined over time._
 
-Last refreshed: 2026-09-04T15:05:29Z
+Last refreshed: 2026-09-13T00:56:56Z
 
 Keywords queried: tmle, targeted maximum likelihood estimation, targeted minimum loss based estimation, super learner, super learning, highly adaptive lasso
 
-Total tracked papers: **1143**
+Total tracked papers: **1148**
 
 <!-- monthly-chart:start -->
 
 ## Yearly Papers Trend
 
-Number of papers per year from **2006** to **2025** (coverage: **976/1143** papers with year metadata in range).
+Number of papers per year from **2006** to **2025** (coverage: **976/1148** papers with year metadata in range).
 
 ```{=html}
 <style>
@@ -134,7 +134,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
 <div class="contrib-bars-wrap">
   <div class="contrib-bars">
     <div class="contrib-item top" title="Mark van der Laan (the godfather himself): 207 papers"><div class="contrib-count"><span>207</span></div><div class="contrib-bar" style="height:260.00px"></div><div class="contrib-label"><span>Mark van der Laan (the godfather himself)</span></div></div>
-    <div class="contrib-item" title="Maya L. Petersen: 54 papers"><div class="contrib-count"><span>54</span></div><div class="contrib-bar" style="height:67.83px"></div><div class="contrib-label"><span>Maya L. Petersen</span></div></div>
+    <div class="contrib-item" title="Maya L. Petersen: 55 papers"><div class="contrib-count"><span>55</span></div><div class="contrib-bar" style="height:69.08px"></div><div class="contrib-label"><span>Maya L. Petersen</span></div></div>
     <div class="contrib-item" title="Laura B. Balzer: 44 papers"><div class="contrib-count"><span>44</span></div><div class="contrib-bar" style="height:55.27px"></div><div class="contrib-label"><span>Laura B. Balzer</span></div></div>
     <div class="contrib-item" title="Susan Gruber: 40 papers"><div class="contrib-count"><span>40</span></div><div class="contrib-bar" style="height:50.24px"></div><div class="contrib-label"><span>Susan Gruber</span></div></div>
     <div class="contrib-item" title="Alan E. Hubbard: 36 papers"><div class="contrib-count"><span>36</span></div><div class="contrib-bar" style="height:45.22px"></div><div class="contrib-label"><span>Alan E. Hubbard</span></div></div>
@@ -157,7 +157,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Christian Torp-Pedersen: 12 papers"><div class="contrib-count"><span>12</span></div><div class="contrib-bar" style="height:15.07px"></div><div class="contrib-label"><span>Christian Torp-Pedersen</span></div></div>
     <div class="contrib-item" title="Eric C. Polley: 12 papers"><div class="contrib-count"><span>12</span></div><div class="contrib-bar" style="height:15.07px"></div><div class="contrib-label"><span>Eric C. Polley</span></div></div>
     <div class="contrib-item" title="Ivana Malenica: 11 papers"><div class="contrib-count"><span>11</span></div><div class="contrib-bar" style="height:13.82px"></div><div class="contrib-label"><span>Ivana Malenica</span></div></div>
-    <div class="contrib-item" title="Jeremy R Coyle: 11 papers"><div class="contrib-count"><span>11</span></div><div class="contrib-bar" style="height:13.82px"></div><div class="contrib-label"><span>Jeremy R Coyle</span></div></div>
+    <div class="contrib-item" title="Jeremy R. Coyle: 11 papers"><div class="contrib-count"><span>11</span></div><div class="contrib-bar" style="height:13.82px"></div><div class="contrib-label"><span>Jeremy R. Coyle</span></div></div>
     <div class="contrib-item" title="Mohammad Ehsanul Karim: 11 papers"><div class="contrib-count"><span>11</span></div><div class="contrib-bar" style="height:13.82px"></div><div class="contrib-label"><span>Mohammad Ehsanul Karim</span></div></div>
     <div class="contrib-item" title="Oleg Sofrygin: 11 papers"><div class="contrib-count"><span>11</span></div><div class="contrib-bar" style="height:13.82px"></div><div class="contrib-label"><span>Oleg Sofrygin</span></div></div>
     <div class="contrib-item" title="Robert W Platt: 11 papers"><div class="contrib-count"><span>11</span></div><div class="contrib-bar" style="height:13.82px"></div><div class="contrib-label"><span>Robert W Platt</span></div></div>
@@ -193,6 +193,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Lina M. Montoya: 7 papers"><div class="contrib-count"><span>7</span></div><div class="contrib-bar" style="height:8.79px"></div><div class="contrib-label"><span>Lina M. Montoya</span></div></div>
     <div class="contrib-item" title="M. Carone: 7 papers"><div class="contrib-count"><span>7</span></div><div class="contrib-bar" style="height:8.79px"></div><div class="contrib-label"><span>M. Carone</span></div></div>
     <div class="contrib-item" title="Michael Rosenblum: 7 papers"><div class="contrib-count"><span>7</span></div><div class="contrib-bar" style="height:8.79px"></div><div class="contrib-label"><span>Michael Rosenblum</span></div></div>
+    <div class="contrib-item" title="Weixin Cai: 7 papers"><div class="contrib-count"><span>7</span></div><div class="contrib-bar" style="height:8.79px"></div><div class="contrib-label"><span>Weixin Cai</span></div></div>
     <div class="contrib-item" title="A. Anzalone: 6 papers"><div class="contrib-count"><span>6</span></div><div class="contrib-bar" style="height:7.54px"></div><div class="contrib-label"><span>A. Anzalone</span></div></div>
     <div class="contrib-item" title="A. Owaraganise: 6 papers"><div class="contrib-count"><span>6</span></div><div class="contrib-bar" style="height:7.54px"></div><div class="contrib-label"><span>A. Owaraganise</span></div></div>
     <div class="contrib-item" title="Alexander Luedtke: 6 papers"><div class="contrib-count"><span>6</span></div><div class="contrib-bar" style="height:7.54px"></div><div class="contrib-label"><span>Alexander Luedtke</span></div></div>
@@ -209,7 +210,6 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="P. Yazdanfard: 6 papers"><div class="contrib-count"><span>6</span></div><div class="contrib-bar" style="height:7.54px"></div><div class="contrib-label"><span>P. Yazdanfard</span></div></div>
     <div class="contrib-item" title="Ronald J. Wong: 6 papers"><div class="contrib-count"><span>6</span></div><div class="contrib-bar" style="height:7.54px"></div><div class="contrib-label"><span>Ronald J. Wong</span></div></div>
     <div class="contrib-item" title="U. Pedersen-Bjergaard: 6 papers"><div class="contrib-count"><span>6</span></div><div class="contrib-bar" style="height:7.54px"></div><div class="contrib-label"><span>U. Pedersen-Bjergaard</span></div></div>
-    <div class="contrib-item" title="Weixin Cai: 6 papers"><div class="contrib-count"><span>6</span></div><div class="contrib-bar" style="height:7.54px"></div><div class="contrib-label"><span>Weixin Cai</span></div></div>
     <div class="contrib-item" title="Wenxin Zhang: 6 papers"><div class="contrib-count"><span>6</span></div><div class="contrib-bar" style="height:7.54px"></div><div class="contrib-label"><span>Wenxin Zhang</span></div></div>
     <div class="contrib-item" title="Anders Munch: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.28px"></div><div class="contrib-label"><span>Anders Munch</span></div></div>
     <div class="contrib-item" title="Benjamin F. Arnold: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.28px"></div><div class="contrib-label"><span>Benjamin F. Arnold</span></div></div>
@@ -231,6 +231,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Kajsa Kvist: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.28px"></div><div class="contrib-label"><span>Kajsa Kvist</span></div></div>
     <div class="contrib-item" title="Karla Diaz-Ordaz: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.28px"></div><div class="contrib-label"><span>Karla Diaz-Ordaz</span></div></div>
     <div class="contrib-item" title="Krzysztof Mnich: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.28px"></div><div class="contrib-label"><span>Krzysztof Mnich</span></div></div>
+    <div class="contrib-item" title="Lars van der Laan: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.28px"></div><div class="contrib-label"><span>Lars van der Laan</span></div></div>
     <div class="contrib-item" title="M. Kumar: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.28px"></div><div class="contrib-label"><span>M. Kumar</span></div></div>
     <div class="contrib-item" title="M. P. Andersen: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.28px"></div><div class="contrib-label"><span>M. P. Andersen</span></div></div>
     <div class="contrib-item" title="Margarita Moreno-Betancur: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.28px"></div><div class="contrib-label"><span>Margarita Moreno-Betancur</span></div></div>
@@ -248,8 +249,8 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Yohann Foucher: 5 papers"><div class="contrib-count"><span>5</span></div><div class="contrib-bar" style="height:6.28px"></div><div class="contrib-label"><span>Yohann Foucher</span></div></div>
     <div class="contrib-item" title="Alan S. Go: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.02px"></div><div class="contrib-label"><span>Alan S. Go</span></div></div>
     <div class="contrib-item" title="Amir Almasi-Hashiani: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.02px"></div><div class="contrib-label"><span>Amir Almasi-Hashiani</span></div></div>
-    <div class="contrib-item" title="B. Mukherjee: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.02px"></div><div class="contrib-label"><span>B. Mukherjee</span></div></div>
     <div class="contrib-item" title="B. Zareini: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.02px"></div><div class="contrib-label"><span>B. Zareini</span></div></div>
+    <div class="contrib-item" title="Bhramar Mukherjee: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.02px"></div><div class="contrib-label"><span>Bhramar Mukherjee</span></div></div>
     <div class="contrib-item" title="Carina Marquez: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.02px"></div><div class="contrib-label"><span>Carina Marquez</span></div></div>
     <div class="contrib-item" title="Catherine J. Lee: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.02px"></div><div class="contrib-label"><span>Catherine J. Lee</span></div></div>
     <div class="contrib-item" title="Chansoo Kim: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.02px"></div><div class="contrib-label"><span>Chansoo Kim</span></div></div>
@@ -285,7 +286,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Rachel Abbott: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.02px"></div><div class="contrib-label"><span>Rachel Abbott</span></div></div>
     <div class="contrib-item" title="Ronald C Kessler: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.02px"></div><div class="contrib-label"><span>Ronald C Kessler</span></div></div>
     <div class="contrib-item" title="Ronald Herrera: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.02px"></div><div class="contrib-label"><span>Ronald Herrera</span></div></div>
-    <div class="contrib-item" title="S. Zakir Hossain: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.02px"></div><div class="contrib-label"><span>S. Zakir Hossain</span></div></div>
+    <div class="contrib-item" title="S. M. Zakir Hossain: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.02px"></div><div class="contrib-label"><span>S. M. Zakir Hossain</span></div></div>
     <div class="contrib-item" title="Serpil Kılıç Depren: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.02px"></div><div class="contrib-label"><span>Serpil Kılıç Depren</span></div></div>
     <div class="contrib-item" title="Seyed Saeed Hashemi Nazari: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.02px"></div><div class="contrib-label"><span>Seyed Saeed Hashemi Nazari</span></div></div>
     <div class="contrib-item" title="Stephen P Luby: 4 papers"><div class="contrib-count"><span>4</span></div><div class="contrib-bar" style="height:5.02px"></div><div class="contrib-label"><span>Stephen P Luby</span></div></div>
@@ -343,8 +344,9 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Georgia D. Tomaras: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Georgia D. Tomaras</span></div></div>
     <div class="contrib-item" title="Guillaume Barbalat: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Guillaume Barbalat</span></div></div>
     <div class="contrib-item" title="Gustavo G Nascimento: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Gustavo G Nascimento</span></div></div>
-    <div class="contrib-item" title="Helio Rubens Nunes: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Helio Rubens Nunes</span></div></div>
+    <div class="contrib-item" title="Hai Zhu: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Hai Zhu</span></div></div>
     <div class="contrib-item" title="Hui Wang: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Hui Wang</span></div></div>
+    <div class="contrib-item" title="Hélio Rubens de Carvalho Nunes: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Hélio Rubens de Carvalho Nunes</span></div></div>
     <div class="contrib-item" title="Ian R. White: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Ian R. White</span></div></div>
     <div class="contrib-item" title="J. Alderden: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>J. Alderden</span></div></div>
     <div class="contrib-item" title="J. B. Velotta: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>J. B. Velotta</span></div></div>
@@ -373,7 +375,6 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Kook-Hwan Oh: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Kook-Hwan Oh</span></div></div>
     <div class="contrib-item" title="Kyra Gan: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Kyra Gan</span></div></div>
     <div class="contrib-item" title="L. Amusa: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>L. Amusa</span></div></div>
-    <div class="contrib-item" title="L. Laan: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>L. Laan</span></div></div>
     <div class="contrib-item" title="L.-C. Wang: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>L.-C. Wang</span></div></div>
     <div class="contrib-item" title="Lauren Eyler Dang: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Lauren Eyler Dang</span></div></div>
     <div class="contrib-item" title="Liangyuan Hu: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Liangyuan Hu</span></div></div>
@@ -435,7 +436,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Yan Liu: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yan Liu</span></div></div>
     <div class="contrib-item" title="Yang Liu: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yang Liu</span></div></div>
     <div class="contrib-item" title="Yaning Feng: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yaning Feng</span></div></div>
-    <div class="contrib-item" title="Yichen Xu: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yichen Xu</span></div></div>
+    <div class="contrib-item" title="Yi-Chen Xu: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yi-Chen Xu</span></div></div>
     <div class="contrib-item" title="Yining Lu: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yining Lu</span></div></div>
     <div class="contrib-item" title="Yixin Fang: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yixin Fang</span></div></div>
     <div class="contrib-item" title="Yun Jung Oh: 3 papers"><div class="contrib-count"><span>3</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yun Jung Oh</span></div></div>
@@ -462,6 +463,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="A. Mira: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>A. Mira</span></div></div>
     <div class="contrib-item" title="A. Moltó: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>A. Moltó</span></div></div>
     <div class="contrib-item" title="A. Møller: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>A. Møller</span></div></div>
+    <div class="contrib-item" title="A. P. Singh: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>A. P. Singh</span></div></div>
     <div class="contrib-item" title="A. Rahimi Foroushani: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>A. Rahimi Foroushani</span></div></div>
     <div class="contrib-item" title="A. Rivera: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>A. Rivera</span></div></div>
     <div class="contrib-item" title="A. Yang: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>A. Yang</span></div></div>
@@ -504,12 +506,10 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Bruce A. Levy: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Bruce A. Levy</span></div></div>
     <div class="contrib-item" title="Bryan A. Comstock: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Bryan A. Comstock</span></div></div>
     <div class="contrib-item" title="C. Achenbach: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>C. Achenbach</span></div></div>
-    <div class="contrib-item" title="C. Börnhorst: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>C. Börnhorst</span></div></div>
     <div class="contrib-item" title="C. Chute: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>C. Chute</span></div></div>
     <div class="contrib-item" title="C. Cordeiro: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>C. Cordeiro</span></div></div>
     <div class="contrib-item" title="C. Howe: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>C. Howe</span></div></div>
     <div class="contrib-item" title="C. Leyrat: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>C. Leyrat</span></div></div>
-    <div class="contrib-item" title="C. M. Sauer: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>C. M. Sauer</span></div></div>
     <div class="contrib-item" title="C. Moccia: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>C. Moccia</span></div></div>
     <div class="contrib-item" title="C. Musahl: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>C. Musahl</span></div></div>
     <div class="contrib-item" title="C. Pizzi: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>C. Pizzi</span></div></div>
@@ -530,9 +530,11 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Chris J. Kennedy: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Chris J. Kennedy</span></div></div>
     <div class="contrib-item" title="Christoffer Sejling: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Christoffer Sejling</span></div></div>
     <div class="contrib-item" title="Christopher L. Camp: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Christopher L. Camp</span></div></div>
+    <div class="contrib-item" title="Christopher M. Sauer: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Christopher M. Sauer</span></div></div>
     <div class="contrib-item" title="Chuandi Jin: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Chuandi Jin</span></div></div>
     <div class="contrib-item" title="Chuizheng Meng: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Chuizheng Meng</span></div></div>
     <div class="contrib-item" title="Chung-Chou H. Chang: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Chung-Chou H. Chang</span></div></div>
+    <div class="contrib-item" title="Claudia Börnhorst: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Claudia Börnhorst</span></div></div>
     <div class="contrib-item" title="Cosmas Zyambo: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Cosmas Zyambo</span></div></div>
     <div class="contrib-item" title="Cristian C. Serrano-Mayorga: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Cristian C. Serrano-Mayorga</span></div></div>
     <div class="contrib-item" title="D. Azrael: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>D. Azrael</span></div></div>
@@ -606,7 +608,6 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Geraldine M. Clarke: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Geraldine M. Clarke</span></div></div>
     <div class="contrib-item" title="Getachew Semegn: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Getachew Semegn</span></div></div>
     <div class="contrib-item" title="Gilmer Valdes: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Gilmer Valdes</span></div></div>
-    <div class="contrib-item" title="Guanbo Wang: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Guanbo Wang</span></div></div>
     <div class="contrib-item" title="Guangye He: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Guangye He</span></div></div>
     <div class="contrib-item" title="Guiqian 贵乾 Sun 孙: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Guiqian 贵乾 Sun 孙</span></div></div>
     <div class="contrib-item" title="H. Bonneau-Chloup: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>H. Bonneau-Chloup</span></div></div>
@@ -619,7 +620,6 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="H. Tsai: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>H. Tsai</span></div></div>
     <div class="contrib-item" title="H. Yonis: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>H. Yonis</span></div></div>
     <div class="contrib-item" title="Hadeel El-Muzaini: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Hadeel El-Muzaini</span></div></div>
-    <div class="contrib-item" title="Hai Zhu: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Hai Zhu</span></div></div>
     <div class="contrib-item" title="Hamdan Mustafa Hamdan Ali: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Hamdan Mustafa Hamdan Ali</span></div></div>
     <div class="contrib-item" title="Hao Sun: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Hao Sun</span></div></div>
     <div class="contrib-item" title="Haolin Li: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Haolin Li</span></div></div>
@@ -635,12 +635,12 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="I. C. Williams: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>I. C. Williams</span></div></div>
     <div class="contrib-item" title="I. Khan: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>I. Khan</span></div></div>
     <div class="contrib-item" title="I. Martín-Loeches: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>I. Martín-Loeches</span></div></div>
+    <div class="contrib-item" title="I. Sarkar: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>I. Sarkar</span></div></div>
     <div class="contrib-item" title="Ismaïl Ahmed: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Ismaïl Ahmed</span></div></div>
     <div class="contrib-item" title="Iv&#x27;an D&#x27;iaz: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Iv&#x27;an D&#x27;iaz</span></div></div>
     <div class="contrib-item" title="Iván Díaz Muñoz: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Iván Díaz Muñoz</span></div></div>
     <div class="contrib-item" title="J. Bassett: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>J. Bassett</span></div></div>
     <div class="contrib-item" title="J. Cappelleri: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>J. Cappelleri</span></div></div>
-    <div class="contrib-item" title="J. Day: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>J. Day</span></div></div>
     <div class="contrib-item" title="J. Ellen: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>J. Ellen</span></div></div>
     <div class="contrib-item" title="J. Erlen: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>J. Erlen</span></div></div>
     <div class="contrib-item" title="J. Frey: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>J. Frey</span></div></div>
@@ -686,6 +686,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="John L. Gore: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>John L. Gore</span></div></div>
     <div class="contrib-item" title="John P. Mickley: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>John P. Mickley</span></div></div>
     <div class="contrib-item" title="Jon Steingrimsson: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Jon Steingrimsson</span></div></div>
+    <div class="contrib-item" title="Jonathan D. Day: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Jonathan D. Day</span></div></div>
     <div class="contrib-item" title="Jonathan L. Wright: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Jonathan L. Wright</span></div></div>
     <div class="contrib-item" title="Josep Gómez: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Josep Gómez</span></div></div>
     <div class="contrib-item" title="Joy Zora Nakato: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Joy Zora Nakato</span></div></div>
@@ -730,7 +731,6 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="L. Cushing: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>L. Cushing</span></div></div>
     <div class="contrib-item" title="L. Degenhardt: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>L. Degenhardt</span></div></div>
     <div class="contrib-item" title="L. Gama: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>L. Gama</span></div></div>
-    <div class="contrib-item" title="L. Hsu: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>L. Hsu</span></div></div>
     <div class="contrib-item" title="L. Macleod: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>L. Macleod</span></div></div>
     <div class="contrib-item" title="L. Mariani: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>L. Mariani</span></div></div>
     <div class="contrib-item" title="L. Richiardi: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>L. Richiardi</span></div></div>
@@ -741,7 +741,6 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Lang Zeng: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Lang Zeng</span></div></div>
     <div class="contrib-item" title="Lara Lewis: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Lara Lewis</span></div></div>
     <div class="contrib-item" title="Larry G Kessler: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Larry G Kessler</span></div></div>
-    <div class="contrib-item" title="Lars van der Laan: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Lars van der Laan</span></div></div>
     <div class="contrib-item" title="Laura C Myers: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Laura C Myers</span></div></div>
     <div class="contrib-item" title="Lauren D. Liao: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Lauren D. Liao</span></div></div>
     <div class="contrib-item" title="Lawrence Corey: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Lawrence Corey</span></div></div>
@@ -750,6 +749,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Lin Ma: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Lin Ma</span></div></div>
     <div class="contrib-item" title="Lin-Chiun Wang: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Lin-Chiun Wang</span></div></div>
     <div class="contrib-item" title="Lindsay N. Carpp: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Lindsay N. Carpp</span></div></div>
+    <div class="contrib-item" title="Ling C. Hsu: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Ling C. Hsu</span></div></div>
     <div class="contrib-item" title="Ling Zhang: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Ling Zhang</span></div></div>
     <div class="contrib-item" title="Lirong Wang: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Lirong Wang</span></div></div>
     <div class="contrib-item" title="Lu Wang: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Lu Wang</span></div></div>
@@ -805,7 +805,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Melissa A. Haendel: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Melissa A. Haendel</span></div></div>
     <div class="contrib-item" title="Menglan Pang: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Menglan Pang</span></div></div>
     <div class="contrib-item" title="Michael A Horberg: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Michael A Horberg</span></div></div>
-    <div class="contrib-item" title="Milena Maule: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Milena Maule</span></div></div>
+    <div class="contrib-item" title="Milena M. Maule: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Milena M. Maule</span></div></div>
     <div class="contrib-item" title="Mingxun Wang: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Mingxun Wang</span></div></div>
     <div class="contrib-item" title="Mohammed Saied Aly: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Mohammed Saied Aly</span></div></div>
     <div class="contrib-item" title="Momenul Haque Mondol: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Momenul Haque Mondol</span></div></div>
@@ -817,13 +817,13 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="N. Gandhi: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>N. Gandhi</span></div></div>
     <div class="contrib-item" title="N. Hamzehpour: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>N. Hamzehpour</span></div></div>
     <div class="contrib-item" title="N. Mitra: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>N. Mitra</span></div></div>
+    <div class="contrib-item" title="N. Pimentel: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>N. Pimentel</span></div></div>
     <div class="contrib-item" title="Nancy Reynolds: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Nancy Reynolds</span></div></div>
     <div class="contrib-item" title="Neal D. Shore: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Neal D. Shore</span></div></div>
     <div class="contrib-item" title="Nebal S. Abu Hussein: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Nebal S. Abu Hussein</span></div></div>
     <div class="contrib-item" title="Nerissa Nance: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Nerissa Nance</span></div></div>
     <div class="contrib-item" title="Nicole L. Yates: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Nicole L. Yates</span></div></div>
     <div class="contrib-item" title="Nicole Sutter: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Nicole Sutter</span></div></div>
-    <div class="contrib-item" title="Noel Pimentel: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Noel Pimentel</span></div></div>
     <div class="contrib-item" title="Nuno Sepúlveda: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Nuno Sepúlveda</span></div></div>
     <div class="contrib-item" title="Nur Hani Zainal: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Nur Hani Zainal</span></div></div>
     <div class="contrib-item" title="O. Hyrien: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>O. Hyrien</span></div></div>
@@ -832,6 +832,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Opeoluwa Owoyele: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Opeoluwa Owoyele</span></div></div>
     <div class="contrib-item" title="Oscar Silva: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Oscar Silva</span></div></div>
     <div class="contrib-item" title="P. Buchwald: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>P. Buchwald</span></div></div>
+    <div class="contrib-item" title="P. Chakraborty: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>P. Chakraborty</span></div></div>
     <div class="contrib-item" title="P. Chappell: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>P. Chappell</span></div></div>
     <div class="contrib-item" title="P. Cislo: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>P. Cislo</span></div></div>
     <div class="contrib-item" title="P. Clare: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>P. Clare</span></div></div>
@@ -840,7 +841,6 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="P. Hlavacek: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>P. Hlavacek</span></div></div>
     <div class="contrib-item" title="P. Matthiessen: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>P. Matthiessen</span></div></div>
     <div class="contrib-item" title="P. Neuvial: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>P. Neuvial</span></div></div>
-    <div class="contrib-item" title="P. Pal: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>P. Pal</span></div></div>
     <div class="contrib-item" title="P. Pradhan: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>P. Pradhan</span></div></div>
     <div class="contrib-item" title="P. Zhu 朱: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>P. Zhu 朱</span></div></div>
     <div class="contrib-item" title="P. Zivich: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>P. Zivich</span></div></div>
@@ -853,6 +853,7 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Philippa Musoke: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Philippa Musoke</span></div></div>
     <div class="contrib-item" title="Piero Fariselli: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Piero Fariselli</span></div></div>
     <div class="contrib-item" title="Pietro Ravani: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Pietro Ravani</span></div></div>
+    <div class="contrib-item" title="Pinaki Pal: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Pinaki Pal</span></div></div>
     <div class="contrib-item" title="Pratik Choudhary: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Pratik Choudhary</span></div></div>
     <div class="contrib-item" title="Qammer H. Abbasi: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Qammer H. Abbasi</span></div></div>
     <div class="contrib-item" title="Qiang 强 Tao 陶: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Qiang 强 Tao 陶</span></div></div>
@@ -971,7 +972,6 @@ Bars show contributors with at least 2 papers, sorted left to right by paper cou
     <div class="contrib-item" title="Y. Interian: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Y. Interian</span></div></div>
     <div class="contrib-item" title="Y. Natkunam: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Y. Natkunam</span></div></div>
     <div class="contrib-item" title="Y. Zhao: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Y. Zhao</span></div></div>
-    <div class="contrib-item" title="Yafei Hu: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yafei Hu</span></div></div>
     <div class="contrib-item" title="Yeonpyeong Jo: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yeonpyeong Jo</span></div></div>
     <div class="contrib-item" title="Yifan Hu: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yifan Hu</span></div></div>
     <div class="contrib-item" title="Yihao Liu: 2 papers"><div class="contrib-count"><span>2</span></div><div class="contrib-bar" style="height:4.00px"></div><div class="contrib-label"><span>Yihao Liu</span></div></div>
@@ -1014,7 +1014,90 @@ Papers are grouped by publication year. Expand a year to browse papers. Only pap
 .paper-year > .paper-item > summary { cursor: pointer; }
 </style>
 <details class="paper-year">
-  <summary><strong>2026 (156 papers)</strong></summary>
+  <summary><strong>2026 (161 papers)</strong></summary>
+
+<details class="paper-item">
+  <summary><strong>2026-09-07 — A global dataset of immigration flow composition by age, sex and educational attainment</strong></summary>
+
+<p>
+<strong>Authors</strong>: Unknown<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-09-07<br>
+<strong>Venue</strong>: Scientific Data<br>
+<strong>DOI</strong>: 10.1038/s41597-026-07969-8<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/8ff4303b42f9835e779ab43e7cbef900dede2cdb">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: super learner, super learning
+</p>
+<p><strong>Abstract</strong>:<br>
+People at different ages and with different educational background have different migration patterns. However, international migration flows by age and educational attainment are scarce and not always comparable. We use a super learning algorithm with multiple initial models to estimate age and education composition of male and female immigrants for 199 countries over six five-year periods from 1990–1995 to 2015–2020. We access the performance of our approach through cross-validation and comparing initial learners with the super learner algorithm using multiple evaluation metrics. We also compare our age composition estimates against equivalent measures from Eurostat. The estimates indicate that while the proportion of immigration flows with higher education increase in all regions, Europe has the highest immigration flow with secondary or higher education.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2026-09-04 — Treatment persistence drives estimator performance in longitudinal causal inference based on observational data: A simulation study</strong></summary>
+
+<p>
+<strong>Authors</strong>: Unknown<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-09-04<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/66292c8c88fa7a3d45c238fd20100c265d3271d2">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: tmle
+</p>
+<p><strong>Abstract</strong>:<br>
+Longitudinal clinical data are increasingly available, offering opportunities to study treatment effects over time but also raising challenges related to time-varying confounding and evolving treatment decisions. We investigate how longitudinal treatment dynamics affect causal effect estimation when baseline and longitudinal methods target different causal estimands. Using a structural causal model (SCM), we simulate data with time-varying confounding, binary treatment, and an absorbing binary outcome under 9 scenarios combining functional complexity and treatment persistence. We compare three baseline and two longitudinal estimators against Monte Carlo ground-truth risk ratios (RRs) under sustained treatment regimes. Results show that treatment persistence is the main driver of estimator behaviour. High persistence reduces the discrepancy between baseline and sustained-regime estimands, making baseline estimators closer to the sustained-regime ground truth (average relative deviation of baseline IPTW/TMLE decreasing from 61% under low persistence to 10% under high persistence), whereas low persistence induces practical positivity challenges and increases the variability of longitudinal estimators, with empirical 95% interval widths increasing from 0.22 to 0.46 for longitudinal IPTW and from 0.20 to 0.36 for LTMLE when moving from high to low persistence. These findings emphasise that estimator performance should be interpreted jointly with the target intervention and the treatment process generating the observed data.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2026-09-04 — Estimating the effect of very low nicotine content cigarettes on abstinence by menthol status using novel statistical methods: A reanalysis of a randomized trial in an experimental marketplace with alternative nicotine systems.</strong></summary>
+
+<p>
+<strong>Authors</strong>: Unknown<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-09-04<br>
+<strong>Venue</strong>: Nicotine &amp; Tobacco Research<br>
+<strong>DOI</strong>: 10.1093/ntr/ntag200<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/29d0b548b9c5fffecd17b8c10e4b9c84bbd38e69">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: super learner
+</p>
+<p><strong>Abstract</strong>:<br>
+INTRODUCTION Very low nicotine content (VLNC) cigarettes have been proposed to reduce cigarette consumption. However, previous studies were not adequately powered to analyze the effects of VLNC cigarettes on abstinence, especially within subpopulations (e.g., people who smoke (PWS) menthol cigarettes). Here, we developed and applied two statistical approaches to address these power limitations in analyses stratified by menthol status. METHODS Using data from a recent randomized trial of VLNC cigarettes available within an experimental marketplace with alternative nicotine delivery systems (ANDS), we estimated the treatment effect on abstinence stratified by menthol status. Two novel methods leveraged secondary endpoints (total nicotine equivalents, NNAL) to improve efficiency: the multiple endpoint multisource exchangeability model (ME-MEM) and the super learner structural equation model (SL-SEM). RESULTS Among 206 PWS menthol cigarettes, VLNC cigarettes were estimated to increase the probability of abstinence by 11.3 percentage points (95% credible interval: 4.7-19.6) using the ME-MEM and 18.4 percentage points using the SL-SEM (95% confidence interval: 7.7-27.0), increasing precision by 46% and 12%, respectively. For 232 PWS non-menthol cigarettes, the ME-MEM estimated an increase of 10.2 percentage points (95% credible interval: 2.3-17.3) and the SL-SEM estimated an increase of 8.1 percentage points (95% confidence interval: -1.0-13.2), increasing precision by 35% and 99%, respectively. CONCLUSIONS In the presence of ANDS, randomization to VLNC cigarettes increases the probability of abstinence for PWS menthol cigarettes and may increase the probability of abstinence for PWS non-menthol cigarettes. Methods that leverage secondary endpoints may improve precision when conventional methods are underpowered.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2026-09-03 — A Scalable Biological Clock for Metabolic Disease Prediction from the Phenome India Cohort</strong></summary>
+
+<p>
+<strong>Authors</strong>: P. Tiwari, M. Garg, S. Pattanayak, I. Sarkar, R. Roy, N. Bhatraju, A. Verma, S. R. K, S. Prakash, V. S. Kumar, M. A. Uddin, N. Rawat, A. Sahu, Y. Kumar, P. H. Leuva, A. Mridha, V. Yenamandra, A. P. Singh, A. Mishra, S. Raychaudhuri, K. B. Tallapaka, G. Chandak, M. Kulkarni, M. Dharne, R. Wahengbam, J. Kalita, P. Manna, U. Subudhi, S. Majumder, P. Chakraborty, K. Chaudhary, S. Sengupta, Phenome India Consortium, V. Sardana, S. Chatterjee, D. Ganguly<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-09-03<br>
+<strong>Venue</strong>: medRxiv<br>
+<strong>DOI</strong>: 10.64898/2026.08.29.26361656<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/a11494473eef7bd39aac06eb06d377db6dc178af">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: super learner
+</p>
+<p><strong>Abstract</strong>:<br>
+Background: India has a rising incidence of chronic non-communicable diseases, making it a major healthcare burden today. Growing evidence suggests that chronic low-grade inflammation links ageing with cardiometabolic disorders, captured by the emerging concept of inflammaging. However, most evidence on biological ageing comes from Western populations, with no similar models developed for the Indian population. Given the country&#x27;s distinctive genetic makeup, unique exposome, and heterogeneous NCD presentation, Western models may not capture inflammaging and its effects in the Indian population. Methods: We analysed baseline data from 4,240 adults in the Phenome India CSIR Health Cohort Knowledgebase (PI CheCK), a nationwide multi-centre cohort. Participants were stratified into eight cardiometabolic phenotype groups by BMI (Asian cut off), blood pressure and HbA1c status. We trained a Super Learner ensemble to predict chronological age in the lean normotensive-normoglycaemic reference group (n=615) using 44 plasma cytokines, sex, haemoglobin, and bioimpedance-derived visceral fat area, per cent body fat, and total body water. Performance was assessed by repeated five-fold cross-validation and in a held-out healthy test set. Calibrated biological age acceleration was then estimated in the remaining 3,625 participants. Results: Median age was 51.0 years (IQR 41.0 to 62.0) and 49.4% were female. The Super Learner outperformed elastic net and XGBoost comparators. Permutation importance identified visceral fat area, per cent body fat, CTACK, SDF1a, haemoglobin and sex as leading contributors, with body composition measures accounting for the largest share, indicating an immune-metabolic rather than cytokine-only signal. Biological age acceleration was concentrated in overweight/obese phenotypes. Lean phenotypes showed acceleration close to the reference (0.32 0.50 years). Conclusions: Cytokine and body composition measures capture a quantifiable immunometabolic ageing signal in a South Asian cohort, with acceleration driven predominantly by adiposity. External validation and longitudinal follow up are required.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2026-09-01 — Sweetening the Odds: Can Newer Glucose-Lowering Drugs Bend the Arc of Epileptogenesis?</strong></summary>
+
+<p>
+<strong>Authors</strong>: Ifrah Zawar<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-09-01<br>
+<strong>Venue</strong>: Epilepsy Currents<br>
+<strong>DOI</strong>: 10.1177/15357597261484442<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/f9a0b24de8238f22a4f6631a9ec18f3c12e6c0d4">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: targeted maximum likelihood estimation, tmle
+</p>
+<p><strong>Abstract</strong>:<br>
+Sodium-Glucose Cotransporter 2 Inhibitors and the Risk of Late Onset Epilepsy: A Real-World Cohort Study Lin BH, Huang HM, Lin HA, Lin SF. Epilepsia. 2026;67(7):3444–3456. doi:10.1002/epi.70239. Objective: Late onset epilepsy (LOE) is associated with substantial morbidity. Sodium-glucose cotransporter 2 inhibitors (SGLT2i) may exert neuroprotective effects. This study evaluated the association between SGLT2i and risk of LOE among older adults with type 2 diabetes mellitus. Methods: This retrospective cohort study was conducted between 2013 and 2025 with a 3-year follow-up using the TriNetX global network. Patients ≥ 60 years old with type 2 diabetes mellitus were classified into two cohorts—new SGLT2i users and new dipeptidyl peptidase-4 inhibitors users—following a 6-month washout of other antihyperglycemic agents except metformin. Patients with major neurological diseases or contraindications to SGLT2i were excluded. Propensity score matching was used to balance baseline characteristics between two cohorts. The primary outcomes were incident LOE, status epilepticus, and initiation of antiseizure medications. Unadjusted Cox proportional hazards models were applied to estimate hazard ratios (HRs) and 95% confidence interval (CIs). Results: A total of 1435648 patients were identified. After matching, 60203 patients were included in the SGLT2i cohort (mean age = 67.7 years, 42.3% female) and 60203 in the control cohort (mean age = 67.7 years, 41.7% female). SGLT2i use was associated with lower risk of LOE (HR = .55, 95% CI = .44–.68), status epilepticus (HR = .38, 95% CI = .21–.69), and antiseizure medication initiation (HR = .63, 95% CI = .58–.69). SGLT2i reduced LOE risk in patients with stroke (HR = .69, 95% CI = .42–.88) and dementia (HR = .44, 95% CI = .25–.78) but not in those with traumatic brain injury or brain tumors. Significance: SGLT2i use was associated with reduced risk of LOE among selected patients, supporting its role in an etiology-specific therapeutic approach for older adults at risk of epilepsy. Semaglutide and Risk of Adult-Onset Seizure: A Target Trial Emulation Eun Y, Bong S, Koh HY, Trousdale RK, Cho YM, Jang Y, Lee ST. Neurology. 2026 Jul 14;107(1):e218174. doi: 10.1212/WNL.0000000000218174. Epub 2026 Jun 17. PMID: 42308439; PMCID: PMC13278381. Background and objectives: Adult-onset seizure reflects the burden of acquired brain insults, but established disease-modifying preventive strategies are limited. We evaluated whether semaglutide initiation is associated with a lower incidence of adult-onset seizure compared with sodium-glucose cotransporter 2 inhibitors (SGLT2i) and other glucose-lowering drugs (GLDs) in adults with type 2 diabetes. Methods: Using the All of Us Research Program, we emulated a population-based target trial in new-user, active-comparator cohorts from January 2018 to October 2023. We compared semaglutide vs other GLDs and semaglutide vs SGLT2i. Incident epilepsy or seizure was identified from diagnostic codes. Effects were estimated using inverse probability of treatment weighting with weighted Cox models and targeted maximum likelihood estimation (TMLE). Subgroup and sensitivity analyses with multiple outcome definitions and analytic approaches were conducted to assess the robustness of findings. We evaluated mediation through hemoglobin A1c (HbA1c) and body mass index (BMI) using the longitudinal Vansteelandt framework. Results: We analyzed 10,213 patients in the semaglutide (n = 2,586, mean age, 60.1 years; 56.8% female) vs other GLDs cohort (n = 7,627, mean age, 63.7 years; 54.2% female) and 8,605 patients in the semaglutide (n = 2,814, mean age, 60.5 years; 66.2% female) vs SGLT2i cohort (n = 5,791, mean age, 64.4 years; 47.3% female). Semaglutide was associated with a lower risk of adult-onset seizure compared with other GLDs (weighted HR 0.44 [95% CI 0.25-0.79]; 4-year risk difference -1.78% [95% CI -2.58 to -0.98]) and SGLT2i (weighted HR 0.48 [95% CI 0.27-0.85]; 4-year risk difference -1.46% [95% CI -2.41 to -0.51]). TMLE estimated risk differences per 1,000 persons of -14.20 (95% CI -18.33 to -10.07) vs other GLDs and -7.62 (95% CI -11.65 to -3.60) vs SGLT2i, corresponding to numbers needed to treat of 70 and 131, respectively. Mediation was minimal for HbA1c (2.4% vs other GLDs; 6.5% vs SGLT2i) and BMI (0% vs other GLDs; 0.7% vs SGLT2i). Discussion: Semaglutide initiation was associated with a lower risk of adult-onset seizure compared with SGLT2i and other GLDs in patients with type 2 diabetes, independent of glycemic and weight effects. Residual confounding, low event counts, and shorter follow-up limit causal interpretation. Classification of evidence: This study provides Class II evidence that semaglutide use was associated with a lower risk of adult-onset seizures compared with other GLDs and SGLT2i.
+</p>
+</details>
 
 <details class="paper-item">
   <summary><strong>2026-08-31 — Multifidelity Computer Model Emulation Via Diffusion Model Steering and Targeted Maximum Likelihood</strong></summary>
@@ -1384,7 +1467,7 @@ For decades, the bootstrap has been a default tool for statistical inference bec
   <summary><strong>2026-07-24 — Predicting return-to-work outcomes: A comparative analysis of logistic regression and machine learning in occupational mental health</strong></summary>
 
 <p>
-<strong>Authors</strong>: Adriano Dias, H. R. C. Nunes, Carlos Ruíz-Frutos, J. Gómez‐Salgado, M. Alonso, João Marcos Bernardes, A. Castaño-Séiquer, D. Ribas-Pérez, J. R. Lacalle-Remigio<br>
+<strong>Authors</strong>: Adriano Dias, Hélio Rubens de Carvalho Nunes, Carlos Ruíz-Frutos, J. Gómez‐Salgado, M. Alonso, João Marcos Bernardes, A. Castaño-Séiquer, D. Ribas-Pérez, J. R. Lacalle-Remigio<br>
 <strong>Year</strong>: 2026<br>
 <strong>Publication Date</strong>: 2026-07-24<br>
 <strong>Venue</strong>: Medicine<br>
@@ -1554,7 +1637,7 @@ BACKGROUND Fast risk stratification is essential for patients with sepsis, a lif
   <summary><strong>2026-07-13 — Evaluating bias in target trial emulation for heart failure across statistical and deep learning methods</strong></summary>
 
 <p>
-<strong>Authors</strong>: Z. Fan, Qianqian Yang, Yifan Hu, G. Danaei, G. Davey Smith, Shishir Rao, Kazem Rahimi<br>
+<strong>Authors</strong>: Z. Fan, Qianqian Yang, Yifan Hu, G. Danaei, George Davey Smith, Shishir Rao, Kazem Rahimi<br>
 <strong>Year</strong>: 2026<br>
 <strong>Publication Date</strong>: 2026-07-13<br>
 <strong>Venue</strong>: Nature Communications<br>
@@ -1733,7 +1816,7 @@ Augmenting a randomized controlled trial with real-world data promises greater e
   <summary><strong>2026-07-02 — Targeted maximum likelihood estimation for longitudinal two-stage designs with outcome subsampling</strong></summary>
 
 <p>
-<strong>Authors</strong>: Kirsten E. Landsiedel, Maya L. Petersen, M. V. D. Laan<br>
+<strong>Authors</strong>: Kirsten E. Landsiedel, Maya L. Petersen, M. J. van der Laan<br>
 <strong>Year</strong>: 2026<br>
 <strong>Publication Date</strong>: 2026-07-02<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/ac10cf8f1dff3e7c93a5c60081740902f1a2bbca">Semantic Scholar</a><br>
@@ -1999,7 +2082,7 @@ BACKGROUND Cardiac amyloidosis (CA) is an under-recognized cause of left-ventric
   <summary><strong>2026-06-10 — Association of household wealth and education with hypertension among adults in Lesotho: Evidence from a propensity score–based study</strong></summary>
 
 <p>
-<strong>Authors</strong>: R. Gupta, Amrit Baral, Shams Shabab Haider, P. Chakraborty<br>
+<strong>Authors</strong>: R. Das Gupta, Amrit Baral, Shams Shabab Haider, P. Chakraborty<br>
 <strong>Year</strong>: 2026<br>
 <strong>Publication Date</strong>: 2026-06-10<br>
 <strong>Venue</strong>: PLOS Global Public Health<br>
@@ -2016,7 +2099,7 @@ In Lesotho, rapid urbanization and lifestyle transitions have contributed to a r
   <summary><strong>2026-06-08 — Rapid Sequence Induction Practices and Outcomes in Abdominal Surgery Patients: A Multicenter Observational Cohort Study.</strong></summary>
 
 <p>
-<strong>Authors</strong>: Sivan G. Marcus, Michael Mathis, M. Bokoch, Robert E. Freundlich, David Chen, Lee-Lynn Chen, Matthieu Legrand<br>
+<strong>Authors</strong>: Sivan G. Marcus, Michael R. Mathis, M. Bokoch, Robert E. Freundlich, David Chen, Lee-Lynn Chen, Matthieu Legrand<br>
 <strong>Year</strong>: 2026<br>
 <strong>Publication Date</strong>: 2026-06-08<br>
 <strong>Venue</strong>: Anesthesiology<br>
@@ -2135,7 +2218,7 @@ In population ecology, integral projection models (IPMs) are widely used to stud
   <summary><strong>2026-06-01 — Higher-Order Efficient Estimators: A Review and Simulation-Based Benchmark Study</strong></summary>
 
 <p>
-<strong>Authors</strong>: Ze Wang, M. V. D. Laan<br>
+<strong>Authors</strong>: Ze Wang, M. J. van der Laan<br>
 <strong>Year</strong>: 2026<br>
 <strong>Publication Date</strong>: 2026-06-01<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/8e51c573125a6c41c9f76d9a00a441eaceb6378a">Semantic Scholar</a><br>
@@ -2252,7 +2335,7 @@ male factors contribute to approximately 40–50% of infertility cases, yet diag
   <summary><strong>2026-05-20 — Targeted maximum likelihood estimation of vaccine effectiveness and immune correlates in test-negative design studies with missing data</strong></summary>
 
 <p>
-<strong>Authors</strong>: Leah I B Andrews, L. Laan, Peter B Gilbert<br>
+<strong>Authors</strong>: Leah I B Andrews, Lars van der Laan, Peter B. Gilbert<br>
 <strong>Year</strong>: 2026<br>
 <strong>Publication Date</strong>: 2026-05-20<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/545af3e51e5dd8f3b3399b6d0448fb41e8500add">Semantic Scholar</a><br>
@@ -2267,7 +2350,7 @@ The test-negative design (TND) is a resource-efficient observational study desig
   <summary><strong>2026-05-14 — Improving the Efficiency of Subgroup Analysis in Randomized Controlled Trials with TMLE</strong></summary>
 
 <p>
-<strong>Authors</strong>: Sky Qiu, Nerissa Nance, Rachael V. Phillips, J. Tarp, Maya L. Petersen, M. V. D. Laan<br>
+<strong>Authors</strong>: Sky Qiu, Nerissa Nance, Rachael V. Phillips, J. Tarp, Maya L. Petersen, M. J. van der Laan<br>
 <strong>Year</strong>: 2026<br>
 <strong>Publication Date</strong>: 2026-05-14<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/68b87b0322cd71546c41997d541b5365c52d68e0">Semantic Scholar</a><br>
@@ -2331,7 +2414,7 @@ This research examined the performance of a machine learning algorithm when pred
   <summary><strong>2026-05-07 — Estimation of treatment effects in presence of differential use of post-randomization concomitant medication with time-to-event outcomes</strong></summary>
 
 <p>
-<strong>Authors</strong>: H. Rytgaard, E. Fong, J. Tarp, Thomas A. Gerds, M. V. D. Laan, Henrik Ravn<br>
+<strong>Authors</strong>: H. Rytgaard, E. Fong, J. Tarp, Thomas A. Gerds, M. J. van der Laan, Henrik Ravn<br>
 <strong>Year</strong>: 2026<br>
 <strong>Publication Date</strong>: 2026-05-07<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/11326f95dd90214407a8d6b730ab076d65a4c4bc">Semantic Scholar</a><br>
@@ -2346,7 +2429,7 @@ In placebo-controlled randomized trials, the post-randomization use of concomita
   <summary><strong>2026-05-04 — A CV-TMLE global test approach to improve power in rare disease clinical studies with multiple-component endpoints</strong></summary>
 
 <p>
-<strong>Authors</strong>: Tianyue Zhou, Susan Gruber, Hana Lee, Wonyul Lee, Lei Nie, M. V. D. Laan<br>
+<strong>Authors</strong>: Tianyue Zhou, Susan Gruber, Hana Lee, Wonyul Lee, Lei Nie, M. J. van der Laan<br>
 <strong>Year</strong>: 2026<br>
 <strong>Publication Date</strong>: 2026-05-04<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/3d795c192e5d5d6a5eccc37c65db5f0f79a3b28d">Semantic Scholar</a><br>
@@ -2361,7 +2444,7 @@ Rare disease trials face unique statistical challenges due to limited patient po
   <summary><strong>2026-05-03 — Adaptive Targeted Maximum Likelihood Estimation of the Mean Potential Outcome under a Treatment Rule</strong></summary>
 
 <p>
-<strong>Authors</strong>: Yichen Xu, M. V. D. Laan<br>
+<strong>Authors</strong>: Yi-Chen Xu, M. J. van der Laan<br>
 <strong>Year</strong>: 2026<br>
 <strong>Publication Date</strong>: 2026-05-03<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/0a62df0cdaac67f3b74b877b07978ecf5789972c">Semantic Scholar</a><br>
@@ -2476,7 +2559,7 @@ The liver disease is a significant community health issue, whose prevalence is o
   <summary><strong>2026-04-26 — Generative Synthetic Data for Causal Inference: Pitfalls, Remedies, and Opportunities</strong></summary>
 
 <p>
-<strong>Authors</strong>: Yichen Xu<br>
+<strong>Authors</strong>: Yi-Chen Xu<br>
 <strong>Year</strong>: 2026<br>
 <strong>Publication Date</strong>: 2026-04-26<br>
 <strong>Venue</strong>: arXiv.org<br>
@@ -2502,7 +2585,7 @@ Synthetic tabular data are often evaluated by distributional similarity, privacy
 <strong>Matched Keywords</strong>: super learner
 </p>
 <p><strong>Abstract</strong>:<br>
-The Super Learner (SL) is a widely used ensemble method that combines predictions from a library of learners based on their predictive performance. Interval predictions are of considerable practical interest because they allow uncertainty in predictions produced by an individual learner or an ensemble to be quantified. Several methods have been proposed for constructing interval predictions based on the SL, however, these approaches are typically justified using asymptotic arguments or rely on computationally intensive procedures such as the bootstrap. Conformal prediction (CP) is a machine learning framework for constructing prediction intervals with finite-sample and asymptotic coverage guarantees under mild conditions. We propose coupling CP with the SL through a natural construction that mirrors the original SL framework, using individual learner weights and combining learner-specific conformity scores via a weighted majority vote. We characterize the properties of the resulting SL-based prediction intervals for continuous outcomes. We cover settings under exchangeability, potential violations of exchangeability, and data-generating mechanisms exhibiting heteroscedasticity, sparsity, and other forms of distributional heterogeneity. A comprehensive simulation study shows that the conformalized SL achieves valid finite-sample coverage with competitive performance relative to the true data-generating mechanism. A central contribution of this work is an application to predicting creatinine levels using socio-demographic, biometric, and laboratory measurements. This example demonstrates the benefits of an ensemble with carefully selected learners designed to capture key aspects of complex regression functions, including non-linear effects, interactions, sparsity, heteroscedasticity, and robustness to outliers.R
+The Super Learner (SL) is a widely used ensemble method that combines point predictions from a library of learners based on their predictive performance. Interval predictions are of considerable practical interest because they allow uncertainty in predictions produced by an individual learner or an ensemble to be quantified. Several methods have been proposed for constructing interval predictions based on the SL, however, these approaches are typically justified using asymptotic arguments or rely on computationally intensive procedures such as the bootstrap. Conformal prediction (CP) is a machine learning framework for constructing prediction intervals with finite-sample and asymptotic coverage guarantees under mild conditions. We propose coupling CP with the SL through a natural construction that mirrors the original SL framework, using individual learner weights and combining learner-specific conformity scores via a weighted majority vote. We characterize the properties of the resulting SL-based prediction intervals for continuous outcomes. We cover settings under exchangeability, potential violations of exchangeability, and data-generating mechanisms exhibiting heteroscedasticity, sparsity, and other forms of distributional heterogeneity. A comprehensive simulation study shows that the conformalized SL achieves valid finite-sample coverage with competitive performance relative to the true data-generating mechanism. A central contribution of this work is an application to predicting creatinine levels using socio-demographic, biometric, and laboratory measurements. This example demonstrates the benefits of an ensemble with carefully selected learners designed to capture key aspects of complex regression functions, including non-linear effects, interactions, sparsity, heteroscedasticity, and robustness to outliers.
 </p>
 </details>
 
@@ -2525,7 +2608,7 @@ As research in causal inference has sought to address more complex scientific qu
   <summary><strong>2026-04-21 — Investigating Targeting Strategies and Truncation in TMLE for the Average Treatment Effect under Practical Positivity Violations</strong></summary>
 
 <p>
-<strong>Authors</strong>: Yichen Xu, Susan Gruber, M. V. D. Laan<br>
+<strong>Authors</strong>: Yi-Chen Xu, Susan Gruber, M. J. van der Laan<br>
 <strong>Year</strong>: 2026<br>
 <strong>Publication Date</strong>: 2026-04-21<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/5d562a833fd351843168e6e7c813218adee80eca">Semantic Scholar</a><br>
@@ -2721,7 +2804,7 @@ Background Second-generation antipsychotics (SGAs) are frequently used off-label
   <summary><strong>2026-03-26 — XAI Based Early Menopause Detection using Super Learner and Discriminant Analysis</strong></summary>
 
 <p>
-<strong>Authors</strong>: Mercy Paul Selvan, S. Sahana, D. KalaivaniS, S. Lekhana, Kalyani Parida, S. Prince<br>
+<strong>Authors</strong>: Mercy Paul Selvan, S. D. Kalaivani, Kalyani Parida, S. Sahana, Y. Sai Lekhana, S. Mary<br>
 <strong>Year</strong>: 2026<br>
 <strong>Publication Date</strong>: 2026-03-26<br>
 <strong>Venue</strong>: 2026 International Conference on Data Science, Agents and Artificial Intelligence (ICDSAAI)<br>
@@ -2738,7 +2821,7 @@ The early detection of menopause is essential for ensuring women’s good health
   <summary><strong>2026-03-20 — Modeling the merger-ringdown of an eccentric test-mass inspiral into a Kerr black hole using the effective-one-body framework</strong></summary>
 
 <p>
-<strong>Authors</strong>: G. Faggioli, A. Buonanno, M. V. D. Meent, Gaurav Khanna<br>
+<strong>Authors</strong>: G. Faggioli, A. Buonanno, Maarten van de Meent, Gaurav Khanna<br>
 <strong>Year</strong>: 2026<br>
 <strong>Publication Date</strong>: 2026-03-20<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/da5e20ebdc575a963553aa036bf510fbf51ce761">Semantic Scholar</a><br>
@@ -2821,7 +2904,7 @@ AIM To (i) evaluate the association between posterior masticatory unit (PMU) los
   <summary><strong>2026-03-18 — Highly Adaptive Empirical Risk Minimization with Principal Components</strong></summary>
 
 <p>
-<strong>Authors</strong>: Carlos Garc&#x27;ia Meixide, Mingxun Wang, Alejandro Schuler, M. V. D. Laan<br>
+<strong>Authors</strong>: Carlos Garc&#x27;ia Meixide, Mingxun Wang, Alejandro Schuler, M. J. van der Laan<br>
 <strong>Year</strong>: 2026<br>
 <strong>Publication Date</strong>: 2026-03-18<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/c015b4c7eaebc0ee2f6572755d1757cc0e6618fd">Semantic Scholar</a><br>
@@ -3119,7 +3202,7 @@ Estimating longitudinal treatment effects is essential for sequential decision-m
   <summary><strong>2026-02-11 — Highly Adaptive Principal Component Regression</strong></summary>
 
 <p>
-<strong>Authors</strong>: Mingxun Wang, Alejandro Schuler, M. V. D. Laan, Carlos García-Meixide<br>
+<strong>Authors</strong>: Mingxun Wang, Alejandro Schuler, M. J. van der Laan, Carlos Garc&#x27;ia Meixide<br>
 <strong>Year</strong>: 2026<br>
 <strong>Publication Date</strong>: 2026-02-11<br>
 <strong>Venue</strong>: arXiv.org<br>
@@ -3433,7 +3516,7 @@ Abstract unavailable from Semantic Scholar.
   <summary><strong>2026-01-01 — Prenatal paracetamol exposure and wheezing in infancy: a targeted maximum likelihood estimation application</strong></summary>
 
 <p>
-<strong>Authors</strong>: C. Moccia, D. Zugna, M. Popović, G. Moirano, C. Pizzi, E. Migliore, Piero Fariselli, T. Sanavia, Franca Rusconi, A. Nybo Andersen, L. Richiardi, Milena Maule<br>
+<strong>Authors</strong>: C. Moccia, D. Zugna, M. Popović, G. Moirano, C. Pizzi, E. Migliore, P. Fariselli, T. Sanavia, Franca Rusconi, Anne-Marie Nybo Andersen, L. Richiardi, Milena M. Maule<br>
 <strong>Year</strong>: 2026<br>
 <strong>Publication Date</strong>: 2026-01-01<br>
 <strong>Venue</strong>: BMJ Open Respiratory Research<br>
@@ -3654,7 +3737,7 @@ Pillar stability prediction is essential for underground mining safety, yet it r
   <summary><strong>2025-12-15 — Machine learning to optimize precision in the analysis of randomized trials: A journey in pre-specified, yet data-adaptive learning</strong></summary>
 
 <p>
-<strong>Authors</strong>: L. Balzer, M. J. van der Laan, Maya L Petersen<br>
+<strong>Authors</strong>: L. Balzer, M. J. van der Laan, Maya L. Petersen<br>
 <strong>Year</strong>: 2025<br>
 <strong>Publication Date</strong>: 2025-12-15<br>
 <strong>Venue</strong>: Clinical Trials<br>
@@ -4730,7 +4813,7 @@ Background Our study represents the first effort in the Eastern Mediterranean Re
   <summary><strong>2025-09-08 — A causal inference framework to compare the effectiveness of life‐sustaining ICU therapies—using the example of cancer patients with sepsis</strong></summary>
 
 <p>
-<strong>Authors</strong>: J. Matos, Tristan Struja, N. Woite, David Restrepo, A. K. Waschka, L. A. Celi, C. M. Sauer<br>
+<strong>Authors</strong>: J. Matos, Tristan Struja, N. Woite, David Restrepo, A. Waschka, L. Celi, Christopher M. Sauer<br>
 <strong>Year</strong>: 2025<br>
 <strong>Publication Date</strong>: 2025-09-08<br>
 <strong>Venue</strong>: International Journal of Cancer<br>
@@ -5147,7 +5230,7 @@ Machine learning is increasingly used to estimate nuisance functions in causal i
   <summary><strong>2025-07-14 — Constructing Confidence Intervals for Infinite-Dimensional Functional Parameters by Highly Adaptive Lasso</strong></summary>
 
 <p>
-<strong>Authors</strong>: Wenxin Zhang, Junming Shi, Alan Hubbard, M. V. D. Laan<br>
+<strong>Authors</strong>: Wenxin Zhang, Junming Shi, Alan Hubbard, M. J. van der Laan<br>
 <strong>Year</strong>: 2025<br>
 <strong>Publication Date</strong>: 2025-07-14<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/20275b5e8456c8495861de4b85a413a1d22976a7">Semantic Scholar</a><br>
@@ -5579,7 +5662,7 @@ Background. In this paper, we test the hypothesis that SARS-CoV-2 infection and 
   <summary><strong>2025-05-20 — Statistical Methods for Chemical Mixtures: A Roadmap for Practitioners Using Simulation Studies and a Sample Data Analysis in the PROTECT Cohort</strong></summary>
 
 <p>
-<strong>Authors</strong>: W. Hao, A. Cathey, Max M Aung, J. Boss, J. Meeker, B. Mukherjee<br>
+<strong>Authors</strong>: W. Hao, A. Cathey, Max Aung, J. Boss, J. Meeker, Bhramar Mukherjee<br>
 <strong>Year</strong>: 2025<br>
 <strong>Publication Date</strong>: 2025-05-20<br>
 <strong>Venue</strong>: Environmental Health Perspectives<br>
@@ -6357,7 +6440,7 @@ Accurate prediction of vapor pressure is essential in chemical engineering, envi
   <summary><strong>2025-01-31 — Score-Preserving Targeted Maximum Likelihood Estimation</strong></summary>
 
 <p>
-<strong>Authors</strong>: Noel Pimentel, Alejandro Schuler, M. V. D. Laan<br>
+<strong>Authors</strong>: N. Pimentel, Alejandro Schuler, M. J. van der Laan<br>
 <strong>Year</strong>: 2025<br>
 <strong>Publication Date</strong>: 2025-01-31<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/10c83a155f5ddd32ea4674b6f61ea90d1a71d37a">Semantic Scholar</a><br>
@@ -6389,7 +6472,7 @@ Across various domains, the growing advocacy for open science and open-source ma
   <summary><strong>2025-01-29 — An Estimator-Robust Design for Augmenting Randomized Controlled Trials with External Real-World Data</strong></summary>
 
 <p>
-<strong>Authors</strong>: Sky Qiu, J. Tarp, Andrew Mertens, M. V. D. Laan<br>
+<strong>Authors</strong>: Sky Qiu, J. Tarp, Andrew Mertens, M. J. van der Laan<br>
 <strong>Year</strong>: 2025<br>
 <strong>Publication Date</strong>: 2025-01-29<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/945638f72e1b3de7f87453ebf527d1cb17bcad94">Semantic Scholar</a><br>
@@ -6927,7 +7010,7 @@ Abstract unavailable from Semantic Scholar.
   <summary><strong>2024-12-01 — Association between the age-adjusted Charlson Comorbidity Index and complications after kidney transplantation: a retrospective observational cohort study</strong></summary>
 
 <p>
-<strong>Authors</strong>: Qing Huang, Tongsen Luo, Jirong Yang, Yaxin Lu, Shao-Li Zhou, Ziqing Hei, Chaojin Chen<br>
+<strong>Authors</strong>: Qing Huang, Tongsen Luo, Jirong Yang, Ya-Xin Lu, Shao-Li Zhou, Ziqing Hei, Chaojin Chen<br>
 <strong>Year</strong>: 2024<br>
 <strong>Publication Date</strong>: 2024-12-01<br>
 <strong>Venue</strong>: BMC Nephrology<br>
@@ -7901,7 +7984,7 @@ Cefepime and piperacillin/tazobactam are antimicrobials recommended by IDSA/ATS 
   <summary><strong>2024-06-09 — HAL-based plug-in estimation with pointwise asymptotic normality of the causal dose–response curve</strong></summary>
 
 <p>
-<strong>Authors</strong>: Junming Shi, Wenxin Zhang, Alan Hubbard, M. van der Laan<br>
+<strong>Authors</strong>: Junming Shi, Wenxin Zhang, Alan Hubbard, M. J. van der Laan<br>
 <strong>Year</strong>: 2024<br>
 <strong>Publication Date</strong>: 2024-06-09<br>
 <strong>Venue</strong>: Journal of Causal Inference<br>
@@ -8426,7 +8509,7 @@ Background The decline in global child mortality is an important public health a
   <summary><strong>2024-04-05 — Longitudinal Targeted Minimum Loss-based Estimation with Temporal-Difference Heterogeneous Transformer</strong></summary>
 
 <p>
-<strong>Authors</strong>: Toru Shirakawa, Yi Li, Yulun Wu, Sky Qiu, Yuxuan Li, Mingduo Zhao, Hiroyasu Iso, M. V. D. Laan<br>
+<strong>Authors</strong>: Toru Shirakawa, Yi Li, Yulun Wu, Sky Qiu, Yuxuan Li, Mingduo Zhao, Hiroyasu Iso, M. J. van der Laan<br>
 <strong>Year</strong>: 2024<br>
 <strong>Publication Date</strong>: 2024-04-05<br>
 <strong>Venue</strong>: International Conference on Machine Learning<br>
@@ -8435,7 +8518,7 @@ Background The decline in global child mortality is an important public health a
 <strong>Matched Keywords</strong>: targeted minimum loss based estimation, tmle
 </p>
 <p><strong>Abstract</strong>:<br>
-We propose Deep Longitudinal Targeted Minimum Loss-based Estimation (Deep LTMLE), a novel approach to estimate the mean of counterfactual outcome under dynamic treatment policies in longitudinal problem settings. Our approach utilizes a transformer architecture with heterogeneous type embedding trained using temporal-difference learning. After obtaining an initial estimate using the transformer, following the targeted minimum loss-based likelihood estimation (TMLE) framework, we statistically corrected for the bias commonly associated with machine learning algorithms. Furthermore, our method also facilitates statistical inference by enabling the provision of 95% confidence intervals grounded in asymptotic statistical theory. Simulation results demonstrate our method&#x27;s superior performance over existing approaches, particularly in complex, long time-horizon scenarios. It remains effective in small-sample, short-duration contexts, matching the performance of asymptotically efficient estimators. To demonstrate our method in practice, we applied our method to estimate counterfactual mean outcomes for standard versus intensive blood pressure management strategies in a real-world cardiovascular epidemiology cohort study.
+We propose Deep Longitudinal Targeted Minimum Loss-based Estimation (Deep LTMLE), a novel approach to estimate the mean of counterfactual outcome under dynamic treatment policies in longitudinal problem settings. Our approach utilizes a transformer architecture with heterogeneous type embedding trained using temporal-difference learning. After obtaining an initial estimate using the transformer, following the targeted minimum loss-based likelihood estimation (TMLE) framework, we statistically corrected for the bias commonly associated with machine learning algorithms. Furthermore, our method also facilitates statistical inference by enabling the provision of 95% confidence intervals grounded in asymptotic statistical theory. Simulation results demonstrate our method’s superior performance over existing approaches, particularly in complex, long time-horizon scenarios. It remains effective in small-sample, short-duration contexts, matching the performance of asymptotically efficient estimators. To demonstrate our method in practice, we applied our method to estimate counterfactual mean outcomes for standard versus intensive blood pressure management strategies in a real-world cardiovascular epidemiology cohort study.
 </p>
 </details>
 
@@ -8443,7 +8526,7 @@ We propose Deep Longitudinal Targeted Minimum Loss-based Estimation (Deep LTMLE)
   <summary><strong>2024-04-02 — Nonparametric efficient causal estimation of the intervention-specific expected number of recurrent events with continuous-time targeted maximum likelihood and highly adaptive lasso estimation</strong></summary>
 
 <p>
-<strong>Authors</strong>: H. Rytgaard, M. J. Laan<br>
+<strong>Authors</strong>: H. Rytgaard, M. J. van der Laan<br>
 <strong>Year</strong>: 2024<br>
 <strong>Publication Date</strong>: 2024-04-02<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/31838f8a74287c850981fc2ffb86007a80935cb5">Semantic Scholar</a><br>
@@ -8713,7 +8796,7 @@ Significant clinical overlap exists between mental health and substance use diso
   <summary><strong>2024-02-06 — SSRI Use During Acute COVID-19 Infection Associated with Lower Risk of Long COVID Among Patients with Depression</strong></summary>
 
 <p>
-<strong>Authors</strong>: Zachary Butzin-Dozier, Yunwen Ji, Sarang Deshpande, Eric Hurwitz, Jeremy Coyle, Junming Shi, Andrew Mertens, M. V. D. Laan, J. Colford, Rena C Patel, Alan E. Hubbard, -. O. B. O. T. N. C. C. Collaborative<br>
+<strong>Authors</strong>: Z. Butzin-Dozier, Yunwen Ji, Sarang Deshpande, Eric Hurwitz, J. Coyle, Junming Shi, Andrew Mertens, M. J. van der Laan, J. Colford, Rena C. Patel, A. Hubbard, On Behalf Of The National Covid Cohort Collaborative<br>
 <strong>Year</strong>: 2024<br>
 <strong>Publication Date</strong>: 2024-02-06<br>
 <strong>Venue</strong>: medRxiv<br>
@@ -8847,7 +8930,7 @@ Non-negative two-part outcomes are defined as outcomes with a density function t
   <summary><strong>2024-01-02 — The role of psychosocial well-being and emotion-driven impulsiveness in food choices of European adolescents</strong></summary>
 
 <p>
-<strong>Authors</strong>: Stefanie Do, Vanessa Didelez, C. Börnhorst, J. Coumans, L. Reisch, U. Danner, P. Russo, T. Veidebaum, M. Tornaritis, Dénes Molnár, M. Hunsberger, S. de Henauw, Luis A. Moreno, W. Ahrens, A. Hebestreit<br>
+<strong>Authors</strong>: Stefanie Do, Vanessa Didelez, Claudia Börnhorst, J. Coumans, L. Reisch, U. Danner, P. Russo, T. Veidebaum, M. Tornaritis, D. Molnár, M. Hunsberger, Stefaan De Henauw, Luis A. Moreno, W. Ahrens, A. Hebestreit<br>
 <strong>Year</strong>: 2024<br>
 <strong>Publication Date</strong>: 2024-01-02<br>
 <strong>Venue</strong>: International Journal of Behavioral Nutrition and Physical Activity<br>
@@ -9188,7 +9271,7 @@ This paper presents a groundbreaking approach to causal inference by integrating
   <summary><strong>2023-11-25 — Using Multi-Modal Electronic Health Record Data for the Development and Validation of Risk Prediction Models for Long COVID Using the Super Learner Algorithm</strong></summary>
 
 <p>
-<strong>Authors</strong>: Weijia Jin, W. Hao, Xu Shi, L. Fritsche, M. Salvatore, A. Admon, Christopher R. Friese, B. Mukherjee<br>
+<strong>Authors</strong>: Weijia Jin, W. Hao, Xu Shi, Lars G. Fritsche, Maxwell Salvatore, A. Admon, Christopher R. Friese, B. Mukherjee<br>
 <strong>Year</strong>: 2023<br>
 <strong>Publication Date</strong>: 2023-11-25<br>
 <strong>Venue</strong>: Journal of Clinical Medicine<br>
@@ -9256,7 +9339,7 @@ Background Bladder cancer poses a significant public health burden, with high re
   <summary><strong>2023-11-17 — Evaluating a Targeted Minimum Loss-Based Estimator for Capture-Recapture Analysis: An Application to HIV Surveillance in San Francisco, California</strong></summary>
 
 <p>
-<strong>Authors</strong>: P. Wesson, Manjari Das, Miao-Jung Chen, L. Hsu, Willi McFarland, Edward H. Kennedy, Nicholas P. Jewell<br>
+<strong>Authors</strong>: P. Wesson, Manjari Das, Miao-Jung Chen, Ling C. Hsu, Willi McFarland, Edward H. Kennedy, Nicholas P. Jewell<br>
 <strong>Year</strong>: 2023<br>
 <strong>Publication Date</strong>: 2023-11-17<br>
 <strong>Venue</strong>: American Journal of Epidemiology<br>
@@ -9643,7 +9726,7 @@ Objective COVID-19 would kill fewer people if health programmes can predict who 
   <summary><strong>2023-09-01 — Multi-class Classification of Ionospheric Scintillations Using SMOTE-Super Learner Ensemble Technique</strong></summary>
 
 <p>
-<strong>Authors</strong>: I. Srivani, M. Sridhar, K.C.T. Swamy, D. Venkata Ratnam<br>
+<strong>Authors</strong>: I. Srivani, M. Sridhar, K. C. T. Swamy, D. Venkata Ratnam<br>
 <strong>Year</strong>: 2023<br>
 <strong>Publication Date</strong>: 2023-09-01<br>
 <strong>Venue</strong>: Advances in Space Research<br>
@@ -10235,7 +10318,7 @@ Polygenic risk scores (PRS) are now showing promising predictive performance on 
   <summary><strong>2023-04-11 — Targeted maximum likelihood based estimation for longitudinal mediation analysis</strong></summary>
 
 <p>
-<strong>Authors</strong>: Ze-Yu Wang, L. Laan, M. Petersen, Thomas A. Gerds, K. Kvist, M. Laan<br>
+<strong>Authors</strong>: Ze-Yu Wang, Lars van der Laan, M. Petersen, Thomas A. Gerds, K. Kvist, M. J. van der Laan<br>
 <strong>Year</strong>: 2023<br>
 <strong>Publication Date</strong>: 2023-04-11<br>
 <strong>Venue</strong>: Journal of Causal Inference<br>
@@ -10677,7 +10760,7 @@ Abstract unavailable from Semantic Scholar.
   <summary><strong>2023-01-31 — Higher Order Spline Highly Adaptive Lasso Estimators of Functional Parameters: Pointwise Asymptotic Normality and Uniform Convergence Rates</strong></summary>
 
 <p>
-<strong>Authors</strong>: M. Laan<br>
+<strong>Authors</strong>: M. J. van der Laan<br>
 <strong>Year</strong>: 2023<br>
 <strong>Publication Date</strong>: 2023-01-31<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/059e823b8d9d556fc31ee94101c1b61506cad9f8">Semantic Scholar</a><br>
@@ -10709,7 +10792,7 @@ Intense competition in broadband services will create high opportunities for con
   <summary><strong>2023-01-27 — Multi-task Highly Adaptive Lasso</strong></summary>
 
 <p>
-<strong>Authors</strong>: I. Malenica, Rachael V. Phillips, D. Lazzareschi, Jeremy Coyle, R. Pirracchio, M. J. Laan<br>
+<strong>Authors</strong>: I. Malenica, Rachael V. Phillips, D. Lazzareschi, J. Coyle, R. Pirracchio, M. J. van der Laan<br>
 <strong>Year</strong>: 2023<br>
 <strong>Publication Date</strong>: 2023-01-27<br>
 <strong>Venue</strong>: arXiv.org<br>
@@ -10792,7 +10875,7 @@ In this work we introduce the personalized online super learner (POSL), an onlin
   <summary><strong>2023-01-09 — The impact of disease changes and mental health illness on readapted return to work after repeated sick leaves among Brazilian public university employees</strong></summary>
 
 <p>
-<strong>Authors</strong>: Adriano Dias, H. R. C. Nunes, C. Ruiz-Frutos, Juan Gómez-Salgado, Melissa Spröesser Alonso, João Marcos Bernardes, J. García-Iglesias, J. R. Lacalle-Remigio<br>
+<strong>Authors</strong>: A. Dias, Hélio Rubens de Carvalho Nunes, C. Ruiz-Frutos, Juan Gómez-Salgado, Melissa Spröesser Alonso, João Marcos Bernardes, J. García-Iglesias, J. R. Lacalle-Remigio<br>
 <strong>Year</strong>: 2023<br>
 <strong>Publication Date</strong>: 2023-01-09<br>
 <strong>Venue</strong>: Frontiers in Public Health<br>
@@ -11028,7 +11111,7 @@ Abstract In single-arm clinical trials with external controls, usually the estim
   <summary><strong>2022-12-01 — Forecasting domestic waste generation during successive COVID-19 lockdowns by Bidirectional LSTM super learner neural network</strong></summary>
 
 <p>
-<strong>Authors</strong>: M. Jassim, G. Coskuner, N. Sultana, S. Hossain<br>
+<strong>Authors</strong>: M. Jassim, G. Coskuner, N. Sultana, S. M. Zakir Hossain<br>
 <strong>Year</strong>: 2022<br>
 <strong>Publication Date</strong>: 2022-12-01<br>
 <strong>Venue</strong>: Applied Soft Computing<br>
@@ -11402,7 +11485,7 @@ Background: Climate change may influence the effectiveness of environmental inte
   <summary><strong>2022-09-23 — &#x27;haldensify&#x27;: Highly adaptive lasso conditional density estimation in &#x27;R&#x27;</strong></summary>
 
 <p>
-<strong>Authors</strong>: N. Hejazi, M. J. Laan, David C. Benkeser<br>
+<strong>Authors</strong>: N. Hejazi, M. J. van der Laan, David C. Benkeser<br>
 <strong>Year</strong>: 2022<br>
 <strong>Publication Date</strong>: 2022-09-23<br>
 <strong>Venue</strong>: Journal of Open Source Software<br>
@@ -12308,7 +12391,7 @@ We study the problem of user segmentation: given a set of users and one or more 
   <summary><strong>2022-03-01 — The Influence of Concomitant Hammertoe Correction on Postoperative Outcomes in Patients Undergoing Hallux Valgus Correction</strong></summary>
 
 <p>
-<strong>Authors</strong>: Lavan Rajan, R. Fuller, Jiaqi Zhu, Tonya W. An, Scott J. Ellis<br>
+<strong>Authors</strong>: Lavan Rajan, Jaeyoung Kim, Tonya W. An, R. Fuller, Jiaqi Zhu, S. Pinney, Scott J. Ellis<br>
 <strong>Year</strong>: 2022<br>
 <strong>Publication Date</strong>: 2022-03-01<br>
 <strong>Venue</strong>: Foot and Ankle Surgery<br>
@@ -13017,7 +13100,7 @@ Doubly-robust estimators are widely used to draw inference about the average eff
   <summary><strong>2021-09-01 — The unintended impact of helmet use on bicyclists&#x27; risk-taking behaviors.</strong></summary>
 
 <p>
-<strong>Authors</strong>: Lei Kang, A. Vij, Alan Hubbard, David Shaw<br>
+<strong>Authors</strong>: Lei Kang, Akshay Vij, Alan Hubbard, David Shaw<br>
 <strong>Year</strong>: 2021<br>
 <strong>Publication Date</strong>: 2021-09-01<br>
 <strong>Venue</strong>: Journal of Safety Research<br>
@@ -13490,7 +13573,7 @@ OBJECTIVE To determine the respective associations of premorbid glucagon-like pe
   <summary><strong>2021-06-04 — Modified Lapidus vs Scarf Osteotomy Outcomes for Treatment of Hallux Valgus Deformity</strong></summary>
 
 <p>
-<strong>Authors</strong>: M. Reilly, Matthew S. Conti, J. Day, A. MacMahon, Bopha Chrea, Kristin C. Caolo, Nicholas Williams, M. Drakos, Scott J. Ellis<br>
+<strong>Authors</strong>: M. Reilly, Matthew S. Conti, Jonathan D. Day, A. MacMahon, Bopha Chrea, Kristin C. Caolo, Nicholas Williams, M. Drakos, Scott J. Ellis<br>
 <strong>Year</strong>: 2021<br>
 <strong>Publication Date</strong>: 2021-06-04<br>
 <strong>Venue</strong>: Foot &amp; ankle international<br>
@@ -13674,7 +13757,7 @@ Inadequate diagnostics compromise cancer care across lower- and middle-income co
   <summary><strong>2021-05-05 — Continuous-time targeted minimum loss-based estimation of intervention-specific mean outcomes</strong></summary>
 
 <p>
-<strong>Authors</strong>: H. Rytgaard, T. Gerds, M. Laan<br>
+<strong>Authors</strong>: H. Rytgaard, T. Gerds, M. J. van der Laan<br>
 <strong>Year</strong>: 2021<br>
 <strong>Publication Date</strong>: 2021-05-05<br>
 <strong>Venue</strong>: Annals of Statistics<br>
@@ -13942,7 +14025,7 @@ OBJECTIVE Claims-based algorithms are used in the Food and Drug Administration S
   <summary><strong>2021-03-12 — An Automated Machine Learning-Genetic Algorithm Framework With Active Learning for Design Optimization</strong></summary>
 
 <p>
-<strong>Authors</strong>: Opeoluwa Owoyele, P. Pal, Alvaro Vidal Torreira<br>
+<strong>Authors</strong>: Opeoluwa Owoyele, Pinaki Pal, Alvaro Vidal Torreira<br>
 <strong>Year</strong>: 2021<br>
 <strong>Publication Date</strong>: 2021-03-12<br>
 <strong>DOI</strong>: 10.1115/1.4050489<br>
@@ -14173,7 +14256,7 @@ Unmeasured confounding can cause considerable problems in observational studies 
   <summary><strong>2021-01-15 — Higher Order Targeted Maximum Likelihood Estimation</strong></summary>
 
 <p>
-<strong>Authors</strong>: M. Laan, Ze-Yu Wang, L. Laan<br>
+<strong>Authors</strong>: M. J. van der Laan, Ze-Yu Wang, Lars van der Laan<br>
 <strong>Year</strong>: 2021<br>
 <strong>Publication Date</strong>: 2021-01-15<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/283f4bdd6e2dbbe25fcd53c7fb2bec7efddcbae9">Semantic Scholar</a><br>
@@ -14445,7 +14528,7 @@ Background: Accurate prediction of thyroidectomy complications is necessary to i
   <summary><strong>2020-12-01 — Long-term effects of asthma medication on asthma symptoms: an application of the targeted maximum likelihood estimation</strong></summary>
 
 <p>
-<strong>Authors</strong>: Carolin Veit, R. Herrera, G. Weinmayr, J. Genuneit, D. Windstetter, C. Vogelberg, E. von Mutius, D. Nowak, K. Radon, Jessica Gerlich, T. Weinmann<br>
+<strong>Authors</strong>: C. Veit, Ronald Herrera, G. Weinmayr, J. Genuneit, D. Windstetter, C. Vogelberg, Erika von Mutius, D. Nowak, K. Radon, Jessica Gerlich, T. Weinmann<br>
 <strong>Year</strong>: 2020<br>
 <strong>Publication Date</strong>: 2020-12-01<br>
 <strong>Venue</strong>: BMC Medical Research Methodology<br>
@@ -14513,12 +14596,12 @@ Dynamic prediction models provide predicted survival probabilities that can be u
   <summary><strong>2020-10-26 — Redlines and Greenspace: The Relationship between Historical Redlining and 2010 Greenspace across the United States</strong></summary>
 
 <p>
-<strong>Authors</strong>: A. Nardone, K. Rudolph, R. Morello-Frosch, J. Casey<br>
+<strong>Authors</strong>: A. Nardone, K. Rudolph, R. Morello-Frosch, Joan A. Casey<br>
 <strong>Year</strong>: 2020<br>
 <strong>Publication Date</strong>: 2020-10-26<br>
 <strong>Venue</strong>: Environmental Health Perspectives<br>
 <strong>DOI</strong>: 10.1289/EHP7495<br>
-<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/b937a65084374d54d28419941d85179f341190f8">Semantic Scholar</a><br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/6ad5aaae96b486d2def405ec919c06313cc18053">Semantic Scholar</a><br>
 <strong>Matched Keywords</strong>: targeted maximum likelihood estimation
 </p>
 <p><strong>Abstract</strong>:<br>
@@ -14547,7 +14630,7 @@ Background: Helminth infections can modulate immunity to Mycobacterium tuberculo
   <summary><strong>2020-10-01 — Correcting the Hallux Valgus Deformity: A Comparison Between Modified Lapidus Procedure and Scarf Osteotomy</strong></summary>
 
 <p>
-<strong>Authors</strong>: M. Reilly, J. Day, A. MacMahon, Kristin C. Caolo, Bopha Chrea, Nicholas Williams, M. Drakos, Scott J. Ellis<br>
+<strong>Authors</strong>: M. Reilly, Jonathan D. Day, A. MacMahon, Kristin C. Caolo, Bopha Chrea, Nicholas Williams, M. Drakos, Scott J. Ellis<br>
 <strong>Year</strong>: 2020<br>
 <strong>Publication Date</strong>: 2020-10-01<br>
 <strong>Venue</strong>: Foot &amp; Ankle Orthopaedics<br>
@@ -14564,7 +14647,7 @@ Category: Bunion; Midfoot/Forefoot Introduction/Purpose: Lapidus procedure and S
   <summary><strong>2020-09-26 — hal9001: Scalable highly adaptive lasso regression in R</strong></summary>
 
 <p>
-<strong>Authors</strong>: N. Hejazi, J. Coyle, M. Laan<br>
+<strong>Authors</strong>: N. Hejazi, Jeremy R. Coyle, M. J. van der Laan<br>
 <strong>Year</strong>: 2020<br>
 <strong>Publication Date</strong>: 2020-09-26<br>
 <strong>Venue</strong>: Journal of Open Source Software<br>
@@ -14598,7 +14681,7 @@ The timing of crop development has significant impacts on management decisions a
   <summary><strong>2020-09-16 — Highly Adaptive Lasso Conditional Density Estimation [R package haldensify version 0.0.6]</strong></summary>
 
 <p>
-<strong>Authors</strong>: N. Hejazi, David C. Benkeser, M. Laan<br>
+<strong>Authors</strong>: N. Hejazi, David C. Benkeser, M. J. van der Laan<br>
 <strong>Year</strong>: 2020<br>
 <strong>Publication Date</strong>: 2020-09-16<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/7d8b61bca84b73ef8bc71d842a2d73c4ae5b61db">Semantic Scholar</a><br>
@@ -14815,7 +14898,7 @@ OBJECTIVE Improved prognostic prediction for patients with colorectal cancer sta
   <summary><strong>2020-06-27 — The Scalable Highly Adaptive Lasso [R package hal9001 version 0.2.6]</strong></summary>
 
 <p>
-<strong>Authors</strong>: J. Coyle, N. Hejazi, M. J. van der Laan<br>
+<strong>Authors</strong>: Jeremy R. Coyle, N. Hejazi, M. J. van der Laan<br>
 <strong>Year</strong>: 2020<br>
 <strong>Publication Date</strong>: 2020-06-27<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/d17015c1722f39179f173a1d52eaba06478771d1">Semantic Scholar</a><br>
@@ -15145,7 +15228,7 @@ Drug-induced liver injury (DILI) is one of the primary problems in drug developm
   <summary><strong>2020-04-01 — A data-driven approach for pipe deformation prediction based on soil properties and weather conditions</strong></summary>
 
 <p>
-<strong>Authors</strong>: Fang Shi, Xiang Peng, Zheng Liu, Eric Li, Yafei Hu<br>
+<strong>Authors</strong>: Fang Shi, Xiang Peng, Zheng Liu, Eric Li, Ya-Fei Hu<br>
 <strong>Year</strong>: 2020<br>
 <strong>Publication Date</strong>: 2020-04-01<br>
 <strong>DOI</strong>: 10.1016/j.scs.2019.102012<br>
@@ -15261,7 +15344,7 @@ Stock-market prediction using machine-learning technique aims at developing effe
   <summary><strong>2020-03-05 — haldensify: Highly Adaptive Lasso Conditional Density Estimation</strong></summary>
 
 <p>
-<strong>Authors</strong>: N. Hejazi, David C. Benkeser, M. J. Laan<br>
+<strong>Authors</strong>: N. Hejazi, David C. Benkeser, M. J. van der Laan<br>
 <strong>Year</strong>: 2020<br>
 <strong>Publication Date</strong>: 2020-03-05<br>
 <strong>DOI</strong>: 10.5281/ZENODO.3698330<br>
@@ -15483,7 +15566,7 @@ Automatic vehicle-type classification plays an imperative role in the developmen
   <summary><strong>2019-12-23 — Estimating treatment importance in multidrug‐resistant tuberculosis using Targeted Learning: An observational individual patient data network meta‐analysis</strong></summary>
 
 <p>
-<strong>Authors</strong>: Guanbo Wang, M. Schnitzer, D. Menzies, P. Viiklepp, T. Holtz, A. Benedetti<br>
+<strong>Authors</strong>: Guan-Bo Wang, M. Schnitzer, D. Menzies, P. Viiklepp, T. Holtz, A. Benedetti<br>
 <strong>Year</strong>: 2019<br>
 <strong>Publication Date</strong>: 2019-12-23<br>
 <strong>Venue</strong>: Biometrics<br>
@@ -15947,7 +16030,7 @@ Abstract unavailable from Semantic Scholar.
   <summary><strong>2019-07-23 — Unconventional natural gas development and adverse birth outcomes in Pennsylvania: the potential mediating role of antenatal anxiety and depression</strong></summary>
 
 <p>
-<strong>Authors</strong>: J. Casey, Dana E. Goin, K. Rudolph, B. Schwartz, Dione G. Mercer, Holly Elser, E. Eisen, R. Morello-Frosch<br>
+<strong>Authors</strong>: Joan A. Casey, Dana E. Goin, K. Rudolph, B. Schwartz, Dione G. Mercer, Holly Elser, E. Eisen, R. Morello-Frosch<br>
 <strong>Year</strong>: 2019<br>
 <strong>Publication Date</strong>: 2019-07-23<br>
 <strong>Venue</strong>: Environmental Research<br>
@@ -16064,7 +16147,7 @@ Supplemental Digital Content is available in the text.
   <summary><strong>2019-05-24 — More Efficient Off-Policy Evaluation through Regularized Targeted Learning</strong></summary>
 
 <p>
-<strong>Authors</strong>: Aurélien F. Bibaut, I. Malenica, N. Vlassis, M. Laan<br>
+<strong>Authors</strong>: Aurélien F. Bibaut, I. Malenica, N. Vlassis, M. J. van der Laan<br>
 <strong>Year</strong>: 2019<br>
 <strong>Publication Date</strong>: 2019-05-24<br>
 <strong>Venue</strong>: International Conference on Machine Learning<br>
@@ -16080,7 +16163,7 @@ We study the problem of off-policy evaluation (OPE) in Reinforcement Learning (R
   <summary><strong>2019-05-23 — Nonparametric Bootstrap Inference for the Targeted Highly Adaptive LASSO Estimator.</strong></summary>
 
 <p>
-<strong>Authors</strong>: Weixin Cai, M. Laan<br>
+<strong>Authors</strong>: Weixin Cai, M. J. van der Laan<br>
 <strong>Year</strong>: 2019<br>
 <strong>Publication Date</strong>: 2019-05-23<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/bc7cdf24f3744c2ec9e036243d2f7d2b0ad80cd2">Semantic Scholar</a><br>
@@ -16265,7 +16348,7 @@ Abstract unavailable from Semantic Scholar.
   <summary><strong>2019-01-14 — An educational intervention to improve knowledge about prevention against occupational asthma and allergies using targeted maximum likelihood estimation</strong></summary>
 
 <p>
-<strong>Authors</strong>: Daloha Rodríguez-Molina, Swaantje Barth, R. Herrera, C. Rossmann, K. Radon, V. Karnowski<br>
+<strong>Authors</strong>: Daloha Rodríguez-Molina, Swaantje Barth, Ronald Herrera, C. Rossmann, K. Radon, V. Karnowski<br>
 <strong>Year</strong>: 2019<br>
 <strong>Publication Date</strong>: 2019-01-14<br>
 <strong>Venue</strong>: International Archives of Occupational and Environmental Health<br>
@@ -16348,7 +16431,7 @@ Alzheimer is a neurodegenerative disease that usually affects the elderly. It co
   <summary><strong>2018-12-31 — Reassessing the Effectiveness of Right Heart Catheterization (RHC) in the Initial Care of Critically Ill Patients using Targeted Maximum Likelihood Estimation</strong></summary>
 
 <p>
-<strong>Authors</strong>: Zhu Hai, A. Mary, Zhang Shuqin, P. JohnsonNils, Lai Dejian, Zhu Hongjian<br>
+<strong>Authors</strong>: Hai Zhu, A. Mary, Shu-Qing Zhang, Johnson Nils P, De-Jian Lai, Hong-Jian Zhu<br>
 <strong>Year</strong>: 2018<br>
 <strong>Publication Date</strong>: 2018-12-31<br>
 <strong>Venue</strong>: International Journal of Clinical Biostatistics and Biometrics<br>
@@ -16450,7 +16533,7 @@ Clinical trials are widely considered the gold standard for treatment evaluation
   <summary><strong>2018-11-15 — Kernel Smoothing of the Treatment Effect CDF</strong></summary>
 
 <p>
-<strong>Authors</strong>: Jonathan Levy, M. Laan<br>
+<strong>Authors</strong>: Jonathan Levy, M. J. van der Laan<br>
 <strong>Year</strong>: 2018<br>
 <strong>Publication Date</strong>: 2018-11-15<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/7a2638b4c8fca41a14a1c69b0dfeda7d1bd4a963">Semantic Scholar</a><br>
@@ -16999,7 +17082,7 @@ Abstract unavailable from Semantic Scholar.
   <summary><strong>2018-02-26 — One-step Targeted Maximum Likelihood for Time-to-event Outcomes</strong></summary>
 
 <p>
-<strong>Authors</strong>: Weixin Cai, M. Laan<br>
+<strong>Authors</strong>: Weixin Cai, M. J. van der Laan<br>
 <strong>Year</strong>: 2018<br>
 <strong>Publication Date</strong>: 2018-02-26<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/41f517c7ac126f86a5946cb80a38c65af752dffb">Semantic Scholar</a><br>
@@ -17153,7 +17236,7 @@ Abstract unavailable from Semantic Scholar.
   <summary><strong>2018 — One-Step TMLE</strong></summary>
 
 <p>
-<strong>Authors</strong>: M. V. D. Laan, Wilson Cai, Susan Gruber<br>
+<strong>Authors</strong>: M. J. van der Laan, W. Cai, Susan Gruber<br>
 <strong>Year</strong>: 2018<br>
 <strong>DOI</strong>: 10.1007/978-3-319-65304-4_5<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/2e8af685f6a9890f63527c34fa97e5fcb0b367ae">Semantic Scholar</a><br>
@@ -17182,7 +17265,7 @@ Abstract unavailable from Semantic Scholar.
   <summary><strong>2018 — Highly Adaptive Lasso (HAL)</strong></summary>
 
 <p>
-<strong>Authors</strong>: M. J. Laan, David C. Benkeser<br>
+<strong>Authors</strong>: M. J. van der Laan, David C. Benkeser<br>
 <strong>Year</strong>: 2018<br>
 <strong>DOI</strong>: 10.1007/978-3-319-65304-4_6<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/a0646ac6ef8486a685f5154cff52cc81a216b5c2">Semantic Scholar</a><br>
@@ -17197,7 +17280,7 @@ Abstract unavailable from Semantic Scholar.
   <summary><strong>2018 — CV-TMLE for Nonpathwise Differentiable Target Parameters</strong></summary>
 
 <p>
-<strong>Authors</strong>: M. Laan, Aurélien F. Bibaut, Alexander Luedtke<br>
+<strong>Authors</strong>: M. J. van der Laan, Aurélien F. Bibaut, Alexander Luedtke<br>
 <strong>Year</strong>: 2018<br>
 <strong>DOI</strong>: 10.1007/978-3-319-65304-4_25<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/51a240ac4604388052e5cffee1dd71275aa4d357">Semantic Scholar</a><br>
@@ -17243,7 +17326,7 @@ Abstract unavailable from Semantic Scholar.
   <summary><strong>2018 — C-TMLE for Continuous Tuning</strong></summary>
 
 <p>
-<strong>Authors</strong>: M. J. Laan, A. Chambaz, Cheng Ju<br>
+<strong>Authors</strong>: M. J. van der Laan, A. Chambaz, Cheng Ju<br>
 <strong>Year</strong>: 2018<br>
 <strong>DOI</strong>: 10.1007/978-3-319-65304-4_10<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/6cd0540d5383f3b01a1357e06ad83478dafa4e8f">Semantic Scholar</a><br>
@@ -17258,7 +17341,7 @@ Abstract unavailable from Semantic Scholar.
   <summary><strong>2018 — A Generally Efficient HAL-TMLE</strong></summary>
 
 <p>
-<strong>Authors</strong>: M. J. Laan<br>
+<strong>Authors</strong>: M. J. van der Laan<br>
 <strong>Year</strong>: 2018<br>
 <strong>DOI</strong>: 10.1007/978-3-319-65304-4_7<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/bb1cedda7965dbf00322dca5850f9fd871eef80f">Semantic Scholar</a><br>
@@ -17278,7 +17361,7 @@ Abstract unavailable from Semantic Scholar.
   <summary><strong>2017-12-27 — Estimating the Causal Impact of Proximity to Gold and Copper Mines on Respiratory Diseases in Chilean Children: An Application of Targeted Maximum Likelihood Estimation</strong></summary>
 
 <p>
-<strong>Authors</strong>: R. Herrera, U. Berger, Ondine S von Ehrenstein, I. Díaz, S. Huber, Daniel Moraga Muñoz, K. Radon<br>
+<strong>Authors</strong>: Ronald Herrera, U. Berger, O. V. von Ehrenstein, I. Díaz, S. Huber, Daniel Moraga Muñoz, K. Radon<br>
 <strong>Year</strong>: 2017<br>
 <strong>Publication Date</strong>: 2017-12-27<br>
 <strong>Venue</strong>: International Journal of Environmental Research and Public Health<br>
@@ -17395,7 +17478,7 @@ Deep learning models (aka Deep Neural Networks) have revolutionized many fields 
   <summary><strong>2017-10-16 — ltmle: An R Package Implementing Targeted Minimum Loss-Based Estimation for Longitudinal Data</strong></summary>
 
 <p>
-<strong>Authors</strong>: S. Lendle, Joshua Schwab, M. Petersen, M. Laan<br>
+<strong>Authors</strong>: S. Lendle, Joshua Schwab, M. Petersen, M. J. van der Laan<br>
 <strong>Year</strong>: 2017<br>
 <strong>Publication Date</strong>: 2017-10-16<br>
 <strong>DOI</strong>: 10.18637/JSS.V081.I01<br>
@@ -17509,7 +17592,7 @@ Earthquakes are a common and deadly natural disaster, with roughly one-quarter o
   <summary><strong>2017-08-30 — Finite Sample Inference for Targeted Learning</strong></summary>
 
 <p>
-<strong>Authors</strong>: M. Laan<br>
+<strong>Authors</strong>: M. J. van der Laan<br>
 <strong>Year</strong>: 2017<br>
 <strong>Publication Date</strong>: 2017-08-30<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/a8d96725525660c33256814faad47fe06611b2f1">Semantic Scholar</a><br>
@@ -17690,7 +17773,7 @@ Electronic health records (EHR) data provide a cost‐ and time‐effective oppo
   <summary><strong>2017-05-06 — Sequential Double Robustness in Right-Censored Longitudinal Models</strong></summary>
 
 <p>
-<strong>Authors</strong>: Alexander Luedtke, Oleg Sofrygin, M. Laan, M. Carone<br>
+<strong>Authors</strong>: Alexander Luedtke, O. Sofrygin, M. J. van der Laan, M. Carone<br>
 <strong>Year</strong>: 2017<br>
 <strong>Publication Date</strong>: 2017-05-06<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/9d1297f833c31bc679c0577e4b186e349b100d6a">Semantic Scholar</a><br>
@@ -18092,7 +18175,7 @@ Abstract Consider a study in which one observes n independent and identically di
   <summary><strong>2016-05-01 — Doubly Robust and Efficient Estimation of Marginal Structural Models for the Hazard Function</strong></summary>
 
 <p>
-<strong>Authors</strong>: Wenjing Zheng, Maya L Petersen, M. J. van der Laan<br>
+<strong>Authors</strong>: Wenjing Zheng, Maya L. Petersen, M. J. van der Laan<br>
 <strong>Year</strong>: 2016<br>
 <strong>Publication Date</strong>: 2016-05-01<br>
 <strong>Venue</strong>: The International Journal of Biostatistics<br>
@@ -18109,7 +18192,7 @@ Abstract In social and health sciences, many research questions involve understa
   <summary><strong>2016-05-01 — AUC-Maximizing Ensembles through Metalearning</strong></summary>
 
 <p>
-<strong>Authors</strong>: E. LeDell, M. J. van der Laan, Maya Peterson<br>
+<strong>Authors</strong>: E. LeDell, M. J. van der Laan, Maya L. Petersen<br>
 <strong>Year</strong>: 2016<br>
 <strong>Publication Date</strong>: 2016-05-01<br>
 <strong>Venue</strong>: The International Journal of Biostatistics<br>
@@ -18411,7 +18494,7 @@ Summary For a continuous treatment, the generalised propensity score (GPS) is de
   <summary><strong>2015-05-29 — Longitudinal Targeted Maximum Likelihood Estimation</strong></summary>
 
 <p>
-<strong>Authors</strong>: Joshua Schwab, S. Lendle, M. Petersen, M. Laan<br>
+<strong>Authors</strong>: Joshua Schwab, S. Lendle, M. Petersen, M. J. van der Laan<br>
 <strong>Year</strong>: 2015<br>
 <strong>Publication Date</strong>: 2015-05-29<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/3c30242c0b5512b6afa5c6dbf2c703ba2830aff3">Semantic Scholar</a><br>
@@ -18555,7 +18638,7 @@ Abstract unavailable from Semantic Scholar.
   <summary><strong>2014-11-25 — Adaptive pair-matching in randomized trials with unbiased and efficient effect estimation</strong></summary>
 
 <p>
-<strong>Authors</strong>: L. B. Balzer, Maya L Petersen, M. J. van der Laan<br>
+<strong>Authors</strong>: L. B. Balzer, Maya L. Petersen, M. J. van der Laan<br>
 <strong>Year</strong>: 2014<br>
 <strong>Publication Date</strong>: 2014-11-25<br>
 <strong>Venue</strong>: Statistics in Medicine<br>
@@ -18654,7 +18737,7 @@ The PROmotion of Breastfeeding Intervention Trial (PROBIT) cluster-randomized a 
   <summary><strong>2014-06-30 — Cervical Cancer Precursors and Hormonal Contraceptive Use in HIV-Positive Women: Application of a Causal Model and Semi-Parametric Estimation Methods</strong></summary>
 
 <p>
-<strong>Authors</strong>: H. Leslie, D. Karasek, L. F. Harris, Emily G Chang, N. Abdulrahim, May Maloba, M. Huchko<br>
+<strong>Authors</strong>: H. Leslie, D. Karasek, L. F. Harris, Emily G. Chang, N. Abdulrahim, May Maloba, M. Huchko<br>
 <strong>Year</strong>: 2014<br>
 <strong>Publication Date</strong>: 2014-06-30<br>
 <strong>Venue</strong>: PLoS ONE<br>
@@ -18738,7 +18821,7 @@ We describe the R package multiPIM, including statistical background, functional
   <summary><strong>2014-03-26 — Targeted learning: From MLE to TMLE</strong></summary>
 
 <p>
-<strong>Authors</strong>: M. Laan<br>
+<strong>Authors</strong>: M. J. van der Laan<br>
 <strong>Year</strong>: 2014<br>
 <strong>Publication Date</strong>: 2014-03-26<br>
 <strong>DOI</strong>: 10.1201/B16720-45<br>
@@ -19068,7 +19151,7 @@ Abstract Estimators of the conditional expectation, i.e., prediction, function i
   <summary><strong>2012-09-18 — A General Implementation of TMLE for Longitudinal Data Applied to Causal Inference in Survival Analysis</strong></summary>
 
 <p>
-<strong>Authors</strong>: Ori Stitelman, V. De Gruttola, M. J. van der Laan<br>
+<strong>Authors</strong>: Ori Stitelman, Victor De Gruttola, M. J. van der Laan<br>
 <strong>Year</strong>: 2012<br>
 <strong>Publication Date</strong>: 2012-09-18<br>
 <strong>Venue</strong>: The International Journal of Biostatistics<br>
@@ -19102,7 +19185,7 @@ Abstract unavailable from Semantic Scholar.
   <summary><strong>2012-07-12 — Targeted Minimum Loss-Based Estimation of a Causal Effect Using Interval-Censored Time-to-Event Data</strong></summary>
 
 <p>
-<strong>Authors</strong>: M. Carone, M. Petersen, M. J. Laan<br>
+<strong>Authors</strong>: M. Carone, M. Petersen, M. J. van der Laan<br>
 <strong>Year</strong>: 2012<br>
 <strong>Publication Date</strong>: 2012-07-12<br>
 <strong>DOI</strong>: 10.1201/B12290-11<br>
@@ -19258,7 +19341,7 @@ We define a new measure of variable importance of an exposure on a continuous ou
   <summary><strong>2012 — Application of Targeted Maximum Likelihood Estimation to the Meta-Analysis of Safety Data</strong></summary>
 
 <p>
-<strong>Authors</strong>: Susan Gruber, M. J. Laan<br>
+<strong>Authors</strong>: Susan Gruber, M. J. van der Laan<br>
 <strong>Year</strong>: 2012<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/301e616b24e9c0a480989a913b13fdbd1356dd28">Semantic Scholar</a><br>
 <strong>Matched Keywords</strong>: targeted maximum likelihood estimation
@@ -19294,7 +19377,7 @@ Summary Estimating the causal effect of an intervention on a population typicall
   <summary><strong>2011-07-29 — Dimension reduction with gene expression data using targeted variable importance measurement</strong></summary>
 
 <p>
-<strong>Authors</strong>: Hui Wang, M. J. Laan<br>
+<strong>Authors</strong>: Hui Wang, M. J. van der Laan<br>
 <strong>Year</strong>: 2011<br>
 <strong>Publication Date</strong>: 2011-07-29<br>
 <strong>Venue</strong>: BMC Bioinformatics<br>
@@ -19360,7 +19443,7 @@ Abstract unavailable from Semantic Scholar.
   <summary><strong>2011 — TMLE in Adaptive Group Sequential Covariate-Adjusted RCTs</strong></summary>
 
 <p>
-<strong>Authors</strong>: A. Chambaz, M. J. Laan<br>
+<strong>Authors</strong>: A. Chambaz, M. J. van der Laan<br>
 <strong>Year</strong>: 2011<br>
 <strong>DOI</strong>: 10.1007/978-1-4419-9782-1_29<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/97cc44c9f56fdab54e922aa3283dc29db973a193">Semantic Scholar</a><br>
@@ -19431,9 +19514,9 @@ Abstract unavailable from Semantic Scholar.
   <summary><strong>2011 — Targeted Maximum Likelihood Estimation of Conditional Relative Risk in a Semi-parametric Regression Model</strong></summary>
 
 <p>
-<strong>Authors</strong>: C. Tuglus, Kristin E. Porter, M. J. Laan<br>
+<strong>Authors</strong>: C. Tuglus, Kristin E. Porter, M. J. van der Laan<br>
 <strong>Year</strong>: 2011<br>
-<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/df0a5d064790041c356c1ad154a69f0159ff7875">Semantic Scholar</a><br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/0acc2d6289a5f238fd0e6c035da5806eea368342">Semantic Scholar</a><br>
 <strong>Matched Keywords</strong>: targeted maximum likelihood estimation
 </p>
 <p><strong>Abstract</strong>:<br>
@@ -19488,7 +19571,7 @@ Abstract unavailable from Semantic Scholar.
   <summary><strong>2011 — Propensity-Score-Based Estimators and C-TMLE</strong></summary>
 
 <p>
-<strong>Authors</strong>: J. Sekhon, Susan Gruber, Kristin E. Porter, M. J. Laan<br>
+<strong>Authors</strong>: J. Sekhon, Susan Gruber, Kristin E. Porter, M. J. van der Laan<br>
 <strong>Year</strong>: 2011<br>
 <strong>DOI</strong>: 10.1007/978-1-4419-9782-1_21<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/5556ebe4e592390757e5e1a892f64bdd55d4bf5a">Semantic Scholar</a><br>
@@ -19518,7 +19601,7 @@ Abstract unavailable from Semantic Scholar.
   <summary><strong>2011 — Foundations of TMLE</strong></summary>
 
 <p>
-<strong>Authors</strong>: M. J. Laan, Sherri Rose<br>
+<strong>Authors</strong>: M. J. van der Laan, S. Rose<br>
 <strong>Year</strong>: 2011<br>
 <strong>DOI</strong>: 10.1007/978-1-4419-9782-1_30<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/1c9f8c908adc98dea6b35fdc2e055dd295a1f0a9">Semantic Scholar</a><br>
@@ -19533,7 +19616,7 @@ Abstract unavailable from Semantic Scholar.
   <summary><strong>2011 — C-TMLE of an Additive Point Treatment Effect</strong></summary>
 
 <p>
-<strong>Authors</strong>: Susan Gruber, M. J. Laan<br>
+<strong>Authors</strong>: Susan Gruber, M. J. van der Laan<br>
 <strong>Year</strong>: 2011<br>
 <strong>DOI</strong>: 10.1007/978-1-4419-9782-1_19<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/d467ab749ea6b5abb3762770fba46daadf55df12">Semantic Scholar</a><br>
@@ -19548,7 +19631,7 @@ Abstract unavailable from Semantic Scholar.
   <summary><strong>2011 — C-TMLE for Time-to-Event Outcomes</strong></summary>
 
 <p>
-<strong>Authors</strong>: Ori Stitelman, M. J. Laan<br>
+<strong>Authors</strong>: Ori Stitelman, M. J. van der Laan<br>
 <strong>Year</strong>: 2011<br>
 <strong>DOI</strong>: 10.1007/978-1-4419-9782-1_20<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/bc1b037637d8c5ecf781095f5f51ce108e873578">Semantic Scholar</a><br>
@@ -19613,7 +19696,7 @@ Abstract unavailable from Semantic Scholar.
   <summary><strong>2010 — Simple Examples of Estimating Causal Effects Using Targeted Maximum Likelihood Estimation</strong></summary>
 
 <p>
-<strong>Authors</strong>: Michael Rosenblum, M. J. Laan<br>
+<strong>Authors</strong>: Michael Rosenblum, M. J. van der Laan<br>
 <strong>Year</strong>: 2010<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/54deae99a595b24e40bc4b94aaf3668417f5d20d">Semantic Scholar</a><br>
 <strong>Matched Keywords</strong>: targeted maximum likelihood estimation
@@ -19674,7 +19757,7 @@ Abstract unavailable from Semantic Scholar.
   <summary><strong>2009-12-01 — Evaluation of a pre-existing, 3-year household water treatment and handwashing intervention in rural Guatemala.</strong></summary>
 
 <p>
-<strong>Authors</strong>: B. Arnold, B. Arana, D. Mäusezahl, A. Hubbard, J. Colford<br>
+<strong>Authors</strong>: B. Arnold, B. Arana, Daniel Mäusezahl, A. Hubbard, J. Colford<br>
 <strong>Year</strong>: 2009<br>
 <strong>Publication Date</strong>: 2009-12-01<br>
 <strong>Venue</strong>: International Journal of Epidemiology<br>
@@ -19723,7 +19806,7 @@ Abstract unavailable from Semantic Scholar.
   <summary><strong>2009-01-15 — Covariate adjustment in randomized trials with binary outcomes: Targeted maximum likelihood estimation</strong></summary>
 
 <p>
-<strong>Authors</strong>: Kelly L. Moore, M. V. D. Laan<br>
+<strong>Authors</strong>: Kelly L. Moore, M. J. van der Laan<br>
 <strong>Year</strong>: 2009<br>
 <strong>Publication Date</strong>: 2009-01-15<br>
 <strong>Venue</strong>: Statistics in Medicine<br>
@@ -19740,7 +19823,7 @@ Covariate adjustment using linear models for continuous outcomes in randomized t
   <summary><strong>2009 — tmleLite: A simplified R package for targeted maximum likelihood estimation</strong></summary>
 
 <p>
-<strong>Authors</strong>: Susan Gruber, M. J. Laan<br>
+<strong>Authors</strong>: Susan Gruber, M. J. van der Laan<br>
 <strong>Year</strong>: 2009<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/57793e18560ca54fab0a478bd8f1288e9d9c799f">Semantic Scholar</a><br>
 <strong>Matched Keywords</strong>: targeted maximum likelihood estimation
@@ -19829,9 +19912,9 @@ Abstract unavailable from Semantic Scholar.
   <summary><strong>2008 — A Guide to Causal Parameters in Case-Control Designs: Targeted Maximum Likelihood Estimation</strong></summary>
 
 <p>
-<strong>Authors</strong>: Sherri Rose, M. J. Laan<br>
+<strong>Authors</strong>: S. Rose, M. J. van der Laan<br>
 <strong>Year</strong>: 2008<br>
-<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/7077353ec1430aa2d22a67724c471ac8d5afeeba">Semantic Scholar</a><br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/4622a9677e76ed2bb9062dbc88018e9a14a9366a">Semantic Scholar</a><br>
 <strong>Matched Keywords</strong>: targeted maximum likelihood estimation
 </p>
 <p><strong>Abstract</strong>:<br>
