@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T00:13:01Z",
+  "generated_at": "2026-09-26T02:42:29Z",
   "source": "Semantic Scholar Graph API",
   "unauthenticated": true,
   "mode": "bulk",
@@ -18,7 +18,7 @@
   "query_stats": [
     {
       "keyword": "tmle",
-      "fetched_raw_count": 512
+      "fetched_raw_count": 515
     },
     {
       "keyword": "targeted maximum likelihood estimation",
@@ -30,7 +30,7 @@
     },
     {
       "keyword": "super learner",
-      "fetched_raw_count": 1070
+      "fetched_raw_count": 1072
     },
     {
       "keyword": "super learning",
@@ -38,18 +38,87 @@
     },
     {
       "keyword": "highly adaptive lasso",
-      "fetched_raw_count": 251
+      "fetched_raw_count": 253
     }
   ],
   "query_errors": [],
   "incomplete": false,
-  "fetched_paper_count": 992,
-  "newly_appended_count": 0,
-  "updated_existing_count": 71,
+  "fetched_paper_count": 996,
+  "newly_appended_count": 5,
+  "updated_existing_count": 21,
   "existing_blocked_removed": 0,
   "existing_duplicates_removed": 0,
-  "newly_added_papers": [],
-  "paper_count": 1148,
+  "newly_added_papers": [
+    {
+      "title": "Assessing the impacts of sufficient and reliable electricity in low-resource healthcare facilities.",
+      "year": 2026,
+      "authors": [
+        "R. McCord",
+        "Samuel B. Miles",
+        "Jackson Mughuma",
+        "D. Kammen",
+        "Laura H. Kwong"
+      ],
+      "publication_date": "2026-09-22",
+      "doi": "10.1073/pnas.2538126123",
+      "paper_id": "680410d241c373b0d11d5549425f31436be04bad"
+    },
+    {
+      "title": "Atenolol or Bisoprolol after Myocardial Infarction without Recorded Heart Failure.",
+      "year": 2026,
+      "authors": [
+        "T. Laurenceau",
+        "U. Meli",
+        "Louise Z. Wang",
+        "R. Chocron",
+        "P. Cezard",
+        "Emma Menant",
+        "F. Beganton",
+        "J. Empana",
+        "Emmanuel Bacry",
+        "Xavier Jouven"
+      ],
+      "publication_date": "2026-09-22",
+      "doi": "10.1056/evidoa2600138",
+      "paper_id": "5cad943f307b0f696e487ca4b77f8fe179e0eda8"
+    },
+    {
+      "title": "Estimating Heterogeneous Causal Effects of Maternal Healthcare on Child Nutritional Outcomes in Nepal: A Survey-Aware Analysis Using TMLE, Super Learner and BART",
+      "year": 2026,
+      "authors": [
+        "Nanda Kumar Tharu",
+        "Prasamsha Aryal"
+      ],
+      "publication_date": "2026-09-20",
+      "doi": "10.68031/njsd.v1i.00010",
+      "paper_id": "310265e5cfcfc9f3c53fd2b87ed16e18cf4f0b74"
+    },
+    {
+      "title": "Three Routes to One Answer: Reconciling AIPW, TMLE, and Double Machine Learning for Applied Researchers",
+      "year": 2026,
+      "authors": [
+        "M. Karim"
+      ],
+      "publication_date": "2026-08-08",
+      "doi": null,
+      "paper_id": "fcbd67fb89cd91cb1b2ad3e127790a1a7e843d27"
+    },
+    {
+      "title": "Using Policy Learning to Inform Health Insurance Targeting: A Case Study of Indonesia.",
+      "year": 2025,
+      "authors": [
+        "Vishalie Shah",
+        "Andrew M Jones",
+        "I. Malenica",
+        "Taufik Hidayat",
+        "N. Kreif"
+      ],
+      "publication_date": "2025-09-08",
+      "doi": "10.1002/hec.70031",
+      "paper_id": "1cffc6a28ce59dc8e86782e3f1a1135310d2687e"
+    }
+  ],
+  "paper_count": 1153,
   "papers": [
     {
       "title": "A Causal Inference Approach for Evaluating Diagnostic Tests and AI-Enabled Medical Devices: From Effect Modification to Information-Augmented Decision-Making",
@@ -574,6 +643,29 @@
       ]
     },
     {
+      "title": "Assessing the impacts of sufficient and reliable electricity in low-resource healthcare facilities.",
+      "authors": [
+        "R. McCord",
+        "Samuel B. Miles",
+        "Jackson Mughuma",
+        "D. Kammen",
+        "Laura H. Kwong"
+      ],
+      "abstract": "Health systems across sub-Saharan Africa often lack the electricity needed for lighting, medical, diagnostic, and sterilization equipment, and refrigeration. More than one billion people globally rely on facilities with no electricity or a highly unreliable supply. Using survey data, sensor data, and monthly health system records from 303 facilities across three provinces of the Democratic Republic of the Congo, we provide estimates of the impact of having sufficient and reliable power on inpatient mortality rates, patient utilization rates, and staffing. Using longitudinal targeted maximum likelihood estimation and two-way fixed effects models, we find that facilities with sufficient and reliable power ([Formula: see text]22 h of power/day) experience a 41% reduction in mortality (a 1.8 percentage point reduction from control facilities, where mortality rates average 4.5%). For a subset of facilities where we measure reliability over time, we find that during months where the uptime [Formula: see text]22 h/d, mortality rates are 1.8 percentage points lower, suggesting that sustaining reliable power is also important. In facilities with reliable power there is also a 17% increase in the number of outpatients and a 24% increase in the number of days nurses work. Our results underscore the critical role of electricity as a foundational health system input with large impacts on patient survival and service quality, and demonstrate the potential of low-cost survey tools for capturing reliability in data-scarce settings.",
+      "year": 2026,
+      "publication_date": "2026-09-22",
+      "paper_id": "680410d241c373b0d11d5549425f31436be04bad",
+      "url": "https://www.semanticscholar.org/paper/680410d241c373b0d11d5549425f31436be04bad",
+      "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+      "doi": "10.1073/pnas.2538126123",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
+      ]
+    },
+    {
       "title": "Association between Milrinone Use and Mortality Risk in Sepsis: Insights from the MIMIC-IV Database.",
       "authors": [
         "Jia-Li Wu",
@@ -618,6 +710,34 @@
       ],
       "source_queries": [
         "super learner"
+      ]
+    },
+    {
+      "title": "Atenolol or Bisoprolol after Myocardial Infarction without Recorded Heart Failure.",
+      "authors": [
+        "T. Laurenceau",
+        "U. Meli",
+        "Louise Z. Wang",
+        "R. Chocron",
+        "P. Cezard",
+        "Emma Menant",
+        "F. Beganton",
+        "J. Empana",
+        "Emmanuel Bacry",
+        "Xavier Jouven"
+      ],
+      "abstract": "BACKGROUND Beta-blockers are a cornerstone of therapy following myocardial infarction. The effect of different β-blockers on the outcomes of patients without heart failure after myocardial infarction is not well-studied. METHODS This observational cohort study used administrative data from French National Health Data System. Eligible patients were 18 years of age or older, hospitalized in the Paris area between January 1, 2008, and December 31, 2018, with a new myocardial infarction, and were dispensed either atenolol or bisoprolol within 2 days of hospital discharge. Patients prescribed β-blockers or loop diuretics or with a recorded diagnosis of heart failure (based on International Classification of Diseases, 10th Revision codes) during the 2 years preceding hospital discharge were excluded. Outcomes were followed for up to 2 years following hospital discharge and included major adverse cardiovascular events (cardiac arrest, all-cause mortality, reinfarction, stroke, or hospitalization for heart failure) (primary outcome) and all-cause mortality (secondary outcome). Targeted maximum likelihood estimation was used to estimate the average treatment effects (ATEs) comparing patients initiated on atenolol versus bisoprolol. RESULTS Among 11,558 patients, 1523 (13.2%) initiated atenolol and 10,035 (86.8%) initiated bisoprolol within 2 days of discharge. Comparing the atenolol group to the bisoprolol group, the ATE was 2.9 percentage points (95% confidence interval [CI], 1.1-4.7) for major adverse cardiovascular events and 0.6 percentage points (95% CI, -0.2 to 1.3) for all-cause mortality. The weighted proportions of patients experiencing major adverse cardiovascular events were 10.8% and 14.1% in the atenolol and bisoprolol groups, respectively. The weighted proportions of patients experiencing all-cause mortality were 1.4% and 2.2% in the atenolol and bisoprolol groups, respectively. CONCLUSIONS Among patients without recorded characteristics in an administrative database suggesting the presence of heart failure, initiation of atenolol after myocardial infarction was associated with a lower risk of major adverse cardiovascular events, but not all-cause mortality, at 2 years compared with bisoprolol. (Funded by PRAIRIE and others.).",
+      "year": 2026,
+      "publication_date": "2026-09-22",
+      "paper_id": "5cad943f307b0f696e487ca4b77f8fe179e0eda8",
+      "url": "https://www.semanticscholar.org/paper/5cad943f307b0f696e487ca4b77f8fe179e0eda8",
+      "venue": "NEJM Evidence",
+      "doi": "10.1056/EVIDoa2600138",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
       ]
     },
     {
@@ -1685,6 +1805,28 @@
       "source_queries": [
         "super learner",
         "targeted maximum likelihood estimation"
+      ]
+    },
+    {
+      "title": "Estimating Heterogeneous Causal Effects of Maternal Healthcare on Child Nutritional Outcomes in Nepal: A Survey-Aware Analysis Using TMLE, Super Learner and BART",
+      "authors": [
+        "Nanda Kumar Tharu",
+        "Prasamsha Aryal"
+      ],
+      "abstract": "",
+      "year": 2026,
+      "publication_date": "2026-09-20",
+      "paper_id": "310265e5cfcfc9f3c53fd2b87ed16e18cf4f0b74",
+      "url": "https://www.semanticscholar.org/paper/310265e5cfcfc9f3c53fd2b87ed16e18cf4f0b74",
+      "venue": "Nepal Journal of Statistics and Data Sciences",
+      "doi": "10.68031/njsd.v1i.00010",
+      "matched_keywords": [
+        "super learner",
+        "tmle"
+      ],
+      "source_queries": [
+        "super learner",
+        "tmle"
       ]
     },
     {
@@ -3725,6 +3867,28 @@
       ]
     },
     {
+      "title": "Three Routes to One Answer: Reconciling AIPW, TMLE, and Double Machine Learning for Applied Researchers",
+      "authors": [
+        "M. Karim"
+      ],
+      "abstract": "Augmented inverse-probability weighting (AIPW), targeted maximum likelihood estimation (TMLE), and double/debiased machine learning (DML) are three routes to the same efficient influence function for the average treatment effect --- settled theory we treat as background. This tutorial's contribution is its worked, shared-nuisance reconciliation on real data: what a practitioner must actually match for the routes, and the software packages, to agree. Working the effect of smoking cessation on weight change in the open NHEFS data (n=1566) with one shared Super Learner library and identical cross-fitting folds, we build all three estimators by hand from one influence function, in full-sample, cross-fit, and double-cross-fit variants; the six resulting doubly-robust estimates span only 3.32--3.42 kg, consistent with the established benchmark. We then reconcile the same estimand across our engine and the tmle, AIPW, DoubleML, and tmle3 packages. At their defaults the estimates span 3.32--3.49 kg. Once the library and folds are matched and single-split noise is averaged out, the three library-sharing implementations agree to within 0.01 kg --- so the residual spread traces to the nuisance library, folds, and repetitions, not to the estimator label. Because the estimators share one influence function, they agree under good overlap; under a positivity violation the pooled ATE is not identified without additional extrapolation assumptions, and their finite-sample estimates can then diverge sharply. We therefore place a positivity diagnosis ahead of estimator choice, illustrate the failure on a no-overlap example, and close with a reporting checklist. Open-source R code reproduces every number.",
+      "year": 2026,
+      "publication_date": "2026-08-08",
+      "paper_id": "fcbd67fb89cd91cb1b2ad3e127790a1a7e843d27",
+      "url": "https://www.semanticscholar.org/paper/fcbd67fb89cd91cb1b2ad3e127790a1a7e843d27",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "super learner",
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "super learner",
+        "tmle"
+      ]
+    },
+    {
       "title": "Toward a practical handbook for choosing among causal inference methods in non-randomized studies with binary outcomes: A simulation study for applied researchers",
       "authors": [
         "Adri'an Aurensanz-Crespo",
@@ -5022,7 +5186,7 @@
       "title": "Causal Inference for Network Autoregression Model: A Targeted Minimum Loss Estimation Approach",
       "authors": [
         "Yong Wu",
-        "Shuyuan Wu",
+        "Shu-Yuan Wu",
         "Xinwei Sun",
         "Xue-Ning Zhu"
       ],
@@ -6065,7 +6229,7 @@
       "authors": [
         "Yaning Feng",
         "Zhiyuan Yang",
-        "Xiaobo Lai",
+        "Xiao-Bo Lai",
         "Liangying Yin"
       ],
       "abstract": "BACKGROUND The relationship between sleep and depression has been extensively explored; however, research on the long-term causal effects of chronic sleep insufficiency on depressive symptoms remains limited. This study employs advanced causal inference techniques to assess the longitudinal impact of sleep insufficiency on depressive symptoms, accounting for both time-invariant and time-varying confounders. METHODS Data from the China Health and Retirement Longitudinal Study (CHARLS) were analyzed. Sleep insufficiency was defined as <6 h of sleep per day. Longitudinal targeted maximum likelihood estimation (LTMLE) was used to examine the impact of persistent sleep insufficiency over 2 to 9 years on depressive symptoms, measured by the CESD-10 scale. Subgroup analyses by gender and age, as well as the effects of napping duration, were also conducted. RESULTS The study included 4362 participants, with a mean age of 55.90 years (SD = 7.71). At baseline, 924 participants reported insufficient sleep. The average treatment effect (ATE) for depressive symptoms increased initially, peaking at 3.75 points at 7 years, then slightly declining to 3.66 points at 9 years. The ATE was higher in females (4.57) than in males (2.80). Napping for over 30 min was associated with reduced depressive symptoms. Sensitivity analyses confirmed the robustness of these findings. CONCLUSIONS This study provides evidence of the longitudinal causal effect of insufficient sleep on depressive symptoms. Over 9 years, ATE initially increased, plateauing after 7 years. Napping for over 30 min was linked to lower depressive symptoms, especially in those with insufficient nighttime sleep. Subgroup analyses showed stronger effects in females.",
@@ -8578,6 +8742,29 @@
       ]
     },
     {
+      "title": "Using Policy Learning to Inform Health Insurance Targeting: A Case Study of Indonesia.",
+      "authors": [
+        "Vishalie Shah",
+        "Andrew M Jones",
+        "I. Malenica",
+        "Taufik Hidayat",
+        "N. Kreif"
+      ],
+      "abstract": "This paper demonstrates how optimal policy learning can inform the targeted allocation of Indonesia's two subsidized health insurance programmes. Using national survey data, we develop policy rules aimed at minimizing \"catastrophic health expenditure\" among enrollees of APBD or APBN, the two government-funded schemes. Employing a super learner ensemble approach, we use regression and machine learning methods of varying complexity to estimate conditional average treatment effects and construct policy rules to optimize program benefits, both with and without budget constraints. We find that the financial impact of APBD enrollment over APBN differs with household characteristics, particularly demographic composition, socioeconomic status, and geography. Households assigned to APBD under the policy rule are typically urban-based with better facilities, whereas rural households with less accessible healthcare are assigned to APBN-a pattern intensified under budget constraints. Both constrained and unconstrained optimal policy assignments show lower expected catastrophic expenditure risk than the current assignment strategy. This study contributes to the literature on heterogeneous treatment effects, optimal policy leaning, and health financing in developing countries, showcasing data-driven solutions for more equitable resource allocation in public health insurance contexts.",
+      "year": 2025,
+      "publication_date": "2025-09-08",
+      "paper_id": "1cffc6a28ce59dc8e86782e3f1a1135310d2687e",
+      "url": "https://www.semanticscholar.org/paper/1cffc6a28ce59dc8e86782e3f1a1135310d2687e",
+      "venue": "Health Economics",
+      "doi": "10.1002/hec.70031",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
       "title": "Vaping nicotine is associated with increased medically-attended COVID-19 in women of reproductive age in an integrated health system",
       "authors": [
         "J. Velotta",
@@ -9400,22 +9587,23 @@
       "title": "C-Learner: Constrained Learning for Causal Inference",
       "authors": [
         "T. Cai",
-        "Yuri Fonseca",
+        "Y. Fonseca",
         "Kaiwen Hou",
         "Hongseok Namkoong"
       ],
-      "abstract": "Popular debiased estimation methods for causal inference -- such as augmented inverse propensity weighting and targeted maximum likelihood estimation -- enjoy desirable asymptotic properties like statistical efficiency and double robustness but they can produce unstable estimates when there is limited overlap between treatment and control, requiring additional assumptions or ad hoc adjustments in practice (e.g., truncating propensity scores). In contrast, simple plug-in estimators are stable but lack desirable asymptotic properties. We propose a novel debiasing approach that achieves the best of both worlds, producing stable plug-in estimates with desirable asymptotic properties. Our constrained learning framework solves for the best plug-in estimator under the constraint that the first-order error with respect to the plugged-in quantity is zero, and can leverage flexible model classes including neural networks and tree ensembles. In several experimental settings, including ones in which we handle text-based covariates by fine-tuning language models, our constrained learning-based estimator outperforms basic versions of one-step estimation and targeting in challenging settings with limited overlap between treatment and control, and performs similarly otherwise.",
+      "abstract": "Debiasing methods such as augmented inverse propensity weighting (AIPW), and targeted maximum likelihood estimation (TMLE) enjoy asymptotic properties like semiparametric efficiency and double robustness, but can produce unstable estimates in practice that require ad hoc adjustments (e.g., truncating propensity scores). In contrast, simple plug-ins can remain stable but lack these asymptotic guarantees. To achieve the best of both worlds---a plug-in that enjoys strong asymptotic guarantees---we propose a constrained learning framework that trains a nuisance model to minimize prediction error subject to the constraint that the estimated first-order error of the resulting plug-in is zero. To compare different debiasing methods that share the same classical limit, we study a stylized high-dimensional regression problem where nuisance estimation errors do not vanish asymptotically. Our unified analysis covers both $dn$, as well as ridge regularization, and characterizes how overlap affects the estimators'limiting distributions. Under sufficient overlap, our estimator has smaller asymptotic variance than AIPW and TMLE, whereas when overlap deteriorates so much that AIPW and TMLE are no longer root-$n$ consistent, constrained learning still retains the direct plug-in's root-$n$ limit. Empirically, across a range of experimental settings including those with text-based covariates and language models, we observe our estimator outperforms classical debiasing methods in challenging settings with limited overlap between treatment and control, and performs similarly otherwise.",
       "year": 2024,
       "publication_date": "2024-05-15",
-      "paper_id": "9c6a387f437cf85960e603114e07f595e9b5e01d",
-      "url": "https://www.semanticscholar.org/paper/9c6a387f437cf85960e603114e07f595e9b5e01d",
+      "paper_id": "9039e65d3061f4fd4bf56d08c088524339cf5db4",
+      "url": "https://www.semanticscholar.org/paper/9039e65d3061f4fd4bf56d08c088524339cf5db4",
       "venue": null,
       "doi": null,
       "matched_keywords": [
-        "targeted maximum likelihood estimation"
+        "targeted maximum likelihood estimation",
+        "tmle"
       ],
       "source_queries": [
-        "targeted maximum likelihood estimation"
+        "tmle"
       ]
     },
     {
@@ -9747,7 +9935,7 @@
         "Ava Yap",
         "D. Ozgediz",
         "Emma Bryce",
-        "Maija Cheung",
+        "Maija S. Cheung",
         "Maíra Fedatto",
         "E. Ameh"
       ],
@@ -9972,7 +10160,7 @@
       "title": "Doubly Robust Targeted Estimation of Subgroup Average Treatment Effects for Time-to-event Outcomes with Competing Risks",
       "authors": [
         "Run-Jia Li",
-        "V. Talisa",
+        "Victor B. Talisa",
         "Chung-Chou H. Chang"
       ],
       "abstract": "In recent years, precision treatment strategies have gained significant attention in medical research, particularly for patient care. We propose a novel framework for estimating subgroup average treatment effects (ATE) in time-to-event data with competing risks, using ICU patients with sepsis as an illustrative example. Our approach, based on cumulative incidence functions and targeted maximum likelihood estimation (TMLE), achieves both asymptotic efficiency and double robustness. The primary contribution of this work lies in our derivation of the efficient influence function for the targeted causal parameter, subgroup ATE. We established the theoretical proofs for these properties, and subsequently confirmed them through simulations. Our TMLE framework is flexible, accommodating various regression and machine learning models, making it applicable in diverse scenarios. In order to identify variables contributing to treatment effect heterogeneity and to facilitate accurate estimation of subgroup ATE, we developed two distinct variable importance measures (VIMs). This work provides a powerful tool for optimizing personalized treatment strategies, furthering the pursuit of precision medicine.",
@@ -11266,7 +11454,7 @@
     {
       "title": "Post-traumatic stress disorder as a risk factor for major adverse cardiovascular events: a cohort study of a South African medical insurance scheme",
       "authors": [
-        "C. Mesa-Vieira",
+        "Cristina Mesa-Vieira",
         "C. Didden",
         "Michael Schomaker",
         "J. Mouton",
@@ -11276,7 +11464,7 @@
         "M. Cornell",
         "M. Tlali",
         "R. Kassanjee",
-        "Oscar H Franco",
+        "O. Franco",
         "S. Seedat",
         "A. Haas"
       ],
@@ -17948,7 +18136,7 @@
       "authors": [
         "G. Dashti",
         "Katherine J. Lee",
-        "J. Simpson",
+        "Julie A. Simpson",
         "Ian R. White",
         "J. Carlin",
         "M. Moreno-Betancur"
@@ -18449,7 +18637,7 @@
       "title": "CIMTx: An R Package for Causal Inference with Multiple Treatments using Observational Data",
       "authors": [
         "Liangyuan Hu",
-        "Jiayi Ji"
+        "Jia-Yi Ji"
       ],
       "abstract": "CIMTx provides efficient and unified functions to implement modern methods for causal inferences with multiple treatments using observational data with a focus on binary outcomes. The methods include regression adjustment, inverse probability of treatment weighting, Bayesian additive regression trees, regression adjustment with multivariate spline of the generalized propensity score, vector matching and targeted maximum likelihood estimation. In addition, CIMTx illustrates ways in which users can simulate data adhering to the complex data structures in the multiple treatment setting. Furthermore, the CIMTx package offers a unique set of features to address the key causal assumptions: positivity and ignorability. For the positivity assumption, CIMTx demonstrates techniques to identify the common support region for retaining inferential units using inverse probability of treatment weighting, Bayesian additive regression trees and vector matching. To handle the ignorability assumption, CIMTx provides a flexible Monte Carlo sensitivity analysis approach to evaluate how causal conclusions would be altered in response to different magnitude of departure from ignorable treatment assignment.",
       "year": 2021,
@@ -20410,7 +20598,7 @@
       "authors": [
         "Xi Yang",
         "B. Dindoruk",
-        "Ligang Lu"
+        "Li-Gang Lu"
       ],
       "abstract": "Abstract The need for fluid properties or PVT (Pressure-Volume-Temperature) properties, is part of the entire Exploration and Production (EP only bulk properties (Gas-Oil-Ratio, gas gravity, API gravity and reservoir Temperature) are available; both compositional data and bulk properties are available. Through literature review, there is no research on using only compositional data and temperature to predict bubble point pressure. Our super learner model offers an accurate solution for oil bubble point pressure when only compositional data and temperature are available. Machine learning models perform better than empirical correlations with limited input data (i.e., bulk properties). When compositional data and bulk properties are all used as predictors, super learner reaches about 5.146% mean absolute relative error on predicting the bubble point pressure from global samples with bubble point pressures in the range of 100 to 10,000 psi, which is a wider range compared to most ANN models published in literature.",
       "year": 2020,
@@ -23339,7 +23527,7 @@
       "title": "Benchmarking deep learning models on large healthcare datasets",
       "authors": [
         "S. Purushotham",
-        "Chuizheng Meng",
+        "Chui-Zheng Meng",
         "Zhengping Che",
         "Yan Liu"
       ],
@@ -23621,7 +23809,7 @@
         "Yaoyan Wang",
         "Xiaofan Lu",
         "Shengjie Liu",
-        "Fangrong Yan"
+        "Fang-Rong Yan"
       ],
       "abstract": "We aim to construct more accurate prognostic model for KIRC patients by combining the clinical and genetic information and monitor the disease progression in dynamically updated manner. By obtaining cross-validated prognostic indices from clinical and genetic model, we combine the two sources information into the Super learner model, and then introduce the time-varying effect into the combined model using the landmark method for real-time dynamic prediction. The Super learner model has better prognostic performance since it can not only employ the preferable clinical prognostic model constructed by oneself or reported in the current literature, but also incorporate genome level information to strengthen effectiveness. Apart from this, four representative patients’ mortality curves are drawn in the dynamically updated manner based on the Super learner model. It is found that effectively reducing the two prognostic indices value through suitable treatments might achieve the purpose of controlling the mortality of patients. Combining clinical and genetic information in the Super learner model would enhance the prognostic performance and yield more accurate results for dynamic predictions. Doctors could give patients more personalized treatment with dynamically updated monitoring of disease status, as well as some candidate prognostic factors for future research.",
       "year": 2018,
@@ -23743,7 +23931,7 @@
       "title": "Increased Alzheimer's risk during the menopause transition: A 3-year longitudinal brain imaging study",
       "authors": [
         "Lisa Mosconi",
-        "Aneela Rahman",
+        "Aneela Atta Ur Rahman",
         "I. Díaz",
         "Xian Wu",
         "Olivia Scheyer",
@@ -23882,7 +24070,7 @@
     {
       "title": "Marginal Structural Models with Counterfactual Effect Modifiers",
       "authors": [
-        "Wenjing Zheng",
+        "Wen-Jing Zheng",
         "Zhe-Hui Luo",
         "M. J. van der Laan"
       ],
@@ -24549,7 +24737,7 @@
       "title": "A new approach to hierarchical data analysis: Targeted maximum likelihood estimation for the causal effect of a cluster-level exposure",
       "authors": [
         "L. Balzer",
-        "Wenjing Zheng",
+        "Wen-Jing Zheng",
         "M. J. van der Laan",
         "M. Petersen"
       ],
@@ -24573,7 +24761,7 @@
       "title": "A New Approach to Hierarchical Data Analysis: Targeted Maximum Likelihood Estimation of Cluster-Based Effects Under Interference",
       "authors": [
         "L. Balzer",
-        "Wenjing Zheng",
+        "Wen-Jing Zheng",
         "M. J. van der Laan",
         "M. Petersen"
       ],
@@ -24615,7 +24803,7 @@
       "title": "Benchmark of Deep Learning Models on Large Healthcare MIMIC Datasets",
       "authors": [
         "S. Purushotham",
-        "Chuizheng Meng",
+        "Chui-Zheng Meng",
         "Zhengping Che",
         "Yan Liu"
       ],
@@ -24681,7 +24869,7 @@
     {
       "title": "Constrained binary classification using ensemble learning: an application to cost-efficient targeted PrEP strategies",
       "authors": [
-        "Wenjing Zheng",
+        "Wen-Jing Zheng",
         "L. Balzer",
         "M. J. van der Laan",
         "M. Petersen"
@@ -24925,7 +25113,7 @@
     {
       "title": "Longitudinal Mediation Analysis with Time-varying Mediators and Exposures, with Application to Survival Outcomes",
       "authors": [
-        "Wenjing Zheng",
+        "Wen-Jing Zheng",
         "M. J. van der Laan"
       ],
       "abstract": "Abstract: 1 In this paper, we study the effect of a time-varying exposure mediated by a time-varying intermediate variable. We consider general longitudinal settings, including survival outcomes. At a given time point, the exposure and mediator of interest are influenced by past covariates, mediators and exposures, and affect future covariates, mediators and exposures. Right censoring, if present, occurs in response to past history. To address the challenges in mediation analysis that are unique to these settings, we propose a formulation in terms of random interventions based on conditional distributions for the mediator. This formulation, in particular, allows for well-defined natural direct and indirect effects in the survival setting, and natural decomposition of the standard total effect. Upon establishing identifiability and the corresponding statistical estimands, we derive the efficient influence curves and establish their robustness properties. Applying Targeted Maximum Likelihood Estimation, we use these efficient influence curves to construct multiply robust and efficient estimators. We also present an inverse probability weighted estimator and a nested non-targeted substitution estimator for these parameters.",
@@ -25247,7 +25435,7 @@
       "title": "TARGETED SEQUENTIAL DESIGN FOR TARGETED LEARNING INFERENCE OF THE OPTIMAL TREATMENT RULE AND ITS MEAN REWARD",
       "authors": [
         "A. Chambaz",
-        "Wenjing Zheng",
+        "Wen-Jing Zheng",
         "M. J. van der Laan"
       ],
       "abstract": "This article studies the targeted sequential inference of an optimal treatment rule (TR) and its mean reward in the non-exceptional case, i.e., assuming that there is no stratum of the baseline covariates where treatment is neither beneficial nor harmful, and under a companion margin assumption. Our pivotal estimator, whose definition hinges on the targeted minimum loss estimation (TMLE) principle, actually infers the mean reward under the current estimate of the optimal TR. This data-adaptive statistical parameter is worthy of interest on its own. Our main result is a central limit theorem which enables the construction of confidence intervals on both mean rewards under the current estimate of the optimal TR and under the optimal TR itself. The asymptotic variance of the estimator takes the form of the variance of an efficient influence curve at a limiting distribution, allowing to discuss the efficiency of inference. As a by product, we also derive confidence intervals on two cumulated pseudo-regrets, a key notion in the study of bandits problems. A simulation study illustrates the procedure. One of the corner-stones of the theoretical study is a new maximal inequality for martingales with respect to the uniform entropy integral.",
@@ -25492,7 +25680,7 @@
     {
       "title": "Doubly Robust and Efficient Estimation of Marginal Structural Models for the Hazard Function",
       "authors": [
-        "Wenjing Zheng",
+        "Wen-Jing Zheng",
         "Maya L. Petersen",
         "M. J. van der Laan"
       ],
@@ -25766,7 +25954,7 @@
     {
       "title": "Targeted learning in Big Data : bridging data-adaptive estimation and statistical inference",
       "authors": [
-        "Wenjing Zheng"
+        "Wen-Jing Zheng"
       ],
       "abstract": "Cette thèse porte sur le développement de méthodes semi-paramétriques robustes pour l'inférence de paramètres complexes émergeant à l'interface de l'inférence causale et la biostatistique. Ses motivations sont les applications à la recherche épidémiologique et médicale à l'ère des Big Data. Nous abordons plus particulièrement deux défis statistiques pour réconcilier, dans chaque contexte, estimation adaptative et inférence statistique. Le premier défi concerne la maximisation de l'information tirée d'essais contrôlés randomisés (ECRs) grâce à la conception d'essais adaptatifs. Nous présentons un cadre théorique pour la construction et l'analyse d'ECRs groupes-séquentiels, réponses-adaptatifs et ajustés aux covariable (traduction de l'expression anglaise « group-sequential, response-adaptive, covariate-adjusted », d'où l'acronyme CARA) qui permettent le recours à des procédures adaptatives d'estimation à la fois pour la construction dynamique des schémas de randomisation et pour l'estimation du modèle de réponse conditionnelle. Ce cadre enrichit la littérature existante sur les ECRs CARA notamment parce que l'estimation des effets est garantie robuste même lorsque les modèles sur lesquels s'appuient les procédures adaptatives d'estimation sont mal spécificiés. Le second défi concerne la mise au point et l'étude asymptotique d'une procédure inférentielle semi-paramétrique avec estimation adaptative des paramètres de nuisance. A titre d'exemple, nous choisissons comme paramètre d'intérêt la différence des risques marginaux pour un traitement binaire. Nous proposons une version cross-validée du principe d'inférence par minimisation ciblée de pertes (« Cross-validated Targeted Mimum Loss Estimation » en anglais, d'où l'acronyme CV-TMLE) qui, comme son nom le suggère, marie la procédure TMLE classique et le principe de la validation croisée. L'estimateur CV-TMLE ainsi élaboré hérite de la propriété typique de double-robustesse et aussi des propriétés d'efficacité du TMLE classique. De façon remarquable, le CV-TMLE est linéairement asymptotique sous des conditions minimales, sans recourir aux conditions de type Donsker.",
       "year": 2016,
