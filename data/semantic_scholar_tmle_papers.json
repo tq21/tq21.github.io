@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T02:42:29Z",
+  "generated_at": "2026-10-04T02:34:36Z",
   "source": "Semantic Scholar Graph API",
   "unauthenticated": true,
   "mode": "bulk",
@@ -18,7 +18,7 @@
   "query_stats": [
     {
       "keyword": "tmle",
-      "fetched_raw_count": 515
+      "fetched_raw_count": 517
     },
     {
       "keyword": "targeted maximum likelihood estimation",
@@ -26,11 +26,11 @@
     },
     {
       "keyword": "targeted minimum loss based estimation",
-      "fetched_raw_count": 353
+      "fetched_raw_count": 354
     },
     {
       "keyword": "super learner",
-      "fetched_raw_count": 1072
+      "fetched_raw_count": 1079
     },
     {
       "keyword": "super learning",
@@ -38,87 +38,101 @@
     },
     {
       "keyword": "highly adaptive lasso",
-      "fetched_raw_count": 253
+      "fetched_raw_count": 255
     }
   ],
   "query_errors": [],
   "incomplete": false,
-  "fetched_paper_count": 996,
+  "fetched_paper_count": 1000,
   "newly_appended_count": 5,
-  "updated_existing_count": 21,
+  "updated_existing_count": 24,
   "existing_blocked_removed": 0,
   "existing_duplicates_removed": 0,
   "newly_added_papers": [
     {
-      "title": "Assessing the impacts of sufficient and reliable electricity in low-resource healthcare facilities.",
+      "title": "A Machine Learning–Derived Risk Scorecard for Pneumonia Hospitalization in Japanese Old‐Old Adults",
       "year": 2026,
       "authors": [
-        "R. McCord",
-        "Samuel B. Miles",
-        "Jackson Mughuma",
-        "D. Kammen",
-        "Laura H. Kwong"
+        "Akio Shimizu",
+        "Hajime Kamiya",
+        "Masaki Tanabe",
+        "Ryota Sakamoto",
+        "Hirokazu Matsui",
+        "R. Momosaki"
       ],
-      "publication_date": "2026-09-22",
-      "doi": "10.1073/pnas.2538126123",
-      "paper_id": "680410d241c373b0d11d5549425f31436be04bad"
+      "publication_date": "2026-09-24",
+      "doi": "10.1111/ggi.70850",
+      "paper_id": "ebcb23e09518fd1e331a249a9eb8d5c586aef071"
     },
     {
-      "title": "Atenolol or Bisoprolol after Myocardial Infarction without Recorded Heart Failure.",
+      "title": "Federated Targeted Maximum Likelihood Estimation",
       "year": 2026,
       "authors": [
-        "T. Laurenceau",
-        "U. Meli",
-        "Louise Z. Wang",
-        "R. Chocron",
-        "P. Cezard",
-        "Emma Menant",
-        "F. Beganton",
-        "J. Empana",
-        "Emmanuel Bacry",
-        "Xavier Jouven"
+        "Di-Yang Li",
+        "Fei Wang",
+        "Kyra Gan"
       ],
-      "publication_date": "2026-09-22",
-      "doi": "10.1056/evidoa2600138",
-      "paper_id": "5cad943f307b0f696e487ca4b77f8fe179e0eda8"
-    },
-    {
-      "title": "Estimating Heterogeneous Causal Effects of Maternal Healthcare on Child Nutritional Outcomes in Nepal: A Survey-Aware Analysis Using TMLE, Super Learner and BART",
-      "year": 2026,
-      "authors": [
-        "Nanda Kumar Tharu",
-        "Prasamsha Aryal"
-      ],
-      "publication_date": "2026-09-20",
-      "doi": "10.68031/njsd.v1i.00010",
-      "paper_id": "310265e5cfcfc9f3c53fd2b87ed16e18cf4f0b74"
-    },
-    {
-      "title": "Three Routes to One Answer: Reconciling AIPW, TMLE, and Double Machine Learning for Applied Researchers",
-      "year": 2026,
-      "authors": [
-        "M. Karim"
-      ],
-      "publication_date": "2026-08-08",
+      "publication_date": "2026-09-24",
       "doi": null,
-      "paper_id": "fcbd67fb89cd91cb1b2ad3e127790a1a7e843d27"
+      "paper_id": "f598485edb697b960c5df6ddcbee6afcef159097"
     },
     {
-      "title": "Using Policy Learning to Inform Health Insurance Targeting: A Case Study of Indonesia.",
-      "year": 2025,
+      "title": "Impact of the Social Media Minimum Age on Australian young people and parents: protocol for a mixed-methods evaluation.",
+      "year": 2026,
       "authors": [
-        "Vishalie Shah",
-        "Andrew M Jones",
-        "I. Malenica",
-        "Taufik Hidayat",
-        "N. Kreif"
+        "Anja Stevic",
+        "Y. A. Chen",
+        "A. Y. Lee",
+        "Xun Liu",
+        "Z. Smith-Russack",
+        "Kathryn E. Cairns",
+        "B. Kahl",
+        "Mariesa Nicholas",
+        "Isabella Hall",
+        "Theebana Tharmakumar",
+        "Bronwyn Carlson",
+        "M. de Choudhury",
+        "P. Etchells",
+        "K. Keyes",
+        "Amy C. Orben",
+        "Mitch Prinstein",
+        "Jo Robinson",
+        "Susan M. Sawyer",
+        "J. Sefton-Green",
+        "A. Third",
+        "A. Werner-Seidler",
+        "Jeffrey T. Hancock"
       ],
-      "publication_date": "2025-09-08",
-      "doi": "10.1002/hec.70031",
-      "paper_id": "1cffc6a28ce59dc8e86782e3f1a1135310d2687e"
+      "publication_date": "2026-09-01",
+      "doi": "10.1136/bmjopen-2026-118912",
+      "paper_id": "8c4de0e5ca9bd80bcb0f9d14f3bf2077480d3cb1"
+    },
+    {
+      "title": "Incremental Propensity Score Interventions: A Primer for Pharmacoepidemiologists",
+      "year": 2026,
+      "authors": [
+        "Byeong Yeob Choi"
+      ],
+      "publication_date": "2026-09-24",
+      "doi": "10.1002/pds.70484",
+      "paper_id": "8faf0ed94af4bfcba1a6e8aef00d0b79c77a117d"
+    },
+    {
+      "title": "Research on Probabilistic Prediction Method of Slope Stability Based on Bayesian Optimization Super Learner",
+      "year": 2026,
+      "authors": [
+        "Hua-Jin Zhang",
+        "Ming-Zhen Chai",
+        "Long-Qiang Han",
+        "Fang-Jia Song",
+        "Yi-Xiong Gan"
+      ],
+      "publication_date": "2026-09-26",
+      "doi": "10.1007/s40515-026-01060-w",
+      "paper_id": "714795a08d1e5e1843b010627566aa5f38871719"
     }
   ],
-  "paper_count": 1153,
+  "paper_count": 1158,
   "papers": [
     {
       "title": "A Causal Inference Approach for Evaluating Diagnostic Tests and AI-Enabled Medical Devices: From Effect Modification to Information-Augmented Decision-Making",
@@ -173,7 +187,7 @@
       "title": "A global 1 km gridded dataset of household consumption expenditure in purchasing power parity 2013-2024.",
       "authors": [
         "Run Shi",
-        "Yuanzheng Cui",
+        "Yuan-Zheng Cui",
         "Fang Bian",
         "T. Zhong",
         "Xiangbing Peng",
@@ -211,6 +225,30 @@
       "matched_keywords": [
         "super learner",
         "super learning"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
+      "title": "A Machine Learning–Derived Risk Scorecard for Pneumonia Hospitalization in Japanese Old‐Old Adults",
+      "authors": [
+        "Akio Shimizu",
+        "Hajime Kamiya",
+        "Masaki Tanabe",
+        "Ryota Sakamoto",
+        "Hirokazu Matsui",
+        "R. Momosaki"
+      ],
+      "abstract": "ABSTRACT Aim To develop and internally validate a machine learning–based risk scorecard for 1‐year pneumonia hospitalization among community‐dwelling Japanese adults aged ≥ 75 years using routinely collected frailty screening and claims data. Methods We conducted a retrospective cohort study of 1 098 404 community‐dwelling adults aged ≥ 75 years who completed the Questionnaire for Medical Checkup of Old‐Old (QMCOO) between April 2020 and March 2024, using the Late‐Stage Medical Care System claims database. Data were split into training (70%) and test (30%) sets. A Super Learner ensemble of 20 base learners was developed to predict 1‐year pneumonia hospitalization (ICD‐10: J12–J18, J69). An independent 17‐feature point‐based scorecard (0–21 points) was derived from the training set with Platt calibration. Performance was evaluated by the area under the receiver operating characteristic curve (AUC), calibration slope, and calibration‐in‐the‐large. Results Among 1 098 404 participants (mean age 80.6 [SD 5.0] years; 40.3% male), 4525 (0.41%) experienced pneumonia hospitalization. On the test set, the Super Learner achieved an AUC of 0.823 (95% CI, 0.812–0.834) and the scorecard 0.786 (0.774–0.798), which showed good calibration (slope 1.017; calibration‐in‐the‐large −0.001). Stratification into low (0–6 points; 55.6%, 0.12% event rate), moderate (7–10; 35.4%, 0.49%), and high (≥ 11; 9.0%, 1.91%) groups yielded a 15.9‐fold risk gradient. Conclusions A QMCOO‐based risk scorecard showed good discrimination and calibration for predicting 1‐year pneumonia hospitalization in this population. If externally validated, this tool may help identify high‐risk individuals during routine health checkups and support targeted preventive assessment in primary care.",
+      "year": 2026,
+      "publication_date": "2026-09-24",
+      "paper_id": "ebcb23e09518fd1e331a249a9eb8d5c586aef071",
+      "url": "https://www.semanticscholar.org/paper/ebcb23e09518fd1e331a249a9eb8d5c586aef071",
+      "venue": "Geriatrics & Gerontology International",
+      "doi": "10.1111/ggi.70850",
+      "matched_keywords": [
+        "super learner"
       ],
       "source_queries": [
         "super learner"
@@ -431,7 +469,7 @@
       ]
     },
     {
-      "title": "Accounting for non-adherence: A re-analysis of the Liraglutide Effect and Action in Diabetes: Evaluation of Cardiovascular Outcome Results trial.",
+      "title": "Accounting for non-adherence: A re-analysis of the Liraglutide Effect and Action in Diabetes: Evaluation of Cardiovascular Outcome Results trial",
       "authors": [
         "K. K. Sørensen",
         "J. S. Ohlendorff",
@@ -443,7 +481,7 @@
         "T. Gerds",
         "C. Torp-Pedersen"
       ],
-      "abstract": "BACKGROUND/AIMS The Liraglutide Effect and Action in Diabetes: Evaluation of Cardiovascular Outcome Results trial randomized patients with diabetes to liraglutide or placebo. The per-protocol analysis conditioned on post-baseline adherence and therefore lacked a well-defined estimand. This study sought to evaluate a subset of Liraglutide Effect and Action in Diabetes: Evaluation of Cardiovascular Outcome Results to estimate the effect of sustained liraglutide exposure corresponding to a well-defined per-protocol analysis. METHOD We used the roadmap of targeting learning to define the estimand for the sustained treatment analysis and estimated it with longitudinal targeted minimum loss-based estimation, accounting for protocol deviations and censoring using post-baseline confounders. The results were compared to the intention-to-treat analysis. We report 3.5-year risks of the primary composite outcome (myocardial infarction, stroke, or cardiovascular mortality) and secondary outcomes (each of the primary outcome's components, revascularization, unstable angina pectoris, heart failure, and all-cause mortality). RESULTS The intention-to-treat analysis estimated 3.5-year risks for the primary composite outcome of 11.8% (95% confidence interval: 10.8 to 12.8) in the liraglutide arm and 13.3% (95% confidence interval: 12.3 to 14.3) in the placebo arm, with a risk difference of 1.5% (95% confidence interval: 0.1 to 2.9). Accounting for post-baseline confounders, the sustained treatment analysis estimated 3.5-year risks of 11.4% (95% confidence interval: 10.4 to 12.5) for sustained exposure to liraglutide versus 12.6% (95% confidence interval: 11.5 to 13.7) for sustained exposure to placebo, yielding a risk difference of 1.1% (95% confidence interval: -0.4 to 2.6). Sustained exposure to liraglutide showed no statistically significant difference compared with sustained exposure to placebo for any secondary outcomes at 3.5 years. CONCLUSION We used contemporary methods for causal inference to define and estimate the sustained treatment effects of the Liraglutide Effect and Action in Diabetes: Evaluation of Cardiovascular Outcome Results study by accounting for both baseline and time-varying confounders. The results were consistent with the findings of the original Liraglutide Effect and Action in Diabetes: Evaluation of Cardiovascular Outcome Results trial.",
+      "abstract": "Background/Aims: The Liraglutide Effect and Action in Diabetes: Evaluation of Cardiovascular Outcome Results trial randomized patients with diabetes to liraglutide or placebo. The per-protocol analysis conditioned on post-baseline adherence and therefore lacked a well-defined estimand. This study sought to evaluate a subset of Liraglutide Effect and Action in Diabetes: Evaluation of Cardiovascular Outcome Results to estimate the effect of sustained liraglutide exposure corresponding to a well-defined per-protocol analysis. Method: We used the roadmap of targeting learning to define the estimand for the sustained treatment analysis and estimated it with longitudinal targeted minimum loss-based estimation, accounting for protocol deviations and censoring using post-baseline confounders. The results were compared to the intention-to-treat analysis. We report 3.5-year risks of the primary composite outcome (myocardial infarction, stroke, or cardiovascular mortality) and secondary outcomes (each of the primary outcome’s components, revascularization, unstable angina pectoris, heart failure, and all-cause mortality). Results: The intention-to-treat analysis estimated 3.5-year risks for the primary composite outcome of 11.8% (95% confidence interval: 10.8 to 12.8) in the liraglutide arm and 13.3% (95% confidence interval: 12.3 to 14.3) in the placebo arm, with a risk difference of 1.5% (95% confidence interval: 0.1 to 2.9). Accounting for post-baseline confounders, the sustained treatment analysis estimated 3.5-year risks of 11.4% (95% confidence interval: 10.4 to 12.5) for sustained exposure to liraglutide versus 12.6% (95% confidence interval: 11.5 to 13.7) for sustained exposure to placebo, yielding a risk difference of 1.1% (95% confidence interval: −0.4 to 2.6). Sustained exposure to liraglutide showed no statistically significant difference compared with sustained exposure to placebo for any secondary outcomes at 3.5 years. Conclusion: We used contemporary methods for causal inference to define and estimate the sustained treatment effects of the Liraglutide Effect and Action in Diabetes: Evaluation of Cardiovascular Outcome Results study by accounting for both baseline and time-varying confounders. The results were consistent with the findings of the original Liraglutide Effect and Action in Diabetes: Evaluation of Cardiovascular Outcome Results trial.",
       "year": 2026,
       "publication_date": "2026-06-02",
       "paper_id": "f9f927b590757d9ac664f3caf04e68282a9c0e52",
@@ -828,7 +866,7 @@
         "Xin Zhao",
         "Zhuoran Liu",
         "Jie Yang",
-        "Qingyun Xie",
+        "Qing-Yun Xie",
         "Tianyang Mao",
         "Heng Zhou",
         "Hongyuan Wang",
@@ -1193,7 +1231,7 @@
     {
       "title": "Condition-Specific Readmission Risk Stratification in a Predominantly Black Statewide Cohort Using Machine Learning: Development of Subtype-Specific Models for Heart Failure, Acute Myocardial Infarction, Atrial Fibrillation/Flutter, and Hypertensive Heart Disease",
       "authors": [
-        "I. El Moudden",
+        "Ismail El Moudden",
         "M. Bittner",
         "S. Dodani"
       ],
@@ -1930,11 +1968,11 @@
     {
       "title": "Evaluating bias in target trial emulation for heart failure across statistical and deep learning methods",
       "authors": [
-        "Z. Fan",
-        "Qianqian Yang",
+        "Zheng-Xian Fan",
+        "Qian-Qian Yang",
         "Yifan Hu",
         "G. Danaei",
-        "George Davey Smith",
+        "G. Davey Smith",
         "Shishir Rao",
         "Kazem Rahimi"
       ],
@@ -1973,6 +2011,28 @@
       ],
       "source_queries": [
         "targeted maximum likelihood estimation",
+        "tmle"
+      ]
+    },
+    {
+      "title": "Federated Targeted Maximum Likelihood Estimation",
+      "authors": [
+        "Di-Yang Li",
+        "Fei Wang",
+        "Kyra Gan"
+      ],
+      "abstract": "The evidence behind a scientific or operational decision is often held by hospitals, banks, or registries that cannot pool individual observations. Cross-silo federated learning moves computation to the data and exchanges agreed summaries. Targeted maximum likelihood estimation (TMLE) refines a flexible initial fit, yielding plug-in estimators that respect the model and support efficient inference. TMLE itself, however, has remained a fully centralized procedure. To fill this gap, our paper introduces the first federated TMLE algorithm. We federate targeting itself, for an arbitrary target, loss, and fluctuation family, through two complementary frameworks. FedTMLE-G aggregates local gradients and reproduces centralized targeting step for step. FedTMLE-L lets each institution complete its own fluctuation fit before a single exchange of fitted updates, trading synchronized fidelity for local autonomy. For gradient aggregation, we develop a finite-precision protocol that transmits changes rather than values and certifies targeting accuracy within explicit bounds on exchanges and bits. A description-length analysis of the accepted updates then shows that this finite communication leaves numerical targeting error negligible against sampling uncertainty. The cost of computing an estimator is thus distinct from the complexity of selecting it. Our analysis also indicates that keeping data local is not itself a privacy guarantee of TMLE, since instability of full-record reconstruction need not prevent recovery of a specified sensitive attribute. For a personalized version of local averaging, institutions retain their own estimates and leave once local targeting is complete. A nonconvex convergence bound charges the improvement forfeited through averaging to disagreement among local fits and exposes a tradeoff between equal institutional influence and the sampling variability of small silos.",
+      "year": 2026,
+      "publication_date": "2026-09-24",
+      "paper_id": "f598485edb697b960c5df6ddcbee6afcef159097",
+      "url": "https://www.semanticscholar.org/paper/f598485edb697b960c5df6ddcbee6afcef159097",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
         "tmle"
       ]
     },
@@ -2225,6 +2285,47 @@
       ]
     },
     {
+      "title": "Impact of the Social Media Minimum Age on Australian young people and parents: protocol for a mixed-methods evaluation.",
+      "authors": [
+        "Anja Stevic",
+        "Y. A. Chen",
+        "A. Y. Lee",
+        "Xun Liu",
+        "Z. Smith-Russack",
+        "Kathryn E. Cairns",
+        "B. Kahl",
+        "Mariesa Nicholas",
+        "Isabella Hall",
+        "Theebana Tharmakumar",
+        "Bronwyn Carlson",
+        "M. de Choudhury",
+        "P. Etchells",
+        "K. Keyes",
+        "Amy C. Orben",
+        "Mitch Prinstein",
+        "Jo Robinson",
+        "Susan M. Sawyer",
+        "J. Sefton-Green",
+        "A. Third",
+        "A. Werner-Seidler",
+        "Jeffrey T. Hancock"
+      ],
+      "abstract": "INTRODUCTION Australia implemented the Online Safety Amendment (Social Media Minimum Age) Act 2024 (Cth; SMMA) on 10 December 2025. This policy represents a world-first social media age-restriction, which requires age-restricted social media platforms to take reasonable steps to prevent Australians under the age of 16 from creating or keeping an account. Preliminary estimates suggest that approximately 1 194 000 young people should be affected by the deactivation of accounts. As the SMMA is enacted, we are collecting data to examine the outcomes for young people, parents and families. This study protocol paper serves as a summary of the methodological design for the evaluation of the implementation and outcomes of the SMMA, including (a) young people's adherence, and the SMMA's impact on (b) their digital practices; (c) their physical, psychological and social well-being; (d) their families and (e) community attitudes and dynamics. Adherence refers to a participant's experience of account removal/deactivation and any attempts to bypass or circumvent those restrictions. The term is used solely for brevity, and we acknowledge that children and parents are not subject to legal obligations under the SMMA. METHODS AND ANALYSIS To evaluate the impact of the SMMA implementation, a mixed-methods approach is being undertaken, involving 4121 young people aged 10 to 16 years and their parents or caregivers. Data collection involves five-wave longitudinal parent-child surveys, opt-in passive smartphone tracking, administrative linked and non-linked health and educational data, qualitative interviews and focus groups. We will conduct descriptive analyses examining frequencies, average values, percentages, factor analysis and reliability of scales for each survey wave. Various analytical approaches (eg, logistic regressions, multi-level modelling, random-intercept cross-lagged panel model) may be used to understand both between-person and within-person changes pre- and post-implementation of the SMMA. For causal inference analyses, we will employ targeted maximum likelihood estimation (TMLE) as our primary strategy to evaluate the effect of young people's adherence to the SMMA on key outcomes, such as psychosocial well-being and distress. Qualitative data will be analysed using a combination of thematic analysis and structured coding approaches. This will include iterative analysis of open-ended survey responses and in-depth qualitative data from interviews, focus groups and related tasks to identify key themes, patterns and lived experiences. ETHICS AND DISSEMINATION The study received ethical approval from the Australian Institute of Family Studies (AIFS) Human Research Ethics Committee (application approval number 2025/06) and complies with the National Statement on Ethical Conduct in Human Research and the Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS) Code of Ethics for Aboriginal and Torres Strait Islander Research. All participants provided informed consent at the beginning of the baseline survey and in each subsequent wave. Only parents and young people who provided their consent were eligible to take part in the study. Findings from this evaluation will inform national policy oversight and implementation in Australia, contribute empirical evidence to international debates and inform other countries considering similar age-based regulation of social media. Results will be disseminated through public-facing reports, peer-reviewed publications and stakeholder engagement activities to support evidence-informed decision-making in digital safety regulation in Australia and internationally.",
+      "year": 2026,
+      "publication_date": "2026-09-01",
+      "paper_id": "8c4de0e5ca9bd80bcb0f9d14f3bf2077480d3cb1",
+      "url": "https://www.semanticscholar.org/paper/8c4de0e5ca9bd80bcb0f9d14f3bf2077480d3cb1",
+      "venue": "BMJ Open",
+      "doi": "10.1136/bmjopen-2026-118912",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
+      ]
+    },
+    {
       "title": "Improved 28-day mortality prediction by combining Lactate Dehydrogenase-to-Albumin Ratio(LAR) to lactate-enhanced Sequential Organ Failure Assessment (SOFA) score in patients with sepsis: a derivation and validation study.",
       "authors": [
         "Zhiyang Wang",
@@ -2276,6 +2377,25 @@
       "source_queries": [
         "targeted maximum likelihood estimation",
         "tmle"
+      ]
+    },
+    {
+      "title": "Incremental Propensity Score Interventions: A Primer for Pharmacoepidemiologists",
+      "authors": [
+        "Byeong Yeob Choi"
+      ],
+      "abstract": "ABSTRACT Background In observational pharmacoepidemiology, estimating average treatment effects (ATEs) is often challenging due to a lack of practical positivity. In highly selective clinical settings, certain patients almost always or never receive treatment, causing ATE estimators to rely on unstable extrapolation. Incremental propensity score interventions (IPSIs) offer a stochastic alternative by shifting each patient's probability of treatment, providing a more clinically realistic framework that circumvents positivity violations. Methods We illustrate the IPSI approach, including key identification results and inferential procedures. Using observational data from a cohort of 996 patients undergoing percutaneous coronary intervention (PCI), we evaluated the effect of shifting each patient's probability of receiving abciximab by a predetermined amount on six‐month mortality. Propensity scores (PSs) and outcome predictions were estimated using a machine learning ensemble (Super Learner) with 10‐fold sample splitting. Results The ATE estimate suggested that abciximab administration reduced the 6‐month mortality risk by 5.9 percentage points compared with PCI alone (risk difference = −0.059, 95% CI: −0.104 to −0.015). However, the practical interpretability of the ATE estimate may be limited because it implicitly assumes that patients with a near‐certain probability of treatment could realistically be assigned to withhold abciximab. In contrast, shifting each patient's treatment propensity by odds ratios ranging from 0.1 to 10 showed that 6‐month mortality would be significantly reduced under a strong treatment policy promoting abciximab administration. Conclusions IPSIs provide a robust and practical alternative to conventional causal inference methods in pharmacoepidemiology settings where treatment assignment is highly selective and the strict positivity is violated.",
+      "year": 2026,
+      "publication_date": "2026-09-24",
+      "paper_id": "8faf0ed94af4bfcba1a6e8aef00d0b79c77a117d",
+      "url": "https://www.semanticscholar.org/paper/8faf0ed94af4bfcba1a6e8aef00d0b79c77a117d",
+      "venue": "Pharmacoepidemiology and Drug Safety",
+      "doi": "10.1002/pds.70484",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
       ]
     },
     {
@@ -2573,9 +2693,9 @@
     {
       "title": "Modeling the merger-ringdown of an eccentric test-mass inspiral into a Kerr black hole using the effective-one-body framework",
       "authors": [
-        "G. Faggioli",
+        "Guglielmo Faggioli",
         "A. Buonanno",
-        "Maarten van de Meent",
+        "M. van de Meent",
         "Gaurav Khanna"
       ],
       "abstract": "We characterize and phenomenologically model the merger-ringdown of gravitational waves emitted by a small compact object that plunges and merges into a Kerr black hole from equatorial-eccentric inspirals. The waveforms are generated employing a time-domain Teukolsky code sourced with trajectories computed using the effective-one-body framework. We span values of the Kerr spin $a\\in[-0.9, 0.9] $, eccentricity at the last stable orbit (LSO) $ e_{\\rm LSO} \\in [0,0.9] $, and relativistic anomaly $ \\xi_{\\rm LSO} \\in [0 , 2 \\pi]$. We characterize the last peak of the waveform and ringdown features across the parameter space, finding that the eccentricity mainly affects the last peak features, while it has a smaller impact on the ringdown signal. In contrast, the relativistic anomaly measured at the LSO influences the morphology of the last peak in a restricted portion of the parameter space and has no impact on the ringdown part. We perform the analysis for all the spin-weighted spherical harmonic modes normally included in the $\\texttt{SEOBNR}$ family of models, $(\\ell,m)\\in\\{ (2,2), (3,3), (4,4), (5,5), (2,1), (3,2), (4,3)\\}$. Finally, we introduce a merger-ringdown model for $\\texttt{SEOB-TMLE}$, a forthcoming inspiral-merger-ringdown waveform model for eccentric spin-aligned binary black holes in the test-mass limit, whose features can be extended to comparable-mass regimes. The model also accounts for quasinormal mode mixing during the ringdown. It provides a first step toward incorporating the impact of residual eccentricity close to merger into spin-aligned effective-one-body merger-ringdown models for binary black holes.",
@@ -3073,7 +3193,7 @@
       "title": "PS1-10. Causal Inference Analysis of Full- vs. Half-dose PRRS Vaccination Protocols on Nursery Feed Conversion and Mortality in One Swine Production System",
       "authors": [
         "L. Clemente",
-        "A. P. S. P. Silva",
+        "Ana Paula S. Poeta Silva",
         "Daniel Linhares",
         "Edison S Magalhães"
       ],
@@ -3155,6 +3275,29 @@
       ],
       "source_queries": [
         "targeted maximum likelihood estimation"
+      ]
+    },
+    {
+      "title": "Research on Probabilistic Prediction Method of Slope Stability Based on Bayesian Optimization Super Learner",
+      "authors": [
+        "Hua-Jin Zhang",
+        "Ming-Zhen Chai",
+        "Long-Qiang Han",
+        "Fang-Jia Song",
+        "Yi-Xiong Gan"
+      ],
+      "abstract": "",
+      "year": 2026,
+      "publication_date": "2026-09-26",
+      "paper_id": "714795a08d1e5e1843b010627566aa5f38871719",
+      "url": "https://www.semanticscholar.org/paper/714795a08d1e5e1843b010627566aa5f38871719",
+      "venue": "Transportation Infrastructure Geotechnology",
+      "doi": "10.1007/s40515-026-01060-w",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
       ]
     },
     {
@@ -3800,7 +3943,7 @@
     {
       "title": "The impact of neighborhood violence on domestic femicides in Mexico: A demonstration of the causal inference roadmap.",
       "authors": [
-        "Alma L. Juarez Armenta",
+        "Alma Lilia Juárez Armenta",
         "N. Prata"
       ],
       "abstract": "BACKGROUND The incidence of femicide, the murder of a woman for gender-based reasons, has risen significantly in recent years in Mexico, going from 427 reported victims in 2015 to 797 in 2024. Although individual-level risk factors have been studied, we aimed to study neighborhood-level factors that might be more amenable to intervention. Our study delved into the impact of municipality-level violence in Mexico on the probability of occurrence of domestic femicides at the municipality level in 2024. METHODS We employed the Causal Roadmap framework for causal and statistical inference. Our outcome was the occurrence of at least one domestic femicide in the municipality, with exposure defined as above-median male homicide rates. While unmeasured confounding precluded definitive causal inference, we estimated the adjusted risk ratio and adjusted risk difference (aRR, aRD) comparing municipalities with above-median versus below-median male homicide rates, adjusting for measured municipality-level confounders. We used targeted maximum likelihood estimation (TMLE) with Super Learner to minimize reliance on parametric modeling assumptions. RESULTS Municipalities with high male homicide rates (above the median) had 4.71 times the risk (95% CI: 3.55-6.24, p < 0.001) of experiencing at least one domestic femicide compared to municipalities with low male homicide rates, after adjusting for socioeconomic factors using targeted maximum likelihood estimation. Results were robust across three causal inference methods: TMLE (aRR = 4.75, 95% CI: 3.55-6.24), IPW (aRR = 4.75, 95% CI: 3.58-6.29), and G-computation (aRR = 4.33, 95% CI: 3.32-5.65). CONCLUSIONS Using the Causal Roadmap framework, we found a strong and consistent association between municipality-level male homicide rates and domestic femicide occurrence in Mexico. These findings suggest that interventions targeting community-level violence may have downstream effects on reducing domestic femicides, offering potential strategies for comprehensive violence prevention in Mexico.",
@@ -6565,13 +6708,13 @@
       "title": "How to select predictive models for decision-making or causal inference",
       "authors": [
         "M. Doutreligne",
-        "G. Varoquaux"
+        "Gaël Varoquaux"
       ],
       "abstract": "Abstract Background We investigate which procedure selects the most trustworthy predictive model to explain the effect of an intervention and support decision-making. Methods We study a large variety of model selection procedures in practical settings: finite samples settings and without a theoretical assumption of well-specified models. Beyond standard cross-validation or internal validation procedures, we also study elaborate causal risks. These build proxies of the causal error using “nuisance” reweighting to compute it on the observed data. We evaluate whether empirically estimated nuisances, which are necessarily noisy, add noise to model selection and compare different metrics for causal model selection in an extensive empirical study based on a simulation and 3 health care datasets based on real covariates. Results Among all metrics, the mean squared error, classically used to evaluate predictive modes, is worse. Reweighting it with a propensity score does not bring much improvement in most cases. On average, the \\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{upgreek} \\usepackage{mathrsfs} \\setlength{\\oddsidemargin}{-69pt} \\begin{document} $R\\text{-risk}$\\end{document}, which uses as nuisances a model of mean outcome and propensity scores, leads to the best performances. Nuisance corrections are best estimated with flexible estimators such as a super learner. Conclusions When predictive models are used to explain the effect of an intervention, they must be evaluated with different procedures than standard predictive settings, using the \\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{upgreek} \\usepackage{mathrsfs} \\setlength{\\oddsidemargin}{-69pt} \\begin{document} $R\\text{-risk}$\\end{document} from causal inference.",
       "year": 2025,
       "publication_date": "2025-01-06",
-      "paper_id": "e718afa205393a385f0028a107afe9283a68a771",
-      "url": "https://www.semanticscholar.org/paper/e718afa205393a385f0028a107afe9283a68a771",
+      "paper_id": "c12957c5c3e55a24ff8545fbdf30c39c02ef5039",
+      "url": "https://www.semanticscholar.org/paper/c12957c5c3e55a24ff8545fbdf30c39c02ef5039",
       "venue": "GigaScience",
       "doi": "10.1093/gigascience/giaf016",
       "matched_keywords": [
@@ -8024,7 +8167,7 @@
       "title": "Statistical Methods for Chemical Mixtures: A Roadmap for Practitioners Using Simulation Studies and a Sample Data Analysis in the PROTECT Cohort",
       "authors": [
         "W. Hao",
-        "A. Cathey",
+        "Amber L. Cathey",
         "Max M. Aung",
         "Jonathan Bøss",
         "John D. Meeker",
@@ -8300,7 +8443,7 @@
     {
       "title": "Targeted Maximum Likelihood Learning: An Optimization Perspective",
       "authors": [
-        "Diyang Li",
+        "Di-Yang Li",
         "Kyra Gan"
       ],
       "abstract": "Targeted maximum likelihood estimation ( TMLE ) is a widely used debiasing al-gorithm for plug-in estimation. While its statistical guarantees, such as double robustness and asymptotic efﬁciency, are well-studied, the convergence properties of TMLE as an iterative optimization scheme have remained underexplored. To bridge this gap, we study TMLE ’s iterative updates through an optimization-theoretic lens, establishing global convergence under standard assumptions and regularity conditions. We begin by providing the ﬁrst complete characterization of different stopping criteria and their relationship to convergence in TMLE . Next, we provide geometric insights . We show that each submodel induces a smooth, non-self-intersecting path (homotopy) through the probability simplex. We then analyze the solution space of the estimating equation and loss landscape. We show that all valid solutions form a submanifold of the statistical model, with the difference in dimension (i.e., codimension) exactly matching the dimension of the target parameter. Building on these geometric insights, we deliver the ﬁrst strict proof of TMLE ’s convergence from an optimization viewpoint , as well as explicit sufﬁcient criteria under which TMLE terminates in a single update. As a by-product, we discover an unidentiﬁed overshooting phenomenon wherein the algorithm can surpass feasible roots to the estimating equation along a homotopy path, highlighting a promising avenue for designing enhanced debias algorithms.",
@@ -9479,7 +9622,7 @@
         "Ji-Rong Yang",
         "Ya-Xin Lu",
         "Shao-Li Zhou",
-        "Ziqing Hei",
+        "Zi-Qing Hei",
         "Chaojin Chen"
       ],
       "abstract": "Complications following kidney transplantation elevate the risks of readmission and mortality. The aim of this study was to assess the association between the age-adjusted Charlson Comorbidity Index (ACCI) and postoperative complications among kidney transplant (KT) recipients. Between January 2015 and March 2021, a study involving 886 kidney transplant recipients at the Third Affiliated Hospital of Sun Yat-sen University was conducted. Postoperative complications were defined by the Clavien-Dindo Classification of Surgical Complications. Target Maximum Likelihood Estimation (TMLE) was employed to assess the association between ACCI and postoperative complications. The odds ratio (OR) was computed to determine the relationship between ACCI and postoperative complications. Subsequent interaction and stratified analyses were performed to assess the robustness of the findings. Out of 859 KT participants ultimately included in the study, 30.7% were documented to have encountered postoperative complications. Participants with an ACCI value exceeding 3 exhibited a notably increased risk of postoperative complications following multivariable adjustment [aOR = 1.64, 95% CI [1.21,2.21], p = 0.001]. Congestive heart failure (OR = 16.18, 95% CI [1.98–132.17], p < 0.001), peripheral vascular disease (OR = 2.32, 95% CI [1.48–3.78], p < 0.001), and chronic obstructive pulmonary disease (OR = 6.05, 95% CI [2.95–12.39], p < 0.001) emerged as the top three preoperative comorbidities significantly linked to postoperative complications in ACCI. An ACCI value exceeding 3 preoperatively constituted a risk factor for postoperative complications among KT patients.",
@@ -10925,8 +11068,8 @@
     {
       "title": "Leveraging Machine Learning for Official Statistics: A Statistical Manifesto",
       "authors": [
-        "M. Puts",
-        "David Salgado",
+        "Marco J. H. Puts",
+        "D. Salgado",
         "Piet Daas"
       ],
       "abstract": "It is important for official statistics production to apply ML with statistical rigor, as it presents both opportunities and challenges. Although machine learning has enjoyed rapid technological advances in recent years, its application does not possess the methodological robustness necessary to produce high quality statistical results. In order to account for all sources of error in machine learning models, the Total Machine Learning Error (TMLE) is presented as a framework analogous to the Total Survey Error Model used in survey methodology. As a means of ensuring that ML models are both internally valid as well as externally valid, the TMLE model addresses issues such as representativeness and measurement errors. There are several case studies presented, illustrating the importance of applying more rigor to the application of machine learning in official statistics.",
@@ -10995,12 +11138,12 @@
       "authors": [
         "Toru Shirakawa",
         "Yi Li",
-        "Yulun Wu",
+        "Yu-Lun Wu",
         "Sky Qiu",
         "Yuxuan Li",
         "Mingduo Zhao",
         "Hiroyasu Iso",
-        "M. J. van der Laan"
+        "M. V. van der Laan"
       ],
       "abstract": "We propose Deep Longitudinal Targeted Minimum Loss-based Estimation (Deep LTMLE), a novel approach to estimate the mean of counterfactual outcome under dynamic treatment policies in longitudinal problem settings. Our approach utilizes a transformer architecture with heterogeneous type embedding trained using temporal-difference learning. After obtaining an initial estimate using the transformer, following the targeted minimum loss-based likelihood estimation (TMLE) framework, we statistically corrected for the bias commonly associated with machine learning algorithms. Furthermore, our method also facilitates statistical inference by enabling the provision of 95% confidence intervals grounded in asymptotic statistical theory. Simulation results demonstrate our method’s superior performance over existing approaches, particularly in complex, long time-horizon scenarios. It remains effective in small-sample, short-duration contexts, matching the performance of asymptotically efficient estimators. To demonstrate our method in practice, we applied our method to estimate counterfactual mean outcomes for standard versus intensive blood pressure management strategies in a real-world cardiovascular epidemiology cohort study.",
       "year": 2024,
@@ -11711,7 +11854,7 @@
         "Bennett Allen",
         "Robert C. Schell",
         "Victoria A. Jent",
-        "Maxwell S Krieger",
+        "Maxwell S. Krieger",
         "Claire Pratty",
         "Benjamin D. Hallowell",
         "W. Goedel",
@@ -15018,12 +15161,12 @@
     {
       "title": "Targeted Learning on Variable Importance Measure for Heterogeneous Treatment Effect",
       "authors": [
-        "Haodong Li",
-        "Alan E. Hubbard",
+        "Hao-Dong Li",
+        "A. Hubbard",
         "Oliver J. Hines",
         "A. Storaas",
         "Kajsa Kvist",
-        "M. V. D. Laan"
+        "M. V. van der Laan"
       ],
       "abstract": "Quantifying the heterogeneity of treatment effect is important for understanding how a commercial product or medical treatment affects different population subgroups. While much of treatment effect heterogeneity analysis focuses on the conditional average treatment effect, an alternative parameter that captures treatment effect heterogeneity is the variance of treatment effect across different covariate groups. One can also derive variable importance parameters that measure (and rank) how much of treatment effect heterogeneity is explained by a targeted subset of covariates. In this article, we propose a new targeted maximum likelihood estimator (TMLE) for a treatment effect variable importance measure, in the form of the difference of the variances of conditional average treatment effect. This TMLE is a pure plug-in estimator that consists of two steps: 1) the initial estimation of relevant components to plug in and 2) an iterative updating step to optimize the bias-variance tradeoff. Simulation results show that the proposed estimator has competitive performance in terms of lower bias and better confidence interval coverage compared to a simple substitution estimator and an estimating equation estimator. We apply these methods to data from a randomized clinical trial comparing nucleoside monotherapy with combination therapy in HIV-infected adults. We find that the estimating equation estimator and the proposed TMLE suggest similar rankings of variable importance. The application of this method also demonstrates the advantage of a plug-in estimator, which always respects the global constraints on the data distribution and that the estimand is a particular function of the distribution.",
       "year": 2023,
@@ -16388,9 +16531,9 @@
         "Wen-Hua Yu",
         "Shan-Shan Li",
         "Ting-Ting Ye",
-        "Rongbin Xu",
-        "Jiangning Song",
-        "Yuming Guo"
+        "Rong-Bin Xu",
+        "Jiang-Ning Song",
+        "Yu-Ming Guo"
       ],
       "abstract": "Background: Accurate estimation of historical PM2.5 (particle matter with an aerodynamic diameter of less than 2.5μm) is critical and essential for environmental health risk assessment. Objectives: The aim of this study was to develop a multiple-level stacked ensemble machine learning framework for improving the estimation of the daily ground-level PM2.5 concentrations. Methods: An innovative deep ensemble machine learning framework (DEML) was developed to estimate the daily PM2.5 concentrations. The framework has a three-stage structure: At the first stage, four base models [gradient boosting machine (GBM), support vector machine (SVM), random forest (RF), and eXtreme gradient boosting (XGBoost)] were used to generate a new data set of PM2.5 concentrations for training the next-stage learners. At the second stage, three meta-models [RF, XGBoost, and Generalized Linear Model (GLM)] were used to estimate PM2.5 concentrations using a combination of the original data set and the predictions from the first-stage models. At the third stage, a nonnegative least squares (NNLS) algorithm was employed to obtain the optimal weights for PM2.5 estimation. We took the data from 133 monitoring stations in Italy as an example to implement the DEML to predict daily PM2.5 at each 1km×1km grid cell from 2015 to 2019 across Italy. We evaluated the model performance by performing 10-fold cross-validation (CV) and compared it with five benchmark algorithms [GBM, SVM, RF, XGBoost, and Super Learner (SL)]. Results: The results revealed that the PM2.5 prediction performance of DEML [coefficients of determination (R2)=0.87 and root mean square error (RMSE)=5.38μg/m3] was superior to any benchmark models (with R2 of 0.51, 0.76, 0.83, 0.70, and 0.83 for GBM, SVM, RF, XGBoost, and SL approach, respectively). DEML displayed reliable performance in capturing the spatiotemporal variations of PM2.5 in Italy. Discussion: The proposed DEML framework achieved an outstanding performance in PM2.5 estimation, which could be used as a tool for more accurate environmental exposure assessment. https://doi.org/10.1289/EHP9752",
       "year": 2022,
@@ -16571,8 +16714,8 @@
       "authors": [
         "Waverly Wei",
         "M. Petersen",
-        "M. J. van der Laan",
-        "Zeyu Zheng",
+        "M. V. van der Laan",
+        "Ze-Yu Zheng",
         "Chong Wu",
         "Jingshen Wang"
       ],
@@ -19892,9 +20035,9 @@
     {
       "title": "Performance and Application of Estimators for the Value of an Optimal Dynamic Treatment Rule",
       "authors": [
-        "L. Montoya",
+        "Lina M. Montoya",
         "J. Skeem",
-        "M. J. van der Laan",
+        "M. V. van der Laan",
         "M. Petersen"
       ],
       "abstract": "Given an (optimal) dynamic treatment rule, it may be of interest to evaluate that rule – that is, to ask the causal question: what is the expected outcome had every subject received treatment according to that rule? In this paper, we study the performance of estimators that approximate the true value of: 1) an a priori known dynamic treatment rule 2) the true, unknown optimal dynamic treatment rule (ODTR); 3) an estimated ODTR, a so-called “data-adaptive parameter,” whose true value depends on the sample. Using simulations of point-treatment data, we speciﬁcally investigate: 1) the impact of increasingly data-adaptive estimation of nuisance parameters and/or of the ODTR on performance; 2) the potential for improved efﬁciency and bias reduction through the use of semiparametric efﬁcient estimators; and, 3) the importance of sample splitting based on CV-TMLE for accurate inference. In the simulations considered, there was very little cost and many beneﬁts to using the cross-validated targeted maximum likelihood estimator (CV-TMLE) to estimate the value of the true and estimated ODTR; impor-tantly, and in contrast to non cross-validated estimators, the performance of CV-TMLE was maintained even when highly data-adaptive algorithms were used to estimate both nuisance parameters and the ODTR. In addition, we apply these estimators for the value of the rule to the “Interventions” Study, an ongoing randomized controlled trial, to identify whether assigning cognitive behavioral therapy (CBT) to criminal justice-involved adults with mental illness using an ODTR signiﬁcantly reduces the probability of recidivism, compared to assigning CBT in a non-individualized way.",
@@ -20859,7 +21002,7 @@
       "title": "Carbon-Deficient Titanium Carbide With Highly Enhanced Hardness",
       "authors": [
         "Hui Li",
-        "Shuailing Ma",
+        "Shuai-Ling Ma",
         "Li-Xue Chen",
         "Zhuo-Liang Yu"
       ],
@@ -20975,7 +21118,7 @@
     {
       "title": "Development and validation of a Super learner-based model for predicting survival in Chinese Han patients with resected colorectal cancer.",
       "authors": [
-        "Jiqing Li",
+        "Ji-Qing Li",
         "Jianhua Gu",
         "Yuan Lu",
         "Xiao-Qing Wang",
@@ -21783,7 +21926,7 @@
       "authors": [
         "Krzysztof Mnich",
         "A. Polewko-Klim",
-        "A. Golinska",
+        "Agnieszka Kitlas Golińska",
         "W. Lesiński",
         "W. Rudnicki"
       ],
@@ -23807,7 +23950,7 @@
         "Liya Zhang",
         "Chen Chen",
         "Yaoyan Wang",
-        "Xiaofan Lu",
+        "Xiao-Fan Lu",
         "Shengjie Liu",
         "Fang-Rong Yan"
       ],
@@ -25203,7 +25346,7 @@
       "title": "Prediction of NB-UVB phototherapy treatment response of psoriasis patients using data mining",
       "authors": [
         "S. Mohamed",
-        "B. Huang",
+        "Bing-Quan Huang",
         "Mohand Tahar Kechadi"
       ],
       "abstract": "NB-UVB Phototherapy is one of the most common treatments administrated by dermatologists for psoriasis patients. Although in general, the treatment results in improving the condition, it also can worsen it. If a model can predict the treatment response before hand, the dermatologists can adjust the treatment accordingly. In this paper, we use data mining techniques and conduct four experiments. The best performance of all four experiments was obtained by the stacked classifier made of hyper parameter tuned Random Forest, kSVM and ANN base learners, learned using L1-Regularized Logistic Regression super learner.",
