@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T02:34:36Z",
+  "generated_at": "2026-10-09T13:36:43Z",
   "source": "Semantic Scholar Graph API",
   "unauthenticated": true,
   "mode": "bulk",
@@ -18,7 +18,7 @@
   "query_stats": [
     {
       "keyword": "tmle",
-      "fetched_raw_count": 517
+      "fetched_raw_count": 518
     },
     {
       "keyword": "targeted maximum likelihood estimation",
@@ -30,7 +30,7 @@
     },
     {
       "keyword": "super learner",
-      "fetched_raw_count": 1079
+      "fetched_raw_count": 1082
     },
     {
       "keyword": "super learning",
@@ -43,96 +43,90 @@
   ],
   "query_errors": [],
   "incomplete": false,
-  "fetched_paper_count": 1000,
-  "newly_appended_count": 5,
-  "updated_existing_count": 24,
+  "fetched_paper_count": 1006,
+  "newly_appended_count": 6,
+  "updated_existing_count": 16,
   "existing_blocked_removed": 0,
   "existing_duplicates_removed": 0,
   "newly_added_papers": [
     {
-      "title": "A Machine Learning–Derived Risk Scorecard for Pneumonia Hospitalization in Japanese Old‐Old Adults",
+      "title": "Causal effects of oral disease timing on 25-year dementia risk: a longitudinal targeted maximum likelihood estimation approach",
       "year": 2026,
       "authors": [
-        "Akio Shimizu",
-        "Hajime Kamiya",
-        "Masaki Tanabe",
-        "Ryota Sakamoto",
-        "Hirokazu Matsui",
-        "R. Momosaki"
+        "Graham Zhang",
+        "H. J. Lim"
       ],
-      "publication_date": "2026-09-24",
-      "doi": "10.1111/ggi.70850",
-      "paper_id": "ebcb23e09518fd1e331a249a9eb8d5c586aef071"
+      "publication_date": "2026-10-05",
+      "doi": "10.1186/s12903-026-10093-z",
+      "paper_id": "71b18347aa69b3555954b9e1b0b5615313364676"
     },
     {
-      "title": "Federated Targeted Maximum Likelihood Estimation",
+      "title": "Causal estimation and machine learning methods for survival outcomes among AYA cancer patients: A scoping review.",
       "year": 2026,
       "authors": [
-        "Di-Yang Li",
-        "Fei Wang",
-        "Kyra Gan"
+        "N. Essel",
+        "Rui Liu",
+        "Liz Dennett",
+        "P. Nathan",
+        "Sumit Gupta",
+        "Yan Yuan"
       ],
-      "publication_date": "2026-09-24",
-      "doi": null,
-      "paper_id": "f598485edb697b960c5df6ddcbee6afcef159097"
+      "publication_date": "2026-10-07",
+      "doi": "10.1016/j.canep.2026.103242",
+      "paper_id": "6f604bf2def7f4d4e984a9332194ce6baa20fb03"
     },
     {
-      "title": "Impact of the Social Media Minimum Age on Australian young people and parents: protocol for a mixed-methods evaluation.",
+      "title": "Cognitive frailty dynamics and incident diabetes in middle-aged and older adults: a multinational longitudinal study.",
       "year": 2026,
       "authors": [
-        "Anja Stevic",
-        "Y. A. Chen",
-        "A. Y. Lee",
-        "Xun Liu",
-        "Z. Smith-Russack",
-        "Kathryn E. Cairns",
-        "B. Kahl",
-        "Mariesa Nicholas",
-        "Isabella Hall",
-        "Theebana Tharmakumar",
-        "Bronwyn Carlson",
-        "M. de Choudhury",
-        "P. Etchells",
-        "K. Keyes",
-        "Amy C. Orben",
-        "Mitch Prinstein",
-        "Jo Robinson",
-        "Susan M. Sawyer",
-        "J. Sefton-Green",
-        "A. Third",
-        "A. Werner-Seidler",
-        "Jeffrey T. Hancock"
+        "Min Li",
+        "Xue Wang",
+        "He-Jing Chen",
+        "Wen-Die Zhou",
+        "Jia-Qi Yu",
+        "Xuan Yang",
+        "Cui-Li Wang"
       ],
-      "publication_date": "2026-09-01",
-      "doi": "10.1136/bmjopen-2026-118912",
-      "paper_id": "8c4de0e5ca9bd80bcb0f9d14f3bf2077480d3cb1"
+      "publication_date": "2026-10-04",
+      "doi": "10.1016/j.diabres.2026.113591",
+      "paper_id": "32246eb5fcf6a13df651fb7271e1a7e5a8c7e73a"
     },
     {
-      "title": "Incremental Propensity Score Interventions: A Primer for Pharmacoepidemiologists",
+      "title": "Effects of the Integration of Medical Treatment and Prevention on Glycaemic Control Among Patients with Diabetes in Qianjiang District, China: A Difference-in-Differences Study",
       "year": 2026,
       "authors": [
-        "Byeong Yeob Choi"
+        "Hua-Wei Tan",
+        "Xiao-Chong He"
       ],
-      "publication_date": "2026-09-24",
-      "doi": "10.1002/pds.70484",
-      "paper_id": "8faf0ed94af4bfcba1a6e8aef00d0b79c77a117d"
+      "publication_date": "2026-10-01",
+      "doi": "10.2147/ppa.s637259",
+      "paper_id": "1bf51d1494cf24bbef8aa505a3b07df833339087"
     },
     {
-      "title": "Research on Probabilistic Prediction Method of Slope Stability Based on Bayesian Optimization Super Learner",
+      "title": "Suction mini-PCNL versus standard PCNL for 2–4 cm renal stones: a prospective cohort analysis of average effects, heterogeneity, and policy value",
       "year": 2026,
       "authors": [
-        "Hua-Jin Zhang",
-        "Ming-Zhen Chai",
-        "Long-Qiang Han",
-        "Fang-Jia Song",
-        "Yi-Xiong Gan"
+        "Yan Yang",
+        "Wen Zhong"
       ],
-      "publication_date": "2026-09-26",
-      "doi": "10.1007/s40515-026-01060-w",
-      "paper_id": "714795a08d1e5e1843b010627566aa5f38871719"
+      "publication_date": "2026-09-08",
+      "doi": "10.1007/s00240-026-02047-5",
+      "paper_id": "136c4b7af8f09826a0492f87d328262c3b60ae73"
+    },
+    {
+      "title": "Tying Maximum Likelihood Estimation for Dependent Data",
+      "year": 2026,
+      "authors": [
+        "Masamune Iwasawa",
+        "Qingfeng Liu",
+        "Zi-Yan Zhao"
+      ],
+      "publication_date": "2026-06-30",
+      "doi": "10.1080/07474938.2026.2690038",
+      "paper_id": "eed7fdd375af6504f1469fbe0c51de87e38e5ff3"
     }
   ],
-  "paper_count": 1158,
+  "paper_count": 1164,
   "papers": [
     {
       "title": "A Causal Inference Approach for Evaluating Diagnostic Tests and AI-Enabled Medical Devices: From Effect Modification to Information-Augmented Decision-Making",
@@ -358,7 +352,7 @@
         "I. Bebu",
         "Toshimitsu Hamasaki",
         "Scott R. Evans",
-        "Gouqing Diao"
+        "Guo-Qing Diao"
       ],
       "abstract": "We developed a unified covariate-adjusted causal inference framework for estimating the desirability of outcome ranking (DOOR) probability for benefit-risk evaluation in randomized trials and observational studies. The framework expresses the DOOR probability as a bilinear functional of the marginal ordinal outcome distributions under the two treatment strategies, estimates conditional ordinal distributions through sequential risk-set hazards, and derives the efficient influence function (EIF) of the DOOR probability. The point-estimation simulations compared G-computation, normalized inverse probability weighting (IPW), augmented IPW (AIPW), and targeted maximum likelihood estimation (TMLE), with nuisance functions estimated using generalized linear models or Super Learner (SL). TMLE-SL showed the strongest and most consistent point-estimation performance, with AIPW-SL ranking second. EIF-based inference was then evaluated for AIPW-SL and TMLE-SL, with and without cross-fitting, across settings varying in overlap, treatment-effect heterogeneity, and treatment allocation. CVTMLE-SL showed the strongest overall performance across DOOR-scale bias, recovery of the underlying ordinal distributions, standard-error accuracy, and confidence-interval coverage. We illustrate the methodology using data from the multidrug-resistant organism network of the Antibacterial Resistance Leadership Group.",
       "year": 2026,
@@ -867,7 +861,7 @@
         "Zhuoran Liu",
         "Jie Yang",
         "Qing-Yun Xie",
-        "Tianyang Mao",
+        "Tian-Yang Mao",
         "Heng Zhou",
         "Hongyuan Wang",
         "Peng Zheng",
@@ -981,6 +975,26 @@
       ]
     },
     {
+      "title": "Causal effects of oral disease timing on 25-year dementia risk: a longitudinal targeted maximum likelihood estimation approach",
+      "authors": [
+        "Graham Zhang",
+        "H. J. Lim"
+      ],
+      "abstract": "",
+      "year": 2026,
+      "publication_date": "2026-10-05",
+      "paper_id": "71b18347aa69b3555954b9e1b0b5615313364676",
+      "url": "https://www.semanticscholar.org/paper/71b18347aa69b3555954b9e1b0b5615313364676",
+      "venue": "BMC Oral Health",
+      "doi": "10.1186/s12903-026-10093-z",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
+      ]
+    },
+    {
       "title": "Causal Effects of Time-Varying Treatments: The G-Formula.",
       "authors": [
         "Carmine Zoccali",
@@ -993,6 +1007,30 @@
       "url": "https://www.semanticscholar.org/paper/511d69ed778805fd6d822047346248e1067836fe",
       "venue": "European Journal of Clinical Investigation",
       "doi": "10.1111/eci.70239",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
+      ]
+    },
+    {
+      "title": "Causal estimation and machine learning methods for survival outcomes among AYA cancer patients: A scoping review.",
+      "authors": [
+        "N. Essel",
+        "Rui Liu",
+        "Liz Dennett",
+        "P. Nathan",
+        "Sumit Gupta",
+        "Yan Yuan"
+      ],
+      "abstract": "Survivors of adolescent and young adult (AYA) cancer experience an elevated risk of premature mortality. While causal inference and machine learning (ML) methods are increasingly applied to observational survival data, the methodological landscape of this work remains unmapped. This scoping review mapped the extent, range, and nature of evidence using these methods to estimate or predict survival outcomes in this population. Following Joanna Briggs Institute (JBI) scoping review methodology, eight databases were searched from inception to November 2025. From 11,584 identified records, 5629 were screened after duplicate removal, of which 104 studies met the inclusion criteria (99 peer-reviewed journal articles and 5 conference abstracts). Of these, 68 (65.4%) were published from 2020 onward, 104 (100.0%) were retrospective cohorts, and most used US registry data (75 [72.1%]; SEER alone, 59 [56.7%]). Eighty-seven studies applied causal inference methods, among which propensity score matching was near-universal (75; 86.2%), followed by inverse probability of treatment weighting (9; 10.3%). None used targeted maximum likelihood estimation, marginal structural models for time-varying confounding, causal forests, or target trial emulation. Methods commonly associated with causal inference were widely used, but formally specified causal analyses were uncommon. Only three studies (3.4%) were designed causal analyses (regression discontinuity, causal mediation, and inverse probability weighted analysis [1 study each]), one (1.1%) provided a complete identification statement, and one (1.1%) reported a sensitivity analysis for unmeasured confounding. Competing risks were relevant where a quantity of specific event(s) was estimated and death from other causes could prevent the observation of specific events. Among the 48 applicable causal studies, 9 (18.8%) used a competing risks or relative survival method. ML prediction methods were used in nineteen studies, most often random survival forests (12; 63.2%); only four (21.1%) were externally validated. Among 99 peer-reviewed studies, the most common methodological issues were competing risks mishandling (22/99; 22.2% overall) and model overfitting (15/99; 15.2%). Research applying causal inference and ML methods to survival outcomes in AYA cancer patients is growing rapidly. However, the evidence draws on a narrow range of methods and data, dominated by propensity score matching using US registry data, with minimal documentation of identifying assumptions, rare probing of unmeasured confounding, and competing risks rarely addressed where the outcome made them relevant. ML models showed adequate discrimination, but a large proportion were not externally validated or calibrated, raising concerns about external validity and generalizability. Closing the gap requires adopting target trial-emulated causal designs with estimand-appropriate competing risk handling, together with externally validated, calibrated mortality prediction tools.",
+      "year": 2026,
+      "publication_date": "2026-10-07",
+      "paper_id": "6f604bf2def7f4d4e984a9332194ce6baa20fb03",
+      "url": "https://www.semanticscholar.org/paper/6f604bf2def7f4d4e984a9332194ce6baa20fb03",
+      "venue": "Cancer Epidemiology",
+      "doi": "10.1016/j.canep.2026.103242",
       "matched_keywords": [
         "targeted maximum likelihood estimation"
       ],
@@ -1038,6 +1076,31 @@
       "url": "https://www.semanticscholar.org/paper/5224398b4f2b18ee5875bbe13cb6d65d8acdbbcc",
       "venue": "Statistics in Medicine",
       "doi": "10.1002/sim.70610",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
+      ]
+    },
+    {
+      "title": "Cognitive frailty dynamics and incident diabetes in middle-aged and older adults: a multinational longitudinal study.",
+      "authors": [
+        "Min Li",
+        "Xue Wang",
+        "He-Jing Chen",
+        "Wen-Die Zhou",
+        "Jia-Qi Yu",
+        "Xuan Yang",
+        "Cui-Li Wang"
+      ],
+      "abstract": "OBJECTIVES Cognitive frailty (CF) is dynamic, but its longitudinal relationship with diabetes mellitus (DM) is unclear. We examined CF transitions and incident DM in three prospective cohorts. METHODS We included 23,458 adults aged ≥ 45 years without baseline DM from CHARLS, HRS and ELSA. Repeated assessments defined CF states and transitions. Generalized estimating equations (GEE) estimated population-averaged associations with subsequent DM. Longitudinal targeted maximum likelihood estimation (LTMLE; n = 13,616) estimated cumulative DM risks under hypothetical sustained patterns. RESULTS In pooled adjusted GEE models, favourable dynamics were associated with lower next-wave DM odds than unfavourable dynamics (OR 0.66, 95% CI 0.59-0.74). In the three-category analysis, recovery had lower odds than persistent vulnerability/worsening (OR 0.79, 95% CI 0.66-0.95), but higher odds than persistent normality in the four-category analysis (OR 1.30, 95% CI 1.06-1.58). LTMLE estimated risks of 11.8% versus 18.1% under sustained favourable versus unfavourable dynamics (RD -6.2 percentage points, 95% CI -8.2 to -4.3; RR 0.66, 95% CI 0.56-0.76). Fine-Gray results treating death as a competing event were concordant. CONCLUSIONS Repeated CF assessment may identify adults with persistent or worsening vulnerability who warrant intensified DM prevention. Associations of favourable dynamics of CF with lower DM risk require cautious interpretation and intervention studies.",
+      "year": 2026,
+      "publication_date": "2026-10-04",
+      "paper_id": "32246eb5fcf6a13df651fb7271e1a7e5a8c7e73a",
+      "url": "https://www.semanticscholar.org/paper/32246eb5fcf6a13df651fb7271e1a7e5a8c7e73a",
+      "venue": "Diabetes Research and Clinical Practice",
+      "doi": "10.1016/j.diabres.2026.113591",
       "matched_keywords": [
         "targeted maximum likelihood estimation"
       ],
@@ -1656,6 +1719,26 @@
       "source_queries": [
         "targeted maximum likelihood estimation",
         "tmle"
+      ]
+    },
+    {
+      "title": "Effects of the Integration of Medical Treatment and Prevention on Glycaemic Control Among Patients with Diabetes in Qianjiang District, China: A Difference-in-Differences Study",
+      "authors": [
+        "Hua-Wei Tan",
+        "Xiao-Chong He"
+      ],
+      "abstract": "Background: The Integration of Medical Treatment and Prevention (IMTP) is one approach to integrated disease management within China’s primary healthcare system. Evidence on its association with glycaemic control and potential behavioural pathways among patients with diabetes remains limited. Methods: We conducted a retrospective quasi-experimental study of 5676 adults with diabetes in Qianjiang District during 2023Q1– 2024Q4. Four primary healthcare (PHC) facilities implemented IMTP in January 2024 (treatment group), while 26 formed the control group. Patient-level propensity score matching via the Super Learner machine learning algorithm (PSM-SLMLA) at the 2023Q4 baseline retained 1240 patients per group (19,840 patient-quarter observations). Weighted difference-in-differences (DID) models included facility and quarter fixed effects with facility-clustered inference. Results: IMTP was associated with a 3.73% relative reduction in HbA1c (95% CI, 0.04%–7.29%; β = −0.0380; 95% CI, −0.0757 to −0.0004; P = 0.048), equivalent to approximately 0.27 HbA1c percentage points at the pre-intervention mean. Pre-intervention coefficients were not jointly significant (P = 0.857), and sensitivity estimates remained negative. Exploratory indirect associations were −0.0021 through active follow-up behaviour (95% bootstrap CI, −0.0037 to −0.0007; P = 0.004) and −0.0006 through staple-food intake behaviour (95% bootstrap CI, −0.0026 to −0.0001; P = 0.014); the exercise adherence estimate included zero. Formal interaction tests did not identify heterogeneity (all P for interaction > 0.05). Conclusion: IMTP was associated with modest short-term glycaemic improvement. Active follow-up behaviour may be a potential pathway. Increased staple-food intake raises a dietary-compensation hypothesis, but concurrent behavioural and HbA1c measurements preclude causal interpretation.",
+      "year": 2026,
+      "publication_date": "2026-10-01",
+      "paper_id": "1bf51d1494cf24bbef8aa505a3b07df833339087",
+      "url": "https://www.semanticscholar.org/paper/1bf51d1494cf24bbef8aa505a3b07df833339087",
+      "venue": "Patient Preference and Adherence",
+      "doi": "10.2147/ppa.s637259",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
       ]
     },
     {
@@ -2285,7 +2368,7 @@
       ]
     },
     {
-      "title": "Impact of the Social Media Minimum Age on Australian young people and parents: protocol for a mixed-methods evaluation.",
+      "title": "Impact of the Social Media Minimum Age on Australian young people and parents: protocol for a mixed-methods evaluation",
       "authors": [
         "Anja Stevic",
         "Y. A. Chen",
@@ -2310,7 +2393,7 @@
         "A. Werner-Seidler",
         "Jeffrey T. Hancock"
       ],
-      "abstract": "INTRODUCTION Australia implemented the Online Safety Amendment (Social Media Minimum Age) Act 2024 (Cth; SMMA) on 10 December 2025. This policy represents a world-first social media age-restriction, which requires age-restricted social media platforms to take reasonable steps to prevent Australians under the age of 16 from creating or keeping an account. Preliminary estimates suggest that approximately 1 194 000 young people should be affected by the deactivation of accounts. As the SMMA is enacted, we are collecting data to examine the outcomes for young people, parents and families. This study protocol paper serves as a summary of the methodological design for the evaluation of the implementation and outcomes of the SMMA, including (a) young people's adherence, and the SMMA's impact on (b) their digital practices; (c) their physical, psychological and social well-being; (d) their families and (e) community attitudes and dynamics. Adherence refers to a participant's experience of account removal/deactivation and any attempts to bypass or circumvent those restrictions. The term is used solely for brevity, and we acknowledge that children and parents are not subject to legal obligations under the SMMA. METHODS AND ANALYSIS To evaluate the impact of the SMMA implementation, a mixed-methods approach is being undertaken, involving 4121 young people aged 10 to 16 years and their parents or caregivers. Data collection involves five-wave longitudinal parent-child surveys, opt-in passive smartphone tracking, administrative linked and non-linked health and educational data, qualitative interviews and focus groups. We will conduct descriptive analyses examining frequencies, average values, percentages, factor analysis and reliability of scales for each survey wave. Various analytical approaches (eg, logistic regressions, multi-level modelling, random-intercept cross-lagged panel model) may be used to understand both between-person and within-person changes pre- and post-implementation of the SMMA. For causal inference analyses, we will employ targeted maximum likelihood estimation (TMLE) as our primary strategy to evaluate the effect of young people's adherence to the SMMA on key outcomes, such as psychosocial well-being and distress. Qualitative data will be analysed using a combination of thematic analysis and structured coding approaches. This will include iterative analysis of open-ended survey responses and in-depth qualitative data from interviews, focus groups and related tasks to identify key themes, patterns and lived experiences. ETHICS AND DISSEMINATION The study received ethical approval from the Australian Institute of Family Studies (AIFS) Human Research Ethics Committee (application approval number 2025/06) and complies with the National Statement on Ethical Conduct in Human Research and the Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS) Code of Ethics for Aboriginal and Torres Strait Islander Research. All participants provided informed consent at the beginning of the baseline survey and in each subsequent wave. Only parents and young people who provided their consent were eligible to take part in the study. Findings from this evaluation will inform national policy oversight and implementation in Australia, contribute empirical evidence to international debates and inform other countries considering similar age-based regulation of social media. Results will be disseminated through public-facing reports, peer-reviewed publications and stakeholder engagement activities to support evidence-informed decision-making in digital safety regulation in Australia and internationally.",
+      "abstract": "Abstract Introduction Australia implemented the Online Safety Amendment (Social Media Minimum Age) Act 2024 (Cth; SMMA) on 10 December 2025. This policy represents a world-first social media age-restriction, which requires age-restricted social media platforms to take reasonable steps to prevent Australians under the age of 16 from creating or keeping an account. Preliminary estimates suggest that approximately 1 194 000 young people should be affected by the deactivation of accounts. As the SMMA is enacted, we are collecting data to examine the outcomes for young people, parents and families. This study protocol paper serves as a summary of the methodological design for the evaluation of the implementation and outcomes of the SMMA, including (a) young people’s adherence, and the SMMA’s impact on (b) their digital practices; (c) their physical, psychological and social well-being; (d) their families and (e) community attitudes and dynamics. Adherence refers to a participant’s experience of account removal/deactivation and any attempts to bypass or circumvent those restrictions. The term is used solely for brevity, and we acknowledge that children and parents are not subject to legal obligations under the SMMA. Methods and analysis To evaluate the impact of the SMMA implementation, a mixed-methods approach is being undertaken, involving 4121 young people aged 10 to 16 years and their parents or caregivers. Data collection involves five-wave longitudinal parent-child surveys, opt-in passive smartphone tracking, administrative linked and non-linked health and educational data, qualitative interviews and focus groups. We will conduct descriptive analyses examining frequencies, average values, percentages, factor analysis and reliability of scales for each survey wave. Various analytical approaches (eg, logistic regressions, multi-level modelling, random-intercept cross-lagged panel model) may be used to understand both between-person and within-person changes pre- and post-implementation of the SMMA. For causal inference analyses, we will employ targeted maximum likelihood estimation (TMLE) as our primary strategy to evaluate the effect of young people’s adherence to the SMMA on key outcomes, such as psychosocial well-being and distress. Qualitative data will be analysed using a combination of thematic analysis and structured coding approaches. This will include iterative analysis of open-ended survey responses and in-depth qualitative data from interviews, focus groups and related tasks to identify key themes, patterns and lived experiences. Ethics and dissemination The study received ethical approval from the Australian Institute of Family Studies (AIFS) Human Research Ethics Committee (application approval number 2025/06) and complies with the National Statement on Ethical Conduct in Human Research and the Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS) Code of Ethics for Aboriginal and Torres Strait Islander Research. All participants provided informed consent at the beginning of the baseline survey and in each subsequent wave. Only parents and young people who provided their consent were eligible to take part in the study. Findings from this evaluation will inform national policy oversight and implementation in Australia, contribute empirical evidence to international debates and inform other countries considering similar age-based regulation of social media. Results will be disseminated through public-facing reports, peer-reviewed publications and stakeholder engagement activities to support evidence-informed decision-making in digital safety regulation in Australia and internationally.",
       "year": 2026,
       "publication_date": "2026-09-01",
       "paper_id": "8c4de0e5ca9bd80bcb0f9d14f3bf2077480d3cb1",
@@ -2594,26 +2677,25 @@
       "title": "Metformin and Severe Post-COVID-19 Outcomes Among Individuals with Diabetes Mellitus",
       "authors": [
         "Z. Butzin-Dozier",
-        "Y. Ji",
-        "L.-C. Wang",
+        "Lin-Chiun Wang",
+        "Yun-Wen Ji",
         "A. Anzalone",
-        "O. Olawore",
-        "R. Hafen",
-        "E. Hurwitz",
+        "Oluwasolape Olawore",
+        "Ryan Hafen",
+        "Eric Hurwitz",
         "M. Kumar",
         "R. C. Patel",
-        "A. Budhihartanto",
-        "M. J. van der Laan",
+        "Ariana Budhihartanto",
+        "M. V. van der Laan",
         "J. Colford",
         "A. Hubbard",
         "J. Buse",
-        "S. Johnson",
-        "J. Reusch",
-        "L. Chan",
+        "Steven G. Johnson",
+        "Jane E. B. Reusch",
+        "Lauren E. Chan",
         "R. Moffitt",
         "R. Wong",
-        "C. Bramante",
-        "on behalf of the National Clinical Cohort Collaborative"
+        "Carolyn T. Bramante"
       ],
       "abstract": "Background: Metformin is one of the most commonly prescribed medications for individuals with diabetes and may provide protection against long-term sequelae of COVID-19. Methods: We evaluated a retrospective cohort of individuals in the National Clinical Cohort Collaborative with type 2 diabetes mellitus and COVID-19 who were prescribed metformin or a dipeptidyl peptidase-4 inhibitor (DPP4i) at least 30 days before the onset of acute COVID-19 between October 1, 2021, and November 15, 2023. We compared the 12-month cumulative incidence of Long COVID diagnosis (ICD-10 U09.9: Post COVID-19 condition, unspecified), probable Long COVID (based on a model-derived phenotype), and mortality between individuals prescribed metformin vs. DPP4i. We applied Super Learner and targeted maximum likelihood estimation to obtain risk ratios while adjusting for covariates of interest. Results: In our sample of 53,332 individuals with type 2 diabetes and COVID-19, we found that metformin prescription was associated with a lower risk of all-cause mortality after COVID-19 (adjusted risk ratio [aRR] 0.61, 95% CI 0.51, 0.73). We also observed that metformin users, compared to DPP4i users, had a slightly lower risk of probable Long COVID (aRR 0.87, 95% CI 0.81, 0.94) but did not detect a significant relationship with Long COVID diagnosis (aRR 0.90, 95% CI 0.68, 1.20), although we observed similar point estimates across Long COVID outcomes. Conclusions: These findings support the hypothesis that metformin prescription during acute COVID-19 may be associated with lower mortality among adults with diabetes. These analyses also provide modest evidence of a protective association against Long COVID in adults with diabetes, although estimates were imprecise.",
       "year": 2026,
@@ -3514,6 +3596,28 @@
       ]
     },
     {
+      "title": "Suction mini-PCNL versus standard PCNL for 2–4 cm renal stones: a prospective cohort analysis of average effects, heterogeneity, and policy value",
+      "authors": [
+        "Yan Yang",
+        "Wen Zhong"
+      ],
+      "abstract": "We compared 18Fr suction mini-percutaneous nephrolithotomy (SMP) with standard percutaneous nephrolithotomy (sPCNL) for 2–4 cm renal stones in a prospective, single-center, non-randomized cohort and separated three questions: population-average effects, treatment-effect heterogeneity, and the value of acting on that heterogeneity. Among 900 patients, 450 underwent each procedure. Targeted maximum likelihood estimation with cross-validated Super Learner estimated outcome-specific average effects. A Net Clinical Utility (NCU) composite was analyzed with doubly robust estimation, an honest causal forest, and fivefold cross-fitted policy evaluation. SMP-minus-sPCNL differences were +2.7 percentage points for 1-day stone-free rate (95% CI − 1.85 to 6.20), + 1.69 percentage points for 1-month stone-free rate (− 1.84 to 5.23), − 1.09 percentage points for 24-hour pain (− 1.17 to − 1.01), − 1.23 g/L for hemoglobin drop (− 1.61 to − 0.86), and − 0.56 days for hospitalization (− 0.69 to − 0.42). Fever was inconclusive (− 3.36% points; −7.01 to 0.29). The population-average NCU effect was + 2.70 points (− 0.84 to 6.23; P = 0.135). Differential calibration did not support reliable heterogeneity (P = 0.192), and a depth-2 policy tree did not outperform the higher-valued fixed all-SMP strategy (+ 1.13 NCU; −1.10 to 3.37; P = 0.321). Thus, outcome-specific recovery associations favored SMP, but neither global NCU superiority nor a validated individualized strategy was established. These observational findings require external prospective validation.",
+      "year": 2026,
+      "publication_date": "2026-09-08",
+      "paper_id": "136c4b7af8f09826a0492f87d328262c3b60ae73",
+      "url": "https://www.semanticscholar.org/paper/136c4b7af8f09826a0492f87d328262c3b60ae73",
+      "venue": "Urolithiasis",
+      "doi": "10.1007/s00240-026-02047-5",
+      "matched_keywords": [
+        "super learner",
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "super learner",
+        "targeted maximum likelihood estimation"
+      ]
+    },
+    {
       "title": "Super Learner Ensemble Modeling of CPTAC Proteomic Data for Survival Prediction in Head and Neck Squamous Cell Carcinoma",
       "authors": [
         "Ethan Park",
@@ -4144,6 +4248,27 @@
       ]
     },
     {
+      "title": "Tying Maximum Likelihood Estimation for Dependent Data",
+      "authors": [
+        "Masamune Iwasawa",
+        "Qingfeng Liu",
+        "Zi-Yan Zhao"
+      ],
+      "abstract": "Abstract This study proposes a tying maximum likelihood estimation (TMLE) method to improve the estimation performance of parametric models for dependent data where some time series are long while others are shorter. The TMLE achieves this by flexibly tying some parameters of the long time series to those of the short ones, facilitating the transfer of valuable information to improve parameter estimation accuracy for the short series. We derive the asymptotic properties of the TMLE and its finite-sample risk bound under a tuning parameter that determines the strength of the tying. The theoretical analysis shows that the TMLE not only substantially outperforms the standard MLE under the correct tying but also can retain this strength under a local misspecification setting. We propose a feasible bootstrapping procedure for selecting the tuning parameter to reduce the finite-sample risk, with supporting finite-sample theory guiding implementation. Extensive simulations demonstrate that the TMLE exhibits superior performance compared to alternative methods. An empirical application based on a multivariate GARCH-type model for the volatility dynamics of Facebook and Twitter stock returns shows improved predictive performance attributable to tying parameters, consistent with the view that these two stocks have similar exposure to common risk factors and related volatility dynamics.",
+      "year": 2026,
+      "publication_date": "2026-06-30",
+      "paper_id": "eed7fdd375af6504f1469fbe0c51de87e38e5ff3",
+      "url": "https://www.semanticscholar.org/paper/eed7fdd375af6504f1469fbe0c51de87e38e5ff3",
+      "venue": "Social Science Research Network",
+      "doi": "10.1080/07474938.2026.2690038",
+      "matched_keywords": [
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
+      ]
+    },
+    {
       "title": "Use of a veterinary therapeutic renal diet in cats with early chronic kidney disease is associated with slower disease progression and improved survival.",
       "authors": [
         "Michael Coyne",
@@ -4180,7 +4305,7 @@
       "authors": [
         "Aijun Cui",
         "Yi Ma",
-        "Jingyu Zhang",
+        "Jing-Yu Zhang",
         "Ruifu Wang"
       ],
       "abstract": "Most active and passive remote sensing imagery acquired over marine areas contains wave textures, presenting both challenges and opportunities for water depth retrieval. Although wave phenomena hinder water depth estimation via optical radiative transfer in passive remote sensing, they form the foundation of bathymetric methods based on wave texture analysis. The synergistic use of active and passive imagery with wave textures helps to mitigate these adverse effects in certain inversion approaches. By integrating the inversion results from both data types—accounting for their distinct imaging mechanisms and depth detection theories—their complementary advantages can be effectively combined. To this end, a new fusion method based on a super learner–neural ODE (SL-NODE) ensemble is proposed. This two-stage framework implements a decision-level fusion strategy: multiple classical machine learning models act as base learners in the first stage, and the neural ordinary differential equation (Neural ODE) serves as the metalearner in the second. Outputs from the first-stage models are combined via cross validation and subsequently refined by the neural ODE to produce the final water depth estimates. In the range of 0–40-m depth range, the fused results exhibit reductions of over 17% in mean relative error (MRE) and more than 3 m in mean absolute error (MAE) compared to those from individual inversion methods. Moreover, the proposed ensemble achieves superior fusion accuracy to any single-classical machine learning model. The integration of multisource data and diverse inversion techniques significantly enhances the accuracy and utility of water depth retrieval from imagery with wave phenomena.",
@@ -6082,7 +6207,7 @@
     {
       "title": "Effects of the triglyceride-glucose index on non-alcoholic fatty liver disease: Causal evidence from longitudinal cohort studies.",
       "authors": [
-        "Tengrui Cao",
+        "Teng-Rui Cao",
         "Xue-Tong Ni",
         "A. Halengbieke",
         "Jian-Min Tang",
@@ -8497,18 +8622,18 @@
       ]
     },
     {
-      "title": "The effect of lifting eviction moratoria on fatal drug overdoses in the context of the COVID-19 pandemic in the US.",
+      "title": "The effect of lifting eviction moratoria on fatal drug overdoses in the context of the COVID-19 pandemic in the United States",
       "authors": [
-        "Ariadne Rivera-Aguirre",
+        "A. Rivera-Aguirre",
         "Iván Díaz",
         "Giselle Routhier",
-        "Cameron C McKay",
-        "Ellicott C. Matthay",
-        "Samuel R. Friedman",
-        "Kely M Doran",
+        "Cameron C. McKay",
+        "E. Matthay",
+        "S. Friedman",
+        "Kely M. Doran",
         "Magdalena Cerdá"
       ],
-      "abstract": "Between May 2020 and December 2021, there were 159,872 drug overdose deaths in the US. Higher eviction rates have been associated with higher overdose mortality. Amid the economic turmoil caused by the COVID-19 pandemic, 43 states and Washington, DC, implemented eviction moratoria of varying durations. These moratoria reduced eviction filing rates, but their impact on fatal drug overdoses remains unexplored. We evaluated the effect of these policies on county-level overdose death rates by focusing on the dates the state eviction moratoria were lifted. We obtained mortality data from NCHS and eviction moratoria dates from the COVID-19 US State Policy Database. We employed a longitudinal targeted minimum-loss-based estimation with Super Learner to flexibly estimate the average treatment effect (ATE) of never lifting the moratoria. Lifting state eviction moratoria was associated with a 0.14 per 100,000 higher rate of monthly overdose mortality (95%CI: -0.03, 0.32), although confidence intervals were wide and included zero. Eviction moratoria may not be sufficient to prevent overdose mortality during crises such as the COVID-19 pandemic.",
+      "abstract": "Between May 2020 and December 2021, there were 159872 drug overdose deaths in the United States. Higher eviction rates have been associated with higher overdose mortality. Amid the economic turmoil caused by the COVID-19 pandemic, 43 states and Washington, DC, implemented eviction moratoria of varying durations. These moratoria reduced eviction filing rates, but their impact on fatal drug overdoses remains unexplored. We evaluated the effect of these policies on county-level overdose death rates by focusing on the dates the state eviction moratoria were lifted. We obtained mortality data from the National Center for Health Statistics (NCHS) and eviction moratoria dates from the COVID-19 US State Policy Database. We employed a longitudinal targeted minimum-loss–based estimation with Super Learner to flexibly estimate the average treatment effect of never lifting the moratoria. Lifting state eviction moratoria was associated with a 0.14 per 100 000 higher rate of monthly overdose mortality (95% CI, −0.03 to 0.32), although confidence intervals were wide and included zero. Eviction moratoria may not be sufficient to prevent overdose mortality during crises such as the COVID-19 pandemic.",
       "year": 2025,
       "publication_date": "2025-05-15",
       "paper_id": "6ad56c5ab1b46cc2977fa8a1489f786625d76841",
@@ -8622,7 +8747,7 @@
     {
       "title": "The Three-Dimensional Debordering of Language Policies by AI Translation: Theoretical Modeling and Multicultural Cases from Complex Adaptive Systems",
       "authors": [
-        "Pengfei Bao"
+        "Peng-Fei Bao"
       ],
       "abstract": "This study employs Complex Adaptive Systems (CAS) theory to construct a Technology-Mediated Language Ecology (TMLE) framework, decoding how AI translation technologies restructure language policies through adaptive agent interactions and nonlinear emergence—two core principles of CAS. The TMLE model proposes a three-dimensional analytical framework (geospatial, socio-functional, and semiotic debordering), reimagining language policies as dynamic ecosystems where technological mediation and societal practices co-evolve. Taking the EU’s multilingual governanceand Egypt’s 2023 educational reform on dialectal Arabic as paradigmatic cases, the research demonstrates how adaptive agent coalitions—comprising governments, translation platforms (e.g., DeepL), and grassroots communities—collaboratively dismantle traditional policy boundaries. For instance, in the EU, neural machine translation (NMT) enabled a tripartite interaction among the European Commission, tech developers, and regional language activists, facilitating the rise of non-English languages in official domains. In Egypt, WhatsApp’s auto-transliteration tools, used by students and educators, compelling policymakers to recognize Egyptian Arabic (Masri) in digital literacy curricula, illustrating how bottom-up tech practices and institutional responses form a CAS-driven feedback loop. Through these cases, the study reveals that the traditional \"territory-function\" paradigm fails due to its static, linear logic, whereas the TMLE model—rooted in CAS’s principles of emergence and adaptive coordination—provides a robust framework for understanding tech-mediated language policy dynamics. The findings call for a shift from state-centric regulatory control to ecosystemic stewardship, where policies act as facilitators of adaptive linguistic networks rather than enforcers of rigid boundaries.",
       "year": 2025,
@@ -9219,7 +9344,7 @@
       "authors": [
         "Junjie Shen",
         "Shuo Wang",
-        "Yongfei Dong",
+        "Yong-Fei Dong",
         "Hao Sun",
         "Xi-Chao Wang",
         "Zai-Xiang Tang"
@@ -9247,7 +9372,7 @@
         "Jie Huang",
         "Lu Bai",
         "Xi-Chao Wang",
-        "Yongfei Dong",
+        "Yong-Fei Dong",
         "Zai-Xiang Tang"
       ],
       "abstract": "Background Survival prediction using high-dimensional molecular data is a hot topic in the field of genomics and precision medicine, especially for cancer studies. Considering that carcinogenesis has a pathway-based pathogenesis, developing models using such group structures is a closer mimic of disease progression and prognosis. Many approaches can be used to integrate group information; however, most of them are single-model methods, which may account for unstable prediction. Methods We introduced a novel survival stacking method that modeled using group structure information to improve the robustness of cancer survival prediction in the context of high-dimensional omics data. With a super learner, survival stacking combines the prediction from multiple sub-models that are independently trained using the features in pre-grouped biological pathways. In addition to a non-negative linear combination of sub-models, we extended the super learner to non-negative Bayesian hierarchical generalized linear model and artificial neural network. We compared the proposed modeling strategy with the widely used survival penalized method Lasso Cox and several group penalized methods, e.g., group Lasso Cox, via simulation study and real-world data application. Results The proposed survival stacking method showed superior and robust performance in terms of discrimination compared with single-model methods in case of high-noise simulated data and real-world data. The non-negative Bayesian stacking method can identify important biological signal pathways and genes that are associated with the prognosis of cancer. Conclusions This study proposed a novel survival stacking strategy incorporating biological group information into the cancer prognosis models. Additionally, this study extended the super learner to non-negative Bayesian model and ANN, enriching the combination of sub-models. The proposed Bayesian stacking strategy exhibited favorable properties in the prediction and interpretation of complex survival data, which may aid in discovering cancer targets.",
@@ -9644,7 +9769,7 @@
       "title": "Association of Crop Commercialization and Rural Households' Multidimensional Poverty Using Targeted Maximum Likelihood Estimation",
       "authors": [
         "Anteneh Mulugeta Eyasu",
-        "T. Zewotir",
+        "Temesgen T. Zewotir",
         "Zelalem G. Dessie"
       ],
       "abstract": "",
@@ -11267,9 +11392,9 @@
       "title": "Maternal Nutritional Factors Enhance Birthweight Prediction: A Super Learner Ensemble Approach",
       "authors": [
         "Muhammad Mursil",
-        "Hatem A. Rashwan",
+        "Hatem Abdellatif Rashwan",
         "Pere Cavallé-Busquets",
-        "L. Santos-Calderón",
+        "L. Santos-Calderon",
         "Michelle M. Murphy",
         "D. Puig"
       ],
@@ -11833,7 +11958,7 @@
         "Desalegn Wogaso",
         "Firomsa Dadi"
       ],
-      "abstract": "",
+      "abstract": "Surface roughness is a critical factor in evaluating the quality of a product’s surface. To predict surface roughness, researchers have employed statistical and empirical methodologies, both of which often lack generalizability when applied to unseen data. To overcome the limitations of existing models, scholars have turned to machine learning and artificial intelligence approaches. Machine learning can accurately predict the surface roughness of machined parts and demonstrates strong generalization ability when applied to new, unseen data. For instance, this research develops a super-learner machine learning model designed to predict surface roughness by leveraging a diverse array of techniques, including kernel ridge regression (KRR), support vector machine (SVM), K-nearest neighbors (KNN), decision trees (DT), random forests (RF), adaptive boosting (ADB), gradient boosting (GB), and extreme gradient boosting (XGB). The optimization of these models was achieved through grid search hyperparameter tuning and K-fold cross-validation. The predictive efficacy of the proposed super-learner model was compared to that of all alternative models. With a coefficient of determination (R2) of 99.8% between the experimental and predicted values for surface roughness on the test dataset, the super-learner model demonstrated superior predictive capabilities. It emerged as the most accurate model, distinguished by the highest R2, the lowest mean absolute error (1.92%), the lowest mean absolute percentage error (1.76%), and the lowest root mean square error (2.29%). Additionally, the model’s predictions were further interpreted using the Shapley additive explanations (SHAP) technique, which provided valuable insight into the significant variables influencing the surface roughness of tempered steel AISI 1060.",
       "year": 2024,
       "publication_date": "2024-12-21",
       "paper_id": "760837ef6f44a22473610f2788127f56e904045b",
@@ -11844,8 +11969,7 @@
         "super learner"
       ],
       "source_queries": [
-        "super learner",
-        "super learning"
+        "super learner"
       ]
     },
     {
@@ -14012,7 +14136,7 @@
       "title": "Leaflet information by the local government on mental health during the coronavirus disease 2019 pandemic: a cross-sectional study in a rural area in Japan",
       "authors": [
         "Ryu Fukase",
-        "M. Murakami",
+        "Masayasu Murakami",
         "Takaaki Ikeda"
       ],
       "abstract": "Abstract Background The coronavirus disease 2019 (COVID-19) pandemic and associated infodemic increased depression and anxiety. Proper information can help combat the infodemic and promotes mental health; however, rural residents have more difficulties in getting correct information than urban residents. Objective To examine whether the information on COVID-19 provided by the local government maintained the mental health of rural residents in Japan. Methods A self-administered questionnaire survey of Okura Village (northern district of Japan) residents aged ≥16 years was conducted in October 2021. The main outcomes, depressive symptoms, psychological distress, and anxiety were measured using the Center for Epidemiologic Studies Depression Scale, Kessler Psychological Distress Scale, and Generalized Anxiety Disorder scale 7-item. Exposure was defined as whether the resident read the leaflet on COVID-19 distributed by the local government. The targeted maximum likelihood estimation was used to analyse the effect of leaflet reading on the main outcomes. Results A total of 974 respondents were analysed. Reading the leaflet was significantly lower risk for depressive symptoms relative risk (95% confidence interval): 0.64 (0.43–0.95). Meanwhile, no clear effects of leaflet reading were observed on mental distress and anxiety. Conclusions In rural areas with local governments, analogue information may be effective to prevent depression.",
@@ -21652,7 +21776,7 @@
     {
       "title": "Outliers-Robust CFAR Detector of Gaussian Clutter Based on the Truncated-Maximum-Likelihood- Estimator in SAR Imagery",
       "authors": [
-        "Jiaqiu Ai",
+        "Jia-Qiu Ai",
         "Qiwu Luo",
         "Xuezhi Yang",
         "Zhiping Yin",
@@ -23349,7 +23473,7 @@
         "E. Polley",
         "E. LeDell",
         "Chris J. Kennedy",
-        "M. Laan"
+        "Mark J. van der Laan"
       ],
       "abstract": "",
       "year": 2019,
