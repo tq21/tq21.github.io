@@ -25,6 +25,7 @@ import os
 import re
 import ssl
 import sys
+import tempfile
 import time
 import urllib.error
 import urllib.parse
@@ -389,7 +390,7 @@ def _http_get_json(
             except Exception:
                 pass
             raise RuntimeError(f"HTTP {status} for {url}\n{err_body}") from exc
-        except urllib.error.URLError as exc:
+        except (urllib.error.URLError, TimeoutError) as exc:
             if attempt < max_retries:
                 sleep_s = min(max_backoff_s, backoff_s * (2 ** attempt))
                 print(
@@ -400,6 +401,61 @@ def _http_get_json(
                 attempt += 1
                 continue
             raise RuntimeError(f"URL error for {url}: {exc}") from exc
+
+
+@dataclass
+class QueryResult:
+    papers: List[Dict]
+    pages_fetched: int
+    estimated_total: Optional[int]
+    truncated: bool = False
+    truncation_reason: Optional[str] = None
+
+    def stats(self, keyword: str) -> Dict[str, Any]:
+        return {
+            "keyword": keyword,
+            "fetched_raw_count": len(self.papers),
+            "pages_fetched": self.pages_fetched,
+            "estimated_total": self.estimated_total,
+            "truncated": self.truncated,
+            "truncation_reason": self.truncation_reason,
+        }
+
+
+def _response_page(payload: Dict) -> List[Dict]:
+    # An error or malformed response must not masquerade as an empty result set.
+    if not isinstance(payload, dict) or not isinstance(payload.get("data"), list):
+        raise RuntimeError("Search API response must contain a 'data' array")
+    page = payload["data"]
+    for paper in page:
+        if not isinstance(paper, dict):
+            raise RuntimeError("Search API 'data' entries must be objects")
+        if not isinstance(paper.get("paperId"), str) or not paper["paperId"].strip():
+            raise RuntimeError("Search API paper is missing a valid paperId")
+        if not isinstance(paper.get("title"), str):
+            raise RuntimeError("Search API paper is missing a valid title")
+        for field in ("abstract", "publicationDate", "url", "venue"):
+            if paper.get(field) is not None and not isinstance(paper[field], str):
+                raise RuntimeError(f"Search API paper has invalid {field}")
+        year = paper.get("year")
+        if year is not None and not (type(year) is int or isinstance(year, str) and year.isdigit()):
+            raise RuntimeError("Search API paper has invalid year")
+        authors = paper.get("authors")
+        if authors is not None and (
+            not isinstance(authors, list) or any(
+                not isinstance(author, dict) or
+                author.get("name") is not None and not isinstance(author["name"], str)
+                for author in authors
+            )
+        ):
+            raise RuntimeError("Search API paper has invalid authors")
+        external_ids = paper.get("externalIds")
+        if external_ids is not None and (
+            not isinstance(external_ids, dict) or
+            external_ids.get("DOI") is not None and not isinstance(external_ids["DOI"], str)
+        ):
+            raise RuntimeError("Search API paper has invalid externalIds")
+    return page
 
 
 def fetch_keyword(
@@ -415,39 +471,46 @@ def fetch_keyword(
     max_retries: int,
     backoff_s: float,
     max_backoff_s: float,
-) -> List[Dict]:
-    out: List[Dict] = []
+) -> QueryResult:
+    # The relevance endpoint exposes at most 1,000 results. Bulk is the default
+    # and the only suitable mode when a query has more matches.
+    cap = min(max_results_per_keyword or 1000, 1000)
+    result = QueryResult([], 0, None)
     offset = 0
-
-    while offset < max_results_per_keyword:
-        limit = min(page_size, max_results_per_keyword - offset)
-        params = {
-            "query": keyword,
-            "offset": offset,
-            "limit": limit,
-            "fields": fields,
-        }
-        url = f"{API_URL}?{urllib.parse.urlencode(params)}"
+    while offset < cap:
+        limit = min(page_size, cap - offset)
+        params = {"query": keyword, "offset": offset, "limit": limit, "fields": fields}
         payload = _http_get_json(
-            url=url,
-            headers=headers,
-            ssl_context=ssl_context,
-            timeout_s=timeout_s,
-            max_retries=max_retries,
-            backoff_s=backoff_s,
-            max_backoff_s=max_backoff_s,
+            url=f"{API_URL}?{urllib.parse.urlencode(params)}",
+            headers=headers, ssl_context=ssl_context, timeout_s=timeout_s,
+            max_retries=max_retries, backoff_s=backoff_s, max_backoff_s=max_backoff_s,
         )
-        page = payload.get("data") or []
+        page = _response_page(payload)
+        result.pages_fetched += 1
+        if isinstance(payload.get("total"), int):
+            result.estimated_total = payload["total"]
+        next_offset = payload.get("next")
+        more = next_offset is not None or (
+            result.estimated_total is not None and result.estimated_total > offset + len(page)
+        )
         if not page:
-            break
-        out.extend(page)
-        offset += len(page)
-        print(f"[info] keyword={keyword!r} fetched={offset}", file=sys.stderr)
-        if len(page) < limit:
-            break
+            if more:
+                raise RuntimeError("Relevance API returned an empty page before exhaustion")
+            return result
+        remaining = cap - len(result.papers)
+        result.papers.extend(page[:remaining])
+        print(f"[info] keyword={keyword!r} fetched={len(result.papers)}", file=sys.stderr)
+        if len(page) > remaining or (len(result.papers) >= cap and more):
+            result.truncated = True
+            result.truncation_reason = "Relevance search result limit reached; use bulk mode"
+            return result
+        if not more:
+            return result
+        if type(next_offset) is not int or next_offset != offset + len(page):
+            raise RuntimeError("Relevance API returned an invalid or missing continuation offset")
+        offset = next_offset
         time.sleep(request_interval_s)
-
-    return out
+    return result
 
 
 def fetch_keyword_bulk(
@@ -463,41 +526,61 @@ def fetch_keyword_bulk(
     max_retries: int,
     backoff_s: float,
     max_backoff_s: float,
-) -> List[Dict]:
-    out: List[Dict] = []
+) -> QueryResult:
+    result = QueryResult([], 0, None)
     token: Optional[str] = None
-
-    while len(out) < max_results_per_keyword:
-        limit = min(page_size, max_results_per_keyword - len(out))
-        params = {
-            "query": keyword,
-            "limit": limit,
-            "fields": fields,
-        }
+    seen_tokens: Set[str] = set()
+    while True:
+        # Bulk controls its own batch size (up to 1,000) and has no 'limit'
+        # parameter. Follow every token, including short pages and undated papers.
+        params = {"query": keyword, "fields": fields, "sort": "publicationDate:desc"}
         if token:
             params["token"] = token
-        url = f"{API_BULK_URL}?{urllib.parse.urlencode(params)}"
         payload = _http_get_json(
-            url=url,
-            headers=headers,
-            ssl_context=ssl_context,
-            timeout_s=timeout_s,
-            max_retries=max_retries,
-            backoff_s=backoff_s,
-            max_backoff_s=max_backoff_s,
+            url=f"{API_BULK_URL}?{urllib.parse.urlencode(params)}",
+            headers=headers, ssl_context=ssl_context, timeout_s=timeout_s,
+            max_retries=max_retries, backoff_s=backoff_s, max_backoff_s=max_backoff_s,
         )
-        page = payload.get("data") or []
-        if not page:
-            break
-        out.extend(page)
-        print(f"[info] keyword={keyword!r} fetched={len(out)}", file=sys.stderr)
-
-        token = payload.get("token")
-        if not token:
-            break
+        page = _response_page(payload)
+        result.pages_fetched += 1
+        if isinstance(payload.get("total"), int):
+            result.estimated_total = payload["total"]
+        next_token = payload.get("token")
+        if next_token is not None and not isinstance(next_token, str):
+            raise RuntimeError("Bulk API returned an invalid continuation token")
+        if not page and next_token:
+            raise RuntimeError("Bulk API returned an empty page with a continuation token")
+        remaining = max_results_per_keyword - len(result.papers) if max_results_per_keyword else len(page)
+        result.papers.extend(page[:remaining])
+        print(f"[info] keyword={keyword!r} fetched={len(result.papers)}", file=sys.stderr)
+        if len(page) > remaining or (
+            max_results_per_keyword and len(result.papers) >= max_results_per_keyword and next_token
+        ):
+            result.truncated = True
+            result.truncation_reason = "Configured result cap reached before query exhaustion"
+            return result
+        if not next_token:
+            return result
+        if next_token in seen_tokens:
+            raise RuntimeError("Bulk API repeated a continuation token; stopping pagination loop")
+        seen_tokens.add(next_token)
+        token = next_token
         time.sleep(request_interval_s)
 
-    return out
+
+def write_json_atomic(path: Path, value: Dict[str, Any]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    temporary_path: Optional[Path] = None
+    try:
+        with tempfile.NamedTemporaryFile(mode="w", encoding="utf-8", dir=path.parent,
+                                         prefix=f".{path.name}.", suffix=".tmp", delete=False) as handle:
+            temporary_path = Path(handle.name)
+            json.dump(value, handle, ensure_ascii=False, indent=2)
+            handle.write("\n")
+        temporary_path.replace(path)
+    finally:
+        if temporary_path is not None and temporary_path.exists():
+            temporary_path.unlink()
 
 
 def dedupe_and_filter(
@@ -701,6 +784,10 @@ def parse_args() -> argparse.Namespace:
         help="Output JSON path.",
     )
     p.add_argument(
+        "--report",
+        help="Optional diagnostic JSON report, written on success or query failure without full paper records.",
+    )
+    p.add_argument(
         "--keywords",
         nargs="*",
         default=DEFAULT_KEYWORDS,
@@ -709,14 +796,14 @@ def parse_args() -> argparse.Namespace:
     p.add_argument(
         "--max-results-per-keyword",
         type=int,
-        default=1500,
-        help="Maximum number of records to fetch per keyword query.",
+        default=0,
+        help="Maximum raw records per keyword; 0 exhausts all bulk pages (default). A reached cap fails the run.",
     )
     p.add_argument(
         "--page-size",
         type=int,
         default=1000,
-        help="Page size for Semantic Scholar API pagination (bulk max is 1000).",
+        help="Page size for relevance search (max 100). Bulk uses server-sized batches up to 1000.",
     )
     p.add_argument(
         "--request-interval-s",
@@ -767,7 +854,7 @@ def parse_args() -> argparse.Namespace:
     p.add_argument(
         "--continue-on-error",
         action="store_true",
-        help="Continue fetching other keywords if one keyword fails.",
+        help="Check remaining keywords after an error; still exit nonzero and preserve existing output if any fail.",
     )
     p.add_argument(
         "--blocked-json",
@@ -802,6 +889,16 @@ def main() -> int:
         raise SystemExit("--page-size must be in [1, 1000] for bulk mode")
     if args.min_year < 0:
         raise SystemExit("--min-year must be >= 0")
+    if args.max_results_per_keyword < 0:
+        raise SystemExit("--max-results-per-keyword must be >= 0")
+    if not args.keywords or any(not kw.strip() for kw in args.keywords):
+        raise SystemExit("At least one nonempty --keywords query is required")
+    if args.request_interval_s < 0 or args.max_retries < 0:
+        raise SystemExit("Request interval and retry count must be nonnegative")
+    if args.timeout_s <= 0 or args.backoff_s <= 0 or args.max_backoff_s <= 0:
+        raise SystemExit("Timeout and backoff values must be positive")
+    if args.report and Path(args.report).resolve() == Path(args.output).resolve():
+        raise SystemExit("--report and --output must be different paths")
 
     blocked_path = Path(args.blocked_json)
     blocked = load_blocklist(blocked_path)
@@ -824,11 +921,14 @@ def main() -> int:
     all_raw: List[Tuple[str, Dict]] = []
     query_stats: List[Dict] = []
     query_errors: List[Dict] = []
-    for kw in args.keywords:
+    query_truncations: List[Dict] = []
+    for index, kw in enumerate(args.keywords):
+        if index:
+            time.sleep(args.request_interval_s)
         print(f"[info] fetching keyword={kw!r}", file=sys.stderr)
         try:
             if args.mode == "bulk":
-                papers = fetch_keyword_bulk(
+                result = fetch_keyword_bulk(
                     keyword=kw,
                     fields=DEFAULT_FIELDS,
                     page_size=args.page_size,
@@ -842,7 +942,7 @@ def main() -> int:
                     max_backoff_s=args.max_backoff_s,
                 )
             else:
-                papers = fetch_keyword(
+                result = fetch_keyword(
                     keyword=kw,
                     fields=DEFAULT_FIELDS,
                     page_size=args.page_size,
@@ -860,10 +960,33 @@ def main() -> int:
             print(f"[error] keyword={kw!r} failed: {exc}", file=sys.stderr)
             if args.continue_on_error:
                 continue
-            raise
+            break
 
-        query_stats.append({"keyword": kw, "fetched_raw_count": len(papers)})
-        all_raw.extend((kw, p) for p in papers)
+        query_stats.append(result.stats(kw))
+        if result.truncated:
+            query_truncations.append({"keyword": kw, "reason": result.truncation_reason})
+        all_raw.extend((kw, p) for p in result.papers)
+
+    if query_errors or query_truncations:
+        report = {
+            "generated_at": dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z"),
+            "source": "Semantic Scholar Graph API",
+            "mode": args.mode,
+            "keywords": args.keywords,
+            "query_stats": query_stats,
+            "query_errors": query_errors,
+            "query_truncations": query_truncations,
+            "incomplete": True,
+            "output_updated": False,
+        }
+        if args.report:
+            try:
+                write_json_atomic(Path(args.report), report)
+            except OSError as exc:
+                print(f"[error] Could not save diagnostic report: {exc}", file=sys.stderr)
+        print("[error] Discovery incomplete; existing output was not changed. "
+              "Resolve query errors or remove the result cap before generating the page.", file=sys.stderr)
+        return 2
 
     records, blocked_match_count = dedupe_and_filter(
         all_raw,
@@ -915,7 +1038,10 @@ def main() -> int:
         "keywords": args.keywords,
         "query_stats": query_stats,
         "query_errors": query_errors,
-        "incomplete": bool(query_errors),
+        "query_truncations": query_truncations,
+        "incomplete": False,
+        "sort": "publicationDate:desc" if args.mode == "bulk" else "relevance",
+        "max_results_per_keyword": args.max_results_per_keyword,
         "fetched_paper_count": len(records),
         "newly_appended_count": newly_appended_count,
         "updated_existing_count": updated_existing_count,
@@ -926,8 +1052,25 @@ def main() -> int:
         "papers": merged_papers,
     }
 
-    out_path.parent.mkdir(parents=True, exist_ok=True)
-    out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
+    # The report is required when requested. Write it before replacing a good
+    # catalog so an unwritable report destination cannot cause an unreported update.
+    report = {**{k: v for k, v in out.items() if k != "papers"}, "output_updated": False}
+    try:
+        if args.report:
+            write_json_atomic(Path(args.report), report)
+        write_json_atomic(out_path, out)
+    except OSError as exc:
+        print(f"[error] Could not save discovery output: {exc}", file=sys.stderr)
+        return 2
+    if args.report:
+        report["output_updated"] = True
+        try:
+            write_json_atomic(Path(args.report), report)
+        except OSError as exc:
+            # The first diagnostic report is already durable; the catalog is
+            # complete, but the runner must not continue if final reporting fails.
+            print(f"[error] Catalog saved, but could not finalize diagnostic report: {exc}", file=sys.stderr)
+            return 2
     if args.append_only:
         print(
             f"[ok] wrote {len(merged_papers)} total papers to {out_path} "
