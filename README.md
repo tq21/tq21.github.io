@@ -1,7 +1,7 @@
 # Sky Qiu's Quarto website
 
 The site source is in the root `.qmd` files. Quarto renders the website to `docs/`.
-The TMLE paper catalog is maintained from Semantic Scholar by two standard-library
+The TMLE paper catalog is maintained from Semantic Scholar by standard-library
 Python scripts and reviewed through pull requests.
 
 ## Refresh the TMLE catalog locally
@@ -63,8 +63,16 @@ Each run:
    obsolete proposal for manual review or closure before merging.
 4. Generates `tmle-papers.qmd` and renders it with Quarto 1.6.42 when content
    changes. Unexpected changes outside the generated-file allowlist fail the run.
-5. Opens or updates a **draft** PR from `automation/tmle-papers`, with counts and a
-   link to the run and diagnostic artifacts. Only the catalog JSON, TMLE QMD,
+5. Opens or updates a **draft** PR from `automation/tmle-papers`, with counts,
+   **every newly added paper title, all available author names, and paper links**.
+   The list compares the final proposed catalog against the default-branch
+   baseline, so enriched existing papers are not mislabeled as new. Author names
+   are never shortened to “et al.”; missing source metadata is explicitly marked.
+   A complete `newly-added-papers.md` is also saved in the diagnostic artifact.
+   If the list would exceed the PR-description size budget, the PR prominently
+   links to the run's artifacts and names this complete file instead of silently
+   truncating papers or authors. Artifacts are retained for 30 days.
+   Only the catalog JSON, TMLE QMD,
    rendered TMLE HTML, search index, and generated CSS under `docs/site_libs/` are
    eligible for the PR. The branch is reserved for automation and may be rewritten
    when the next successful run updates the PR.
