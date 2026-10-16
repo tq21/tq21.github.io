@@ -45,6 +45,7 @@ jobs:
         run: |
           echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
           mkdir -p "$RUNNER_TEMP/tmle-diagnostics"
+          git show HEAD:data/semantic_scholar_tmle_papers.json > "$RUNNER_TEMP/tmle-baseline.json"
 
       - name: Set up Python
         uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
@@ -68,48 +69,13 @@ jobs:
         env:
           RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
         run: |
-          python3 - <<'PY'
-          import html
-          import json
-          import os
-          from pathlib import Path
-
-          directory = Path(os.environ['RUNNER_TEMP']) / 'tmle-diagnostics'
-          directory.mkdir(parents=True, exist_ok=True)
-          report_path = directory / 'report.json'
-          if report_path.exists():
-              report = json.loads(report_path.read_text(encoding='utf-8'))
-              metrics = [
-                  ('Catalog papers', 'paper_count'),
-                  ('Newly discovered papers', 'newly_appended_count'),
-                  ('Updated existing papers', 'updated_existing_count'),
-                  ('Blocked existing papers removed', 'existing_blocked_removed'),
-                  ('Existing duplicates removed', 'existing_duplicates_removed'),
-              ]
-              lines = ['## TMLE discovery review', '']
-              for label, key in metrics:
-                  value = report.get(key)
-                  lines.append(f'- {label}: {value if isinstance(value, int) else "not available"}')
-              lines.append(f'- Incomplete: {report.get("incomplete", True) is not False}')
-              lines.append(f'- Query errors: {len(report.get("query_errors", []))}')
-              lines.append(f'- Truncated queries: {len(report.get("query_truncations", []))}')
-              details = {key: report.get(key) for key in
-                         ('query_stats', 'query_errors', 'query_truncations', 'incomplete')}
-              lines += ['', '<details><summary>Query diagnostics</summary>', '',
-                        '<pre>' + html.escape(json.dumps(details, ensure_ascii=False, indent=2)) + '</pre>',
-                        '</details>']
-          else:
-              lines = ['## TMLE discovery review', '',
-                       'No discovery report was produced. Check the failed step; no review PR is created.']
-          lines += ['', f'[Workflow run and diagnostic artifacts]({os.environ["RUN_URL"]})', '',
-                    'The report artifact includes the complete per-run metadata and newly added paper list.', '',
-                    'Review relevance, dates, duplicates, blocked records, and the rendered page before merging.',
-                    'This workflow does not merge or publish the changes.']
-          summary = '\n'.join(lines) + '\n'
-          (directory / 'review-summary.md').write_text(summary, encoding='utf-8')
-          with open(os.environ['GITHUB_STEP_SUMMARY'], 'a', encoding='utf-8') as output:
-              output.write(summary)
-          PY
+          python3 scripts/generate_tmle_review_summary.py \
+            --baseline "$RUNNER_TEMP/tmle-baseline.json" \
+            --catalog data/semantic_scholar_tmle_papers.json \
+            --report "$RUNNER_TEMP/tmle-diagnostics/report.json" \
+            --output-dir "$RUNNER_TEMP/tmle-diagnostics" \
+            --run-url "$RUN_URL" \
+            --step-summary "$GITHUB_STEP_SUMMARY"
 
       - name: Require complete results and compare catalog content
         id: compare
