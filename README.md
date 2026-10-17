@@ -36,7 +36,9 @@ every relevant paper, so human relevance review remains necessary.
 ## Weekly discovery and review
 
 [`.github/workflows/tmle-papers.yml`](.github/workflows/tmle-papers.yml) runs on
-Mondays at **00:17 UTC / 08:17 China Standard Time**. It also supports **Actions →
+Fridays at **05:00 Pacific time** (`America/Los_Angeles`), automatically following
+daylight saving time: **12:00 UTC during PDT / 13:00 UTC during PST**.
+It also supports **Actions →
 Review weekly TMLE papers → Run workflow** on the default branch. Manual runs
 selected from another branch are skipped. GitHub schedules can be delayed and
 run only when the workflow exists on the default branch; public repositories may
