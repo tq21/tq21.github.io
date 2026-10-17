@@ -2,8 +2,9 @@ name: Review weekly TMLE papers
 
 on:
   schedule:
-    # Monday 00:17 UTC / 08:17 China Standard Time (UTC+8).
-    - cron: '17 0 * * 1'
+    # Friday 05:00 Pacific time, automatically following PST/PDT.
+    - cron: '0 5 * * 5'
+      timezone: 'America/Los_Angeles'
   workflow_dispatch:
 
 # Only the final job can write, using the ephemeral repository GITHUB_TOKEN.
