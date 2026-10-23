@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T15:39:13Z",
+  "generated_at": "2026-10-23T16:57:58Z",
   "source": "Semantic Scholar Graph API",
   "unauthenticated": true,
   "mode": "bulk",
@@ -50,9 +50,9 @@
     },
     {
       "keyword": "super learning",
-      "fetched_raw_count": 20274,
+      "fetched_raw_count": 20275,
       "pages_fetched": 21,
-      "estimated_total": 20274,
+      "estimated_total": 20275,
       "truncated": false,
       "truncation_reason": null
     },
@@ -71,128 +71,11 @@
   "sort": "publicationDate:desc",
   "max_results_per_keyword": 0,
   "fetched_paper_count": 1201,
-  "newly_appended_count": 8,
-  "updated_existing_count": 26,
+  "newly_appended_count": 0,
+  "updated_existing_count": 3,
   "existing_blocked_removed": 0,
   "existing_duplicates_removed": 0,
-  "newly_added_papers": [
-    {
-      "title": "A novel AI-based cloud healthcare security framework using optimised fire hawk XOR encryption and probabilistic super learning",
-      "year": 2026,
-      "authors": [
-        "A. Arunarani",
-        "G. Sudhakaran",
-        "G. Logeswari",
-        "T. Thiyagu"
-      ],
-      "publication_date": null,
-      "doi": "10.1504/ijics.2026.10081694",
-      "paper_id": "0cdf21b78fc0abb7eb128ea3129b82aa33e116b4"
-    },
-    {
-      "title": "Cardiovascular Outcomes of Insulin Degludec Versus Insulin Glargine in Trial-Eligible and Ineligible Populations: A DEVOTE-Inspired Target Trial Emulation Using the Swedish National Diabetes Register.",
-      "year": 2026,
-      "authors": [
-        "T. Nyström",
-        "Jens Michelsen",
-        "H. Imberg",
-        "Sara Hallström",
-        "Viktor Tasselius",
-        "A. Norhammar",
-        "M. Petzold",
-        "J. Mader",
-        "Pratik Choudhary",
-        "Manal Elzalabany",
-        "Jonathan Valabhji",
-        "S. Misra",
-        "Safoora Gharibzadeh",
-        "P. Yazdanfard",
-        "K. K. Sørensen",
-        "C. Torp-Pedersen",
-        "M. Lind"
-      ],
-      "publication_date": "2026-10-19",
-      "doi": "10.1111/dom.71429",
-      "paper_id": "e9b4ad2fdd9150f66f8e16a7653ff255ccdc4f37"
-    },
-    {
-      "title": "Doubly Robust Estimation and Inference for Longitudinal Win Probabilities with Ordinal Outcomes in Observational Studies",
-      "year": 2026,
-      "authors": [
-        "Shu-Han Liu",
-        "Maria Kudela",
-        "Margaret Gamalo",
-        "Prosenjit Kundu"
-      ],
-      "publication_date": "2026-10-19",
-      "doi": null,
-      "paper_id": "99023285019f6872a0b4897a9a979e203aa85726"
-    },
-    {
-      "title": "Modelo predictivo de las metas de aproximación al dominio: un análisis con IA",
-      "year": 2026,
-      "authors": [
-        "Francisco Quiñonez Tapia",
-        "María de Lourdes Vargas-Garduño"
-      ],
-      "publication_date": "2026-10-16",
-      "doi": "10.24320/redie.2026.28.e10.6555",
-      "paper_id": "5243e5e552cce4ad71328c2163be7af0c7a960ed"
-    },
-    {
-      "title": "Temporal associations of BMI transition with metabolic inflammation in allergic rhinitis: A retrospective cohort study",
-      "year": 2026,
-      "authors": [
-        "Si-Ying Pan",
-        "Lin-Xi He",
-        "Xiao-Han Xu",
-        "Zu-Yi Zhao",
-        "Jia-Yuan Wu",
-        "Jun-Xian Wang",
-        "Ju-Hong Yang",
-        "Bing-Song Zhang"
-      ],
-      "publication_date": "2026-10-01",
-      "doi": "10.1016/j.waojou.2026.101477",
-      "paper_id": "8c12c363b6821ce09787e54a030581dbff600d60"
-    },
-    {
-      "title": "Undertriage of Pediatric Major Trauma at a Spanish Pediatric Trauma Center: A 10-Year Retrospective Cohort Study",
-      "year": 2026,
-      "authors": [
-        "A. Abril-Molina",
-        "Laura Díaz-Rueda",
-        "E. Ocete-Hita"
-      ],
-      "publication_date": "2026-10-15",
-      "doi": "10.3390/children13101409",
-      "paper_id": "2144fc58efe33d691c177d9ffce589ed98e61dfc"
-    },
-    {
-      "title": "Technical Note: Targeted Maximum Likelihood Estimator for an ATE Standardized for New Target Population",
-      "year": 2025,
-      "authors": [
-        "Mark J. van der Laan",
-        "Susan Gruber"
-      ],
-      "publication_date": "2025-01-10",
-      "doi": null,
-      "paper_id": "ac41544cd0de590affae929b4cc9f5cfce47b58c"
-    },
-    {
-      "title": "Supplementary materials: A new approach to hierarchical data analysis: Targeted maximum likelihood estimation for the causal effect of a cluster-level exposure",
-      "year": 2018,
-      "authors": [
-        "Laura Balzer",
-        "Wen-Jing Zheng",
-        "Mark J. van der Laan",
-        "Maya L. Petersen"
-      ],
-      "publication_date": null,
-      "doi": null,
-      "paper_id": "1be2ba116f07c6ae97c0c9013e64f7e97b65fd95"
-    }
-  ],
+  "newly_added_papers": [],
   "paper_count": 1227,
   "papers": [
     {
@@ -21259,7 +21142,7 @@
     {
       "title": "Identification of microenvironment related potential biomarkers of biochemical recurrence at 3 years after prostatectomy in prostate adenocarcinoma",
       "authors": [
-        "Xiaoru Sun",
+        "Xiao-Ru Sun",
         "Lu Wang",
         "Hong-Kai Li",
         "C. Jin",
@@ -21288,7 +21171,7 @@
       "title": "Identification of Tumor Microenvironment-Related Prognostic Biomarkers for Ovarian Serous Cancer 3-Year Mortality Using Targeted Maximum Likelihood Estimation: A TCGA Data Mining Study",
       "authors": [
         "Lu Wang",
-        "Xiaoru Sun",
+        "Xiao-Ru Sun",
         "C. Jin",
         "Yue Fan",
         "Fu-Zhong Xue"
@@ -22772,7 +22655,7 @@
         "Jianhua Gu",
         "Yuan Lu",
         "Xiao-Qing Wang",
-        "Shucheng Si",
+        "Shu-Cheng Si",
         "Fu-Zhong Xue"
       ],
       "abstract": "OBJECTIVE Improved prognostic prediction for patients with colorectal cancer stays an important challenge. This study aimed to develop an effective prognostic model for predicting survival in resected colorectal cancer patients through the implementation of the Super learner. METHODS A total of 2333 patients who met the inclusion criteria were enrolled in the cohort. We used multivariate Cox regression analysis to identify significant prognostic factors and Super learner to construct prognostic models. Prediction models were internally validated by 10-fold cross-validation and externally validated with a dataset from The Cancer Genome Atlas. Discrimination and calibration were evaluated by Harrell concordence index (C-index) and calibration plots, respectively. RESULTS Age, T stage, N stage, histological type, tumor location, lymph-vascular invasion, preoperative carcinoembryonic antigen and sample lymph nodes were integrated into prediction models. The concordance index of Super learner-based prediction model (SLM) was 0.792 (95% confidence interval: 0.767-0.818), which is higher than that of the seventh edition American Joint Committee on Cancer TNM staging system 0.689 (95% confidence interval: 0.672-0.703) for predicting overall survival (P < 0.05). In the external validation, the concordance index of the SLM for predicting overall survival was also higher than that of tumor-node-metastasis (TNM) stage system (0.764 vs. 0.682, respectively; P < 0.001). In addition, the SLM showed good calibration properties. CONCLUSIONS We developed and externally validated an effective prognosis prediction model based on Super learner, which offered more reliable and accurate prognosis prediction and may be used to more accurately identify high-risk patients who need more active surveillance in patients with resected colorectal cancer.",
