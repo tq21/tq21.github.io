@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T00:13:59Z",
+  "generated_at": "2026-10-23T15:39:13Z",
   "source": "Semantic Scholar Graph API",
   "unauthenticated": true,
   "mode": "bulk",
@@ -18,41 +18,41 @@
   "query_stats": [
     {
       "keyword": "tmle",
-      "fetched_raw_count": 524,
+      "fetched_raw_count": 526,
       "pages_fetched": 1,
-      "estimated_total": 524,
+      "estimated_total": 526,
       "truncated": false,
       "truncation_reason": null
     },
     {
       "keyword": "targeted maximum likelihood estimation",
-      "fetched_raw_count": 4195,
+      "fetched_raw_count": 4204,
       "pages_fetched": 5,
-      "estimated_total": 4195,
+      "estimated_total": 4204,
       "truncated": false,
       "truncation_reason": null
     },
     {
       "keyword": "targeted minimum loss based estimation",
-      "fetched_raw_count": 357,
+      "fetched_raw_count": 358,
       "pages_fetched": 1,
-      "estimated_total": 357,
+      "estimated_total": 358,
       "truncated": false,
       "truncation_reason": null
     },
     {
       "keyword": "super learner",
-      "fetched_raw_count": 1089,
+      "fetched_raw_count": 1094,
       "pages_fetched": 2,
-      "estimated_total": 1089,
+      "estimated_total": 1094,
       "truncated": false,
       "truncation_reason": null
     },
     {
       "keyword": "super learning",
-      "fetched_raw_count": 20210,
+      "fetched_raw_count": 20274,
       "pages_fetched": 21,
-      "estimated_total": 20210,
+      "estimated_total": 20274,
       "truncated": false,
       "truncation_reason": null
     },
@@ -70,809 +70,130 @@
   "incomplete": false,
   "sort": "publicationDate:desc",
   "max_results_per_keyword": 0,
-  "fetched_paper_count": 1196,
-  "newly_appended_count": 55,
-  "updated_existing_count": 269,
+  "fetched_paper_count": 1201,
+  "newly_appended_count": 8,
+  "updated_existing_count": 26,
   "existing_blocked_removed": 0,
   "existing_duplicates_removed": 0,
   "newly_added_papers": [
     {
-      "title": "AI-Enhanced Data-Driven Approach to Model the Mechanical Behavior of Sustainable Geopolymer Concrete",
-      "year": 2027,
-      "authors": [
-        "Rishav Jaiswal",
-        "Rajani Gautam",
-        "U. S. Yadav"
-      ],
-      "publication_date": null,
-      "doi": "10.1061/jsdccc.sceng-2132",
-      "paper_id": "0819ccf5e8ad530fbf8287afe0e84c77fd501c1e"
-    },
-    {
-      "title": "1824-P: The Association of Dipeptidyl Peptidase-4 Inhibitors (DPP-4i) with Cardiovascular Outcomes in People with Type 2 Diabetes from the UK Clinical Practice Research Datalink (CPRD)",
+      "title": "A novel AI-based cloud healthcare security framework using optimised fire hawk XOR encryption and probabilistic super learning",
       "year": 2026,
       "authors": [
-        "Gilberte Martine-Edith",
-        "Jonah Thomas",
-        "Safoora Gharibzadeh",
-        "Shivani Misra",
-        "K. Khunti",
+        "A. Arunarani",
+        "G. Sudhakaran",
+        "G. Logeswari",
+        "T. Thiyagu"
+      ],
+      "publication_date": null,
+      "doi": "10.1504/ijics.2026.10081694",
+      "paper_id": "0cdf21b78fc0abb7eb128ea3129b82aa33e116b4"
+    },
+    {
+      "title": "Cardiovascular Outcomes of Insulin Degludec Versus Insulin Glargine in Trial-Eligible and Ineligible Populations: A DEVOTE-Inspired Target Trial Emulation Using the Swedish National Diabetes Register.",
+      "year": 2026,
+      "authors": [
+        "T. Nyström",
+        "Jens Michelsen",
+        "H. Imberg",
+        "Sara Hallström",
+        "Viktor Tasselius",
+        "A. Norhammar",
+        "M. Petzold",
         "J. Mader",
         "Pratik Choudhary",
-        "Reddie Consortium"
-      ],
-      "publication_date": "2026-06-05",
-      "doi": "10.2337/db26-1824-p",
-      "paper_id": "e2906dbd88d262ed2e2a55126979f4787c12c9ef"
-    },
-    {
-      "title": "2202-P: The Cardioprotective Effect of Glucagon-Like Peptide 1 Receptor Agonist in a Trial Inspired, and Wider, Population Individuals Living with Type 2 Diabetes: A Target Trial Emulation Study in CPRD",
-      "year": 2026,
-      "authors": [
-        "Jonah Thomas",
-        "Gilberte Martine-Edith",
+        "Manal Elzalabany",
+        "Jonathan Valabhji",
+        "S. Misra",
         "Safoora Gharibzadeh",
-        "Amanda Adler",
-        "J. Mader",
-        "K. Khunti",
-        "Shivani Misra",
-        "Pratik Choudhary"
+        "P. Yazdanfard",
+        "K. K. Sørensen",
+        "C. Torp-Pedersen",
+        "M. Lind"
       ],
-      "publication_date": "2026-06-05",
-      "doi": "10.2337/db26-2202-p",
-      "paper_id": "8e10bf929639bd40926dc4370e364e7de56381e7"
+      "publication_date": "2026-10-19",
+      "doi": "10.1111/dom.71429",
+      "paper_id": "e9b4ad2fdd9150f66f8e16a7653ff255ccdc4f37"
     },
     {
-      "title": "2321-P: Machine-Learning Modeling for T2DM Prediction in over 3 Million Adults",
+      "title": "Doubly Robust Estimation and Inference for Longitudinal Win Probabilities with Ordinal Outcomes in Observational Studies",
       "year": 2026,
       "authors": [
-        "Luis A Rodriguez",
-        "Maher Yassin",
-        "R. Neugebauer",
-        "Theodore R. Levin",
-        "Anjali Gopalan",
-        "Varun Saxena",
-        "Jaejin An",
-        "D. Sotres-Alvarez",
-        "Julie Schmittdiel"
+        "Shu-Han Liu",
+        "Maria Kudela",
+        "Margaret Gamalo",
+        "Prosenjit Kundu"
       ],
-      "publication_date": "2026-06-05",
-      "doi": "10.2337/db26-2321-p",
-      "paper_id": "4e2a6c49dc4d2ee607054a27b0c5be54418d0240"
-    },
-    {
-      "title": "A44-05 Comparative Effectiveness of Mineralocorticoid-Containing Corticosteroids vs. Non-Mineralocorticoid-Containing Corticosteroids in Hospitalized Patients With Chronic Obstructive Pulmonary Disease and Heart Failure Exacerbations",
-      "year": 2026,
-      "authors": [
-        "T. Nguyen",
-        "O. El Fadel",
-        "G. Ferri",
-        "K. Modzelewski",
-        "R. Anderson",
-        "D. Davis",
-        "N. A. Bosch"
-      ],
-      "publication_date": "2026-05-01",
-      "doi": "10.1093/ajrccm/aamag162.1654",
-      "paper_id": "a3be748a04dd0cea873b22d134e7cbd062c930e1"
-    },
-    {
-      "title": "Association between usual protein intake and muscle function in older U.S. adults: a target-trial emulation using NHANES 2011–2018",
-      "year": 2026,
-      "authors": [
-        "Yang Ling",
-        "Mingxuan Hou",
-        "Muhammad Riaz",
-        "Najm Ur Rahman"
-      ],
-      "publication_date": "2026-04-14",
-      "doi": "10.1080/15502783.2026.2658171",
-      "paper_id": "c062c6a779155d3648cd7a1afa447d20b4fe80bd"
-    },
-    {
-      "title": "Association of moderate-to-vigorous physical activity with sleep quality and flow-mediated dilation in postmenopausal women: a cross-sectional study.",
-      "year": 2026,
-      "authors": [
-        "Baoyi Ouyang",
-        "Zi-Lin Fan",
-        "Hui Tang",
-        "Wen-Yi Xia",
-        "Hui He"
-      ],
-      "publication_date": "2026-08-18",
-      "doi": "10.1097/gme.0000000000002878",
-      "paper_id": "f074a2ee93ad1d0f78896fe71f4a3bb042a70673"
-    },
-    {
-      "title": "Association of polyethylene type with revision and dislocation risk following primary total hip arthroplasty: a population-based cohort study from the Danish Hip Arthroplasty Register",
-      "year": 2026,
-      "authors": [
-        "Marwan Chabaita",
-        "Afrim Iljazi",
-        "M. S. Sørensen",
-        "F. Eriksson",
-        "Søren Overgaard",
-        "M. M. Petersen"
-      ],
-      "publication_date": "2026-09-07",
-      "doi": "10.2340/17453674.2026.46487",
-      "paper_id": "cae3a06a6f10c7d5e9bd8c8a53cb932385527aa2"
-    },
-    {
-      "title": "Causal effect of ultra-processed food intake on incident obstructive sleep apnoea: TMLE and AIPW analyses in UK Biobank",
-      "year": 2026,
-      "authors": [
-        "Yohannes Adama Melaku",
-        "T. Mekonnen",
-        "Zegeye Abebe Abitew",
-        "Anteneh Mengist Dessie",
-        "Robert Adams"
-      ],
-      "publication_date": "2026-10-01",
-      "doi": "10.1097/01.ede.0001280072.01114.61",
-      "paper_id": "6327551761dc18987ec10cc782d1821bfcd1a224"
-    },
-    {
-      "title": "Causal effects of plant-based diet indices on incident obstructive sleep apnoea: TMLE and AIPW analyses in UK Biobank",
-      "year": 2026,
-      "authors": [
-        "Yohannes Adama Melaku",
-        "Zegeye Abebe Abitew",
-        "T. Mekonnen",
-        "Anteneh Mengist Dessie",
-        "Robert Adams",
-        "Yohannes Adama Melaku"
-      ],
-      "publication_date": "2026-10-01",
-      "doi": "10.1097/01.ede.0001280220.13604.70",
-      "paper_id": "717853f1d3981878063504644884e47cefd2a807"
-    },
-    {
-      "title": "Comparative Effectiveness of Phenobarbital vs Diazepam for Alcohol Withdrawal Syndrome.",
-      "year": 2026,
-      "authors": [
-        "Tess Bradley",
-        "Megan E. Feeney",
-        "Anica C. Law",
-        "Alyssa F. Peterkin",
-        "K. Fantasia",
-        "A. Walkey",
-        "Nicholas A. Bosch"
-      ],
-      "publication_date": "2026-10-12",
-      "doi": "10.1001/jamainternmed.2026.4939",
-      "paper_id": "361bc1be9c816d72e7bf03b133f51fc7aa2f3e32"
-    },
-    {
-      "title": "Cross-sectional and Longitudinal Association Between Sleep and HIV Prevention and Care Behaviors Among Transgender Women of Color: The TURNNT Cohort Study.",
-      "year": 2026,
-      "authors": [
-        "Dustin T. Duncan",
-        "Alexander Furuya",
-        "Asa E. Radix",
-        "Adam M. Whalen",
-        "Jenesis Merriman",
-        "D. Callander",
-        "N. Makarem"
-      ],
-      "publication_date": "2026-05-08",
-      "doi": "10.1007/s10461-026-05132-3",
-      "paper_id": "927a740232f4d23096770a9473a779cbb480004c"
-    },
-    {
-      "title": "Demystify doubly-robust estimation: the role of overlap",
-      "year": 2026,
-      "authors": [
-        "Cheng-Xin Yang",
-        "Laine E. Thomas",
-        "Fan Li"
-      ],
-      "publication_date": "2026-01-01",
-      "doi": "10.1515/em-2026-0005",
-      "paper_id": "205f68abe3acc051da84f0556a4b377ff1cbb574"
-    },
-    {
-      "title": "Double Robustness and Second-Order Bias Correction of Targeted Maximum Likelihood Estimation: A Semiparametric Theoretical Perspective",
-      "year": 2026,
-      "authors": [
-        "Siqi Li"
-      ],
-      "publication_date": null,
-      "doi": "10.12677/aam.2026.157313",
-      "paper_id": "ea5d090f056bc91bda0d71e085aa4be1d4475c97"
-    },
-    {
-      "title": "Estimating Optimal Dynamic Treatment Regimes for Personalized Education: A Tutorial and Applications with Machine Learning",
-      "year": 2026,
-      "authors": [
-        "Chen-Guang Pan",
-        "Yuxuan Li",
-        "Thomas Harris",
-        "Youmi Suk"
-      ],
-      "publication_date": "2026-10-07",
+      "publication_date": "2026-10-19",
       "doi": null,
-      "paper_id": "a8014cf5f0c528ec8ad6611c515c0dc59cca283e"
+      "paper_id": "99023285019f6872a0b4897a9a979e203aa85726"
     },
     {
-      "title": "Estimating the effects of hypothetical loneliness interventions on memory function among middle-aged and older adults in the United States",
+      "title": "Modelo predictivo de las metas de aproximación al dominio: un análisis con IA",
       "year": 2026,
       "authors": [
-        "Ryo Ikesu",
-        "Yingyan Wu",
-        "L. P. Rojas-Saunero",
-        "R. Nianogo",
-        "Jacqueline M Torres",
-        "Ashwin A. Kotwal",
-        "Christina M. Ramirez",
-        "Yusuke Tsugawa",
-        "E. Mayeda"
+        "Francisco Quiñonez Tapia",
+        "María de Lourdes Vargas-Garduño"
       ],
-      "publication_date": "2026-03-09",
-      "doi": "10.1093/aje/kwag044",
-      "paper_id": "c636372ff83207aff967803b830c5754e77ea4e4"
+      "publication_date": "2026-10-16",
+      "doi": "10.24320/redie.2026.28.e10.6555",
+      "paper_id": "5243e5e552cce4ad71328c2163be7af0c7a960ed"
     },
     {
-      "title": "Evaluating social cognitive remediation for labour participation in severe mental illness: insights from a small-scale randomised controlled trial",
+      "title": "Temporal associations of BMI transition with metabolic inflammation in allergic rhinitis: A retrospective cohort study",
       "year": 2026,
       "authors": [
-        "Guillaume Barbalat",
-        "J. Plasse",
-        "M.-C. Bralet",
-        "S. Cervello",
-        "N. Franck"
-      ],
-      "publication_date": "2026-10-12",
-      "doi": "10.1192/bjo.2026.12124",
-      "paper_id": "a2ae2eed391fc0218b75cc0452d24d378a62b8a3"
-    },
-    {
-      "title": "Handling Missing Data in Cluster Randomized Trials: A Comparison of Multiple Imputation and Two-Stage TMLE",
-      "year": 2026,
-      "authors": [
-        "Joy Zora Nakato",
-        "L. B. Balzer"
+        "Si-Ying Pan",
+        "Lin-Xi He",
+        "Xiao-Han Xu",
+        "Zu-Yi Zhao",
+        "Jia-Yuan Wu",
+        "Jun-Xian Wang",
+        "Ju-Hong Yang",
+        "Bing-Song Zhang"
       ],
       "publication_date": "2026-10-01",
-      "doi": "10.1097/01.ede.0001280792.07839.d5",
-      "paper_id": "810517be897e9922680fc5bcb26a56cabca3ce25"
+      "doi": "10.1016/j.waojou.2026.101477",
+      "paper_id": "8c12c363b6821ce09787e54a030581dbff600d60"
     },
     {
-      "title": "Heterogeneous Associations Between Frequent Virtual Communication and Loneliness Among Older Adults: Observational Analysis",
+      "title": "Undertriage of Pediatric Major Trauma at a Spanish Pediatric Trauma Center: A 10-Year Retrospective Cohort Study",
       "year": 2026,
       "authors": [
-        "D. Kato",
-        "Ichiro Kawachi",
-        "K. Kondo",
-        "A. Nakagomi",
-        "K. Shiba"
-      ],
-      "publication_date": "2026-08-07",
-      "doi": "10.2196/96187",
-      "paper_id": "debac4a2f4c31c5624689f4e958c2ecd6ed2a92c"
-    },
-    {
-      "title": "Improving Longitudinal Targeted Maximum Likelihood Estimation in Target Trial Emulation using Joint Calibrated Weights",
-      "year": 2026,
-      "authors": [
-        "Juliette M Limozin",
-        "Shaun Seaman",
-        "Li Su"
-      ],
-      "publication_date": "2026-06-03",
-      "doi": null,
-      "paper_id": "cd8ca4b8b8291ff0534059ba0a78ea9b909e9751"
-    },
-    {
-      "title": "Predicting Hospital-associated complications in older adults: methodological considerations",
-      "year": 2026,
-      "authors": [
-        "Shukhrat Valiev",
-        "D. Yuldasheva",
-        "Malika Khojimatova",
-        "D. Saidova",
-        "Shaxlo R. Sodiqova",
-        "N. Ermatov",
-        "Zeynab Afzali"
+        "A. Abril-Molina",
+        "Laura Díaz-Rueda",
+        "E. Ocete-Hita"
       ],
       "publication_date": "2026-10-15",
-      "doi": "10.1007/s40520-026-03507-z",
-      "paper_id": "da9b5340406a7cd851fb231f996fac4e4618112e"
+      "doi": "10.3390/children13101409",
+      "paper_id": "2144fc58efe33d691c177d9ffce589ed98e61dfc"
     },
     {
-      "title": "Quantifying Systematic Bias in Observational Causal Estimates Using Negative Controls: The Bias Attribution Fraction",
-      "year": 2026,
+      "title": "Technical Note: Targeted Maximum Likelihood Estimator for an ATE Standardized for New Target Population",
+      "year": 2025,
       "authors": [
-        "Z. Zeng",
-        "J. Wang",
-        "H. Zuo",
-        "L. Shu"
+        "Mark J. van der Laan",
+        "Susan Gruber"
       ],
-      "publication_date": "2026-10-11",
-      "doi": "10.64898/2026.10.08.26365019",
-      "paper_id": "a731ab679752d805fe7b1ba57511a3fca64b361f"
-    },
-    {
-      "title": "Real-World Effectiveness of Nirsevimab Against RSV-LRTI and Bronchiolitis Hospitalization: Results from the 2024–2025 Italian Universal Immunization Campaign in Newborns",
-      "year": 2026,
-      "authors": [
-        "C. Auriti",
-        "Camilla Gizzi",
-        "Matteo Riccò",
-        "Roberto Bellù",
-        "M. Giuffré",
-        "A. Fabiano",
-        "C. Cacace",
-        "Paola Cavicchioli",
-        "A. Cuttano",
-        "S. Di Valerio",
-        "Cristiana Germini",
-        "Marcello Napolitano",
-        "G. Paviotti",
-        "C. Peila",
-        "S. Perrone",
-        "Simona Pesce",
-        "Gianfranco Scarpelli",
-        "Grazia Scutti",
-        "Giuseppina Spanedda",
-        "Alex Staffler",
-        "Massimo Agosti"
-      ],
-      "publication_date": "2026-09-01",
-      "doi": "10.3390/v18090982",
-      "paper_id": "9867e45c7705df0380103d2782ac5ba15f3f23f1"
-    },
-    {
-      "title": "Same-Day Discharge With Early Telehealth Follow-Up After Minimally Invasive Benign Gynecologic and Urogynecologic Surgery: Healthcare Utilization, Safety, and Direct Costs.",
-      "year": 2026,
-      "authors": [
-        "U. Dogan",
-        "E. Comert",
-        "Erol Karakaş",
-        "Kubra Bagci",
-        "Pınar Kadiroğulları",
-        "O. Doğan"
-      ],
-      "publication_date": "2026-09-01",
-      "doi": "10.56434/j.arch.esp.urol.aeu024",
-      "paper_id": "9ee25e9dadf3d2aac952d46bb10912feb40a44f9"
-    },
-    {
-      "title": "Sentiment Analysis Based on Super Learning Multimodal Transformer",
-      "year": 2026,
-      "authors": [
-        "De-Zhi An",
-        "Shuowen Wang"
-      ],
-      "publication_date": null,
-      "doi": "10.1109/lsp.2026.3682989",
-      "paper_id": "add2a7ef5b6ff9c2f69dcd6b49f8dee5867bcf17"
-    },
-    {
-      "title": "Smooth Multi-Policy Causal Effect Estimation in Longitudinal Settings",
-      "year": 2026,
-      "authors": [
-        "Wen-Xin Chen",
-        "Wei-Shen Pan",
-        "Kyra Gan",
-        "Fei Wang"
-      ],
-      "publication_date": "2026-05-14",
-      "doi": "10.48550/arxiv.2605.14284",
-      "paper_id": "849baad620b786ae5c200761d49933dc94b80d07"
-    },
-    {
-      "title": "Social and digital engagement associated with reduced depressive symptoms in adults aged 50 and older: a multi-country cohort study",
-      "year": 2026,
-      "authors": [
-        "Yaping Wang",
-        "Li-Yuan Tao",
-        "Gram Lu",
-        "Hongguang Chen",
-        "Wen-Zhan Jing",
-        "Chuyao Jin",
-        "Jue Liu"
-      ],
-      "publication_date": "2026-04-07",
-      "doi": "10.1186/s12916-026-04846-4",
-      "paper_id": "987f2e9dea6420fa04a0fa706d5ae325461419af"
-    },
-    {
-      "title": "Targeted Deep Survival Contrasts: Valid Inference for Treatment-Specific Survival Benefit with Neural Networks",
-      "year": 2026,
-      "authors": [
-        "David McCoy",
-        "Yi Li"
-      ],
-      "publication_date": "2026-08-20",
+      "publication_date": "2025-01-10",
       "doi": null,
-      "paper_id": "cdb80596eeb90ebe34ef0e5911da64295b3e2749"
+      "paper_id": "ac41544cd0de590affae929b4cc9f5cfce47b58c"
     },
     {
-      "title": "Targeted maximum likelihood estimation for mediation analysis with multiple time-varying mediators.",
-      "year": 2026,
-      "authors": [
-        "Yan-Lin Chen",
-        "Yun-Hao Chang",
-        "Sheng-Hsuan Lin"
-      ],
-      "publication_date": "2026-04-09",
-      "doi": "10.1093/biomtc/ujag102",
-      "paper_id": "c2849b3016b13c95a4ec0274b873d4c26fbe71eb"
-    },
-    {
-      "title": "The association between food insecurity and poor sleep quality among transgender women of color: The TURNNT cohort study",
-      "year": 2026,
-      "authors": [
-        "Alexander Furuya",
-        "N. Makarem",
-        "Adam M. Whalen",
-        "Jenesis Merriman",
-        "D. Callander",
-        "Asa E. Radix",
-        "Miho Kawanami",
-        "Dustin T. Duncan"
-      ],
-      "publication_date": "2026-09-28",
-      "doi": "10.1080/30678935.2026.2713222",
-      "paper_id": "b7a64098f16cf623fd00c79c4b894e0d1871da52"
-    },
-    {
-      "title": "The effect of meeting Canada's 24-hour movement guidelines on the severity of symptoms of generalized anxiety disorder: A target trial emulation from a longitudinal study.",
-      "year": 2026,
-      "authors": [
-        "Teodora Riglea",
-        "M. Sylvestre",
-        "M. Schnitzer",
-        "Catherine M. Sabiston",
-        "Jennifer O'Loughlin"
-      ],
-      "publication_date": "2026-04-01",
-      "doi": "10.1016/j.jad.2026.121767",
-      "paper_id": "a1b1bc08ba5ff659057b4830bd196487977f85c6"
-    },
-    {
-      "title": "The longitudinal and reversible causal link between depressive symptoms and cardiovascular disease among middle-aged and older adults: findings from three national cohorts.",
-      "year": 2026,
-      "authors": [
-        "Xiang Tang",
-        "D. Shen",
-        "Shu-Yuan Li",
-        "Yong Ge",
-        "Hongjiang Liu",
-        "Teng Sun",
-        "Cheng Zhang",
-        "Hao Zhang",
-        "Shou-Jie Feng"
-      ],
-      "publication_date": "2026-03-01",
-      "doi": "10.1016/j.psychres.2026.117095",
-      "paper_id": "9a5e3b6bc4e9c354f8eb7bbb6f1ba84cd5de7f4b"
-    },
-    {
-      "title": "Two-Time-Point Inflammatory Status Patterns and the Risk of Incident Diabetes: A Cohort Study Based on CHARLS",
-      "year": 2026,
-      "authors": [
-        "Yanxiang Luo",
-        "Han Li",
-        "Hongjian Gong",
-        "Lixin Guo",
-        "Qi Pan"
-      ],
-      "publication_date": "2026-08-01",
-      "doi": "10.3390/healthcare14152404",
-      "paper_id": "a4fa4d771699f7a37845d8b469a3bd077ee5e3d9"
-    },
-    {
-      "title": "When Sample-Splitting Choices Matter in TMLE and AIPW: Cross-Fitting, Targeting, and Repetition",
-      "year": 2026,
-      "authors": [
-        "M. Karim",
-        "Rainie Fu"
-      ],
-      "publication_date": "2026-10-12",
-      "doi": null,
-      "paper_id": "e9df3329c3f97faa8e3d329dea03f65ece242244"
-    },
-    {
-      "title": "Applications and reporting of causal inference modelling in infectious disease studies: A systematic review",
-      "year": 2025,
-      "authors": [
-        "Yukiko Ezure",
-        "M. Chatfield",
-        "David L. Paterson",
-        "Lisa Hall"
-      ],
-      "publication_date": "2025-09-01",
-      "doi": "10.1016/j.idm.2025.09.006",
-      "paper_id": "e740de88893eb7f7a21c91f9438a9409284d729c"
-    },
-    {
-      "title": "Community-based social assistance programs and household food insecurity among de novo food-aid seekers in Quebec, Canada",
-      "year": 2025,
-      "authors": [
-        "E. Pérez",
-        "M. Carabali",
-        "G. Mercille",
-        "M. Sylvestre",
-        "R. Blanchet",
-        "F. Roncarolo",
-        "M. Schnitzer",
-        "L. Potvin"
-      ],
-      "publication_date": "2025-08-30",
-      "doi": "10.1016/j.ssmph.2025.101859",
-      "paper_id": "85ef1a12264dd0d89d2d67d54a5ac20c87278ff6"
-    },
-    {
-      "title": "Evaluating equitable care in the ICU:Creating a causal inference template to assess the impact of life-sustaining interventions across racial and ethnic groups.",
-      "year": 2025,
-      "authors": [
-        "Tristan Struja",
-        "J. Matos",
-        "Barbara D. Lam",
-        "Yi-Ren Cao",
-        "Xiao-Li Liu",
-        "Ziyue Chan",
-        "Yu-Gang Jia",
-        "Christopher M. Sauer",
-        "H. D'Couto",
-        "I. Dankwa-Mullan",
-        "L. Celi",
-        "A. Waschka"
-      ],
-      "publication_date": "2025-03-30",
-      "doi": "10.1016/j.hrtlng.2025.03.011",
-      "paper_id": "d1d5b0b0e8fa360647bb26892eb265093d118238"
-    },
-    {
-      "title": "Oral co‐infection with multiple alpha‐human papillomavirus and head and neck cancer risk",
-      "year": 2025,
-      "authors": [
-        "M. Amure",
-        "S. Madathil",
-        "C. Laprise",
-        "M. Rousseau",
-        "Belinda Nicolau"
-      ],
-      "publication_date": "2025-09-09",
-      "doi": "10.1002/ijc.70124",
-      "paper_id": "d69545f47e0177f31897d5bbccdcdf8dc5fbd69b"
-    },
-    {
-      "title": "PyTMLE: A Flexible Python Library for Targeted Estimation of Survival and Competing Risks using Causal Machine Learning",
-      "year": 2025,
-      "authors": [
-        "J. Guski",
-        "M. Aborageh",
-        "H. FroÌhlich"
-      ],
-      "publication_date": "2025-07-03",
-      "doi": "10.1101/2025.07.02.25330730",
-      "paper_id": "924823625845185f5a8ae9e38ee60758ba9176fc"
-    },
-    {
-      "title": "An exploration of potential risk factors for gastroschisis using decision tree learning.",
-      "year": 2024,
-      "authors": [
-        "Julie M Petersen",
-        "J. Gradus",
-        "M. Werler",
-        "Samantha E. Parker"
-      ],
-      "publication_date": "2024-12-01",
-      "doi": "10.1016/j.annepidem.2024.12.004",
-      "paper_id": "b506bf20c370ec32e201acfdd89e7bd94d2d8c17"
-    },
-    {
-      "title": "Enhancing causal inference in population-based neuroimaging data in children and adolescents",
-      "year": 2024,
-      "authors": [
-        "R. Visontay",
-        "L. Squeglia",
-        "M. Sunderland",
-        "E. Devine",
-        "H. Byrne",
-        "L. Mewton"
-      ],
-      "publication_date": "2024-10-01",
-      "doi": "10.1016/j.dcn.2024.101465",
-      "paper_id": "a7c76a807a296885df26527449da1ba1a2717a9f"
-    },
-    {
-      "title": "Probabilistic prediction of arrivals and hospitalizations in emergency departments in Île-de-France",
-      "year": 2024,
-      "authors": [
-        "Herbert P. Susmann",
-        "Antoine Chambaz",
-        "Julie Josse",
-        "Philippe Aegerter",
-        "Mathias Wargon",
-        "E. Bacry"
-      ],
-      "publication_date": "2024-12-04",
-      "doi": "10.1016/j.ijmedinf.2024.105728",
-      "paper_id": "cfdabdf5ba5ff5e9646193716d789e9060ed15ec"
-    },
-    {
-      "title": "Can machine learning provide preoperative predictions of biological hemostasis after extracorporeal circulation for cardiac surgery?",
-      "year": 2023,
-      "authors": [
-        "V. Perduca",
-        "Olivier Bouaziz",
-        "K. Zannis",
-        "M. Beaussier",
-        "Olivier Untereiner"
-      ],
-      "publication_date": "2023-11-01",
-      "doi": "10.1016/j.jtcvs.2023.10.062",
-      "paper_id": "751c174d8b6fe59dab9a986808628ab068471b94"
-    },
-    {
-      "title": "Is the association between fruits and vegetables and preeclampsia due to higher dietary vitamin C and carotenoid intakes?",
-      "year": 2023,
-      "authors": [
-        "Lisa M. Bodnar",
-        "S. Kirkpatrick",
-        "J. Roberts",
-        "Edward H. Kennedy",
-        "A. Naimi"
-      ],
-      "publication_date": "2023-06-01",
-      "doi": "10.1016/j.ajcnut.2023.06.007",
-      "paper_id": "ffc8c775d5856c7df2f2aaadaf17c09ed1dee99e"
-    },
-    {
-      "title": "Developing transdiagnostic internalizing disorder prognostic indices for outpatient cognitive behavioral therapy",
-      "year": 2022,
-      "authors": [
-        "A. Rosellini",
-        "Alexandra M. Andrea",
-        "Christina S. Galiano",
-        "I. Hwang",
-        "T. A. Brown",
-        "Alex Luedtke",
-        "R. Kessler"
-      ],
-      "publication_date": "2022-12-01",
-      "doi": "10.1016/j.beth.2022.11.004",
-      "paper_id": "fa591b15888d2f374732440c358a0d7338e5d55c"
-    },
-    {
-      "title": "Machine Learning Methods in Health Economics and Outcomes Research-The PALISADE Checklist: A Good Practices Report of an ISPOR Task Force.",
-      "year": 2022,
-      "authors": [
-        "W. Padula",
-        "N. Kreif",
-        "D. Vanness",
-        "B. Adamson",
-        "J. Rueda",
-        "F. Felizzi",
-        "P. Jónsson",
-        "M. IJzerman",
-        "A. Butte",
-        "William Crown"
-      ],
-      "publication_date": "2022-07-01",
-      "doi": "10.1016/j.jval.2022.03.022",
-      "paper_id": "c3a88b5a0b87c4c61d93a0f848de665086e01eca"
-    },
-    {
-      "title": "The Society for Vascular Surgery Objective Performance Goals for Critical Limb Ischemia are attainable in select patients with ischemic wounds managed with wound care alone.",
-      "year": 2021,
-      "authors": [
-        "J. Crowner",
-        "William A. Marston",
-        "N. Freeman",
-        "J. Sperger",
-        "H. Austin",
-        "Michael Steffan",
-        "M. Farber",
-        "Jayer Chung",
-        "K. McGinigle"
-      ],
-      "publication_date": "2021-09-01",
-      "doi": "10.1016/j.avsg.2021.06.034",
-      "paper_id": "eedbe5f1f671cf9ea41dbf9ae172fc7a149b8bec"
-    },
-    {
-      "title": "Targeted maximum likelihood estimation for evaluating collapsibility of causal effect measures: A comparative simulation study",
-      "year": 2020,
-      "authors": [
-        "Omowumi Funke Adedugbe"
-      ],
-      "publication_date": null,
-      "doi": "10.20474/jahms6.1.6",
-      "paper_id": "e28740a76a531b3cce3835095634dc6e9344af77"
-    },
-    {
-      "title": "Distress level and daily functioning problems attributed to firearm victimization: sociodemographic-specific responses",
-      "year": 2019,
-      "authors": [
-        "Rose M. C. Kagawa",
-        "V. Pear",
-        "K. Rudolph",
-        "K. Keyes",
-        "M. Cerdá",
-        "G. Wintemute"
-      ],
-      "publication_date": "2019-12-06",
-      "doi": "10.1016/j.annepidem.2019.12.002",
-      "paper_id": "e6b2c83ba297d263f8fd906679bbb0176c2d8109"
-    },
-    {
-      "title": "You are smarter than you think: (super) machine learning in context",
+      "title": "Supplementary materials: A new approach to hierarchical data analysis: Targeted maximum likelihood estimation for the causal effect of a cluster-level exposure",
       "year": 2018,
       "authors": [
-        "A. Keil",
-        "Jessie K. Edwards"
-      ],
-      "publication_date": "2018-05-01",
-      "doi": "10.1007/s10654-018-0405-9",
-      "paper_id": "c0c0190b99aa979f302248531d95f41bd970f2aa"
-    },
-    {
-      "title": "A Case Study of the Impact of Data-Adaptive Versus Model-Based Estimation of the Propensity Scores on Causal Inferences from Three Inverse Probability Weighting Estimators",
-      "year": 2016,
-      "authors": [
-        "R. Neugebauer",
-        "J. Schmittdiel",
-        "M. V. van der Laan"
-      ],
-      "publication_date": "2016-05-01",
-      "doi": "10.1515/ijb-2015-0028",
-      "paper_id": "5b00c26576f45320f009aa8f5e5b8dc553a179c2"
-    },
-    {
-      "title": "Superaprendizaje como estrategia cognoscitiva y afectiva. Una propuesta para la educación inicial",
-      "year": 2015,
-      "authors": [
-        "M. Maldonado"
+        "Laura Balzer",
+        "Wen-Jing Zheng",
+        "Mark J. van der Laan",
+        "Maya L. Petersen"
       ],
       "publication_date": null,
       "doi": null,
-      "paper_id": "55369c31bd7b1c1305d5b38f14be3ecff22c4024"
-    },
-    {
-      "title": "Estimation and testing in targeted goup sequential covariate-adjusted randomized clinical trials",
-      "year": 2013,
-      "authors": [
-        "A. Chambaz",
-        "M. V. van der Laan"
-      ],
-      "publication_date": "2013-05-07",
-      "doi": "10.1111/sjos.12013",
-      "paper_id": "e5dc73763b6778eda04679800c604b9124e88fbd"
-    },
-    {
-      "title": "Finding Quantitative Trait Loci Genes with Collaborative Targeted Maximum Likelihood Learning",
-      "year": 2011,
-      "authors": [
-        "Hui Wang",
-        "S. Rose",
-        "M. V. van der Laan"
-      ],
-      "publication_date": "2011-07-01",
-      "doi": "10.1016/j.spl.2010.11.001",
-      "paper_id": "64b127c6f6e245d7125e6040a806b4268b9fb5fc"
-    },
-    {
-      "title": "The authors respond",
-      "year": 2008,
-      "authors": [
-        "Kathleen M. Mortimer",
-        "R. Neugebauer",
-        "I. Tager",
-        "J. Balmes",
-        "F. Lurmann",
-        "Siana H. Alcorn"
-      ],
-      "publication_date": "2008-08-01",
-      "doi": "10.4187/respcare.08531090",
-      "paper_id": "cf22b592fb859425e253f14cc3af1a4b9e5808c2"
+      "paper_id": "1be2ba116f07c6ae97c0c9013e64f7e97b65fd95"
     }
   ],
-  "paper_count": 1219,
+  "paper_count": 1227,
   "papers": [
     {
       "title": "AI-Enhanced Data-Driven Approach to Model the Mechanical Behavior of Sustainable Geopolymer Concrete",
@@ -928,7 +249,7 @@
         "Jonah Thomas",
         "Gilberte Martine-Edith",
         "Safoora Gharibzadeh",
-        "Amanda Adler",
+        "Amanda I. Adler",
         "J. Mader",
         "K. Khunti",
         "Shivani Misra",
@@ -1098,6 +419,28 @@
       ]
     },
     {
+      "title": "A novel AI-based cloud healthcare security framework using optimised fire hawk XOR encryption and probabilistic super learning",
+      "authors": [
+        "A. Arunarani",
+        "G. Sudhakaran",
+        "G. Logeswari",
+        "T. Thiyagu"
+      ],
+      "abstract": "",
+      "year": 2026,
+      "publication_date": null,
+      "paper_id": "0cdf21b78fc0abb7eb128ea3129b82aa33e116b4",
+      "url": "https://www.semanticscholar.org/paper/0cdf21b78fc0abb7eb128ea3129b82aa33e116b4",
+      "venue": "International Journal of Information and Computer Security",
+      "doi": "10.1504/ijics.2026.10081694",
+      "matched_keywords": [
+        "super learning"
+      ],
+      "source_queries": [
+        "super learning"
+      ]
+    },
+    {
       "title": "A Riesz Representer Perspective on Targeted Learning",
       "authors": [
         "Salvador V. Balkus",
@@ -1195,7 +538,7 @@
     {
       "title": "A Unified Causal Inference Framework for the Desirability of Outcome Ranking Paradigm in Benefit-Risk Evaluation",
       "authors": [
-        "Yuanming Feng",
+        "Yuan-Ming Feng",
         "Shiyu Shu",
         "Yixin Fang",
         "I. Bebu",
@@ -1445,7 +788,7 @@
         "C. Kim",
         "Byungmi Kim",
         "Hye Ah Lee",
-        "Yewon Choi",
+        "Yew-On Choi",
         "Hwiyoung Kim",
         "Bomi Park"
       ],
@@ -1607,7 +950,7 @@
       "title": "Association between usual protein intake and muscle function in older U.S. adults: a target-trial emulation using NHANES 2011–2018",
       "authors": [
         "Yang Ling",
-        "Mingxuan Hou",
+        "Ming-Xuan Hou",
         "Muhammad Riaz",
         "Najm Ur Rahman"
       ],
@@ -1807,6 +1150,41 @@
       ]
     },
     {
+      "title": "Cardiovascular Outcomes of Insulin Degludec Versus Insulin Glargine in Trial-Eligible and Ineligible Populations: A DEVOTE-Inspired Target Trial Emulation Using the Swedish National Diabetes Register.",
+      "authors": [
+        "T. Nyström",
+        "Jens Michelsen",
+        "H. Imberg",
+        "Sara Hallström",
+        "Viktor Tasselius",
+        "A. Norhammar",
+        "M. Petzold",
+        "J. Mader",
+        "Pratik Choudhary",
+        "Manal Elzalabany",
+        "Jonathan Valabhji",
+        "S. Misra",
+        "Safoora Gharibzadeh",
+        "P. Yazdanfard",
+        "K. K. Sørensen",
+        "C. Torp-Pedersen",
+        "M. Lind"
+      ],
+      "abstract": "AIMS To compare cardiovascular outcomes associated with the initiation of insulin degludec versus insulin glargine using a target trial emulation approach in nationwide real-world data. MATERIALS AND METHODS We conducted a nationwide observational cohort study using Swedish health registers, including the National Diabetes Register. Individuals with type 2 diabetes initiating insulin degludec or insulin glargine between 2012 and 2022 were included. Two complementary approaches were applied: a trial-eligible emulation cohort reflecting the eligibility criteria of the DEVOTE trial, and a trial-ineligible emulation cohort representing routine clinical practice. The primary outcome was major adverse cardiovascular events (MACE, i.e., myocardial infarction, stroke and cardiovascular mortality). Secondary outcomes included the individual components of MACE, all-cause mortality and heart failure. Average treatment effects were estimated using longitudinal targeted minimum loss-based estimation. RESULTS Among 96 731 individuals identified, 44 890 met the study eligibility criteria and were included in the analyses. In the trial-eligible cohort, degludec was associated with a similar risk of MACE compared with glargine (risk ratio: 1.10; 95% CI: 0.91-1.34; p = 0.34), but a significantly lower risk of all-cause mortality (risk ratio: 0.75; 95% CI: 0.62-0.92; p = 0.002). In the trial-ineligible emulation cohort, degludec was associated with lower risks of MACE (risk ratio: 0.80; 95% CI: 0.67-0.95; p = 0.004) as well as reduced risks of all-cause mortality, cardiovascular mortality, non-fatal stroke and heart failure. CONCLUSIONS In this nationwide study, degludec was associated with a lower risk of all-cause mortality compared with glargine, consistently observed in both trial-eligible and trial-ineligible populations, despite similar cardiovascular risk in the trial-eligible cohort.",
+      "year": 2026,
+      "publication_date": "2026-10-19",
+      "paper_id": "e9b4ad2fdd9150f66f8e16a7653ff255ccdc4f37",
+      "url": "https://www.semanticscholar.org/paper/e9b4ad2fdd9150f66f8e16a7653ff255ccdc4f37",
+      "venue": "Diabetes, obesity and metabolism",
+      "doi": "10.1111/dom.71429",
+      "matched_keywords": [
+        "targeted minimum loss based estimation"
+      ],
+      "source_queries": [
+        "targeted minimum loss based estimation"
+      ]
+    },
+    {
       "title": "Causal AI for cancer immunotherapy: a narrative framework review of target trial emulation, treatment-effect learning and clinical translation",
       "authors": [
         "Xin Zhao",
@@ -1913,7 +1291,7 @@
         "Aeran Park",
         "H. An"
       ],
-      "abstract": "",
+      "abstract": "Ordinal outcomes are frequently used in clinical and observational studies. However, because ordinal variables do not have clearly defined intervals between categories, causal effect estimation for ordinal outcomes is more challenging than that for binary or continuous outcomes. Therefore, accurate causal inference for ordinal outcomes is important, as inadequate covariate adjustment may lead to biased estimates due to confounding. In this study, we defined the average treatment effect (ATE) for ordinal outcomes and compared the performance of various causal inference methods for estimating the ATE. A total of nine methods were compared, including the adjusted estimator, parametric- and Super Learner–based G-computation, inverse probability weighting (IPW), and both threshold-based and continuous-score Targeted Maximum Likelihood Estimation (TMLE). Various simulation scenarios were constructed according to whether the outcome and treatment models were correctly specified. The methods were evaluated in terms of bias, empirical standard error (ESE), and root mean squared error (RMSE). In the real-data analysis, the Primary Biliary Cirrhosis (PBC) dataset was used to estimate the average treatment effect of D-penicillamine treatment, and the results were compared across methods using confidence intervals. Confidence intervals were constructed using model-based, bootstrap-based, or influence function–based variance estimation according to the characteristics of each estimator. Simulation results showed that, under the specific data-generating mechanisms considered in this study, TMLE-based methods generally exhibited the most stable overall performance. In particular, threshold-based TMLE maintained relatively low bias and RMSE under single-model misspecification scenarios. In contrast, G-computation– and IPW-based methods were sensitive to misspecification of the outcome and treatment models, respectively, and IPW-based methods exhibited substantial variability. When both models were simultaneously misspecified, the performance of most methods deteriorated. The Super Learner library, consisting of a generalized linear model and a random forest, improved the performance of several outcome model–based methods but did not fully mitigate the variability observed in IPW-based methods. For TMLE-based approaches, the Super Learner–based and parametric implementations showed comparable performance. In the real-data analysis, most methods yielded negative treatment effect estimates, suggesting a potential reduction in disease severity associated with treatment. However, because most 95% confidence intervals included zero, evidence for a statistically significant treatment effect was limited. Methods based on the Super Learner library generally produced narrower confidence intervals, suggesting more stable estimation performance. Nevertheless, differences in treatment effect estimates across methods were small, which may reflect the limited role of confounding in this randomized clinical trial dataset. Under the specific data-generating mechanisms considered in this study, threshold-based TMLE demonstrated relatively stable performance for estimating the average treatment effect with ordinal outcomes, particularly under single-model misspecification scenarios. Threshold-based TMLE implemented using the Super Learner library performed comparably to its parametric counterpart. In the real-data analysis, methods based on the Super Learner library tended to produce smaller standard errors and narrower confidence intervals, suggesting the potential for more stable estimation in this setting.",
       "year": 2026,
       "publication_date": "2026-07-23",
       "paper_id": "90f4dd3d007347444815f17b3ed400b60329adcd",
@@ -1921,9 +1299,13 @@
       "venue": "BMC Medical Research Methodology",
       "doi": "10.1186/s12874-026-02951-9",
       "matched_keywords": [
+        "super learner",
+        "targeted maximum likelihood estimation",
         "tmle"
       ],
       "source_queries": [
+        "super learner",
+        "targeted maximum likelihood estimation",
         "tmle"
       ]
     },
@@ -2686,12 +2068,36 @@
       ]
     },
     {
+      "title": "Doubly Robust Estimation and Inference for Longitudinal Win Probabilities with Ordinal Outcomes in Observational Studies",
+      "authors": [
+        "Shu-Han Liu",
+        "Maria Kudela",
+        "Margaret Gamalo",
+        "Prosenjit Kundu"
+      ],
+      "abstract": "Repeated ordinal outcomes capture how treatment benefits and harms evolve over time. We develop doubly robust estimation and inference for visit-specific win probabilities and their prespecified weighted summaries, with Desirability of Outcome Ranking as a motivating example. Baseline confounding is addressed through augmented inverse-probability weighting (AIPW) of treatment-specific marginal category probabilities or joint multinomial targeted maximum likelihood estimation (TMLE). We consider fold-specific and pooled targeting and establish conditions for double-robust consistency and semiparametric efficiency under participant-level cross-fitting. When only one nuisance model is correctly specified, inference based only on the efficient influence function may be invalid. For smooth parametric nuisance models, we derive covariance corrections from the complete estimating procedure, including targeting. When a correctly specified propensity model is estimated by maximum likelihood, a simplified score correction accommodates convergent flexible outcome learners without requiring their derivatives. The corrected covariance estimators retain within-participant dependence and support visit-specific, weighted-summary, and joint inference across repeated assessments. Simulations supported double robustness, demonstrated the importance of cross-fitting with overfit learners, and showed improved marginal and joint confidence coverage with the proposed corrections. TMLE, particularly with pooled targeting, often had lower root mean squared error under adequate treatment overlap, whereas AIPW was more stable under weak overlap. An electronic health record study of hospitalized adults with an acute respiratory illness illustrates how the trajectory and weighted summary reveal complementary aspects of the treatment comparison.",
+      "year": 2026,
+      "publication_date": "2026-10-19",
+      "paper_id": "99023285019f6872a0b4897a9a979e203aa85726",
+      "url": "https://www.semanticscholar.org/paper/99023285019f6872a0b4897a9a979e203aa85726",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ]
+    },
+    {
       "title": "Early Dexmedetomidine in Ventilated Acute Myocardial Infarction: A Target Trial Emulation Using MIMIC‐IV",
       "authors": [
         "Shengkai Wang",
         "Dong Chang",
         "Fang Peng",
-        "Yiping He"
+        "Yi-Ping He"
       ],
       "abstract": "Sedation choice may influence outcomes in acute myocardial infarction (AMI) patients requiring invasive mechanical ventilation (IMV). Dexmedetomidine (DEX) provides arousable sedation with sympatholytic effects and is guideline‐endorsed, but data in ventilated AMI patients—particularly for intermediate‐term mortality—are limited. To evaluate the association between early DEX initiation and 90‐day all‐cause mortality among AMI patients starting IMV. Retrospective cohort and target trial emulation using the MIMIC‐IV database. Adults with AMI admitted to the ICU who initiated their first IMV episode within 7 days were included. Time zero (t0) was the start of IMV. Admissions involving cardiac surgery procedures were excluded. The final analytic cohort comprised 2024 patients (266 received early DEX). Early DEX, defined as initiation within 24 h after t0, versus no early DEX. The primary outcome was 90‐day all‐cause mortality from t0. The secondary outcome was ventilator‐free days to Day 28 (VFD‐28). The primary analysis used a covariate‐balancing propensity score (CBPS) with stabilized inverse probability weights and a weighted Cox model with robust, patient‐clustered standard errors. Prespecified sensitivity analyses included IPTW‐Cox with weight truncation, targeted maximum likelihood estimation (TMLE), 30‐day mortality, and exclusion of out‐of‐hospital cardiac arrest (OHCA). Among 2024 eligible patients, early DEX use was associated with a lower hazard of 90‐day mortality (HR 0.572; 95% CI 0.441–0.742; p < 0.001) and more ventilator‐free days (mean difference 4.94 days; 95% CI 3.49–6.40; p < 0.001). Sensitivity analyses were directionally consistent, and postweighting covariate balance met prespecified targets. In this target trial emulation of AMI patients requiring IMV, early initiation of DEX within 24 h was associated with lower 90‐day mortality and more ventilator‐free days. Findings were consistent across multiple analytic approaches and cohort restrictions but remain observational and should not be interpreted as establishing causality. Prospective studies are warranted to confirm causality, define safety boundaries, and guide patient selection.",
       "year": 2026,
@@ -3181,7 +2587,7 @@
         "Yingyan Wu",
         "L. P. Rojas-Saunero",
         "R. Nianogo",
-        "Jacqueline M Torres",
+        "Jacqueline M. Torres",
         "Ashwin A. Kotwal",
         "Christina M. Ramirez",
         "Yusuke Tsugawa",
@@ -4071,6 +3477,27 @@
       ]
     },
     {
+      "title": "Modelo predictivo de las metas de aproximación al dominio: un análisis con IA",
+      "authors": [
+        "Francisco Quiñonez Tapia",
+        "María de Lourdes Vargas-Garduño"
+      ],
+      "abstract": "The objective of this study was to use artificial intelligence (AI) to predict mastery-approach goals in secondary school students based on variables from the PISA 2018 database. The sample consisted of 339,560 participants from 60 countries. Machine learning was used with the Super Learner mega-algorithm with 14 candidate algorithms. In addition, deep learning was used with a neural network with 107 parameters. The analyses showed that students’ perceived parental emotional support, competitiveness, purpose in life, self-efficacy, and knowledge of intercultural communication were predictors of mastery-approach goals in secondary school students. This research contributes to the study of factors that influence mastery-approach goals in secondary school students, with analysis models that advance the development of the science of AI-based predictive education.",
+      "year": 2026,
+      "publication_date": "2026-10-16",
+      "paper_id": "5243e5e552cce4ad71328c2163be7af0c7a960ed",
+      "url": "https://www.semanticscholar.org/paper/5243e5e552cce4ad71328c2163be7af0c7a960ed",
+      "venue": "Revista Electrónica de Investigación Educativa",
+      "doi": "10.24320/redie.2026.28.e10.6555",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner",
+        "super learning"
+      ]
+    },
+    {
       "title": "Multifidelity Computer Model Emulation Via Diffusion Model Steering and Targeted Maximum Likelihood",
       "authors": [
         "Jongmin Mun"
@@ -4246,7 +3673,7 @@
     {
       "title": "Perceived Social Support, Contact Violence Experience, and Sexually Transmitted Infection Risk among Gambian Female Sex Workers: A LASSO-Guided, Causal Inference, and Multilevel Analysis",
       "authors": [
-        "A. Barrow",
+        "Amadou Barrow",
         "B. Abatan",
         "T. A. Omotosho",
         "A. Adebayo",
@@ -5133,9 +4560,9 @@
       "authors": [
         "Ying Chen",
         "Yun Bao",
-        "Yue-ting Chen",
+        "Yue-Ting Chen",
         "Yan Jin",
-        "Kaijie Yao",
+        "Kai-Jie Yao",
         "Wen Li",
         "Yan-Mei Zhong",
         "Bin Wu"
@@ -5451,6 +4878,32 @@
       "url": "https://www.semanticscholar.org/paper/545af3e51e5dd8f3b3399b6d0448fb41e8500add",
       "venue": null,
       "doi": null,
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
+      ]
+    },
+    {
+      "title": "Temporal associations of BMI transition with metabolic inflammation in allergic rhinitis: A retrospective cohort study",
+      "authors": [
+        "Si-Ying Pan",
+        "Lin-Xi He",
+        "Xiao-Han Xu",
+        "Zu-Yi Zhao",
+        "Jia-Yuan Wu",
+        "Jun-Xian Wang",
+        "Ju-Hong Yang",
+        "Bing-Song Zhang"
+      ],
+      "abstract": "Background In patients with allergic rhinitis (AR), the dynamic longitudinal association between transition from normal body mass index (BMI) to overweight/obesity and metabolic inflammation remains unclear. Methods We conducted a retrospective longitudinal cohort study involving 1715 AR patients with normal baseline BMI between 2014 and 2025 at the Affiliated Hospital of Guangdong Medical University in Zhanjiang, Guangdong, China. Using targeted maximum likelihood estimation with time-window analysis, we estimated the average treatment effects of BMI increase on inflammatory and metabolic markers over 1–3 years and quantified risks of metabolic diseases. Results BMI transition was associated with progressively increased systemic inflammation and persistent metabolic dysregulation. Inflammatory markers showed a time-dependent increase, whereas metabolic abnormalities, characterized by elevated triglycerides and reduced high-density lipoprotein cholesterol, appeared earlier and remained stable. BMI gain was also associated with increased risks of several metabolic diseases, particularly fatty liver disease. Conclusion In AR patients, transitioning from normal BMI to overweight or obesity was associated with a gradual increase in systemic inflammation and persistent metabolic dysfunction that was associated with increased risks of various metabolic diseases. When implementing weight management for patients with AR, it is recommended to monitor changes in body weight over time and intervene early in the weight gain process.",
+      "year": 2026,
+      "publication_date": "2026-10-01",
+      "paper_id": "8c12c363b6821ce09787e54a030581dbff600d60",
+      "url": "https://www.semanticscholar.org/paper/8c12c363b6821ce09787e54a030581dbff600d60",
+      "venue": "The World Allergy Organization Journal",
+      "doi": "10.1016/j.waojou.2026.101477",
       "matched_keywords": [
         "targeted maximum likelihood estimation"
       ],
@@ -5842,10 +5295,10 @@
     {
       "title": "Two-Time-Point Inflammatory Status Patterns and the Risk of Incident Diabetes: A Cohort Study Based on CHARLS",
       "authors": [
-        "Yanxiang Luo",
+        "Yan-Xiang Luo",
         "Han Li",
         "Hongjian Gong",
-        "Lixin Guo",
+        "Li-Xin Guo",
         "Qi Pan"
       ],
       "abstract": "Background: Chronic inflammation plays a central role in the pathogenesis of diabetes mellitus (DM). Aims: This study delineated two-time-point inflammatory status patterns and examined their relationship with incident DM risk using data from the China Health and Retirement Longitudinal Study (CHARLS). Methods: The temporal changes in the inflammatory score between Wave 1 (2011) and Wave 3 (2015), which was calculated as the sum of Z-scores for C-reactive protein (CRP) and white blood cell (WBC) counts, were specified as the exposure. Incident DM was assessed at Wave 3 (2015) and Wave 4 (2018). Associations between inflammatory status patterns and incident DM was analyzed using a longitudinal targeted maximum likelihood estimation (LTMLE) framework in a cohort study. Results: A total of 4305 participants were included, 2404 (55.84%) of whom were female, with a median baseline age of 58 years. During a 7-year follow-up period, 730 individuals (17.0%) developed incident DM. Four distinct inflammatory status patterns were identified: low-stable, high-stable, increasing, and decreasing. After adjusting for multiple covariates, LTMLE analyses showed that the high-stable pattern was significantly associated with an increased risk of DM compared with the low-stable reference group (risk ratio [RR] = 1.430, 95% confidence interval [CI]: 1.204–1.698), with an E-value 2.21. In a landmark analysis of incident DM at Wave 4 (n = 150), the estimates for the high-stable pattern remained directionally positive across the adjusted models but were imprecise and compatible with no association. Exploratory subgroup analyses showed no statistical evidence of effect modification, as neither multiplicative nor additive interaction tests were statistically significant. Conclusions: A persistently elevated inflammatory score is significantly associated with a heightened risk of incident DM.",
@@ -5880,6 +5333,29 @@
         "tmle"
       ],
       "source_queries": [
+        "tmle"
+      ]
+    },
+    {
+      "title": "Undertriage of Pediatric Major Trauma at a Spanish Pediatric Trauma Center: A 10-Year Retrospective Cohort Study",
+      "authors": [
+        "A. Abril-Molina",
+        "Laura Díaz-Rueda",
+        "E. Ocete-Hita"
+      ],
+      "abstract": "Background: Accurate field triage is a cornerstone of an inclusive trauma system, but pediatric undertriage remains poorly characterized outside North America. We aimed to estimate the rate of major trauma undertriage in a Spanish pediatric trauma center, to identify patient factors associated with it, and to explore its relationship with early clinical outcomes. Methods: Retrospective cohort study (2016–2025) of children aged 0–14 years admitted to the pediatric intensive care unit (PICU) of the reference pediatric trauma center for the province of Granada, Spain. Major trauma was defined using a composite of the Cribari Matrix (ISS > 15) and/or the Need for Trauma Intervention (NFTI) criteria. Undertriage was defined as delayed (>2 h) or non-direct transport to the trauma center despite proximity (<30 min). The primary outcomes were the undertriage rate and the patient factors associated with it, examined by bivariate analysis and by Firth-penalized logistic regression with intercept correction (FLIC). Clinical outcomes (Glasgow Outcome Scale, PICU and total hospital length of stay) were prespecified as exploratory and analyzed with generalized linear models—binomial for binary outcomes and negative binomial for counts—and, as a sensitivity analysis, with targeted maximum likelihood estimation (TMLE). Results: Out of 1716 PICU admissions during the study period, 157 (9.1%) were due to injury, 131 (7.6%) were eligible traumatic injuries and 94 (5.5%) children met major trauma criteria (median age 8.0 years; 73.4% male; 78.7% blunt trauma; and median ISS 18.5). The undertriage rate was 23.4% (22/94; 95% CI 15.3–33.3). No patient characteristic differed significantly between undertriaged and correctly triaged children. Undertriaged children tended to be older (median 11.0 vs. 7.0 years; p = 0.117), and the overall association between age category and undertriage did not reach significance in the FLIC model (p = 0.069). One child (1.1%) died in PICU and 75 (79.8%) achieved a good functional recovery (Glasgow Outcome Scale 5). Undertriage was not associated with functional outcome, PICU length of stay or total hospital length of stay in either unadjusted or adjusted analyses. Conclusions: Nearly one in four children with major trauma who reached this pediatric trauma center met the predefined criteria for undertriage. This rate should be interpreted as undertriage conditional on arrival at the Pediatric Trauma Center and not as a system-level or provincial estimate. Multicenter prospective studies using standardized definitions and incorporating prehospital transport data are needed to better characterize the population-level burden and clinical impact of pediatric undertriage.",
+      "year": 2026,
+      "publication_date": "2026-10-15",
+      "paper_id": "2144fc58efe33d691c177d9ffce589ed98e61dfc",
+      "url": "https://www.semanticscholar.org/paper/2144fc58efe33d691c177d9ffce589ed98e61dfc",
+      "venue": "Children",
+      "doi": "10.3390/children13101409",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation",
         "tmle"
       ]
     },
@@ -6147,14 +5623,14 @@
         "Jeffrey W. Nix",
         "R. Dickstein",
         "A. Gadzinski",
-        "Alex Sankin",
+        "Alexander Sankin",
         "N. Shore",
         "Brian R Lane",
         "J. Bassett",
         "Sanjay Patel",
         "David S. Morris",
         "Liam C. Macleod",
-        "Eugene K Lee",
+        "Eugene K. Lee",
         "C. Ritch",
         "Kristin M Follmer",
         "Jenney R. Lee",
@@ -10331,6 +9807,26 @@
       ]
     },
     {
+      "title": "Technical Note: Targeted Maximum Likelihood Estimator for an ATE Standardized for New Target Population",
+      "authors": [
+        "Mark J. van der Laan",
+        "Susan Gruber"
+      ],
+      "abstract": "In this technical note we present a targeted maximum likelihood estimator (TMLE) for a previously studied target parameter that aims to transport an average treatment effect (ATE) on a clinical outcome in a source population to what the ATE would have been in another target population. It is assumed that one only observes baseline covariates in the target population, while we assume that one can learn the conditional treatment effect on the outcome of interest in the source population. We also allow that one might observe only a subset of the covariates in the target population while all covariates are measured in the source population. We consider the case that the outcome is a clinical outcome at some future time point that is subject to missingness, or that our outcome of interest is a time to event that is subject to right-censoring. We derive the canonical gradients and present the corresponding TMLEs for these two cases.",
+      "year": 2025,
+      "publication_date": "2025-01-10",
+      "paper_id": "ac41544cd0de590affae929b4cc9f5cfce47b58c",
+      "url": "https://www.semanticscholar.org/paper/ac41544cd0de590affae929b4cc9f5cfce47b58c",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
+      ]
+    },
+    {
       "title": "The Effect of a Life-Stage Based Intervention on Depression in Youth Living with HIV in Kenya and Uganda: Results from the SEARCH-Youth Trial",
       "authors": [
         "F. Mwangwa",
@@ -13088,7 +12584,7 @@
     {
       "title": "Machine learning for causal inference: An application to ECLS-K data",
       "authors": [
-        "Jiahe Li"
+        "Jia-He Li"
       ],
       "abstract": "This paper explores the use of machine learning for causal inference to estimate the average treatment effect of special education services on fifth-grade math scores. Causal inference is the study of the relationship between cause and effect when changes in one variable directly affect another variable. The use of machine learning techniques in causal inference problems has been growing rapidly, offering advantages over traditional methods such as propensity score matching. such as propensity score matching. This paper compares the performance of four machine learning methods: Ordinary Least Squares (OLS), Multi-Layer Perception (MLP), Targeted Maximum Likelihood Estimation (TMLE), and Bayesian Additive Regression Trees (BART) in estimating the average treatment effect of special education services on fifth-grade math scores. This study utilizes the Early Childhood Longitudinal Study, Kindergarten Class of 1998-1999 (ECLS-K) dataset. A factor analysis is conducted to identify the key variables that influence math performance, paving the way for examining their causal effects. Our results show that BART outperforms the other methods in accuracy and robustness and that receiving special education services does not have a causal effect on math scores. This paper discusses the implications and limitations of our findings and suggests directions for future study.",
       "year": 2024,
@@ -13273,7 +12769,7 @@
       "authors": [
         "Mengye He",
         "Jing Wang",
-        "Liping Wang",
+        "Li-Ping Wang",
         "Bangping Hu",
         "Xing-Can Shen",
         "Hua Chen"
@@ -14951,7 +14447,7 @@
         "S. Karuna",
         "L. Carpp",
         "H. Gelderblom",
-        "Yunda Huang",
+        "Yun-Da Huang",
         "David C. Benkeser",
         "Peter B. Gilbert"
       ],
@@ -18454,7 +17950,7 @@
         "M. Satlin",
         "W. Whalen",
         "Division W. Pan",
-        "Nicholas T Williams",
+        "Nicholas T. Williams",
         "Iván Díaz"
       ],
       "abstract": "Background: Observational research provides a unique opportunity to learn causal effects when randomized trials are not available, but obtaining the correct estimates hinges on a multitude of design and analysis choices. We illustrate the advantages of modern causal inference methods and compare to standard research practice to estimate the effect of corticosteroids on mortality in hospitalized COVID-19 patients in an observational dataset. We use several large RCTs to benchmark our results. Methods: Our retrospective data source consists of 3,293 COVID-19 patients hospitalized at New York Presbyterian March 1-May 15, 2020. We design our study using the Target Trial Emulation framework. We estimate the effect of an intervention consisting of 6 days of corticosteroids administered at the time of severe hypoxia and contrast with an intervention consisting of no corticosteroids administration. The dataset includes dozens of time-varying confounders. We estimate the causal effects using a doubly robust estimator where the probabilities of treatment, outcome, and censoring are estimated using flexible regressions via super learning. We compare these analyses to standard practice in clinical research, consisting of two main methods: (i) Cox models for an exposure of corticosteroids receipt within various time windows of hypoxia, and (ii) a Cox time-varying model where the exposure is daily administration of corticosteroids starting at the time of hospitalization. Results: The effect in our target trial emulation is qualitatively identical to an RCT benchmark, estimated to reduce 28-day mortality from 32% (95% confidence interval: 31-34) to 23% (21-24). The estimated effect from meta-analyses of RCTs for corticosteroids is an odds ratio of 0.66 (0.53-0.82)(1). Hazard ratios from the Cox models range in size and direction from 0.50 (0.41-0.62) to 1.08 (0.80-1.47) and all study designs suffer from various forms of bias. Conclusion: We demonstrate in a case study that clinical research based on observational data can unveil true causal relations. However, the correctness of these effect estimates requires designing and analyzing the data based on principles which are different from the current standard in clinical research. The widespread communication and adoption of these design and analytical techniques is of high importance for the improvement of clinical research based on observational data.",
@@ -18675,7 +18171,7 @@
         "Zhenhua Zhang",
         "Patrick T. Bradshaw",
         "A. Hubbard",
-        "Yeyi Zhu"
+        "Ye-Yi Zhu"
       ],
       "abstract": "Gestational diabetes (GDM) is prevalent and benefits from timely and effective treatment, given the short window to impact glycemic control. Clinicians face major barriers to choosing effectively among treatment modalities [medical nutrition therapy (MNT) with or without pharmacologic treatment (antidiabetic oral agents and/or insulin)]. We investigated whether clinical data at varied stages of pregnancy can predict GDM treatment modality. Among a population-based cohort of 30,474 pregnancies with GDM delivered at Kaiser Permanente Northern California in 2007–2017, we selected those in 2007–2016 as the discovery set and 2017 as the temporal/future validation set. Potential predictors were extracted from electronic health records at different timepoints (levels 1–4): (1) 1-year preconception to the last menstrual period, (2) the last menstrual period to GDM diagnosis, (3) at GDM diagnosis, and (4) 1 week after GDM diagnosis. We compared transparent and ensemble machine learning prediction methods, including least absolute shrinkage and selection operator (LASSO) regression and super learner, containing classification and regression tree, LASSO regression, random forest, and extreme gradient boosting algorithms, to predict risks for pharmacologic treatment beyond MNT. The super learner using levels 1–4 predictors had higher predictability [tenfold cross-validated C-statistic in discovery/validation set: 0.934 (95% CI: 0.931–0.936)/0.815 (0.800–0.829)], compared to levels 1, 1–2, and 1–3 (discovery/validation set C-statistic: 0.683–0.869/0.634–0.754). A simpler, more interpretable model, including timing of GDM diagnosis, diagnostic fasting glucose value, and the status and frequency of glycemic control at fasting during one-week post diagnosis, was developed using tenfold cross-validated logistic regression based on super learner-selected predictors. This model compared to the super learner had only a modest reduction in predictability [discovery/validation set C-statistic: 0.825 (0.820–0.830)/0.798 (95% CI: 0.783–0.813)]. Clinical data demonstrated reasonably high predictability for GDM treatment modality at the time of GDM diagnosis and high predictability at 1-week post GDM diagnosis. These population-based, clinically oriented models may support algorithm-based risk-stratification for treatment modality, inform timely treatment, and catalyze more effective management of GDM.",
       "year": 2022,
@@ -18826,7 +18322,7 @@
       "authors": [
         "Shoufeng Zhang",
         "Chao Zhou",
-        "Guiqian Sun",
+        "Gui-Qian Sun",
         "Xin Wang",
         "K. Bao",
         "Pinwen Zhu",
@@ -21016,31 +20512,6 @@
       ]
     },
     {
-      "title": "Demystifying Statistical Inference When Using Machine Learning in Causal Research.",
-      "authors": [
-        "L. Balzer",
-        "T. Westling"
-      ],
-      "abstract": "In this issue, Naimi et al. (Am J Epidemiol. XXXX;XXX(XX):XXXX-XXXX) discuss a critical topic in public health and beyond: obtaining valid statistical inference when using machine learning in causal research. In doing so, the authors review recent prominent methodological work and recommend: (i) double robust estimators, such as targeted maximum likelihood estimation (TMLE); (ii) ensemble methods, such as Super Learner, to combine predictions from a diverse library of algorithms, and (iii) sample-splitting to reduce bias and improve inference. We largely agree with these recommendations. In this commentary, we highlight the critical importance of the Super Learner library. Specifically, in both simulation settings considered by the authors, we demonstrate that low bias and valid statistical inference can be achieved using TMLE without sample-splitting and with a Super Learner library that excludes tree-based methods but includes regression splines. Whether extremely data-adaptive algorithms and sample-splitting are needed depends on the specific problem and should be informed by simulations reflecting the specific application. More research is needed on practical recommendations for selecting among these options in common situations arising in epidemiology.",
-      "year": 2021,
-      "publication_date": "2021-07-15",
-      "paper_id": "20c50074a7b4fb596d36e79f2a9b4121a9b6a78b",
-      "url": "https://www.semanticscholar.org/paper/20c50074a7b4fb596d36e79f2a9b4121a9b6a78b",
-      "venue": "American Journal of Epidemiology",
-      "doi": "10.1093/aje/kwab200",
-      "matched_keywords": [
-        "super learner",
-        "targeted maximum likelihood estimation",
-        "tmle"
-      ],
-      "source_queries": [
-        "super learner",
-        "super learning",
-        "targeted maximum likelihood estimation",
-        "tmle"
-      ]
-    },
-    {
       "title": "Detecting bid-rigging coalitions in different countries and auction formats",
       "authors": [
         "David Imhof",
@@ -21797,7 +21268,7 @@
         "Xin-Hui Liu",
         "Yi-Fan Yu",
         "Ran Yan",
-        "Fuzhong Xue"
+        "Fu-Zhong Xue"
       ],
       "abstract": "Prostate adenocarcinoma is one of the leading adult malignancies. Identification of multiple causative biomarkers is necessary and helpful for determining the occurrence and prognosis of prostate adenocarcinoma. We aimed to identify the potential prognostic genes in the prostate adenocarcinoma microenvironment and to estimate the causal effects simultaneously. We obtained the gene expression data of prostate adenocarcinoma from TCGA project and identified the differentially expressed genes based on immune-stromal components. Among these genes, 68 were associated with biochemical recurrence at 3 years after prostatectomy in prostate adenocarcinoma. After adjusting for the minimal sets of confounding covariates, 14 genes (TNFRSF4, ZAP70, ERMN, CXCL5, SPINK6, SLC6A18, CHRM2, TG, CLLU1OS, POSTN, CTSG, NETO1, CEACAM7, and IGLV3-22) related to the microenvironment were identified as prognostic biomarkers using the targeted maximum likelihood estimation. Both the average and individual causal effects were obtained to measure the magnitude of the effect. CIBERSORT and gene set enrichment analyses showed that these prognostic genes were mainly associated with immune responses. POSTN and NETO1 were correlated with androgen receptor expression, a main driver of prostate adenocarcinoma progression. Finally, five genes were validated in another prostate adenocarcinoma cohort (GEO: GSE70770). These findings might lead to the improved prognosis of prostate adenocarcinoma.",
       "year": 2021,
@@ -21818,9 +21289,9 @@
       "authors": [
         "Lu Wang",
         "Xiaoru Sun",
-        "Chuandi Jin",
+        "C. Jin",
         "Yue Fan",
-        "F. Xue"
+        "Fu-Zhong Xue"
       ],
       "abstract": "Ovarian serous cancer (OSC) is one of the leading causes of death across the world. The role of the tumor microenvironment (TME) in OSC has received increasing attention. Targeted maximum likelihood estimation (TMLE) is developed under a counterfactual framework to produce effect estimation for both the population level and individual level. In this study, we aim to identify TME-related genes and using the TMLE method to estimate their effects on the 3-year mortality of OSC. In total, 285 OSC patients from the TCGA database constituted the studying population. ESTIMATE algorithm was implemented to evaluate immune and stromal components in TME. Differential analysis between high-score and low-score groups regarding ImmuneScore and StromalScore was performed to select shared differential expressed genes (DEGs). Univariate logistic regression analysis was followed to evaluate associations between DEGs and clinical pathologic factors with 3-year mortality. TMLE analysis was conducted to estimate the average effect (AE), individual effect (IE), and marginal odds ratio (MOR). The validation was performed using three datasets from Gene Expression Omnibus (GEO) database. Additionally, 355 DEGs were selected after differential analysis, and 12 genes from DEGs were significant after univariate logistic regression. Four genes remained significant after TMLE analysis. In specific, ARID3C and FREM2 were negatively correlated with OSC 3-year mortality. CROCC2 and PTF1A were positively correlated with OSC 3-year mortality. Combining of ESTIMATE algorithm and TMLE algorithm, we identified four TME-related genes in OSC. AEs were estimated to provide averaged effects based on the population level, while IEs were estimated to provide individualized effects and may be helpful for precision medicine.",
       "year": 2021,
@@ -21834,6 +21305,31 @@
         "tmle"
       ],
       "source_queries": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ]
+    },
+    {
+      "title": "Invited Commentary: Demystifying Statistical Inference When Using Machine Learning in Causal Research",
+      "authors": [
+        "L. Balzer",
+        "T. Westling"
+      ],
+      "abstract": "Abstract In this issue, Naimi et al. (Am J Epidemiol. 2023;192(9):1536–1544) discuss a critical topic in public health and beyond: obtaining valid statistical inference when using machine learning in causal research. In doing so, the authors review recent prominent methodological work and recommend: 1) doubly robust estimators, such as targeted maximum likelihood estimation (TMLE); 2) ensemble methods, such as Super Learner, to combine predictions from a diverse library of algorithms; and 3) sample splitting to reduce bias and improve inference. We largely agree with these recommendations. In this commentary, we highlight the critical importance of the Super Learner library. Specifically, in both simulation settings considered by the authors, we demonstrate that reductions in bias and improvements in confidence-interval coverage can be achieved using TMLE without sample splitting and with a Super Learner library that excludes tree-based methods but includes regression splines. Whether extremely data-adaptive algorithms and sample splitting are needed depends on the specific problem and should be informed by simulations reflecting the specific application. More research is needed on practical recommendations for selecting among these options in common situations arising in epidemiology.",
+      "year": 2021,
+      "publication_date": "2021-07-15",
+      "paper_id": "20c50074a7b4fb596d36e79f2a9b4121a9b6a78b",
+      "url": "https://www.semanticscholar.org/paper/20c50074a7b4fb596d36e79f2a9b4121a9b6a78b",
+      "venue": "American Journal of Epidemiology",
+      "doi": "10.1093/aje/kwab200",
+      "matched_keywords": [
+        "super learner",
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "super learner",
+        "super learning",
         "targeted maximum likelihood estimation",
         "tmle"
       ]
@@ -23277,7 +22773,7 @@
         "Yuan Lu",
         "Xiao-Qing Wang",
         "Shucheng Si",
-        "Fuzhong Xue"
+        "Fu-Zhong Xue"
       ],
       "abstract": "OBJECTIVE Improved prognostic prediction for patients with colorectal cancer stays an important challenge. This study aimed to develop an effective prognostic model for predicting survival in resected colorectal cancer patients through the implementation of the Super learner. METHODS A total of 2333 patients who met the inclusion criteria were enrolled in the cohort. We used multivariate Cox regression analysis to identify significant prognostic factors and Super learner to construct prognostic models. Prediction models were internally validated by 10-fold cross-validation and externally validated with a dataset from The Cancer Genome Atlas. Discrimination and calibration were evaluated by Harrell concordence index (C-index) and calibration plots, respectively. RESULTS Age, T stage, N stage, histological type, tumor location, lymph-vascular invasion, preoperative carcinoembryonic antigen and sample lymph nodes were integrated into prediction models. The concordance index of Super learner-based prediction model (SLM) was 0.792 (95% confidence interval: 0.767-0.818), which is higher than that of the seventh edition American Joint Committee on Cancer TNM staging system 0.689 (95% confidence interval: 0.672-0.703) for predicting overall survival (P < 0.05). In the external validation, the concordance index of the SLM for predicting overall survival was also higher than that of tumor-node-metastasis (TNM) stage system (0.764 vs. 0.682, respectively; P < 0.001). In addition, the SLM showed good calibration properties. CONCLUSIONS We developed and externally validated an effective prognosis prediction model based on Super learner, which offered more reliable and accurate prognosis prediction and may be used to more accurately identify high-risk patients who need more active surveillance in patients with resected colorectal cancer.",
       "year": 2020,
@@ -24352,7 +23848,7 @@
       "authors": [
         "Chi Zhang",
         "J. Ahern",
-        "M. van der Laan",
+        "Mark J. van der Laan",
         "O. Sofrygin"
       ],
       "abstract": "Over the past years, many applications aim to assess the causal effect of treatments assigned at the community level, while data are still collected at the individual level among individuals of the community. In many cases, one wants to evaluate the effect of a stochastic intervention on the community, where all communities in the target population receive probabilistically assigned treatments based on a known specified mechanism (e.g., implementing a community-level intervention policy that target stochastic changes in the behavior of a target population of communities). The tmleCommunity package is recently developed to implement targeted minimum loss-based estimation (TMLE) of the effect of community-level intervention(s) at a single time point on an individual-based outcome of interest, including the average causal effect. Implementations of the inverse-probability-of-treatment-weighting (IPTW) and the G-computation formula (GCOMP) are also available. The package supports multivariate arbitrary (i.e., static, dynamic or stochastic) interventions with a binary or continuous outcome. Besides, it allows user-specified data-adaptive machine learning algorithms through SuperLearner, sl3 and h2oEnsemble packages. The usage of the tmleCommunity package, along with a few examples, will be described in this paper.",
@@ -24544,11 +24040,11 @@
       "title": "A New Machine-Learning Prediction Model for Slope Deformation of an Open-Pit Mine: An Evaluation of Field Data",
       "authors": [
         "Sunwen Du",
-        "Guo-rui Feng",
+        "Guo-Rui Feng",
         "Jianmin Wang",
         "Shizhe Feng",
         "R. Malekian",
-        "Zhixiong Li"
+        "Zhi-Xiong Li"
       ],
       "abstract": "Effective monitoring of the slope deformation of an open-pit mine is essential for preventing catastrophic collapses. It is a challenging task to accurately predict slope deformation. To this end, this article proposed a new machine-learning method for slope deformation prediction. Ground-based interferometric radar (GB-SAR) was employed to collect the slope deformation data from an open-pit mine. Then, an ensemble learner, which aggregated a set of weaker learners, was proposed to mine the GB-SAR field data, delivering a slope deformation prediction model. The evaluation of the field data acquired from the Anjialing open-pit mine demonstrates that the proposed slope deformation model was able to precisely predict the slope deformation of the monitored mine. The prediction accuracy of the super learner was superior to those of all the independent weaker learners.",
       "year": 2019,
@@ -25209,7 +24705,7 @@
         "G. Chamie",
         "E. Charlebois",
         "T. Clark",
-        "Catherine A Koss",
+        "Catherine A. Koss",
         "D. Kwarisiima",
         "J. Ayieko",
         "N. Sang",
@@ -25219,7 +24715,7 @@
         "C. Camlin",
         "C. Cohen",
         "E. Bukusi",
-        "M. J. van der Laan",
+        "M. V. van der Laan",
         "M. Petersen"
       ],
       "abstract": "BACKGROUND In generalized epidemic settings, strategies are needed to prioritize individuals at higher risk of HIV acquisition for prevention services such as pre-exposure prophylaxis. We used population-level HIV testing data from rural Kenya and Uganda to construct HIV risk scores and assessed their ability to identify seroconversions. METHODS Between 2013-2017, >75% of residents in 16 communities in the SEARCH Study tested annually for HIV. In this population, we evaluated three strategies for using demographic factors to predict the one-year risk of HIV seroconversion: (1) membership in ≥1 known \"Risk Group\" (e.g., young woman or HIV-infected spouse); (2) a \"Model-based\" risk score constructed with logistic regression; (3) a \"Machine Learning\" risk score constructed with the Super Learner algorithm. We hypothesized Machine Learning would identify high-risk individuals more efficiently (fewer persons targeted for a fixed sensitivity) and with higher sensitivity (for a fixed number of persons targeted) than either other approach. RESULTS 75,558 HIV-negative persons contributed 166,723 person-years of follow-up; 519 seroconverted. Machine Learning improved efficiency; to achieve a fixed sensitivity of 50%, the Risk Group strategy targeted 42% of the population, Model-based 27%, and Machine Learning 18%. Machine Learning also improved sensitivity; with an upper limit of 45% targeted, the Risk Group strategy correctly classified 58% of seroconversions, Model-based 68%, and Machine Learning 78%. CONCLUSIONS Machine learning improved classification of individuals at risk of HIV acquisition compared to a model-based approach or reliance on known risk groups, and could inform targeting of prevention strategies in generalized epidemic settings.",
@@ -26924,6 +26420,28 @@
       "source_queries": [
         "super learner",
         "super learning"
+      ]
+    },
+    {
+      "title": "Supplementary materials: A new approach to hierarchical data analysis: Targeted maximum likelihood estimation for the causal effect of a cluster-level exposure",
+      "authors": [
+        "Laura Balzer",
+        "Wen-Jing Zheng",
+        "Mark J. van der Laan",
+        "Maya L. Petersen"
+      ],
+      "abstract": "",
+      "year": 2018,
+      "publication_date": null,
+      "paper_id": "1be2ba116f07c6ae97c0c9013e64f7e97b65fd95",
+      "url": "https://www.semanticscholar.org/paper/1be2ba116f07c6ae97c0c9013e64f7e97b65fd95",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
       ]
     },
     {
@@ -29446,10 +28964,10 @@
       "authors": [
         "R. Neugebauer",
         "B. Fireman",
-        "J. Roy",
+        "Jason A. Roy",
         "M. Raebel",
         "G. Nichols",
-        "P. O’Connor"
+        "P. O'Connor"
       ],
       "abstract": "Objective Clinical trials are unlikely to ever be launched for many Comparative Effectiveness Research (CER) questions. Inferences from hypothetical randomized trials may however be emulated with marginal structural modeling (MSM) using observational data but success in adjusting for time-dependent confounding and selection bias typically relies on parametric modeling assumptions. If these assumptions are violated, inferences from MSM may be inaccurate. In this article, we motivate the application of a data-adaptive estimation approach called Super Learning to avoid reliance on arbitrary parametric assumptions in CER. Study Design and Setting Using the electronic health records data from adults with new onset type 2 diabetes, we implemented MSM with inverse probability weighting estimation to evaluate the effect of three oral anti-diabetic therapies on the worsening of glomerular filtration rate. Results Inferences from IPW estimation were noticeably sensitive to the parametric assumptions about the associations between both the exposure and censoring processes and the main suspected source of confounding, i.e., time-dependent measurements of hemoglobin A1c. Super Learning was successfully implemented to harness flexible confounding and selection bias adjustment from existing machine learning algorithms. Conclusion Erroneous IPW inference about clinical effectiveness due to arbitrary and incorrect modeling decisions may be avoided with Super Learning.",
       "year": 2013,
@@ -29839,7 +29357,8 @@
     {
       "title": "The International Journal of Biostatistics Super Learner Based Conditional Density Estimation with Application to Marginal Structural Models",
       "authors": [
-        "Iván Díaz Muñoz"
+        "I. D. Muñoz",
+        "M. V. van der Laan"
       ],
       "abstract": "",
       "year": 2012,
