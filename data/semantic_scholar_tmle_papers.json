@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T17:57:37Z",
+  "generated_at": "2026-11-12T10:42:25Z",
   "source": "Semantic Scholar Graph API",
   "unauthenticated": true,
   "mode": "bulk",
@@ -18,49 +18,49 @@
   "query_stats": [
     {
       "keyword": "tmle",
-      "fetched_raw_count": 531,
+      "fetched_raw_count": 534,
       "pages_fetched": 1,
-      "estimated_total": 531,
+      "estimated_total": 534,
       "truncated": false,
       "truncation_reason": null
     },
     {
       "keyword": "targeted maximum likelihood estimation",
-      "fetched_raw_count": 4250,
+      "fetched_raw_count": 4281,
       "pages_fetched": 5,
-      "estimated_total": 4250,
+      "estimated_total": 4281,
       "truncated": false,
       "truncation_reason": null
     },
     {
       "keyword": "targeted minimum loss based estimation",
-      "fetched_raw_count": 362,
+      "fetched_raw_count": 365,
       "pages_fetched": 1,
-      "estimated_total": 362,
+      "estimated_total": 365,
       "truncated": false,
       "truncation_reason": null
     },
     {
       "keyword": "super learner",
-      "fetched_raw_count": 1101,
+      "fetched_raw_count": 1107,
       "pages_fetched": 2,
-      "estimated_total": 1101,
+      "estimated_total": 1107,
       "truncated": false,
       "truncation_reason": null
     },
     {
       "keyword": "super learning",
-      "fetched_raw_count": 20394,
+      "fetched_raw_count": 20494,
       "pages_fetched": 21,
-      "estimated_total": 20394,
+      "estimated_total": 20494,
       "truncated": false,
       "truncation_reason": null
     },
     {
       "keyword": "highly adaptive lasso",
-      "fetched_raw_count": 256,
+      "fetched_raw_count": 258,
       "pages_fetched": 1,
-      "estimated_total": 256,
+      "estimated_total": 258,
       "truncated": false,
       "truncation_reason": null
     }
@@ -70,147 +70,294 @@
   "incomplete": false,
   "sort": "publicationDate:desc",
   "max_results_per_keyword": 0,
-  "fetched_paper_count": 1209,
-  "newly_appended_count": 8,
-  "updated_existing_count": 43,
+  "fetched_paper_count": 1227,
+  "newly_appended_count": 18,
+  "updated_existing_count": 65,
   "existing_blocked_removed": 0,
   "existing_duplicates_removed": 0,
   "newly_added_papers": [
     {
-      "title": "CAUSEWAY: An End-to-End Causal Machine Learning and Multi-Objective Optimisation Framework for Environmental Health Policy",
+      "title": "A School-based Intervention to Prevent Expulsions for Violence: A Targeted Minimum Loss-Based Estimation Analysis.",
       "year": 2026,
       "authors": [
-        "Алина Александровна Федорова",
-        "V. Gavrishchaka",
-        "A. Makeyev",
-        "Rebecca Miao",
-        "Zhen-Yi Yang",
-        "Marina Orlova"
+        "Rebeccah Sokol",
+        "M. Degli Esposti",
+        "B. Victor",
+        "V. Medina Del Toro",
+        "P. Kernsmith",
+        "D. Stearns",
+        "Jorge Portugal",
+        "Sarah M. Stilwell",
+        "Justin Heinze"
       ],
-      "publication_date": "2026-07-17",
-      "doi": "10.1145/3841358.3841364",
-      "paper_id": "0642fecbdd875405056731a7eab3c9aab66b3fd5"
+      "publication_date": "2026-11-10",
+      "doi": "10.1007/s11121-026-02005-y",
+      "paper_id": "47f5b12a8ad6e0ae42f7ad82039882ebe60b0abe"
     },
     {
-      "title": "Community health and well-being workers (CHWWs) for preventive healthcare services uptake in the UK: a cluster-randomised controlled trial protocol",
+      "title": "Abstract 5519: Integrating Super Learner Ensemble Methods with Targeted Maximum Likelihood Estimation and Fine-Gray Competing Risks Framework to Identify Frailty Thresholds for Early Rhythm Control Benefit in Atrial Fibrillation",
       "year": 2026,
       "authors": [
-        "R. Gadi",
-        "Cornelia Junghans-Minton",
-        "A. Alkhatib",
-        "T. Woodcock",
-        "David Peiris",
-        "Otávio Berwanger",
-        "L. Billot",
-        "Matthew Harris"
+        "R. Mannam",
+        "K. Keswani",
+        "Laiba Manzoor",
+        "E. Alupei",
+        "Neel A. Doshi",
+        "J. C. Del Castillo Miranda",
+        "V. Purewal",
+        "A. Mahorkar",
+        "H. Hazarika",
+        "Lakshiya Ramamoorthy",
+        "Mohamed N. Shabrawi"
+      ],
+      "publication_date": "2026-11-02",
+      "doi": "10.1161/circ.154.suppl_1.5519",
+      "paper_id": "ec7755bc491ed3667a86edc5e08638ac7a74772e"
+    },
+    {
+      "title": "Assessing the causal influence of socioeconomic status on cervical cancer survival using the SEER database",
+      "year": 2026,
+      "authors": [
+        "Anjana Eledath Kolasseri",
+        "B. Venkataramana"
+      ],
+      "publication_date": "2026-10-30",
+      "doi": "10.1007/s44155-026-00403-9",
+      "paper_id": "2670e8f4b8e0a5fdb730af0aa339d1e0dd13f5aa"
+    },
+    {
+      "title": "Childhood hunger and cognitive impairment in later life among older adults in China: a nationwide case-control study using target maximum likelihood estimation",
+      "year": 2026,
+      "authors": [
+        "Wei Wang",
+        "Ying-Tian Wang",
+        "Xin-Ru Hu",
+        "Fang-Yi Chen",
+        "Qian Yu",
+        "Xi-Rui Qiu",
+        "Fan Yang",
+        "Li Liu",
+        "Xiao-Xiao Wang"
+      ],
+      "publication_date": "2026-10-30",
+      "doi": "10.7189/jogh.16.04317",
+      "paper_id": "2f109e6bd10e227043e87b3d271d3887573844e2"
+    },
+    {
+      "title": "Comparing SGLT2 Inhibitors on Incident Major Adverse Kidney Events in Type 2 Diabetes: A Target Trial Emulation.",
+      "year": 2026,
+      "authors": [
+        "A. Zehra",
+        "S. Aktay",
+        "Yi-Hong Deng",
+        "K. Swarna",
+        "J. Neumiller",
+        "Eric C. Polley",
+        "Jeph Herrin",
+        "Rodolfo J. Galindo",
+        "Guillermo E. Umpierrez",
+        "Joseph S. Ross",
+        "Juan P. Brito",
+        "Victor M. Montori",
+        "Mindy M. Mickelson",
+        "Rozalina G. McCoy"
       ],
       "publication_date": "2026-10-01",
-      "doi": "10.1136/bmjopen-2026-124582",
-      "paper_id": "d52f7d219f80e74afefe1a2b8a6e0303ca1d281c"
+      "doi": "10.1016/j.mayocp.2026.09.025",
+      "paper_id": "94399c5af5fc3239d6d1b6e008479ebaa837a66c"
     },
     {
-      "title": "Digoxin initiation in advanced heart failure with reduced ejection fraction and atrial fibrillation: a nationwide target trial emulation study",
+      "title": "Documented SARS-CoV-2 infection and risk of neurodegenerative disease diagnosis: a target trial emulation across three real-world cohorts",
       "year": 2026,
       "authors": [
-        "C. Basile",
-        "F. Orso",
-        "M. Gorini",
-        "B. Beer",
-        "S. Carigi",
-        "M. Gori",
-        "M. Marini",
-        "M. Iacoviello",
-        "L. Tavazzi",
-        "A. Maggioni"
+        "Jannis Barking",
+        "Sofie Theisen Honoré",
+        "G. Azarias",
+        "Steven S. Sison",
+        "Søren Brunak",
+        "Holger Fröhlich"
       ],
-      "publication_date": "2026-10-01",
-      "doi": "10.1093/eurheartj/ehag785.1283",
-      "paper_id": "706db373f8a3cbaf61cfebac2b9b413b7f1a5eff"
+      "publication_date": "2026-11-05",
+      "doi": "10.1038/s41598-026-79010-2",
+      "paper_id": "b8926087d56b7b17c9c6df490aa7d0294b8d47c3"
     },
     {
-      "title": "Estimated Effect of Early Neurological Deterioration on Mortality and Poor Functional Outcome After Intracerebral Hemorrhage: A Causal Inference Analysis",
+      "title": "Does Predictive Performance Translate to Causal Performance? Evaluating tabular foundation models as nuisance learners for causal effect estimation",
       "year": 2026,
       "authors": [
-        "Anh T. Tran",
-        "Liliane Ryan",
-        "Gaby Abou Karam",
-        "Dorin Zeevi",
-        "Ajay Malhotra",
-        "D. Roh",
-        "Santosh B. Murthy",
-        "G. Falcone",
-        "Kevin N. Sheth",
-        "Seyedmehdi Payabvash"
+        "Andrew R. Weckstein",
+        "I. Dahabreh",
+        "M. Zitnik",
+        "S. Hernández-Díaz",
+        "Sebastian Schneeweiss"
+      ],
+      "publication_date": "2026-11-08",
+      "doi": null,
+      "paper_id": "6fee34d2e12dcb87033b48b06c9fca2ec4435265"
+    },
+    {
+      "title": "Enhanced cloud security via optimal fire hawks XOR and probabilistic super learning",
+      "year": 2026,
+      "authors": [
+        "Anupama Cg",
+        "Arun C",
+        "Ratnakumari Neerukonda"
+      ],
+      "publication_date": "2026-11-03",
+      "doi": "10.1007/s10791-026-10757-y",
+      "paper_id": "b511c8c0fe932e07f0c97f2b44f3d0859c2d4d91"
+    },
+    {
+      "title": "From prediction to intervention: Causal artificial intelligence as the missing link in precision therapeutics",
+      "year": 2026,
+      "authors": [
+        "Gedion Mengistu Dejen"
       ],
       "publication_date": "2026-10-28",
-      "doi": "10.3390/neurolint18110207",
-      "paper_id": "4263697c83373715598fcdb38feec4d5bb6a1165"
+      "doi": "10.1002/prm2.70052",
+      "paper_id": "2c951e5620a01f7781c5271c5a892b2023cd951b"
     },
     {
-      "title": "Exploratory brain-wide analyses predicting binge drinking: A machine learning and targeted causal inference pipeline in two adolescent cohorts",
+      "title": "Interpretable Machine Learning for Estimated Ultimate Recovery (EUR) Prediction for the Bakken Tight Oil Play, Williston Basin, USA",
       "year": 2026,
       "authors": [
-        "R. Visontay",
-        "H. Byrne",
-        "E. Devine",
-        "M. Sunderland",
-        "L. Fan",
-        "W. Wen",
-        "M. Perica",
-        "S. Tapert",
-        "D. Clark",
-        "K. Nooner",
-        "K. Afzali",
-        "L. Squeglia",
-        "L. Mewton"
+        "Yeonpyeong Jo",
+        "P. Panja",
+        "R. Sorkhabi",
+        "Milind Deo"
       ],
-      "publication_date": "2026-10-24",
-      "doi": "10.64898/2026.10.18.26365855",
-      "paper_id": "105cb17f4cd9f5cb0f9e1eae66c9831a1ccaa31a"
+      "publication_date": "2026-11-01",
+      "doi": "10.1111/jpg.70166",
+      "paper_id": "fbc09286bca248709f1032079258a19014e4b4cb"
     },
     {
-      "title": "Sodium-Glucose Co-Transporter 2 inhibitors and cardiovascular outcomes: a trial-similar population vs. a broad population",
+      "title": "Poisson Super Learning For Survival And Competing Risks On A Discretized Time Scale",
+      "year": 2026,
+      "authors": [
+        "Gabriele Pittarello",
+        "Thomas A. Gerds",
+        "P. F. Rønn",
+        "H. Rytgaard"
+      ],
+      "publication_date": "2026-11-02",
+      "doi": null,
+      "paper_id": "7be8a0d10a63373c30186d62c3a80bf7df4674d2"
+    },
+    {
+      "title": "Prediction models for progression to castration-resistant prostate cancer after androgen deprivation therapy: a narrative review (2021–2026)",
+      "year": 2026,
+      "authors": [
+        "Jun Yuan",
+        "Zi-Wei Jiang",
+        "Wen-Xian Chen",
+        "Shao-Cheng Wang"
+      ],
+      "publication_date": "2026-11-05",
+      "doi": "10.3389/fonc.2026.1964985",
+      "paper_id": "657138333dd26f1ae1235470239fbd6bdccd881d"
+    },
+    {
+      "title": "Three-year participation patterns and metabolic syndrome-related indicators in a nudge- and gamification-based workplace health promotion program in Japan.",
+      "year": 2026,
+      "authors": [
+        "Hanae Nagata",
+        "Naoki Kondo",
+        "M. Haseda",
+        "K. Shiba",
+        "Sho Takeda",
+        "Koryu Sato"
+      ],
+      "publication_date": "2026-11-10",
+      "doi": "10.1016/j.ypmed.2026.108697",
+      "paper_id": "4dd4a8531b24de5b76633dccc493cbaca049a5ab"
+    },
+    {
+      "title": "When do missed prompts matter? A simulation and empirical sensitivity study of structured nonresponse in intensive longitudinal assessment.",
+      "year": 2026,
+      "authors": [
+        "Aleksandrs Karnick"
+      ],
+      "publication_date": "2026-11-09",
+      "doi": "10.1037/pas0001513",
+      "paper_id": "edb0ebfef74f02c5d2a84a6313cb2c23d95c1fbc"
+    },
+    {
+      "title": "EquiOx: A Prospective study of pulse oximeter bias and skin pigmentation in critically-ill adults",
       "year": 2025,
       "authors": [
-        "P. Yazdanfard",
-        "K. Soerensen",
-        "A. Oxwall",
-        "U. Pedersen-Bjergaard",
-        "C. Torp-Pedersen"
+        "C. Hendrickson",
+        "M. Lipnick",
+        "D. Chen",
+        "T. Law",
+        "R. Pirracchio",
+        "J. Feiner",
+        "E. Behnke",
+        "Y. Chou",
+        "S. Elmankabadi",
+        "C. Hughes",
+        "K. Moore",
+        "L. Ortiz",
+        "L. Shmuylovich",
+        "M. B. Eydelman",
+        "G. Leeb",
+        "E. Monk",
+        "O. Okunlola",
+        "D. Dorsey",
+        "J. Varshney",
+        "F. Negussie",
+        "P. Bickler"
       ],
-      "publication_date": "2025-11-01",
-      "doi": "10.1093/eurheartj/ehaf784.4318",
-      "paper_id": "9a752d4ede9034e2c18365376ed0eecb17e18e11"
+      "publication_date": "2025-10-07",
+      "doi": "10.1101/2025.10.06.25337217",
+      "paper_id": "ae6c76fc7a2f5265554aac3107b93706de5216d6"
     },
     {
-      "title": "Biometrics: Issue Information",
+      "title": "Statistical methods for chemical mixtures: a roadmap for practitioners",
+      "year": 2024,
+      "authors": [
+        "Wei Hao",
+        "Amber L. Cathey",
+        "Max M. Aung",
+        "Jonathan Bøss",
+        "John D. Meeker",
+        "Bhramar Mukherjee"
+      ],
+      "publication_date": "2024-03-04",
+      "doi": "10.1101/2024.03.03.24303677",
+      "paper_id": "77f75208d816990e4b072d6209e585e3b7d3e403"
+    },
+    {
+      "title": "Who is most at risk of dying if infected with SARS-CoV-2? A mortality risk factor analysis using machine learning of COVID-19 patients over time in a large Mexican population.",
       "year": 2023,
       "authors": [
-        "Md. Erfanul Hoque",
-        "E. Acar",
-        "Mahmoud Torabi",
-        "A. Sondhi",
-        "Jessica Perry",
-        "N. Simon"
+        "Lauren D. Liao",
+        "Alan E. Hubbard",
+        "J. P. Gutíerrez",
+        "Arturo Juarez Flores",
+        "Kendall Kikkawa",
+        "R. Gupta",
+        "Yana Yarmolich",
+        "Iván de Jesús Ascencio-Montiel",
+        "S. Bertozzi"
       ],
-      "publication_date": null,
-      "doi": "10.1111/biom.13698",
-      "paper_id": "23308324fd05744f0c076e65754e50b59aab1f26"
+      "publication_date": "2023-01-18",
+      "doi": "10.1101/2023.01.17.23284684",
+      "paper_id": "684307bc4eba12cafaa642ccbb430ed5452f1a71"
     },
     {
-      "title": "SuperMICE: An Ensemble Machine Learning Approach to Multiple Imputation by Chained Equations.",
-      "year": 2021,
+      "title": "Super ensemble learning for daily streamflow forecasting: large-scale demonstration and comparison with multiple machine learning algorithms",
+      "year": 2020,
       "authors": [
-        "Hannah S. Laqueur",
-        "A. Shev",
-        "Rose M. C. Kagawa"
+        "Hristos Tyralis",
+        "G. Papacharalampous",
+        "A. Langousis"
       ],
-      "publication_date": "2021-11-10",
-      "doi": "10.1093/aje/kwab271",
-      "paper_id": "8f2e6d0daba43fee155c63848e32568aba68b4e9"
+      "publication_date": "2020-07-06",
+      "doi": "10.1007/s00521-020-05172-3",
+      "paper_id": "27f2fbc7a7109b84b42908a4f6e7c93e208f66b6"
     }
   ],
-  "paper_count": 1235,
+  "paper_count": 1253,
   "papers": [
     {
       "title": "AI-Enhanced Data-Driven Approach to Model the Mechanical Behavior of Sustainable Geopolymer Concrete",
@@ -238,7 +385,7 @@
       "title": "1824-P: The Association of Dipeptidyl Peptidase-4 Inhibitors (DPP-4i) with Cardiovascular Outcomes in People with Type 2 Diabetes from the UK Clinical Practice Research Datalink (CPRD)",
       "authors": [
         "Gilberte Martine-Edith",
-        "Jonah Thomas",
+        "Jonah J. C. Thomas",
         "Safoora Gharibzadeh",
         "Shivani Misra",
         "K. Khunti",
@@ -263,7 +410,7 @@
     {
       "title": "2202-P: The Cardioprotective Effect of Glucagon-Like Peptide 1 Receptor Agonist in a Trial Inspired, and Wider, Population Individuals Living with Type 2 Diabetes: A Target Trial Emulation Study in CPRD",
       "authors": [
-        "Jonah Thomas",
+        "Jonah J. C. Thomas",
         "Gilberte Martine-Edith",
         "Safoora Gharibzadeh",
         "Amanda I. Adler",
@@ -316,9 +463,9 @@
     {
       "title": "A Causal Inference Approach for Evaluating Diagnostic Tests and AI-Enabled Medical Devices: From Effect Modification to Information-Augmented Decision-Making",
       "authors": [
-        "Wenxin Zhang",
+        "Wen-Xin Zhang",
         "Rachael V. Phillips",
-        "M. J. van der Laan"
+        "M. V. van der Laan"
       ],
       "abstract": "Diagnostic medical tests and devices provide useful information for evaluating the potential benefits and risks of therapeutic treatments. However, unlike treatments, their impact on health outcomes is generally indirect because measuring diagnostic information typically does not itself affect patient outcomes, which complicates evaluation of their effectiveness. In this work, we develop a causal inference approach for evaluating diagnostic tests by distinguishing explanatory and pragmatic effectiveness. Explanatory effectiveness evaluates whether a diagnostic test result provides treatment-relevant information beyond baseline covariates by explaining additional treatment-effect heterogeneity, which we characterize using a variance-based treatment-effect variable importance measure. Pragmatic effectiveness evaluates whether incorporating this information into personalized treatment decisions improves expected outcomes, a question central to decision-making for patients, clinicians, and other health care stakeholders. We formalize pragmatic effectiveness as a contrast between expected outcomes under optimal personalized treatment rules defined with and without access to the diagnostic test result. We establish identification of the proposed estimand and provide Targeted Maximum Likelihood Estimation (TMLE) and cross-validated TMLE procedures for nonparametric estimation and inference. Simulation studies and a synthetic colorectal cancer application illustrate the proposed estimands and estimation performance. More broadly, this approach provides a causal inference perspective for evaluating AI-enabled devices by distinguishing their dual roles as information-enrichment and personalized decision-optimization tools, clarifying whether AI improves outcomes by expanding information for downstream decisions, improving the decision rule used to act on that information, or through both pathways.",
       "year": 2026,
@@ -363,18 +510,18 @@
       ]
     },
     {
-      "title": "A global 1 km gridded dataset of household consumption expenditure in purchasing power parity 2013-2024.",
+      "title": "A global 1 km gridded dataset of household consumption expenditure in purchasing power parity 2013–2024",
       "authors": [
         "Run Shi",
         "Yuan-Zheng Cui",
         "Fang Bian",
-        "T. Zhong",
-        "Xiangbing Peng",
+        "Teng Zhong",
+        "Xiang-Bing Peng",
         "Xin Yin",
-        "Songqin Liu",
+        "Song-Qin Liu",
         "Kai-Fang Shi"
       ],
-      "abstract": "Household and non-profit institutions serving households (NPISH) final consumption expenditure is widely used to characterize welfare, demand, and living standards, but official statistics are typically available at national and regional scales and therefore cannot support fine-grained analyses. Here we present a global 1 km gridded dataset of household and NPISH final consumption expenditure in purchasing power parity (PPP) for 2013-2024. The dataset integrates World Bank economy-level totals, expressed in constant 2021 international dollars, with annual nighttime lights, population, built-up surface, roads, and consumer-oriented points-of-interests (POIs) in a stacked Super Learner framework. Harmonized annual covariates are used to generate grid-level predictions of per-capita consumption. The dataset is a model-based spatial disaggregation constrained by economy totals. We release two products: an observed-only variant based exclusively on directly reported World Bank totals, and a regionally completed variant that fills missing economy totals from World Bank regional aggregates. Each product includes annual cell-total rasters, per-capita rasters, QA rasters, and an economy-year metadata table. Independent validation against official subnational consumption statistics in the United States, Canada, and the United Kingdom, together with a provincial retail sales proxy validation for China, shows that the dataset captures spatial heterogeneity while retaining economy-level consistency. The dataset is intended to support analyses of welfare geography, market access, and consumption-related human activity, including applications relevant to the Sustainable Development Goals (SDGs), such as poverty, equity and inclusive development.",
+      "abstract": "Household and non-profit institutions serving households (NPISH) final consumption expenditure is widely used to characterize welfare, demand, and living standards, but official statistics are typically available at national and regional scales and therefore cannot support fine-grained analyses. Here we present a global 1 km gridded dataset of household and NPISH final consumption expenditure in purchasing power parity (PPP) for 2013–2024. The dataset integrates World Bank economy-level totals, expressed in constant 2021 international dollars, with annual nighttime lights, population, built-up surface, roads, and consumer-oriented points-of-interests (POIs) in a stacked Super Learner framework. Harmonized annual covariates are used to generate grid-level predictions of per-capita consumption. The dataset is a model-based spatial disaggregation constrained by economy totals. We release two products: an observed-only variant based exclusively on directly reported World Bank totals, and a regionally completed variant that fills missing economy totals from World Bank regional aggregates. Each product includes annual cell-total rasters, per-capita rasters, QA rasters, and an economy-year metadata table. Independent validation against official subnational consumption statistics in the United States, Canada, and the United Kingdom, together with a provincial retail sales proxy validation for China, shows that the dataset captures spatial heterogeneity while retaining economy-level consistency. The dataset is intended to support analyses of welfare geography, market access, and consumption-related human activity, including applications relevant to the Sustainable Development Goals (SDGs), such as poverty, equity and inclusive development.",
       "year": 2026,
       "publication_date": "2026-07-20",
       "paper_id": "bdef605dbd0aa9a63f77a7a167f164e3c8a6680e",
@@ -533,6 +680,33 @@
       ]
     },
     {
+      "title": "A School-based Intervention to Prevent Expulsions for Violence: A Targeted Minimum Loss-Based Estimation Analysis.",
+      "authors": [
+        "Rebeccah Sokol",
+        "M. Degli Esposti",
+        "B. Victor",
+        "V. Medina Del Toro",
+        "P. Kernsmith",
+        "D. Stearns",
+        "Jorge Portugal",
+        "Sarah M. Stilwell",
+        "Justin Heinze"
+      ],
+      "abstract": "Childhood and adolescence are critical periods for preventing behavioral problems, and intervening during these stages can produce lifelong benefits. If basic needs remain unaddressed, however, behavioral problems can escalate to include violence. Schools may expel students in severe cases, further ostracizing them and often setting them on a course of continued aggression. We evaluated a school-based intervention, Pathways to Potential (P2P), designed to address students' basic needs. By addressing social determinants of behavioral problems, we hypothesized that P2P also would be associated with fewer violence-related expulsions. This study used targeted minimum loss-based estimation to estimate average treatment effects (ATE) of P2P on rates of expelling students in Michigan K-12 schools from 2013-14 through 2016-17. Outcomes included expulsions for (1) overall violence, (2) weapons, and (3) firearms. Treated schools received P2P from 2013-14 through 2016-17 (n = 98). Comparison schools were untreated but in districts where some schools received P2P (n = 346). Mean pre-treatment rates for overall violence-related, weapon-related, and firearm-related expulsions were 0.85 (SD = 2.32), 0.30 (SD = 1.07), and 0.04 (SD = 0.33) per 1,000 student-years, with no differences between treatment and comparison schools. Analyses did not find that P2P was associated with changes in expulsion rates for overall violence (ATE: - 0.01 [ - 0.10, 0.08]), but it was associated with decreases for weapons (ATE: - 0.06 [ - 0.10, - 0.02]), including firearms (ATE: - 0.03 [ - 0.06, - 0.01]). Findings were robust to sensitivity checks. School-based interventions that address fundamental causes of health and well-being may offer a promising strategy for preventing severe aggression at a critical stage in children's lives.",
+      "year": 2026,
+      "publication_date": "2026-11-10",
+      "paper_id": "47f5b12a8ad6e0ae42f7ad82039882ebe60b0abe",
+      "url": "https://www.semanticscholar.org/paper/47f5b12a8ad6e0ae42f7ad82039882ebe60b0abe",
+      "venue": "Prevention Science",
+      "doi": "10.1007/s11121-026-02005-y",
+      "matched_keywords": [
+        "targeted minimum loss based estimation"
+      ],
+      "source_queries": [
+        "targeted minimum loss based estimation"
+      ]
+    },
+    {
       "title": "A targeted learning framework for estimating restricted mean survival time difference using pseudo-observations.",
       "authors": [
         "Man Jin",
@@ -557,7 +731,7 @@
       "authors": [
         "Yuan-Ming Feng",
         "Shiyu Shu",
-        "Yixin Fang",
+        "Yi-Xin Fang",
         "I. Bebu",
         "Toshimitsu Hamasaki",
         "Scott R. Evans",
@@ -568,8 +742,8 @@
       "publication_date": "2026-08-05",
       "paper_id": "4e3fd2f389a5244a45c1cc9cfa436c1eb61bdd6f",
       "url": "https://www.semanticscholar.org/paper/4e3fd2f389a5244a45c1cc9cfa436c1eb61bdd6f",
-      "venue": null,
-      "doi": null,
+      "venue": "arXiv.org",
+      "doi": "10.48550/arXiv.2608.05244",
       "matched_keywords": [
         "super learner",
         "targeted maximum likelihood estimation",
@@ -675,6 +849,40 @@
       ],
       "source_queries": [
         "super learner"
+      ]
+    },
+    {
+      "title": "Abstract 5519: Integrating Super Learner Ensemble Methods with Targeted Maximum Likelihood Estimation and Fine-Gray Competing Risks Framework to Identify Frailty Thresholds for Early Rhythm Control Benefit in Atrial Fibrillation",
+      "authors": [
+        "R. Mannam",
+        "K. Keswani",
+        "Laiba Manzoor",
+        "E. Alupei",
+        "Neel A. Doshi",
+        "J. C. Del Castillo Miranda",
+        "V. Purewal",
+        "A. Mahorkar",
+        "H. Hazarika",
+        "Lakshiya Ramamoorthy",
+        "Mohamed N. Shabrawi"
+      ],
+      "abstract": "Background: The EAST-AFNET 4 trial demonstrated that early rhythm control (ERC) reduces cardiovascular outcomes in atrial fibrillation (AFib) patients (HR 0.79, 95% CI 0.66–0.94). However, treatment heterogeneity by frailty status remains poorly characterized. Frail elderly patients experience competing mortality risks that may attenuate rhythm control benefits. Traditional regression approaches inadequately address confounding, model misspecification, and competing risks simultaneously. We developed an integrated methodological pipeline combining Super Learner ensemble machine learning with targeted maximum likelihood estimation (TMLE) and Fine-Gray competing risks models to identify frailty thresholds where ERC benefit disappears. Methods: We systematically searched PubMed, MEDLINE, EMBASE, and the Cochrane Library from inception to March 2026 to identify relevant studies and applied Super Learner ensemble methods to optimize propensity score estimation and outcome prediction across multiple AFib cohorts. TMLE provided doubly-robust causal effect estimates adjusting for measured confounding while maintaining valid inference. Fine-Gray subdistribution hazard models quantified competing risks of cardiovascular versus non-cardiovascular death across frailty strata. We analyzed data from EAST-AFNET 4 subgroups, NHS electronic Frailty Index cohorts, and Korean elderly AFib registries.. The primary estimand was the frailty index threshold where ERC hazard ratio crosses unity. Results: The integrated pipeline identified a critical frailty index threshold of approximately 0.40, above which ERC benefit disappeared. In fit elderly patients, ERC yielded substantial mortality reduction (HR 0.48, 95% CI 0.30–0.79). However, benefit attenuated in frail patients (HR 1.05) and reversed in severe frailty (NHS eFI severe category HR 1.18). Fine-Gray competing risk analysis revealed that non-cardiovascular death exceeded cardiovascular death in frail AFib patients, with subdistribution hazard ratios demonstrating divergent cause-specific mortality patterns. TMLE estimates confirmed treatment effect heterogeneity, with absolute risk differences approaching zero above the frailty threshold. Conclusions: This methodological integration provides robust evidence that frailty fundamentally modifies ERC benefit in AFib through competing mortality mechanisms. The identified threshold (frailty index ~0.40) offers clinicians a quantitative decision point for rhythm control strategies. Future trials should prospectively validate this threshold and incorporate competing risks frameworks to optimize treatment selection in vulnerable populations.",
+      "year": 2026,
+      "publication_date": "2026-11-02",
+      "paper_id": "ec7755bc491ed3667a86edc5e08638ac7a74772e",
+      "url": "https://www.semanticscholar.org/paper/ec7755bc491ed3667a86edc5e08638ac7a74772e",
+      "venue": "Circulation",
+      "doi": "10.1161/circ.154.suppl_1.5519",
+      "matched_keywords": [
+        "super learner",
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "super learner",
+        "super learning",
+        "targeted maximum likelihood estimation",
+        "tmle"
       ]
     },
     {
@@ -912,6 +1120,28 @@
       "source_queries": [
         "super learner",
         "super learning"
+      ]
+    },
+    {
+      "title": "Assessing the causal influence of socioeconomic status on cervical cancer survival using the SEER database",
+      "authors": [
+        "Anjana Eledath Kolasseri",
+        "B. Venkataramana"
+      ],
+      "abstract": "Disparities in socioeconomic conditions particularly household income, have a major impact on health outcomes for many types of illnesses, including cervical cancer. This study aims to examine the causal effect between area-level income and survival outcomes in patients with cervical cancer using statistical and machine learning techniques. The study used a retrospective design utilizing data from the SEER database (2013 to 2015). The household income was divided into low, medium, and high. Vital status and survival months were among the variables that were examined after controlling for treatment-related, clinical, and demographic factors. Causal effects were estimated using Targeted Maximum Likelihood Estimation (TMLE) and Marginal Structural Models (MSM). Kaplan-Meier survival curves were created to illustrate survival differences after variables were balanced using stabilized inverse probability weights (IPWs). Sensitivity analyses were performed to validate results, which included computing E-values and reducing extreme weights. The study comprised 3810 individuals. Low and medium-income patients exhibited considerably lower survival months compared to the medium-income and high-income groups (63 months, p < 0.001). The MSM analysis revealed a mortality hazard ratio (HR) of 1.77 (95% CI 1.33–2.14) for low-income patients compared to high-income patients. TMLE supported similar findings, with low-income patients having 4.3 less survival months on average. Sensitivity analysis confirmed the validity of these findings. Low and medium Household income is substantially linked to shorter survival in cervical cancer patients. These findings show the need for targeted strategies for reducing socioeconomic gaps and improving cancer outcomes.",
+      "year": 2026,
+      "publication_date": "2026-10-30",
+      "paper_id": "2670e8f4b8e0a5fdb730af0aa339d1e0dd13f5aa",
+      "url": "https://www.semanticscholar.org/paper/2670e8f4b8e0a5fdb730af0aa339d1e0dd13f5aa",
+      "venue": "Discover Social Science and Health",
+      "doi": "10.1007/s44155-026-00403-9",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation",
+        "tmle"
       ]
     },
     {
@@ -1205,14 +1435,14 @@
       "title": "Causal AI for cancer immunotherapy: a narrative framework review of target trial emulation, treatment-effect learning and clinical translation",
       "authors": [
         "Xin Zhao",
-        "Zhuoran Liu",
+        "Zhuo-Ran Liu",
         "Jie Yang",
         "Qing-Yun Xie",
         "Tian-Yang Mao",
         "Heng Zhou",
         "Hongyuan Wang",
         "Peng Zheng",
-        "Kangyi Jiang",
+        "Kang-Yi Jiang",
         "Feng-Wei Gao"
       ],
       "abstract": "This narrative framework Review examines how artificial intelligence (AI) can move cancer immunotherapy research from outcome prediction toward target-trial-based treatment-effect learning. AI has produced increasingly accurate models for predicting response, survival and immune-related toxicity during cancer immunotherapy. Yet most models estimate outcome risk under observed care rather than the causal effect of choosing one strategy over another. We therefore frame immunotherapy AI as a causal digital-medicine problem: clinically useful AI should begin with a target-trial question that specifies eligibility, time zero, treatment strategies, comparators, outcomes, estimands and bias-control plans before model development. Within this framework, multimodal AI outputs from imaging, digital pathology, omics, microbiome data, electronic health records and clinical text can function as baseline confounders, candidate effect modifiers, longitudinal state variables or outcome-ascertainment tools. We distinguish established causal-inference approaches, such as target trial emulation, propensity-score weighting, g-methods, TMLE, DML and heterogeneous-treatment-effect estimation, from exploratory technologies such as reinforcement learning and digital twins that require prospective safety validation. We close by outlining validation, reporting, workflow, regulatory and lifecycle-monitoring requirements for moving from predictive biomarkers to trustworthy causal learning systems in immuno-oncology.",
@@ -1489,6 +1719,34 @@
       ]
     },
     {
+      "title": "Childhood hunger and cognitive impairment in later life among older adults in China: a nationwide case-control study using target maximum likelihood estimation",
+      "authors": [
+        "Wei Wang",
+        "Ying-Tian Wang",
+        "Xin-Ru Hu",
+        "Fang-Yi Chen",
+        "Qian Yu",
+        "Xi-Rui Qiu",
+        "Fan Yang",
+        "Li Liu",
+        "Xiao-Xiao Wang"
+      ],
+      "abstract": "Background Early life nutritional deprivation is associated with poor health outcomes in later life, such as cognitive impairment. Since many older Chinese adults experienced frequent hunger during childhood, we aimed to estimate its impact on late-life cognitive impairment in older adults. Methods We included participants aged 65–99 years from the 2017–2018 wave of the Chinese Longitudinal Healthy Longevity Survey, who completed the Mini-Mental State Examination (MMSE) and reported whether they experienced childhood hunger. We classified participants based on their MMSE scores into a cognitive impairment group (case group) and a control group. We used an unmatched case-control design, with unconditional logistic regression and case-control weighted target maximum likelihood estimation (CCW-TMLE), to assess the impact of childhood hunger on late-life cognitive impairment, and conducted sensitivity analyses to evaluate robustness of the association between them. Results Among 9,297 participants, 1,108 (11.92%) had cognitive impairment. Childhood hunger was more prevalent in the cognitive impairment group (76.62% vs. 69.48%, P < 0.001). In the full model, childhood hunger was significantly associated with a higher prevalence of cognitive impairment (odds ratio (OR) = 1.229; 95% confidence interval (CI) = 1.044–1.447, P = 0.013) compared to the non-childhood hunger group. CCW-TMLE also found that the childhood hunger group had a higher prevalence of later-life cognitive impairment (risk ratio (RR) = 1.167; 95% CI = 1.046–1.303; OR = 1.224, 95% CI = 1.063–1.410). The results of sensitivity analyses supported the robustness of the impact. Conclusions Childhood hunger was associated with a higher prevalence of cognitive impairment in later life. The findings suggest that improving childhood nutrition and food security might be linked to a lower burden of late-life cognitive impairment, particularly in economically disadvantaged populations. However, further research is needed to establish causality.",
+      "year": 2026,
+      "publication_date": "2026-10-30",
+      "paper_id": "2f109e6bd10e227043e87b3d271d3887573844e2",
+      "url": "https://www.semanticscholar.org/paper/2f109e6bd10e227043e87b3d271d3887573844e2",
+      "venue": "Journal of Global Health",
+      "doi": "10.7189/jogh.16.04317",
+      "matched_keywords": [
+        "tmle"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ]
+    },
+    {
       "title": "Cluster Trials Inference With CARE.",
       "authors": [
         "Sergey Alexeev",
@@ -1735,6 +1993,38 @@
       "url": "https://www.semanticscholar.org/paper/3467f485b5fdfa436b2a41e4dfdde22dd87888f3",
       "venue": "BMJ Open Diabetes Research & Care",
       "doi": "10.1136/bmjdrc-2025-005646",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
+      "title": "Comparing SGLT2 Inhibitors on Incident Major Adverse Kidney Events in Type 2 Diabetes: A Target Trial Emulation.",
+      "authors": [
+        "A. Zehra",
+        "S. Aktay",
+        "Yi-Hong Deng",
+        "K. Swarna",
+        "J. Neumiller",
+        "Eric C. Polley",
+        "Jeph Herrin",
+        "Rodolfo J. Galindo",
+        "Guillermo E. Umpierrez",
+        "Joseph S. Ross",
+        "Juan P. Brito",
+        "Victor M. Montori",
+        "Mindy M. Mickelson",
+        "Rozalina G. McCoy"
+      ],
+      "abstract": "OBJECTIVE To determine whether canagliflozin, dapagliflozin, and empagliflozin differ in rates of major adverse kidney events (MAKE) in adults with T2D at moderate cardiovascular risk and without stage 3+ chronic kidney disease (CKD) at baseline. PATIENTS AND METHODS Using target trial emulation and U.S. claims data from commercial, Medicare Advantage, and traditional Medicare plans, we compared canagliflozin, dapagliflozin, and empagliflozin among adults ≥ 21years with T2D at moderate cardiovascular risk (1-5% annualized MACE or death risk), without insulin use or stage 3+ chronic kidney disease (CKD) at baseline, initiating treatment from January 1, 2014, and December 31, 2021. Propensity scores estimated via super learner ensemble were incorporated as inverse probability weights into Cox models examining major adverse kidney events (MAKE: stage 3+ CKD, kidney failure, kidney replacement therapy initiation) and all-cause death under intention-to-treat analysis through December 31, 2022. RESULTS The weighted cohort included 41,248, 17,548, and 72,638 adults initiating canagliflozin, dapagliflozin, and empagliflozin, respectively. One-year post-initiation, rates of MAKE were 3.2% in the dapagliflozin and empagliflozin arms and 3.5% in the canagliflozin arm; by three years, 8.4%, 8.5%, and 9.1%. Compared to canagliflozin, MAKE risk was lower with dapagliflozin (HR 0.91; 95%CI 0.85-0.97) and empagliflozin (HR 0.93; 95%CI 0.88-0.97), with no difference between dapagliflozin and empagliflozin. CONCLUSION Empagliflozin and dapagliflozin were associated with modestly lower adverse kidney event rates compared to canagliflozin. These findings provide clinically actionable evidence to support selection of SGLT2i to reduce CKD risk in a highly prevalent subset of people with T2D.",
+      "year": 2026,
+      "publication_date": "2026-10-01",
+      "paper_id": "94399c5af5fc3239d6d1b6e008479ebaa837a66c",
+      "url": "https://www.semanticscholar.org/paper/94399c5af5fc3239d6d1b6e008479ebaa837a66c",
+      "venue": "Mayo Clinic proceedings",
+      "doi": "10.1016/j.mayocp.2026.09.025",
       "matched_keywords": [
         "super learner"
       ],
@@ -2098,6 +2388,32 @@
       ]
     },
     {
+      "title": "Documented SARS-CoV-2 infection and risk of neurodegenerative disease diagnosis: a target trial emulation across three real-world cohorts",
+      "authors": [
+        "Jannis Barking",
+        "Sofie Theisen Honoré",
+        "G. Azarias",
+        "Steven S. Sison",
+        "Søren Brunak",
+        "Holger Fröhlich"
+      ],
+      "abstract": "Electronic health record studies have reported increased incidence of Neurodegenerative Diseases (NDD) following SARS-CoV-2 infection, but causal interpretation is complicated by differences between infected and uninfected individuals, differential follow-up, incomplete infection ascertainment and competing mortality. We emulated target trials using Danish national health registries, the US TriNetX network, and UK Biobank data, including individuals aged \\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\ge $$\\end{document}70 years without a previous diagnosis of Alzheimer’s disease, Parkinson’s disease, or unspecified dementia. Historical pre-pandemic and contemporary test-negative control designs were evaluated. Cause-specific cumulative incidence functions were estimated using cross-fitted targeted maximum likelihood estimation (TMLE), accounting for measured baseline confounding, dependent censoring, and death as a competing event. We estimated marginal effects for the diagnoses of Alzheimer’s disease, Parkinson’s disease, unspecified dementia, and a composite endpoint, and explored heterogeneity among clinically relevant subgroups. Across cohorts, control-group designs, outcomes, and follow-up horizons, documented SARS-CoV-2 infection was not associated with a consistent increase in average risk for NDD diagnosis. Exploratory analyses nevertheless suggested higher risks among older individuals and among those with established dementia-related risk factors, including type 2 diabetes, cardiovascular disease, depression, and hearing impairment. These patterns were observed across several analyses, although their magnitude and consistency varied between cohorts and outcomes, and require further confirmation in independent studies.",
+      "year": 2026,
+      "publication_date": "2026-11-05",
+      "paper_id": "b8926087d56b7b17c9c6df490aa7d0294b8d47c3",
+      "url": "https://www.semanticscholar.org/paper/b8926087d56b7b17c9c6df490aa7d0294b8d47c3",
+      "venue": "Scientific Reports",
+      "doi": "10.1038/s41598-026-79010-2",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ]
+    },
+    {
       "title": "Does Data Preprocessing Affect Tree-Based Super Learners? An Investigation of Ensemble Optimization and Oracle Properties in Clinical Classification.",
       "authors": [
         "R. Darko",
@@ -2116,6 +2432,30 @@
       "url": "https://www.semanticscholar.org/paper/d53b4c36864d0347376e3ab932c1db8027866721",
       "venue": "medRxiv",
       "doi": "10.64898/2026.08.20.26360880",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner",
+        "super learning"
+      ]
+    },
+    {
+      "title": "Does Predictive Performance Translate to Causal Performance? Evaluating tabular foundation models as nuisance learners for causal effect estimation",
+      "authors": [
+        "Andrew R. Weckstein",
+        "I. Dahabreh",
+        "M. Zitnik",
+        "S. Hernández-Díaz",
+        "Sebastian Schneeweiss"
+      ],
+      "abstract": "Tabular foundation models based on prior-data fitted networks (PFNs) achieve strong predictive performance, but their value for causal inference is unclear. We evaluated whether PFNs, which predict through in-context learning, could match or outperform conventional nuisance learners in supporting accurate causal estimation and reliable uncertainty quantification (inference). Learners modeled propensity scores and outcome regressions within doubly robust estimators of average causal effects, with and without cross-fitting, across synthetic and semi-synthetic settings with varying confounding complexity and effect heterogeneity. Under simple parametric data-generating processes, the PFNs were competitive with correctly specified parametric regressions and ensembles containing them. In more complex settings, they outperformed all conventional learners evaluated, including richly specified Super Learner ensembles, for both accuracy and uncertainty quantification. As sample size increased, only the two PFN models (TabPFN and Mitra) consistently approached nominal confidence interval coverage, whereas under-coverage persisted for conventional learners. In some settings, PFNs achieved near-nominal coverage and well-calibrated standard errors even without cross-fitting. At the smallest sample size (n=200) and in the higher-dimensional semi-synthetic settings, PFNs and other flexible learners exhibited poor coverage without cross-fitting. For PFNs, this appeared to be driven by propensity score overfitting consistent with in-sample memorization of treatment labels. These findings highlight the promise of prior-data fitted networks as in-context nuisance learners for causal estimation, while underscoring the need for further evaluation in challenging settings.",
+      "year": 2026,
+      "publication_date": "2026-11-08",
+      "paper_id": "6fee34d2e12dcb87033b48b06c9fca2ec4435265",
+      "url": "https://www.semanticscholar.org/paper/6fee34d2e12dcb87033b48b06c9fca2ec4435265",
+      "venue": null,
+      "doi": null,
       "matched_keywords": [
         "super learner"
       ],
@@ -2412,6 +2752,27 @@
       "source_queries": [
         "targeted maximum likelihood estimation",
         "tmle"
+      ]
+    },
+    {
+      "title": "Enhanced cloud security via optimal fire hawks XOR and probabilistic super learning",
+      "authors": [
+        "Anupama Cg",
+        "Arun C",
+        "Ratnakumari Neerukonda"
+      ],
+      "abstract": "Every visit to a doctor leaves a record of diagnoses, prescriptions and test results, and patients rely on those records staying safe for years to come. Despite its widespread use and vast range of services, cloud computing presents privacy and security concerns, thus international organizations are developing cloud security policies and procedures. Given its effective data security and reliability methods, AI technology is widely applied in healthcare. This research proposes an AI-based effective feature learning model using Probabilistic Super Learning (PSL) and OFHXOR encryption. The OFHXOR’s Fire Hawks Optimizer (FHO) selects the best key value to encrypt healthcare data. Probabilistic Super Learning is used to detect malicious attacks. While updating the learning model, the PSL controls the reported attack’s attributes and properties. To evaluate the effectiveness of the proposed model of cloud security, the experiments were conducted on the WUSTL-EHMS-2020 and ECU-IoHT datasets to assess intrusion detection. The encryption and decryption performance of the OFHXOR module is evaluated on the patient biometric records of the WUSTL-EHMS-2020 dataset, serialized into payloads of 10–50 MB. Quantitative results obtained from the experiments indicate the effectiveness of the proposed model of cloud security in detecting the presence of attacks with a detection accuracy of 95.68%, a security level of 98.56%, and a low level of attacks of 4%. Moreover, the model obtained a precision of 94.51%, a recall of 93.96%, and a Matthews Correlation Coefficient (MCC) of 95.71%, which are higher than the ANN, KNN and SVM baselines, while the security level exceeds that of the RSA and ECC schemes.",
+      "year": 2026,
+      "publication_date": "2026-11-03",
+      "paper_id": "b511c8c0fe932e07f0c97f2b44f3d0859c2d4d91",
+      "url": "https://www.semanticscholar.org/paper/b511c8c0fe932e07f0c97f2b44f3d0859c2d4d91",
+      "venue": "Discover Computing",
+      "doi": "10.1007/s10791-026-10757-y",
+      "matched_keywords": [
+        "super learning"
+      ],
+      "source_queries": [
+        "super learning"
       ]
     },
     {
@@ -2839,13 +3200,13 @@
         "H. Byrne",
         "E. Devine",
         "M. Sunderland",
-        "L. Fan",
-        "W. Wen",
-        "M. Perica",
+        "Lei Fan",
+        "Wei Wen",
+        "Maria I. Perica",
         "S. Tapert",
-        "D. Clark",
+        "Duncan B. Clark",
         "K. Nooner",
-        "K. Afzali",
+        "Kamran Afzali",
         "L. Squeglia",
         "L. Mewton"
       ],
@@ -2877,8 +3238,8 @@
       "publication_date": "2026-09-24",
       "paper_id": "f598485edb697b960c5df6ddcbee6afcef159097",
       "url": "https://www.semanticscholar.org/paper/f598485edb697b960c5df6ddcbee6afcef159097",
-      "venue": null,
-      "doi": null,
+      "venue": "arXiv.org",
+      "doi": "10.48550/arXiv.2609.30503",
       "matched_keywords": [
         "targeted maximum likelihood estimation",
         "tmle"
@@ -2906,6 +3267,25 @@
       "source_queries": [
         "super learner",
         "super learning"
+      ]
+    },
+    {
+      "title": "From prediction to intervention: Causal artificial intelligence as the missing link in precision therapeutics",
+      "authors": [
+        "Gedion Mengistu Dejen"
+      ],
+      "abstract": "Artificial intelligence (AI) applied to multiomics data has expanded precision medicine's capacity to predict disease risk, prognosis, and treatment response. However, predictive accuracy alone does not answer the central question of precision therapeutics: which intervention will improve a given patient's outcome. Conventional multiomics models primarily capture statistical associations and remain vulnerable to confounding and distributional shift, limiting clinical actionability. Causal artificial intelligence (causal AI), defined here as the integration of causal inference with machine learning (ML) to estimate intervention effects rather than predict outcomes, offers a complementary framework. This review critically examines the conceptual foundations, terminology, methodological maturity, and translational status of causal AI in precision therapeutics, distinguishing causal inference, causal ML, causal discovery, and causal representation learning, and emphasizing multiomics integration and biological mechanisms. I review causal forests, targeted maximum likelihood estimation, Mendelian randomization, and target trial emulation, alongside layer‐specific opportunities across multiomics data. Emerging applications in oncology, cardiometabolic disease, and psychiatry illustrate the potential of causal AI to characterize treatment‐effect heterogeneity, though most remain at hypothesis‐generating or retrospective stages, and methodological, interpretability, regulatory, and equity challenges remain substantial. Mechanism‐anchored causal AI offers a promising but still immature path toward closing the gap between molecular prediction and clinical intervention.",
+      "year": 2026,
+      "publication_date": "2026-10-28",
+      "paper_id": "2c951e5620a01f7781c5271c5a892b2023cd951b",
+      "url": "https://www.semanticscholar.org/paper/2c951e5620a01f7781c5271c5a892b2023cd951b",
+      "venue": "Precision Medical Sciences",
+      "doi": "10.1002/prm2.70052",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
       ]
     },
     {
@@ -3156,11 +3536,11 @@
       "title": "IL-6 Receptor Antagonists and Severe Post-COVID-19 Outcomes: An Emulated Target Trial",
       "authors": [
         "Z. Butzin-Dozier",
-        "M. Kumar",
+        "Manav Kumar",
         "Yun-Wen Ji",
         "Lin-Chiun Wang",
         "A. Anzalone",
-        "E. Hurwitz",
+        "Eric Hurwitz",
         "R. C. Patel",
         "R. Wong",
         "Carolyn T. Bramante",
@@ -3338,6 +3718,29 @@
       "source_queries": [
         "targeted maximum likelihood estimation",
         "tmle"
+      ]
+    },
+    {
+      "title": "Interpretable Machine Learning for Estimated Ultimate Recovery (EUR) Prediction for the Bakken Tight Oil Play, Williston Basin, USA",
+      "authors": [
+        "Yeonpyeong Jo",
+        "P. Panja",
+        "R. Sorkhabi",
+        "Milind Deo"
+      ],
+      "abstract": "Estimated Ultimate Recovery (EUR), often calculated from production decline curve analysis (DCA), is a key indicator of long‐term well performance in petroleum reservoirs, including unconventional plays such as the Bakken Formation in the Williston Basin in the northern United States, which is the objective of this study. Long‐term production data are necessary for estimating EUR. However, for fracture‐stimulated wells, it is necessary to first isolate restimulated wells from the large set of well data used for EUR estimation. This study presents an application of interpretable machine learning (ML) workflow to the Bakken Formation, aiming for (1) identification of restimulated wells from a set of 7830 horizontal wells, and (2) understanding the contribution of various geospatial, drilling, and completion factors to EUR. Shut‐in months are first removed with a one‐sided Hampel filter. Restimulated wells are then identified by a random forest (RF) classifier built on 10 features derived from a nonparametric isotonic‐regression baseline and trained on reported production and completion data. The results revealed that the classifier achieves a cross‐validated area under the receiver operating characteristic curve (ROC‐AUC) of 0.877 and flags 1140 wells, including 672 candidate restimulated wells that have no restimulation record in FracFocus. For the 4510 filtered wells, EUR is obtained from a 3‐year modified hyperbolic DCA, which reproduces observed cumulative production with an R 2 of 0.9 when its 3‐year forecast is compared against the actual post‐3‐year production of the wells. EUR per hydraulic fracturing spacing (EUR s ) is then predicted from nine parameters derived from including geospatial (surface longitude and latitude), drilling (true vertical depth and lateral length of each well), completion (number of hydraulic fracturing stages, water, and proppant mass), and production (first‐month production and first‐month gas‐to‐oil ratio) data. The ML prediction was achieved using the Super Learner algorithm, yielding R 2 = 0.758 on the test dataset. SHAP analysis was employed to interpret model behavior and identified that the number of hydraulic fracturing stages, surface longitude, and water index (gallons per hydraulic fracturing spacing) were the three features most strongly associated with EUR s . This work presents an integrated and reproducible workflow that removes restimulated wells from production history and leverages the impact of drilling and completion design, early production data, and geospatial relationships on EUR estimation using interpretable ML.",
+      "year": 2026,
+      "publication_date": "2026-11-01",
+      "paper_id": "fbc09286bca248709f1032079258a19014e4b4cb",
+      "url": "https://www.semanticscholar.org/paper/fbc09286bca248709f1032079258a19014e4b4cb",
+      "venue": "Journal of Petroleum Geology",
+      "doi": "10.1111/jpg.70166",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner",
+        "super learning"
       ]
     },
     {
@@ -3522,8 +3925,8 @@
         "A. Anzalone",
         "Oluwasolape Olawore",
         "Ryan Hafen",
-        "E. Hurwitz",
-        "M. Kumar",
+        "Eric Hurwitz",
+        "Manav Kumar",
         "R. C. Patel",
         "Ariana Budhihartanto",
         "M. V. van der Laan",
@@ -3893,6 +4296,30 @@
       ]
     },
     {
+      "title": "Poisson Super Learning For Survival And Competing Risks On A Discretized Time Scale",
+      "authors": [
+        "Gabriele Pittarello",
+        "Thomas A. Gerds",
+        "P. F. Rønn",
+        "H. Rytgaard"
+      ],
+      "abstract": "We introduce the Poisson Super Learner, a scalable ensemble method for survival and competing risks prediction with right-censored data. The approach exploits the correspondence between the likelihood of piecewise-constant hazard models and the Poisson likelihood. After expanding the data over a chosen time partition, candidate hazard learners are trained under a common Poisson loss, and cross-validated log-hazard predictions are combined by a Poisson meta learner. The resulting ensemble is a geometric combination of candidate hazards, and can be used to estimate survival probabilities and cause-specific absolute risks. The Poisson Super Learner framework is modular and can in principle incorporate any learner that can estimate interval-specific hazards, including parametric, penalised, additive, and other machine-learning hazard models. Training targets the cause-specific hazard directly and does not require explicit modelling of the censoring distribution. For competing risks, separate cause-specific ensembles are fitted and subsequently combined to obtain individualised cumulative incidence predictions. We illustrate the approach using data from the Steno Diabetes Center collected between 2005 and 2022 to predict cardiovascular disease risk in patients with type 1 diabetes from detailed covariate information. The applied analysis is complemented by simulation studies designed to reflect key features of the data and to examine the behaviour of the method under controlled settings. All analyses were implemented using the freely available R software package poissonsuperlearner.",
+      "year": 2026,
+      "publication_date": "2026-11-02",
+      "paper_id": "7be8a0d10a63373c30186d62c3a80bf7df4674d2",
+      "url": "https://www.semanticscholar.org/paper/7be8a0d10a63373c30186d62c3a80bf7df4674d2",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "super learner",
+        "super learning"
+      ],
+      "source_queries": [
+        "super learner",
+        "super learning"
+      ]
+    },
+    {
       "title": "Predicting Hospital-associated complications in older adults: methodological considerations",
       "authors": [
         "Shukhrat Valiev",
@@ -3950,7 +4377,7 @@
     {
       "title": "Predicting six-year depression trajectories in adulthood: A super learner ensemble approach using the Add Health dataset.",
       "authors": [
-        "Jordan W J Chng",
+        "Jordan W. J. Chng",
         "Kean J. Hsu",
         "Nur Hani Hani Zainal"
       ],
@@ -4013,6 +4440,29 @@
       "url": "https://www.semanticscholar.org/paper/6b3bec27892c2317eceb3dbb4539df3a71204735",
       "venue": "Proceedings of the Institution of Civil Engineers : Structures and buildings",
       "doi": "10.1680/jstbu.25.00248",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner",
+        "super learning"
+      ]
+    },
+    {
+      "title": "Prediction models for progression to castration-resistant prostate cancer after androgen deprivation therapy: a narrative review (2021–2026)",
+      "authors": [
+        "Jun Yuan",
+        "Zi-Wei Jiang",
+        "Wen-Xian Chen",
+        "Shao-Cheng Wang"
+      ],
+      "abstract": "Prostate cancer is one of the most common male malignancies. Androgen deprivation therapy (ADT) is the backbone of treatment for locally advanced and metastatic disease, yet many patients progress to castration-resistant prostate cancer (CRPC), historically within about 2 years of ADT monotherapy, and validated, widely generalisable tools to identify high-risk patients early remain limited. PubMed and OpenAlex were searched from January 2021 to August 2026 and supplemented by citation tracking; peer-reviewed studies reporting prediction models for progression to CRPC after ADT were included and synthesised narratively, with a PROBAST+AI-style appraisal of representative models. Of 65 unique records screened, 53 met the eligibility criteria (12 excluded as outside the scope or superseded); 17 references were added during revision, so 70 references are cited. CRPC arises through androgen receptor pathway activation, AR-V7, and neuroendocrine differentiation. Gleason score, PSA nadir, bone metastasis, inflammatory blood indices (neutrophil-to-lymphocyte ratio, systemic immune-inflammation index), circulating tumor cells, circulating tumor DNA, and genetic signatures are established risk factors. Individual studies report higher discrimination for machine-learning models than for traditional nomograms, but the comparisons are within-study and at high risk of bias and optimism, and external validation was reported for only two of eight core models. Super Learner, an ensemble framework, has proved stable across clinical outcome predictions; its use for CRPC prediction is only beginning. A multi-parameter Super Learner model could improve CRPC risk stratification after ADT, provided it is validated prospectively in multicenter cohorts and reported transparently.",
+      "year": 2026,
+      "publication_date": "2026-11-05",
+      "paper_id": "657138333dd26f1ae1235470239fbd6bdccd881d",
+      "url": "https://www.semanticscholar.org/paper/657138333dd26f1ae1235470239fbd6bdccd881d",
+      "venue": "Frontiers in Oncology",
+      "doi": "10.3389/fonc.2026.1964985",
       "matched_keywords": [
         "super learner"
       ],
@@ -4554,7 +5004,7 @@
     {
       "title": "Social and digital engagement associated with reduced depressive symptoms in adults aged 50 and older: a multi-country cohort study",
       "authors": [
-        "Yaping Wang",
+        "Ya-Ping Wang",
         "Li-Yuan Tao",
         "Gram Lu",
         "Hongguang Chen",
@@ -4604,9 +5054,9 @@
         "Z. Butzin-Dozier",
         "Yun-Wen Ji",
         "Lin-Chiun Wang",
-        "M. Kumar",
+        "Manav Kumar",
         "A. Anzalone",
-        "E. Hurwitz",
+        "Eric Hurwitz",
         "Ariana Budhihartanto",
         "R. C. Patel",
         "A. Hubbard",
@@ -5341,6 +5791,30 @@
       ]
     },
     {
+      "title": "Three-year participation patterns and metabolic syndrome-related indicators in a nudge- and gamification-based workplace health promotion program in Japan.",
+      "authors": [
+        "Hanae Nagata",
+        "Naoki Kondo",
+        "M. Haseda",
+        "K. Shiba",
+        "Sho Takeda",
+        "Koryu Sato"
+      ],
+      "abstract": "OBJECTIVE To examine associations between three-year participation patterns in a workplace health promotion program and metabolic syndrome-related indicators among employees at a Japanese company, overall and by National Health Guidance eligibility. METHODS This cohort study used health checkups, participation, and human resources data collected in Japan from April 2018 to September 2021. Of 3697 employees, 797 were censored; 2900 had complete participation information for 2019-2021. Eight participation patterns were examined. Outcomes in 2021 included body mass index (BMI), waist circumference, systolic blood pressure, low-density lipoprotein cholesterol, and hemoglobin A1c. Longitudinal targeted maximum likelihood estimation using SuperLearner with logit-link generalized linear models addressed measured time-varying confounding and censoring. RESULTS Compared with nonparticipation, most patterns were associated with lower estimated BMI and waist circumference. The largest waist circumference differences were for participation in 2020 and 2021 (-1.73 cm; 95% confidence interval (CI), -2.30, -1.15) and in all three years (-1.19 cm; 95% CI, -1.65, -0.74). Other outcomes were less consistent. Estimated differences in BMI and waist circumference tended to be more negative among guidance-eligible employees. CONCLUSIONS Repeated and recent participation may be associated with lower BMI and waist circumference. Supporting sustained participation and re-engagement may benefit workplace programs.",
+      "year": 2026,
+      "publication_date": "2026-11-10",
+      "paper_id": "4dd4a8531b24de5b76633dccc493cbaca049a5ab",
+      "url": "https://www.semanticscholar.org/paper/4dd4a8531b24de5b76633dccc493cbaca049a5ab",
+      "venue": "Preventive Medicine",
+      "doi": "10.1016/j.ypmed.2026.108697",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
+      ]
+    },
+    {
       "title": "Toward a practical handbook for choosing among causal inference methods in non-randomized studies with binary outcomes: A simulation study for applied researchers",
       "authors": [
         "Adri'an Aurensanz-Crespo",
@@ -5479,7 +5953,7 @@
       "title": "Tying Maximum Likelihood Estimation for Dependent Data",
       "authors": [
         "Masamune Iwasawa",
-        "Qingfeng Liu",
+        "Qing-Feng Liu",
         "Zi-Yan Zhao"
       ],
       "abstract": "Abstract This study proposes a tying maximum likelihood estimation (TMLE) method to improve the estimation performance of parametric models for dependent data where some time series are long while others are shorter. The TMLE achieves this by flexibly tying some parameters of the long time series to those of the short ones, facilitating the transfer of valuable information to improve parameter estimation accuracy for the short series. We derive the asymptotic properties of the TMLE and its finite-sample risk bound under a tuning parameter that determines the strength of the tying. The theoretical analysis shows that the TMLE not only substantially outperforms the standard MLE under the correct tying but also can retain this strength under a local misspecification setting. We propose a feasible bootstrapping procedure for selecting the tuning parameter to reduce the finite-sample risk, with supporting finite-sample theory guiding implementation. Extensive simulations demonstrate that the TMLE exhibits superior performance compared to alternative methods. An empirical application based on a multivariate GARCH-type model for the volatility dynamics of Facebook and Twitter stock returns shows improved predictive performance attributable to tying parameters, consistent with the view that these two stocks have similar exposure to common risk factors and related volatility dynamics.",
@@ -5557,7 +6031,7 @@
         "Ai-Jun Cui",
         "Yi Ma",
         "Jing-Yu Zhang",
-        "Ruifu Wang"
+        "Rui-Fu Wang"
       ],
       "abstract": "Most active and passive remote sensing imagery acquired over marine areas contains wave textures, presenting both challenges and opportunities for water depth retrieval. Although wave phenomena hinder water depth estimation via optical radiative transfer in passive remote sensing, they form the foundation of bathymetric methods based on wave texture analysis. The synergistic use of active and passive imagery with wave textures helps to mitigate these adverse effects in certain inversion approaches. By integrating the inversion results from both data types—accounting for their distinct imaging mechanisms and depth detection theories—their complementary advantages can be effectively combined. To this end, a new fusion method based on a super learner–neural ODE (SL-NODE) ensemble is proposed. This two-stage framework implements a decision-level fusion strategy: multiple classical machine learning models act as base learners in the first stage, and the neural ordinary differential equation (Neural ODE) serves as the metalearner in the second. Outputs from the first-stage models are combined via cross validation and subsequently refined by the neural ODE to produce the final water depth estimates. In the range of 0–40-m depth range, the fused results exhibit reductions of over 17% in mean relative error (MRE) and more than 3 m in mean absolute error (MAE) compared to those from individual inversion methods. Moreover, the proposed ensemble achieves superior fusion accuracy to any single-classical machine learning model. The integration of multisource data and diverse inversion techniques significantly enhances the accuracy and utility of water depth retrieval from imagery with wave phenomena.",
       "year": 2026,
@@ -5594,6 +6068,25 @@
       "url": "https://www.semanticscholar.org/paper/9eed6123ed530d10783221a6da9eaa2e50a00405",
       "venue": "BMJ Open",
       "doi": "10.1136/bmjopen-2025-104916",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
+      ]
+    },
+    {
+      "title": "When do missed prompts matter? A simulation and empirical sensitivity study of structured nonresponse in intensive longitudinal assessment.",
+      "authors": [
+        "Aleksandrs Karnick"
+      ],
+      "abstract": "Inference in intensive longitudinal assessment depends on whether observed prompts adequately represent the construct or phenomenon under scrutiny. When missed prompts are systematically related to unobserved momentary states, response rate summaries and missing data-adjusted estimates may underestimate clinically meaningful outcomes. Using suicidal ideation as a high-stakes exemplar, this project evaluated structured nonresponse in two linked studies. Study 1 used Monte Carlo simulation to examine recovery of complete-schedule momentary suicidal ideation prevalence across response mechanism (missing completely at random, missing at random, symptom-dependent missing not at random [MNAR], disengagement-driven MNAR), target response rate, and volatility-dependent missingness. Simulation parameters were determined based on empirical research and calibration to varied MNAR assumptions. Six estimators were evaluated: observed response mean, last observation carried forward, G-computation, inverse probability weighting, augmented inverse probability weighting, and targeted maximum likelihood estimation. Under missing completely at random and missing at random, estimators were approximately unbiased or modest with coverage deterioration in lower response and volatility-dependent conditions. Under MNAR mechanisms, all estimators underestimated complete-schedule prevalence. Study 2 applied a delta-shift sensitivity analysis to an open ecological momentary assessment data set. Even with 90.3% item observability, stronger outcome-enrichment assumptions for missed prompts increased estimated complete-schedule prevalence from 5.94% to 7.24%. Findings indicate that high response rates and robust estimators do not guarantee valid intensive longitudinal assessment when nonresponse is structured by unobserved risk states. Simulation and empirical illustration results should be considered in the context of study parameters and calibration decisions. Design-stage planning and delta-shift sensitivity analyses can help researchers evaluate, reduce, and transparently report potential bias from structured nonresponse. (PsycInfo Database Record (c) 2026 APA, all rights reserved).",
+      "year": 2026,
+      "publication_date": "2026-11-09",
+      "paper_id": "edb0ebfef74f02c5d2a84a6313cb2c23d95c1fbc",
+      "url": "https://www.semanticscholar.org/paper/edb0ebfef74f02c5d2a84a6313cb2c23d95c1fbc",
+      "venue": "Psychological Assessment",
+      "doi": "10.1037/pas0001513",
       "matched_keywords": [
         "targeted maximum likelihood estimation"
       ],
@@ -5749,54 +6242,125 @@
       "title": "12-Month Results from the CISTO Study Comparing Radical Cystectomy Versus Bladder-Sparing Therapy for Recurrent High-Grade Non-Muscle Invasive Bladder Cancer",
       "authors": [
         "John L. Gore",
-        "Erika M Wolff",
-        "Michael G Nash",
+        "Erika M. Wolff",
+        "Michael G. Nash",
         "Bryan A. Comstock",
         "S. Gilbert",
         "Sam S. Chang",
         "Stephanie Chisolm",
-        "Doug B MacLean",
+        "Doug B. MacLean",
         "Jonathan L. Wright",
-        "Max Kates",
+        "Max R. Kates",
         "Kamal S. Pohar",
         "Thomas J. Guzzo",
-        "T. Bivalacqua",
-        "K. Nepple",
+        "Trinity J. Bivalacqua",
+        "Kenneth G. Nepple",
         "Jeffrey S. Montgomery",
-        "K. Scarpato",
+        "Kristen R. Scarpato",
         "S. Woldu",
         "V. Master",
-        "David Y T Chen",
-        "M. Mossanen",
-        "S. Daneshmand",
+        "David Y. T. Chen",
+        "Matthew Mossanen",
+        "Siamak Daneshmand",
         "B. O'Neil",
         "Mark D. Tyson",
-        "M. E. Westerman",
+        "Mary E. Westerman",
         "A. Kamat",
-        "A. Mansour",
-        "K. Chamie",
+        "Ahmed M. Mansour",
+        "Karim Chamie",
         "Stephen B. Riggs",
-        "J. Kukreja",
+        "Janet B. Kukreja",
         "Parth K. Modi",
-        "Tullika Garg",
-        "C. Peyton",
-        "Jeffrey W. Nix",
-        "R. Dickstein",
-        "A. Gadzinski",
-        "Alexander Sankin",
-        "N. Shore",
-        "Brian R Lane",
+        "Tullika K. Garg",
+        "Charles C. Peyton",
+        "J. Nix",
+        "Rian Dickstein",
+        "Adam J. Gadzinski",
+        "Alex Sankin",
+        "Neal D. Shore",
+        "Brian R. Lane",
         "J. Bassett",
         "Sanjay Patel",
         "David S. Morris",
         "Liam C. Macleod",
         "Eugene K. Lee",
-        "C. Ritch",
-        "Kristin M Follmer",
+        "Chad R. Ritch",
+        "Kristin M. Follmer",
         "Jenney R. Lee",
         "Sung Min Kim",
         "Larry G. Kessler",
-        "Angela B. Smith"
+        "Angela B. Smith",
+        "John L. Gore",
+        "Angela B. Smith",
+        "Erika M. Wolff",
+        "Bryan A. Comstock",
+        "Michael G. Nash",
+        "Kristin M. Follmer",
+        "Jenney R. Lee",
+        "Sung Min Kim",
+        "Larry G. Kessler",
+        "Scott M. Gilbert",
+        "Sam S. Chang",
+        "Jonathan L. Wright",
+        "Max R. Kates",
+        "Kamal S. Pohar",
+        "Thomas J. Guzzo",
+        "Trinity J. Bivalacqua",
+        "Kenneth G. Nepple",
+        "Jeffrey S. Montgomery",
+        "Kristen R. Scarpato",
+        "S. Woldu",
+        "V. Master",
+        "David Y. T. Chen",
+        "Matthew Mossanen",
+        "Siamak Daneshmand",
+        "B. O'Neil",
+        "M. Tyson",
+        "Mary E. Westerman",
+        "A. Kamat",
+        "Ahmed M. Mansour",
+        "Karim Chamie",
+        "Stephen B. Riggs",
+        "Janet B. Kukreja",
+        "P. Modi",
+        "Tullika K. Garg",
+        "Charles C. Peyton",
+        "Jeffrey W. Nix",
+        "Rian Dickstein",
+        "Adam J. Gadzinski",
+        "Alex Sankin",
+        "Neal D. Shore",
+        "Brian R. Lane",
+        "J. Bassett",
+        "Sanjay Patel",
+        "David S. Morris",
+        "Liam C. Macleod",
+        "Eugene K. Lee",
+        "Chad R. Ritch",
+        "Stephanie Chisolm",
+        "Doug B. MacLean",
+        "Fred Almeida",
+        "Mary Beth Ballard Murray",
+        "Nancy Lindsey",
+        "Robert Lipman",
+        "R. Oliver",
+        "Lori A. Roscoe",
+        "Karen Sachse",
+        "Y. Lotan",
+        "Sima P. Porten",
+        "Jennifer M. Taylor",
+        "Gary D. Steinberg",
+        "James W. F. Catto",
+        "Tracy M. Downs",
+        "Jennifer L. Malin",
+        "Elai Davicioni",
+        "Patricia Rios",
+        "Marielle Yano",
+        "Grace Jun",
+        "Casey Li",
+        "Christopher Nefcy",
+        "Anirban Basu",
+        "Patrick J. Heagerty"
       ],
       "abstract": "Purpose: To compare patient-reported and clinical outcomes between radical cystectomy (RC) and bladder-sparing therapy (BST) in patients with recurrent high-grade non-muscle invasive bladder cancer (NMIBC). Patients and Methods: This pragmatic, prospective observational cohort study was designed with patients, who selected and prioritized outcomes. Eligible adults were candidates for both RC or BST, had prior induction Bacillus Calmette-Guérin (BCG), and received their last treatment within12 months. The primary outcome was the EORTC-QLQ-C30 physical function scale at 12 months. Secondary outcomes included other EORTC-QLQ-C30 scales, depression, anxiety, bladder cancer-specific quality of life (QOL), financial burden, and cancer-specific outcomes. Targeted maximum likelihood estimation (TMLE) was used to calculate Average Treatment Effect (ATE) estimates between arms. Inverse probability weighted risk ratios (wRR) were calculated using quasi-Poisson regression. Results: Of 570 participants (mean age 71.4 years; 21% female), 371 selected BST and 199 selected RC. Physical function was significantly worse in the RC arm at 3 months; by 9 months, there was no difference between arms, and at 12 months, physical function did not differ (ATE 0.9; 95% CI: –0.6 to 2.4; P = 0.22). RC was associated with better emotional function, generic health-related QOL, and financial burden, and lower depression and anxiety, while BST was associated with better bowel and sexual health. Cancer-specific survival was 99% for BST vs 96% for RC (wRR: 0.99; 95% CI: 0.97 to 1.01). RC was associated with a higher risk of adverse events and serious adverse events, including a 90-day mortality rate of 2.5%. Conclusion: Most patient-prioritized outcomes were similar or better among participants who chose RC compared with BST. These findings support the continued role of RC in managing recurrent high-grade NMIBC. Trial Registration: ClinicalTrials.gov NCT03933826",
       "year": 2025,
@@ -5894,7 +6458,7 @@
         "J. Matos",
         "Tristan Struja",
         "N. Woite",
-        "David Restrepo",
+        "David S. Restrepo",
         "A. Waschka",
         "L. Celi",
         "Christopher M. Sauer"
@@ -7134,10 +7698,10 @@
     {
       "title": "Constructing Confidence Intervals for Infinite-Dimensional Functional Parameters by Highly Adaptive Lasso",
       "authors": [
-        "Wenxin Zhang",
+        "Wen-Xin Zhang",
         "Junming Shi",
         "Alan Hubbard",
-        "M. J. van der Laan"
+        "M. V. van der Laan"
       ],
       "abstract": "Estimating the conditional mean function is a central task in statistical learning. In this paper, we consider estimation and inference for a nonparametric class of real-valued cadlag functions with bounded sectional variation (Gill et al., 1995), using the Highly Adaptive Lasso (HAL) (van der Laan, 2015; Benkeser and van der Laan, 2016; van der Laan, 2023), a flexible empirical risk minimizer over linear combinations of tensor products of zero- or higher-order spline basis functions under an L1 norm constraint. Building on recent theoretical advances in asymptotic normality and uniform convergence rates for higher-order spline HAL estimators, this work focuses on constructing robust confidence intervals for HAL-based estimators of conditional means. First, we propose a targeted HAL with a debiasing step to remove the regularization bias of the targeted conditional mean and also consider a relaxed HAL estimator to reduce such bias within the working model. Second, we propose both global and local undersmoothing strategies to adaptively enlarge the working model and further reduce bias relative to variance. Third, we combine these estimation strategies with delta-method-based variance estimators to construct confidence intervals for the conditional mean. Through extensive simulation studies, we evaluate different combinations of our estimation procedures, model selection strategies, and confidence-interval constructions. The results show that our proposed approaches substantially reduce bias relative to variance and yield confidence intervals with coverage rates close to nominal levels across different scenarios. Finally, we demonstrate the general applicability of our framework by estimating conditional average treatment effect (CATE) functions, highlighting how HAL-based inference methods extend to other infinite-dimensional, non-pathwise-differentiable parameters.",
       "year": 2025,
@@ -7213,7 +7777,7 @@
       "title": "DBNX: A Machine Learning Method for Ensembling Polygenic Risk Scores and Non-Genetic Factors",
       "authors": [
         "Xiang-Zhe Yuan",
-        "Chonghao Wang",
+        "Chong-Hao Wang",
         "Shu-Qin Zhu",
         "Lu Zhang"
       ],
@@ -7538,7 +8102,7 @@
     {
       "title": "Efficient Statistical Estimation for Sequential Adaptive Experiments with Implications for Adaptive Designs",
       "authors": [
-        "Wenxin Zhang",
+        "Wen-Xin Zhang",
         "M. V. van der Laan"
       ],
       "abstract": "Adaptive experimental designs have gained popularity in clinical trials and online experiments. Unlike traditional, fixed experimental designs, adaptive designs can dynamically adjust treatment randomization probabilities and other design features in response to data accumulated sequentially during the experiment. These adaptations are useful to achieve diverse objectives, including reducing uncertainty in the estimation of causal estimands or increasing participants'chances of receiving better treatments during the experiment. At the end of the experiment, it is often desirable to answer causal questions from the observed data. However, the adaptive nature of such experiments and the resulting dependence among observations pose significant challenges to providing valid statistical inference and efficient estimation of causal estimands. Building upon the Targeted Maximum Likelihood Estimator (TMLE) framework tailored for adaptive designs (van der Laan, 2008), we introduce a new Adaptive-Design-Likelihood-based TMLE (ADL-TMLE) to estimate a wide class of causal estimands from adaptive experiment data, including the average treatment effect as our primary example. We establish asymptotic normality and semiparametric efficiency of ADL-TMLE under relaxed positivity and design stabilization assumptions for adaptive experiments. Motivated by these results, we further propose a novel adaptive design aimed at minimizing the variance of the estimator based on data generated under that design. Simulations show that ADL-TMLE demonstrates superior variance-reduction performance across different types of adaptive experiments, and that the proposed adaptive design attains lower variance than the standard efficiency-oriented adaptive design. Finally, we generalize our framework to broader settings, including those with longitudinal structures.",
@@ -7644,6 +8208,45 @@
       "source_queries": [
         "super learner",
         "super learning"
+      ]
+    },
+    {
+      "title": "EquiOx: A Prospective study of pulse oximeter bias and skin pigmentation in critically-ill adults",
+      "authors": [
+        "C. Hendrickson",
+        "M. Lipnick",
+        "D. Chen",
+        "T. Law",
+        "R. Pirracchio",
+        "J. Feiner",
+        "E. Behnke",
+        "Y. Chou",
+        "S. Elmankabadi",
+        "C. Hughes",
+        "K. Moore",
+        "L. Ortiz",
+        "L. Shmuylovich",
+        "M. B. Eydelman",
+        "G. Leeb",
+        "E. Monk",
+        "O. Okunlola",
+        "D. Dorsey",
+        "J. Varshney",
+        "F. Negussie",
+        "P. Bickler"
+      ],
+      "abstract": "RationalePulse oximeter performance may vary by skin pigmentation, but most data are retrospective with key limitations. ObjectiveTo quantify pulse oximeter bias [mean difference between pulse oximeter oxygen saturation (SpO2) and arterial blood functional oxygen saturation (SaO2)], and average root mean square error (ARMS) and estimate adjusted effects of skin pigment on bias or ARMS in critically-ill adults MethodsProspective single-center study of 631 ICU patients (2022-2024) directly observed SpO and SaO pairs. Skin pigment was assessed using the subjective Monk Skin Tone Scale and objective spectrophotometry measurement (Individual Typology Angle [ITA]). Adjusted effects were estimated with targeted maximum likelihood estimation. Main ResultsAmong 1,760 paired measurements from 631 critically-ill adults, median SaO2 was 98% (IQR 96%, 99%) with 40 episodes of stable hypoxemia (SpO2<90%). SpO2 systematically underestimated SaO2 [median bias= -1.70 IQR (-2.84, -0.50)]. Bias was less negative in patients with darker skin (ITA <-30{degrees}) [-1.05 (-2.44, -0.10)] vs lighter skin (ITA >30{degrees}) [-2.01 (-3.34, -1.00)] and remained significantly different in adjusted analyses. ARMS was 3.87 (95% CI 3.25, 4.53) overall and 4.49 (95% CI 2.63, 7.07) in patients with darker skin. Ear probes performed worse than finger probes [bias: -2.20 vs. -1.60; ARMS: 4.90 vs. 2.70]. ConclusionsIn this large ICU cohort, hypoxemia was rare, pulse oximeters systematically underestimated SaO, performance varied by skin pigment and probe site. Bias was less negative in patients with darker skin. Pulse oximeter inaccuracies in ICU patients may be more substantial than clinicians recognize. Key PointsO_ST_ABSQuestionC_ST_ABSDoes pulse oximeter bias in critically-ill adults differ by skin pigmentation? FindingsIn this prospective, single-center study of 631 critically-ill adults, oximeter mean bias was negative for all patients but relatively less negative for patients with darker pigment. Bias variation by pigment was nonlinear and larger in ear than finger probes. MeaningPulse oximeter bias varies with skin pigmentation and may not always be positive in patients with darker pigmentation. Pulse oximeter inaccuracy may be larger than clinicians appreciate. Additional studies with multiple oximeter brands and more stable hypoxemia are needed to further understand bias variation with skin pigment.",
+      "year": 2025,
+      "publication_date": "2025-10-07",
+      "paper_id": "ae6c76fc7a2f5265554aac3107b93706de5216d6",
+      "url": "https://www.semanticscholar.org/paper/ae6c76fc7a2f5265554aac3107b93706de5216d6",
+      "venue": "medRxiv",
+      "doi": "10.1101/2025.10.06.25337217",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation"
       ]
     },
     {
@@ -8281,13 +8884,13 @@
     {
       "title": "Injury Preceding the Classical Recognition of Multiple Sclerosis: A Population-Based Study.",
       "authors": [
-        "F. Yusuf",
+        "Fardowsa L. A. Yusuf",
         "M. E. Karim",
         "Jason M Sutherland",
         "F. Zhu",
-        "Yinshan Zhao",
+        "Y. Zhao",
         "R. Marrie",
-        "Helen Tremlett"
+        "H. Tremlett"
       ],
       "abstract": "BACKGROUND We investigated the association between multiple sclerosis (MS) and fractures, dislocations/sprains/strains, and burns preceding MS recognition. METHODS We conducted a cohort study using clinical and population-based health administrative data in British Columbia, Canada (1991-2020). We compared the risk of a fracture, dislocation/sprain/strain, and burn in the six years preceding an MS cases' first demyelinating claim (administrative cohort=9,197) or MS symptom onset (clinical cohort=1,446) to that of matched general population controls using modified Poisson regression. As sensitivity analyses, we used high-dimensional propensity scores (hdPS) to address residual confounding and targeted maximum likelihood estimation (TMLE) for mis-specification. RESULTS In the six years before the first demyelinating claim (administrative cohort), the risk of a fracture (adjusted relative risks [adjRR]=1.28;95%CI:1.20-1.36), dislocation/sprain/strain (adjRR=1.20;95%CI:1.15-1.23), and burn (adjRR=1.40;95%CI:1.22-1.62) was higher among MS cases. After hdPS adjustment and TMLE, the adjusted relative risks decreased slightly: fracture (hdPS=1.20; TMLE=1.20), dislocation/sprain/strain (hdPS=1.15; TMLE=1.15), and burn (hdPS=1.25; TMLE=1.26). Pre-MS symptom onset (clinical cohort), the associations were weaker but in the same direction. CONCLUSION Fractures, dislocations/sprains/strains, and burns were more common among people with MS before its classical recognition, suggesting that MS could be detected earlier.",
       "year": 2025,
@@ -8432,7 +9035,7 @@
         "M. C. Cabezas",
         "J. Tunon",
         "M. Vrablik",
-        "P. P. Filardi",
+        "P. Perrone Filardi",
         "S. Gruber",
         "M. J. van der Laan",
         "K. Andrade",
@@ -9308,11 +9911,11 @@
       "title": "Predictions of Small Intracranial Aneurysms’ Rupture Risk with Ensemble Machine Learning Model (Super Learner): A Retrospective Study in Two Tertiary Hospitals in China",
       "authors": [
         "Xiao-Long Hu",
-        "Shifei Ye",
+        "Shi-Fei Ye",
         "Dayong Qi",
         "Suya Li",
         "Xiao-Yu Tang",
-        "Yibin Fang"
+        "Yi-Bin Fang"
       ],
       "abstract": "Purpose This research aims to investigate the morphological, clinical and hemodynamic parameters influencing intracranial aneurysm rupture, develop a ensemble machine learning model (Super Learner) to predict its rupture risk. Methods This retrospective study analyzed aneurysm patients from two hospitals. Five base learners—decision tree (DT), k-nearest neighbor (KNN), random forest (RF), support vector machine (SVM) and extreme gradient boosting (XGBoost)—were constructed based on demographic, hemodynamic and geometric parameters. A Super Learner model was subsequently constructed using ensemble learning algorithms, with all models validated on an independent external dataset. Results The dataset comprised 97 patients in the training cohort, 42 in the internal validation cohort, and 86 in the external validation cohort. In the external validation cohort, the area under the curve (AUC) values: Super learner 0.94 (0.89–1.00), Random Forest 0.83 (0.76–0.91), XGBoost 0.93 (0.87–0.99), Support Vector Machine 0.82 (0.73–0.92), Decision Tree 0.84 (0.76–0.93), and k-Nearest Neighbors 0.51 (0.38–0.63). Conclusion The Super Learner model outperforms individual models in both performance and stability for predicting intracranial aneurysm rupture risk. It has been robustly validated on an external dataset, demonstrating strong generalizability.",
       "year": 2025,
@@ -10289,7 +10892,7 @@
         "Nicholas T. Williams",
         "Richard Liu",
         "Katherine L. Hoffman",
-        "Sarah E Forrest",
+        "Sarah E. Forrest",
         "Kara E. Rudolph",
         "Iván Díaz"
       ],
@@ -10615,7 +11218,7 @@
         "S. H. Yahyazadeh",
         "A. Muhammadnejad",
         "Sepideh Abdi",
-        "M. Nikoo",
+        "Maedeh Zokaei Nikoo",
         "K. Zendehdel"
       ],
       "abstract": "Background Our study represents the first effort in the Eastern Mediterranean Region to identify disparities in the quality of colorectal cancer (CRC) care in Iran. Methods We established a collaborative registry program for non-metastatic CRC patients to evaluate survival rates between teaching cancer centers (TCCs) and a high-volume, non-teaching, non-cancer center (NTNC). The study included a diverse patient population and considered various factors such as cancer stage, margin involvement, adherence to guidelines for adjuvant and neoadjuvant treatments, emergency surgeries, socioeconomic status, and risk of surgery. We utilized a multivariate Cox regression model and the targeted maximum likelihood estimator (TMLE) to analyze survival disparities in colorectal cancer between TCCs and the NTNC. Results We recruited 668 CRC patients, including 320 with colon cancer and 298 with rectal cancer. Patients who underwent surgery at teaching cancer centers (TCCs) displayed significantly higher quality of care and better outcomes than those treated at the non-teaching, non-cancer center (NTNC). The adjusted hazard ratios (HR) were 1.97 (95% CI 1.21–3.21) for colon cancer and 1.54 (95% CI 1.01–2.55) for rectal cancer. Additionally, we observed significant causal mortality risk ratios (RR) based on hospital type for overall colorectal cancer (RR = 1.42, 95% CI 1.12–1.81) and specifically for colon (RR = 1.48, 95% CI 1.04–2.11) and rectum cancer (RR = 1.39, 95% CI 1.01–2.02). Conclusion The survival disparities in colon and rectal cancers between TCCs and NTNCs highlight a significant gap in CRC care in Iran. It is essential to expand this study nationally and implement the knowledge and experiences from TCCs in other hospitals to improve the quality of care and enhance patient outcomes.",
@@ -11304,7 +11907,7 @@
       "title": "C-Learner: Constrained Learning for Causal Inference",
       "authors": [
         "T. Cai",
-        "Yuri Fonseca",
+        "Yuri R. Fonseca",
         "Kaiwen Hou",
         "Hongseok Namkoong"
       ],
@@ -11527,10 +12130,10 @@
         "A. Elduma",
         "K. Holakouie-Naieni",
         "Amir Almasi-Hashiani",
-        "A. Foroushani",
+        "A. Rahimi Foroushani",
         "Hamdan Mustafa Hamdan Ali",
-        "M. A. Adam",
-        "Asma Elsony",
+        "M. Adam",
+        "A. El Sony",
         "M. Mansournia"
       ],
       "abstract": "[This corrects the article DOI: 10.1371/journal.pone.0279976.].",
@@ -11551,9 +12154,9 @@
       "title": "Data-adaptive identification of effect modifiers through stochastic shift interventions and cross-validated targeted learning",
       "authors": [
         "David B. McCoy",
-        "Wenxin Zhang",
+        "Wen-Xin Zhang",
         "Alan Hubbard",
-        "M. J. van der Laan",
+        "M. V. van der Laan",
         "Alejandro Schuler"
       ],
       "abstract": "Summary In epidemiology, identifying subpopulations that are particularly vulnerable to exposures and those who may benefit differently from exposure-reducing interventions is essential. Factors such as age, gender-specific vulnerabilities, and physiological states such as pregnancy are critical for policymakers when setting regulatory guidelines. However, current semiparametric methods for estimating heterogeneous treatment effects are often limited to binary exposures and can function as black boxes, lacking clear, interpretable rules for subpopulation-specific policy interventions. This study introduces a novel method that uses cross-validated targeted minimum loss-based estimation (TMLE) paired with a data-adaptive target parameter strategy to identify subpopulations with the most significant differential impact of simulated policy interventions that reduce exposure. Our approach is assumption-lean, allowing for the integration of machine learning while still yielding valid confidence intervals. We demonstrate the robustness of our methodology through simulations and an application to data from the National Health and Nutrition Examination Survey. Our analysis of NHANES data on persistent organic pollutants (POPs) and leukocyte telomere length (LTL) identified age as a significant effect modifier. Specifically, we found that exposure to 3,3’,4,4’,5-pentachlorobiphenyl (PCB; NHANES analyte LBXPCBLA) consistently had a differential impact on LTL, with a 1-SD reduction in exposure leading to a more pronounced increase in LTL among younger populations than in older ones. We offer our method as an open-source software package, EffectXshift, enabling researchers to investigate the effect modification of continuous exposures. The EffectXshift package provides clear and interpretable results, informing targeted public health interventions and policydecisions.",
@@ -12272,12 +12875,12 @@
       ]
     },
     {
-      "title": "HAL-based plug-in estimation with pointwise asymptotic normality of the causal dose–response curve",
+      "title": "HAL-Based Plug-in Estimation with Pointwise Asymptotic Normality of the Causal Dose–response Curve",
       "authors": [
         "Junming Shi",
-        "Wenxin Zhang",
+        "Wen-Xin Zhang",
         "Alan Hubbard",
-        "M. J. van der Laan"
+        "M. V. van der Laan"
       ],
       "abstract": "Abstract Estimating and obtaining reliable inference for the marginally adjusted causal dose–response curve for continuous treatments without relying on parametric assumptions is a well-known statistical challenge. Parametric models risk introducing significant bias through model misspecification, compromising the accurate representation of the underlying data and dose–response relationship. On the other hand, nonparametric models face difficulties as the dose–response curve is not pathwise differentiable, preventing consistent estimation at standard rates and making the construction of confidence intervals challenging. The Highly Adaptive Lasso (HAL) maximum likelihood estimator offers a promising approach to this issue. In this paper, we introduce a HAL-based plug-in estimator for the causal dose–response curve, bridge between recent theoretical developments and empirical applications, and assess its empirical performance against other estimators. This work emphasizes the translation of existing HAL asymptotic theory to the causal dose–response setting and demonstrates its practical implications through comprehensive simulations, thereby filling an essential gap between theory and practice. Our comprehensive simulations demonstrate that the HAL-based estimator approaches pointwise asymptotic normality under the assumed smoothness conditions and yields confidence intervals that are consistently closer to nominal coverage than those of competing methods. While undercoverage can persist in more complex settings at moderate sample sizes, the HAL estimator consistently outperforms existing approaches for estimating the causal dose–response curve.",
       "year": 2024,
@@ -13841,6 +14444,30 @@
       ]
     },
     {
+      "title": "Statistical methods for chemical mixtures: a roadmap for practitioners",
+      "authors": [
+        "Wei Hao",
+        "Amber L. Cathey",
+        "Max M. Aung",
+        "Jonathan Bøss",
+        "John D. Meeker",
+        "Bhramar Mukherjee"
+      ],
+      "abstract": "Quantitative characterization of the health impacts associated with exposure to chemical mixtures has received considerable attention in current environmental and epidemiological studies. With many existing statistical methods and emerging approaches, it is important for practitioners to understand when each method is best suited for their inferential goals. In this study, we conduct a review and comparison of 11 analytical methods available for use in mixtures research, through extensive simulation studies for continuous and binary outcomes. These methods fall in three different classes: identifying important components of a mixture, identifying interactions and creating a summary score for risk stratification and prediction. We carry out an illustrative data analysis in the PROTECT birth cohort from Puerto Rico. Most importantly we develop an integrated package \"CompMix\" that provides a platform for mixtures analysis where the practitioner can implement a pipeline for several types of mixtures analysis. Our simulation results suggest that the choice of methods depends on the goal of analysis and there is no clear winner across the board. For selection of important toxicants in the mixture and for identifying interactions, Elastic net by Zou et al. (Enet), Lasso for Hierarchical Interactions by Bien et al (HierNet), Selection of nonlinear interactions by a forward stepwise algorithm by Narisetty et al. (SNIF) have the most stable performance across simulation settings. Additionally, the predictive performance of the Super Learner ensembling method by Van de Laan et al. and HierNet are found to be superior to the rest of the methods. For overall summary or a cumulative measure, we find that using the Super Learner to combine multiple Environmental Risk Scores can lead to improved risk stratification properties. We have developed an R package \"CompMix: A comprehensive toolkit for environmental mixtures analysis\", allowing users to implement a variety of tasks under different settings and compare the findings. In summary, our study offers guidelines for selecting appropriate statistical methods for addressing specific scientific questions related to mixtures research. We identify critical gaps where new and better methods are needed.",
+      "year": 2024,
+      "publication_date": "2024-03-04",
+      "paper_id": "77f75208d816990e4b072d6209e585e3b7d3e403",
+      "url": "https://www.semanticscholar.org/paper/77f75208d816990e4b072d6209e585e3b7d3e403",
+      "venue": "medRxiv",
+      "doi": "10.1101/2024.03.03.24303677",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
       "title": "Statistical methods to control for confounders in rare disease settings that use external control",
       "authors": [
         "Ji-Wei He",
@@ -13925,9 +14552,9 @@
         "Sharanya Selvaraj",
         "Alhuseen Omar Alsayed",
         "Nor Azman Ismail",
-        "B. P. Kavin",
+        "Balasubramanian Prabhu Kavin",
         "Edeh Michael Onyema",
-        "Gan Hong Seng",
+        "Hong-Seng Gan",
         "Arinze Queen Uchechi"
       ],
       "abstract": "Leukemia is a form of cancer that affects the bone marrow and lymphatic system, and it requires complex treatment strategies that vary with each subtype. Due to the subtle morphological differences among these types, monitoring gene expressions is crucial for accurate classification. Manual or pathological testing can be time-consuming and expensive. Therefore, data-driven methods and machine learning algorithms offer an efficient alternative for leukemia classification. This study introduced a novel super learning model that leverages heterogeneous machine learning models to analyze gene expression data and classify leukemia cells. The proposed approach incorporates an entropy-based feature importance technique to identify the gene profiles most significant to the labeling process. The strength of this super learning model lies in its final super learner, Random Forest, which effectively classifies cross-validated data from the candidate learners. Validation on a gene expression monitoring dataset demonstrates that this model outperforms other state-of-the-art models in predictive accuracy. The study contributes to the knowledge regarding the use of advanced machine learning techniques to improve the accuracy and reliability of leukemia classification using gene expression data, addressing the challenges of traditional methods that rely on clinical features and morphological examination.",
@@ -16525,8 +17152,8 @@
       "title": "Predicting Seasonal Influenza Hospitalizations Using an Ensemble Super Learner: A Simulation Study",
       "authors": [
         "Jason R. Gantenberg",
-        "K. McConeghy",
-        "C. Howe",
+        "K. Mcconeghy",
+        "Chanelle J. Howe",
         "Jón Steingrímsson",
         "R. van Aalst",
         "A. Chit",
@@ -17283,6 +17910,36 @@
       ]
     },
     {
+      "title": "Who is most at risk of dying if infected with SARS-CoV-2? A mortality risk factor analysis using machine learning of COVID-19 patients over time in a large Mexican population.",
+      "authors": [
+        "Lauren D. Liao",
+        "Alan E. Hubbard",
+        "J. P. Gutíerrez",
+        "Arturo Juarez Flores",
+        "Kendall Kikkawa",
+        "R. Gupta",
+        "Yana Yarmolich",
+        "Iván de Jesús Ascencio-Montiel",
+        "S. Bertozzi"
+      ],
+      "abstract": "Background: COVID-19 would kill fewer people if health programs can predict who is at higher risk of mortality because resources can be targeted to protect those people from infection. We predict mortality in a very large population in Mexico with machine learning using demographic variables and pre-existing conditions. Methods: We conducted a population-based cohort study with over 1.4 million laboratory-confirmed COVID-19 patients using the Mexican social security database. Analysis is performed on data from March 2020 to November 2021 and over three phases: (1) from March to October in 2020, (2) from November 2020 to March 2021, and (3) from April to November 2021. We predict mortality using an ensemble machine learning method, super learner, and independently estimate the adjusted mortality relative risk of each pre-existing condition using targeted maximum likelihood estimation. Results: Super learner fit has a high predictive performance (C-statistic: 0.907), where age is the most predictive factor for mortality. After adjusting for demographic factors, renal disease, hypertension, diabetes, and obesity are the most impactful pre-existing conditions. Phase analysis shows that the adjusted mortality risk decreased over time while relative risk increased for each pre-existing condition. Conclusions: While age is the most important predictor of mortality, younger individuals with hypertension, diabetes and obesity are at comparable mortality risk as individuals who are 20 years older without any of the three conditions. Our model can be continuously updated to identify individuals who should most be protected against infection as the pandemic evolves.",
+      "year": 2023,
+      "publication_date": "2023-01-18",
+      "paper_id": "684307bc4eba12cafaa642ccbb430ed5452f1a71",
+      "url": "https://www.semanticscholar.org/paper/684307bc4eba12cafaa642ccbb430ed5452f1a71",
+      "venue": "medRxiv",
+      "doi": "10.1101/2023.01.17.23284684",
+      "matched_keywords": [
+        "super learner",
+        "targeted maximum likelihood estimation"
+      ],
+      "source_queries": [
+        "super learner",
+        "super learning",
+        "targeted maximum likelihood estimation"
+      ]
+    },
+    {
       "title": "Who is most at risk of dying if infected with SARS-CoV-2? A mortality risk factor analysis using machine learning of patients with COVID-19 over time: a large population-based cohort study in Mexico",
       "authors": [
         "Lauren D. Liao",
@@ -17415,7 +18072,7 @@
     {
       "title": "A comprehensive investigation of statistical and machine learning approaches for predicting complex human diseases on genomic variants",
       "authors": [
-        "Chonghao Wang",
+        "Chong-Hao Wang",
         "Jing Zhang",
         "Xin Zhou",
         "Lu Zhang"
@@ -18272,8 +18929,8 @@
     {
       "title": "Data-driven photometric redshift estimation from type Ia supernovae light curves",
       "authors": [
-        "F. F. D. de Oliveira",
-        "M. D. dos Santos",
+        "F. M. de Oliveira",
+        "Marcelo Melo dos Santos",
         "R. Reis"
       ],
       "abstract": "Redshift measurement has always been a constant need in modern astronomy and cosmology. And as new surveys have been providing an immense amount of data on astronomical objects, the need to process such data automatically proves to be increasingly necessary. In this article, we use simulated data from the Dark Energy Survey, and from a pipeline originally created to classify supernovae, we developed a linear regression algorithm optimized through novel automated machine learning (AutoML) frameworks achieving an error score better than ordinary data pre-processing methods when compared with other modern algorithms (such as XGBOOST). Numerically, the photometric prediction RMSE of type Ia supernovae events was reduced from 0.16 to 0.09 and the RMSE of all supernovae types decreased from 0.20 to 0.14. Our pipeline consists of four steps: through spectroscopic data points we interpolate the light curve using Gaussian process fitting algorithm, then using a wavelet transform we extract the most important features of such curves; in sequence we reduce the dimensionality of such features through principal component analysis, and in the end we applied super learning techniques (stacked ensemble methods) through an AutoML framework dedicated to optimize the parameters of several different machine learning models, better resolving the problem. As a final check, we obtained probability distribution functions (PDFs) using Gaussian kernel density estimations through the predictions of more than 50 models trained and optimized by AutoML. Those PDFs were calculated to replicate the original curves that used SALT2 model, a model used for the simulation of the raw data itself.",
@@ -18375,7 +19032,7 @@
         "M. Greenberg",
         "A. Ngo",
         "Juan-Ran Feng",
-        "Zhenhua Zhang",
+        "Zhen-Hua Zhang",
         "Patrick T. Bradshaw",
         "A. Hubbard",
         "Ye-Yi Zhu"
@@ -18532,7 +19189,7 @@
         "Gui-Qian Sun",
         "Xin Wang",
         "K. Bao",
-        "Pinwen Zhu",
+        "Pin-Wen Zhu",
         "Jinming Zhu",
         "Zhao-Qing Wang",
         "Xing-Bin Zhao",
@@ -18562,8 +19219,8 @@
         "U. Davidovich",
         "E. Hoornenborg",
         "M. F. Schim van der Loeff",
-        "H. D. de Vries",
-        "D. V. van Wees",
+        "Henry J. C. de Vries",
+        "D. van Wees",
         "B. V. van Benthem",
         "M. Xiridou",
         "A. Matser",
@@ -18772,7 +19429,7 @@
       "authors": [
         "Ya’nan Zhou",
         "Wei Wu",
-        "Hongbin Liu"
+        "Hong-Bin Liu"
       ],
       "abstract": "Soil texture is a key soil property driving physical, chemical, biological, and hydrological processes in soils. The rapid development of remote sensing techniques shows great potential for mapping soil properties. This study highlights the effectiveness of multitemporal remote sensing data in identifying soil textural class by using retrieved vegetation properties as proxies of soil properties. The impacts of sensors, modeling resolutions, and modeling techniques on the accuracy of soil texture classification were explored. Multitemporal Landsat-8 and Sentinel-2 images were individually acquired at the same time periods. Three satellite-based experiments with different inputs, i.e., Landsat-8 data, Sentinel-2 data (excluding red-edge parameters), and Sentinel-2 data (including red-edge parameters) were conducted. Modeling was carried out at three spatial resolutions (10, 30, 60 m) using five machine-learning (ML) methods: random forest, support vector machine, gradient-boosting decision tree, categorical boosting, and super learner that combined the four former classifiers based on the stacking concept. In addition, a novel SHapley Addictive Explanation (SHAP) technique was introduced to explain the outputs of the ML model. The results showed that the sensors, modeling resolutions, and modeling techniques significantly affected the prediction accuracy. The models using Sentinel-2 data with red-edge parameters performed consistently best. The models usually gave better results at fine (10 m) and medium (30 m) modeling resolutions than at a coarse (60 m) resolution. The super learner provided higher accuracies than other modeling techniques and gave the highest values of overall accuracy (0.8429), kappa (0.7611), precision (0.8378), recall rate (0.8393), and F1-score (0.8398) at 30 m with Sentinel-2 data involving red-edge parameters. The SHAP technique quantified the contribution of each variable for different soil textural classes, revealing the critical roles of red-edge parameters in separating loamy soils. This study provides comprehensive insights into the effective modeling of soil properties on various scales using multitemporal optical images.",
       "year": 2022,
@@ -19172,7 +19829,7 @@
     {
       "title": "Mousika: Enable General In-Network Intelligence in Programmable Switches by Knowledge Distillation",
       "authors": [
-        "Guorui Xie",
+        "Guo-Rui Xie",
         "Qing Li",
         "Yutao Dong",
         "Guang-Hua Duan",
@@ -19890,7 +20547,7 @@
     {
       "title": "The Targeted Virtual Control Approach for Single-Arm Clinical Trials with External Controls",
       "authors": [
-        "Yixin Fang",
+        "Yi-Xin Fang",
         "Sheng Zhong"
       ],
       "abstract": "Abstract In single-arm clinical trials with external controls, usually the estimand of interest is defined as the average treatment effect on the treated (ATT), and external controls are leveraged to provide an estimator of the estimand. Recently, virtual control approaches have been proposed to predict the outcomes for experimental study subjects as if they were receiving the control treatment, resulting in so-called “virtual controls” for comparison with their observed outcomes under the experimental intervention. We consider the virtual control approaches within the causal inference framework, discussing the properties of the vanilla virtual control approach and the targeted virtual control approach. We illustrate via simulation that the targeted virtual control approach is doubly robust, whereas the vanilla virtual control approach is not. We demonstrate the targeted virtual control approach is the same as the targeted maximum likelihood estimator (TMLE) when targeted at the ATT estimand. Therefore, through the notion of virtual controls, we offer a tangible way to understand and interpret TMLE when targeted at the ATT estimand.",
@@ -20310,7 +20967,7 @@
     {
       "title": "AIPW: An R Package for Augmented Inverse Probability Weighted Estimation of Average Causal Effects.",
       "authors": [
-        "Yongqi Zhong",
+        "Yong-Qi Zhong",
         "Edward H. Kennedy",
         "Lisa M. Bodnar",
         "A. Naimi"
@@ -20953,7 +21610,7 @@
         "C. Pack",
         "Adee Kennedy",
         "S. Toh",
-        "R. Ball"
+        "Robert Ball"
       ],
       "abstract": "OBJECTIVE Claims-based algorithms are used in the Food and Drug Administration Sentinel Active Risk Identification and Analysis System to identify occurrences of health outcomes of interest (HOIs) for medical product safety assessment. This project aimed to apply machine learning classification techniques to demonstrate the feasibility of developing a claims-based algorithm to predict an HOI in structured electronic health record (EHR) data. MATERIALS AND METHODS We used the 2015-2019 IBM MarketScan Explorys Claims-EMR Data Set, linking administrative claims and EHR data at the patient level. We focused on a single HOI, rhabdomyolysis, defined by EHR laboratory test results. Using claims-based predictors, we applied machine learning techniques to predict the HOI: logistic regression, LASSO (least absolute shrinkage and selection operator), random forests, support vector machines, artificial neural nets, and an ensemble method (Super Learner). RESULTS The study cohort included 32 956 patients and 39 499 encounters. Model performance (positive predictive value [PPV], sensitivity, specificity, area under the receiver-operating characteristic curve) varied considerably across techniques. The area under the receiver-operating characteristic curve exceeded 0.80 in most model variations. DISCUSSION For the main Food and Drug Administration use case of assessing risk of rhabdomyolysis after drug use, a model with a high PPV is typically preferred. The Super Learner ensemble model without adjustment for class imbalance achieved a PPV of 75.6%, substantially better than a previously used human expert-developed model (PPV = 44.0%). CONCLUSIONS It is feasible to use machine learning methods to predict an EHR-derived HOI with claims-based predictors. Modeling strategies can be adapted for intended uses, including surveillance, identification of cases for chart review, and outcomes research.",
       "year": 2021,
@@ -21255,7 +21912,7 @@
       "authors": [
         "S. Murugesan",
         "R. Bhuvaneswaran",
-        "H. K. Nehemiah",
+        "H. Khanna Nehemiah",
         "S. Sankari",
         "Y. Jane"
       ],
@@ -21704,7 +22361,7 @@
         "S. Sabour",
         "M. Mansournia",
         "Y. Mehrabi",
-        "S. S. Nazari"
+        "Seyed Saeed H. Nazari"
       ],
       "abstract": "Resumo Fundamento: O índice de massa corporal (IMC) é o índice mais usado para categorizar uma pessoa como obesa ou não-obesa, e está sujeito a limitações importantes. Objetivo: Avaliar o efeito direto do IMC nos desfechos cardiovasculares em participantes sem obesidade central. Métodos: Esta análise incluiu 14.983 homens e mulheres com idades entre 45-75 anos do Estudo de Risco de Aterosclerose em Comunidades (ARIC). O IMC foi medido como obesidade geral e a circunferência da cintura (CC), a relação cintura-quadril (RCQ) e circunferência do quadril como obesidade central. A estimativa de máxima verossimilhança direcionada (TMLE, no acrônimo em inglês) foi usada para estimar os efeitos totais (TEs) e os efeitos diretos controlados (CDEs). A proporção de ET que seria eliminada se todos os participantes fossem não obesos em relação à obesidade central foi calculada usando o índice de proporção eliminada (PE). P<0,05 foi considerado estatisticamente significativo. As análises foram realizadas no pacote TMLE R. Resultados: O risco de desfechos cardiovasculares atribuídos ao IMC foi significativamente revertido com a eliminação da obesidade na RCQ (p <0,001). A proporção eliminada dos efeitos do IMC foi mais tangível para participantes não obesos em relação à CC (PE = 127%; IC95% (126,128)) e RCQ (PE = 97%; IC95% (96,98)) para doença arterial coronariana (DAC), e RCQ (PE = 92%; IC95% (91,94)) para acidente vascular cerebral, respectivamente. Com relação ao sexo, a proporção eliminada dos efeitos do IMC foi mais tangível para participantes não obesos em relação a RCQ (PE = 428%; IC95% (408.439)) para DAC em homens e CC (PE = 99%; IC95% (89,111)) para acidente vascular cerebral em mulheres, respectivamente. Conclusão: Esses resultados indicam diferentes efeitos potenciais da eliminação da obesidade central na associação entre IMC e desfechos cardiovasculares em homens e mulheres. (Arq Bras Cardiol. 2021; 116(5):879-886)",
       "year": 2021,
@@ -21907,11 +22564,11 @@
       "title": "Personalized Online Machine Learning",
       "authors": [
         "I. Malenica",
-        "Rachael V. Phillips",
+        "R. Phillips",
         "R. Pirracchio",
         "A. Chambaz",
         "A. Hubbard",
-        "M. J. Laan"
+        "M. V. van der Laan"
       ],
       "abstract": "In this work, we introduce the Personalized Online Super Learner (POSL) -- an online ensembling algorithm for streaming data whose optimization procedure accommodates varying degrees of personalization. Namely, POSL optimizes predictions with respect to baseline covariates, so personalization can vary from completely individualized (i.e., optimization with respect to baseline covariate subject ID) to many individuals (i.e., optimization with respect to common baseline covariates). As an online algorithm, POSL learns in real-time. POSL can leverage a diversity of candidate algorithms, including online algorithms with different training and update times, fixed algorithms that are never updated during the procedure, pooled algorithms that learn from many individuals' time-series, and individualized algorithms that learn from within a single time-series. POSL's ensembling of this hybrid of base learning strategies depends on the amount of data collected, the stationarity of the time-series, and the mutual characteristics of a group of time-series. In essence, POSL decides whether to learn across samples, through time, or both, based on the underlying (unknown) structure in the data. For a wide range of simulations that reflect realistic forecasting scenarios, and in a medical data application, we examine the performance of POSL relative to other current ensembling and online learning methods. We show that POSL is able to provide reliable predictions for time-series data and adjust to changing data-generating environments. We further cultivate POSL's practicality by extending it to settings where time-series enter/exit dynamically over chronological time.",
       "year": 2021,
@@ -21919,7 +22576,7 @@
       "paper_id": "99cc90e31dcca5d45a867391eacd2043b823738b",
       "url": "https://www.semanticscholar.org/paper/99cc90e31dcca5d45a867391eacd2043b823738b",
       "venue": "arXiv.org",
-      "doi": null,
+      "doi": "10.48550/arXiv.2109.10452",
       "matched_keywords": [
         "super learner"
       ],
@@ -23159,15 +23816,15 @@
       "authors": [
         "N. Hejazi",
         "David C. Benkeser",
-        "M. J. van der Laan"
+        "M. V. van der Laan"
       ],
-      "abstract": "",
+      "abstract": "An algorithm for flexible conditional density estimation based on application of pooled hazard regression to an artificial repeated measures dataset constructed by discretizing the support of the outcome variable. To facilitate flexible estimation of the conditional density, the highly adaptive lasso, a non-parametric regression function shown to estimate cadlag (RCLL) functions at a suitably fast convergence rate, is used. The use of pooled hazards regression for conditional density estimation as implemented here was first described for by Díaz and van der Laan (2011) . Building on the conditional density estimation utilities, non-parametric inverse probability weighted (IPW) estimators of the causal effects of additive modified treatment policies are implemented, using conditional density estimation to estimate the generalized propensity score. Non-parametric IPW estimators based on this can be coupled with undersmoothing of the generalized propensity score estimator to attain the semi-parametric efficiency bound (per Hejazi, Díaz, and van der Laan ).",
       "year": 2020,
       "publication_date": "2020-03-05",
       "paper_id": "29240af109537ae9f22f02a21ec1feb5522272a6",
       "url": "https://www.semanticscholar.org/paper/29240af109537ae9f22f02a21ec1feb5522272a6",
-      "venue": null,
-      "doi": "10.5281/ZENODO.3698330",
+      "venue": "CRAN: Contributed Packages",
+      "doi": "10.32614/cran.package.haldensify",
       "matched_keywords": [
         "highly adaptive lasso"
       ],
@@ -23250,7 +23907,7 @@
       "authors": [
         "W. Lesiński",
         "Krzysztof Mnich",
-        "A. Golinska",
+        "Agnieszka Kitlas Golinska",
         "W. Rudnicki"
       ],
       "abstract": "Drug-induced liver injury (DILI) is one of the primary problems in drug development. Early prediction of DILI can bring a significant reduction in the cost of clinical trials. In this work we examined whether occurrence of DILI can be predicted using gene expression profile in cancer cell lines and chemical properties of drugs. We used gene expression profiles from 13 human cell lines, as well as molecular properties of drugs to build Machine Learning models of DILI. To this end, we have used a robust cross-validated protocol based on feature selection and Random Forest algorithm. In this protocol we first identify the most informative variables and then use them to build predictive models. The models are first built using data from single cell lines, and chemical properties. Then they are integrated using Super Learner method with several underlying methods for integration. The entire modelling process is performed using nested cross-validation. We have obtained weakly predictive ML models when using either molecular descriptors, or some individual cell lines (AUC ∈(0.55−0.61)). Models obtained with the Super Learner approach have a significantly improved accuracy (AUC=0.73), which allows to divide substances in two categories: low-risk and high-risk.",
@@ -23443,9 +24100,9 @@
     {
       "title": "Model Agnostic Combination for Ensemble Learning",
       "authors": [
-        "Ohad Silbert",
+        "O. Silbert",
         "Yitzhak Peleg",
-        "E. Kopelowitz"
+        "Evi Kopelowitz"
       ],
       "abstract": "Ensemble of models is well known to improve single model performance. We present a novel ensembling technique coined MAC that is designed to find the optimal function for combining models while remaining invariant to the number of sub-models involved in the combination. Being agnostic to the number of sub-models enables addition and replacement of sub-models to the combination even after deployment, unlike many of the current methods for ensembling such as stacking, boosting, mixture of experts and super learners that lock the models used for combination during training and therefore need retraining whenever a new model is introduced into the ensemble. We show that on the Kaggle RSNA Intracranial Hemorrhage Detection challenge, MAC outperforms classical average methods, demonstrates competitive results to boosting via XGBoost for a fixed number of sub-models, and outperforms it when adding sub-models to the combination without retraining.",
       "year": 2020,
@@ -23453,7 +24110,7 @@
       "paper_id": "77749ff6d2b06d677d5d92b639e8ee9efb8a277e",
       "url": "https://www.semanticscholar.org/paper/77749ff6d2b06d677d5d92b639e8ee9efb8a277e",
       "venue": "arXiv.org",
-      "doi": null,
+      "doi": "10.48550/arXiv.2006.09025",
       "matched_keywords": [
         "super learner"
       ],
@@ -23467,7 +24124,7 @@
       "authors": [
         "Jin Jin",
         "Lin Zhang",
-        "E. Leng",
+        "Ethan Leng",
         "G. Metzger",
         "J. Koopmeiners"
       ],
@@ -23725,6 +24382,28 @@
       "doi": "10.1177/1548512920962219",
       "matched_keywords": [
         "super learner"
+      ],
+      "source_queries": [
+        "super learner",
+        "super learning"
+      ]
+    },
+    {
+      "title": "Super ensemble learning for daily streamflow forecasting: large-scale demonstration and comparison with multiple machine learning algorithms",
+      "authors": [
+        "Hristos Tyralis",
+        "G. Papacharalampous",
+        "A. Langousis"
+      ],
+      "abstract": "Daily streamflow forecasting through data-driven approaches is traditionally performed using a single machine learning algorithm. Existing applications are mostly restricted to examination of few case studies, not allowing accurate assessment of the predictive performance of the algorithms involved. Here, we propose super learning (a type of ensemble learning) by combining 10 machine learning algorithms. We apply the proposed algorithm in one-step-ahead forecasting mode. For the application, we exploit a big dataset consisting of 10-year long time series of daily streamflow, precipitation and temperature from 511 basins. The super ensemble learner improves over the performance of the linear regression algorithm by 20.06%, outperforming the “hard to beat in practice” equal weight combiner. The latter improves over the performance of the linear regression algorithm by 19.21%. The best performing individual machine learning algorithm is neural networks, which improves over the performance of the linear regression algorithm by 16.73%, followed by extremely randomized trees (16.40%), XGBoost (15.92%), loess (15.36%), random forests (12.75%), polyMARS (12.36%), MARS (4.74%), lasso (0.11%) and support vector regression (− 0.45%). Furthermore, the super ensemble learner outperforms exponential smoothing and autoregressive integrated moving average (ARIMA). These latter two models improve over the performance of the linear regression algorithm by 13.89% and 8.77%, respectively. Based on the obtained large-scale results, we propose super ensemble learning for daily streamflow forecasting.",
+      "year": 2020,
+      "publication_date": "2020-07-06",
+      "paper_id": "27f2fbc7a7109b84b42908a4f6e7c93e208f66b6",
+      "url": "https://www.semanticscholar.org/paper/27f2fbc7a7109b84b42908a4f6e7c93e208f66b6",
+      "venue": "Neural computing & applications (Print)",
+      "doi": "10.1007/s00521-020-05172-3",
+      "matched_keywords": [
+        "super learning"
       ],
       "source_queries": [
         "super learner",
@@ -24424,13 +25103,13 @@
       "authors": [
         "L. Boulanger"
       ],
-      "abstract": "",
+      "abstract": "Dans un contexte d'inférence causale où l'on cherche à estimer l'effet causal moyen d'une exposition dichotomique sur une variable issue, le TMLE de M. Van der Laan et D. Rubin est une technique qui applique à une estimation initiale de l'espérance conditionnelle de l'issue une modification ayant pour but de réduire le biais dans l'estimation correspondante de l'effet causal moyen. L'étalon-or en ce qui concerne l'estimation de la variance du TMLE est un estimateur de type sandwich. Divers estimateurs alternatifs sont identifiés et comparés à l'étalon-or lorsque la taille échantillonnale est petite, lorsque les scores de propension sont grands ou petits et lorsque les estimations initiales pour le score de propension ou pour l'espérance conditionnelle de l'issue sont mauvais. À chacun des estimateurs de la variance, un intervalle de confiance pour le TMLE est construit. On trouve que l'estimateur Jackknife donne des taux de couverture équivalents ou supérieurs aux autres estimateurs dans toutes ces situations.",
       "year": 2019,
       "publication_date": "2019-06-19",
       "paper_id": "9e61dad24e7d5630d187b742f7269916e98e2edb",
       "url": "https://www.semanticscholar.org/paper/9e61dad24e7d5630d187b742f7269916e98e2edb",
       "venue": null,
-      "doi": null,
+      "doi": "10.71781/15751",
       "matched_keywords": [
         "tmle"
       ],
@@ -24469,7 +25148,7 @@
         "Gilmer Valdes",
         "Y. Interian",
         "E. Gennatas",
-        "Mark J. van der Laan"
+        "M. V. van der Laan"
       ],
       "abstract": "In this article we consider the Conditional Super Learner (CSL), an algorithm which selects the best model candidate from a library conditional on the covariates. The CSL expands the idea of using cross-validation to select the best model and merges it with meta learning. Here we propose a specific algorithm that finds a local minimum to the problem posed, proof that it converges at a rate faster than Op(n^-1/4) and offers extensive empirical evidence that it is an excellent candidate to substitute stacking or for the analysis of Hierarchical problems.",
       "year": 2019,
@@ -24477,7 +25156,7 @@
       "paper_id": "7631857fe800adf747e0b7a4f93e1f7089c7025a",
       "url": "https://www.semanticscholar.org/paper/7631857fe800adf747e0b7a4f93e1f7089c7025a",
       "venue": "arXiv.org",
-      "doi": null,
+      "doi": "10.48550/arXiv.1912.06675",
       "matched_keywords": [
         "super learner"
       ],
@@ -24993,7 +25672,7 @@
         "Aurélien F. Bibaut",
         "I. Malenica",
         "N. Vlassis",
-        "M. J. van der Laan"
+        "M. V. van der Laan"
       ],
       "abstract": "We study the problem of off-policy evaluation (OPE) in Reinforcement Learning (RL), where the aim is to estimate the performance of a new policy given historical data that may have been generated by a different policy, or policies. In particular, we introduce a novel doubly-robust estimator for the OPE problem in RL, based on the Targeted Maximum Likelihood Estimation principle from the statistical causal inference literature. We also introduce several variance reduction techniques that lead to impressive performance gains in off-policy evaluation. We show empirically that our estimator uniformly wins over existing off-policy evaluation methods across multiple RL environments and various levels of model misspecification. Finally, we further the existing theoretical analysis of estimators for the RL off-policy estimation problem by showing their $O_P(1/\\sqrt{n})$ rate of convergence and characterizing their asymptotic distribution.",
       "year": 2019,
@@ -25001,7 +25680,7 @@
       "paper_id": "315b783bb08d7e7362f7dfbbbd6422da97f5a4ed",
       "url": "https://www.semanticscholar.org/paper/315b783bb08d7e7362f7dfbbbd6422da97f5a4ed",
       "venue": "International Conference on Machine Learning",
-      "doi": null,
+      "doi": "10.48550/arXiv.1912.06292",
       "matched_keywords": [
         "targeted maximum likelihood estimation"
       ],
@@ -25226,7 +25905,7 @@
       "title": "Reflection on modern methods: when worlds collide-prediction, machine learning and causal inference.",
       "authors": [
         "T. Blakely",
-        "J. Lynch",
+        "John Lynch",
         "Koen Simons",
         "R. Bentley",
         "Sherri Rose"
@@ -25295,7 +25974,7 @@
       "title": "Super learning for daily streamflow forecasting: Large-scale demonstration and comparison with multiple machine learning algorithms",
       "authors": [
         "Hristos Tyralis",
-        "Georgia Papacharalampous",
+        "G. Papacharalampous",
         "A. Langousis"
       ],
       "abstract": "Daily streamflow forecasting through data-driven approaches is traditionally performed using a single machine learning algorithm. Existing applications are mostly restricted to examination of few case studies, not allowing accurate assessment of the predictive performance of the algorithms involved. Here we propose super learning (a type of ensemble learning) by combining 10 machine learning algorithms. We apply the proposed algorithm in one-step ahead forecasting mode. For the application, we exploit a big dataset consisting of 10-year long time series of daily streamflow, precipitation and temperature from 511 basins. The super learner improves over the performance of the linear regression algorithm by 20.06%, outperforming the \"hard to beat in practice\" equal weight combiner. The latter improves over the performance of the linear regression algorithm by 19.21%. The best performing individual machine learning algorithm is neural networks, which improves over the performance of the linear regression algorithm by 16.73%, followed by extremely randomized trees (16.40%), XGBoost (15.92%), loess (15.36%), random forests (12.75%), polyMARS (12.36%), MARS (4.74%), lasso (0.11%) and support vector regression (-0.45%). Based on the obtained large-scale results, we propose super learning for daily streamflow forecasting.",
@@ -25304,7 +25983,7 @@
       "paper_id": "9e3cbcd64f1ece2bc8d6936d92c34a76da098db3",
       "url": "https://www.semanticscholar.org/paper/9e3cbcd64f1ece2bc8d6936d92c34a76da098db3",
       "venue": "arXiv.org",
-      "doi": null,
+      "doi": "10.48550/arXiv.1909.04131",
       "matched_keywords": [
         "super learner",
         "super learning"
@@ -26384,7 +27063,7 @@
         "Catherine Lee",
         "S. Haneuse",
         "Hai-Lin Wang",
-        "S. Rose",
+        "Sherri Rose",
         "S. Spellman",
         "M. Verneris",
         "Katharine C. Hsu",
@@ -26498,7 +27177,7 @@
     {
       "title": "Sequential Super Learning",
       "authors": [
-        "S. Rose",
+        "Sherri Rose",
         "M. V. van der Laan"
       ],
       "abstract": "",
@@ -26641,7 +27320,7 @@
       "paper_id": "3cbb4ddd3cca56bb0429d094fa5b8ace73aed6c4",
       "url": "https://www.semanticscholar.org/paper/3cbb4ddd3cca56bb0429d094fa5b8ace73aed6c4",
       "venue": "arXiv.org",
-      "doi": null,
+      "doi": "10.48550/arXiv.1805.08058",
       "matched_keywords": [
         "super learner",
         "super learning"
@@ -26926,7 +27605,7 @@
       "paper_id": "09f333582b11b0ee0d9320b1be5c5849a0a689f3",
       "url": "https://www.semanticscholar.org/paper/09f333582b11b0ee0d9320b1be5c5849a0a689f3",
       "venue": "arXiv.org",
-      "doi": null,
+      "doi": "10.48550/arXiv.1710.08531",
       "matched_keywords": [
         "super learner"
       ],
@@ -27296,7 +27975,7 @@
         "Francisca Dussaillant",
         "J. Zubizarreta",
         "R. Kessler",
-        "S. Rose"
+        "Sherri Rose"
       ],
       "abstract": "Earthquakes are a common and deadly natural disaster, with roughly one-quarter of survivors subsequently developing posttraumatic stress disorder (PTSD). Despite progress identifying risk factors, limited research has examined how to combine variables into an optimized post-earthquake PTSD prediction tool that could be used to triage survivors to mental health services. The current study developed a post-earthquake PTSD risk tool using machine learning methods designed to optimize prediction. The data were from a two-wave survey of Chileans exposed to the 8.8 magnitude earthquake that occurred in February 2010. Respondents (n=23,907) were interviewed roughly three months prior to and again three months after the earthquake. Probable post-earthquake PTSD was assessed using the Davidson Trauma Scale. We applied super learning, an ensembling machine learning method, to develop the PTSD risk tool from 67 risk factors that could be assessed within one week of earthquake occurrence. The super learner algorithm had better cross-validated performance than the 39 individual algorithms from which it was developed, including conventional logistic regression. The super learner also had a better area under the receiver operating characteristic curve (0.79) than existing post-disaster PTSD risk tools. Individuals in the top 5%, 10%, and 20% of the predicted risk distribution accounted for 17.5%, 32.2%, and 51.4% of all probable cases of PTSD, respectively. In addition to developing a tool that could be implemented after the next earthquake, these results more broadly support the utility of super learning to develop optimized prediction functions for mental health outcomes.",
       "year": 2017,
@@ -29691,7 +30370,7 @@
       "title": "Finding Quantitative Trait Loci Genes with Collaborative Targeted Maximum Likelihood Learning",
       "authors": [
         "Hui Wang",
-        "S. Rose",
+        "Sherri Rose",
         "M. V. van der Laan"
       ],
       "abstract": "Quantitative trait loci mapping is focused on identifying the positions and effect of genes underlying an an observed trait. We present a collaborative targeted maximum likelihood estimator in a semi-parametric model using a newly proposed 2-part super learning algorithm to find quantitative trait loci genes in listeria data. Results are compared to the parametric composite interval mapping approach.",
@@ -29711,8 +30390,8 @@
     {
       "title": "Foundations of TMLE",
       "authors": [
-        "M. J. van der Laan",
-        "S. Rose"
+        "M. V. van der Laan",
+        "Sherri Rose"
       ],
       "abstract": "",
       "year": 2011,
@@ -29731,14 +30410,14 @@
     {
       "title": "Introduction to TMLE",
       "authors": [
-        "S. Rose",
+        "Sherri Rose",
         "M. V. van der Laan"
       ],
       "abstract": "",
       "year": 2011,
       "publication_date": null,
-      "paper_id": "c318aff234b88467585de823d9eb992e63244b41",
-      "url": "https://www.semanticscholar.org/paper/c318aff234b88467585de823d9eb992e63244b41",
+      "paper_id": "8a800ddb45331a429f52cb19028154fec3434bf4",
+      "url": "https://www.semanticscholar.org/paper/8a800ddb45331a429f52cb19028154fec3434bf4",
       "venue": null,
       "doi": "10.1007/978-1-4419-9782-1_4",
       "matched_keywords": [
@@ -30195,7 +30874,7 @@
       "authors": [
         "Ning Kang",
         "Tao Wang",
-        "Shengquan Yu",
+        "Sheng-Quan Yu",
         "Heping Hao"
       ],
       "abstract": "",
@@ -30215,7 +30894,7 @@
     {
       "title": "Causal Inference for Nested Case-Control Studies using Targeted Maximum Likelihood Estimation",
       "authors": [
-        "S. Rose",
+        "Sherri Rose",
         "M. V. van der Laan"
       ],
       "abstract": "",
@@ -30302,7 +30981,7 @@
       "title": "Readings in Targeted Maximum Likelihood Estimation",
       "authors": [
         "M. V. van der Laan",
-        "S. Rose",
+        "Sherri Rose",
         "Susan Gruber"
       ],
       "abstract": "",
@@ -30405,8 +31084,8 @@
     {
       "title": "A Guide to Causal Parameters in Case-Control Designs: Targeted Maximum Likelihood Estimation",
       "authors": [
-        "S. Rose",
-        "M. J. van der Laan"
+        "Sherri Rose",
+        "M. V. van der Laan"
       ],
       "abstract": "",
       "year": 2008,
