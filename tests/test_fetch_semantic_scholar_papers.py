@@ -267,20 +267,20 @@ class RetryAndOutputTests(unittest.TestCase):
     def test_429_retry_after_is_honored(self):
         error = urllib.error.HTTPError("https://example.test", 429, "Limited",
                                        {"Retry-After": "4"}, io.BytesIO())
-        with patch.object(fetch.urllib.request, "urlopen", side_effect=[error, self.response()]), \
+        with patch.object(fetch, "_open_response", side_effect=[error, self.response()]), \
              patch.object(fetch.time, "sleep") as sleep:
             self.assertEqual(self.request(), {"data": []})
         sleep.assert_called_once_with(4.0)
 
     def test_network_timeout_is_retried(self):
-        with patch.object(fetch.urllib.request, "urlopen", side_effect=[TimeoutError(), self.response()]), \
+        with patch.object(fetch, "_open_response", side_effect=[TimeoutError(), self.response()]), \
              patch.object(fetch.time, "sleep") as sleep:
             self.assertEqual(self.request(), {"data": []})
         sleep.assert_called_once_with(2)
 
     def test_permanent_http_error_is_not_retried(self):
         error = urllib.error.HTTPError("https://example.test", 403, "Forbidden", {}, io.BytesIO(b"denied"))
-        with patch.object(fetch.urllib.request, "urlopen", side_effect=error) as http, \
+        with patch.object(fetch, "_open_response", side_effect=error) as http, \
              self.assertRaisesRegex(RuntimeError, "HTTP 403"):
             self.request()
         self.assertEqual(http.call_count, 1)

@@ -351,6 +351,44 @@ def _matched_keywords(title: str, abstract: str) -> List[str]:
     return sorted(matches)
 
 
+class SafeDiscoveryError(RuntimeError):
+    """A diagnostic constructed locally, with no untrusted response text."""
+
+
+class NoRedirects(urllib.request.HTTPRedirectHandler):
+    def redirect_request(self, req, fp, code, msg, headers, newurl):
+        # Never forward the x-api-key header, even to a same-origin redirect.
+        raise SafeDiscoveryError("API redirect refused")
+
+
+def _open_response(req, *, timeout, context):
+    opener = urllib.request.build_opener(
+        NoRedirects(), urllib.request.HTTPSHandler(context=context))
+    return opener.open(req, timeout=timeout)
+
+
+def _contains_credential(value, key):
+    if not key:
+        return False
+    if isinstance(value, str):
+        # Decode once as well as checking literal text: percent escapes can use
+        # either case, and a response may encode only some characters.
+        return any(key in text for text in
+                   (value, urllib.parse.unquote(value), urllib.parse.unquote_plus(value)))
+    if isinstance(value, dict):
+        return any(_contains_credential(k, key) or _contains_credential(v, key)
+                   for k, v in value.items())
+    if isinstance(value, list):
+        return any(_contains_credential(v, key) for v in value)
+    return False
+
+
+def _safe_diagnostic(exc):
+    # Third-party exception text can contain request headers/response bodies.
+    # Only errors constructed by this script are suitable for persisted reports.
+    return str(exc) if isinstance(exc, SafeDiscoveryError) else "Unexpected discovery failure (details omitted)"
+
+
 def _http_get_json(
     *,
     url: str,
@@ -365,9 +403,12 @@ def _http_get_json(
     while True:
         req = urllib.request.Request(url, headers=headers)
         try:
-            with urllib.request.urlopen(req, timeout=timeout_s, context=ssl_context) as resp:
+            with _open_response(req, timeout=timeout_s, context=ssl_context) as resp:
                 body = resp.read().decode("utf-8")
-            return json.loads(body)
+            payload = json.loads(body)
+            if _contains_credential(payload, headers.get("x-api-key", "")):
+                raise SafeDiscoveryError("API response contained credential material; discarded")
+            return payload
         except urllib.error.HTTPError as exc:
             status = exc.code
             if status in (429, 500, 502, 503, 504) and attempt < max_retries:
@@ -380,27 +421,25 @@ def _http_get_json(
                     f"[warn] HTTP {status}; retrying in {sleep_s:.1f}s (attempt {attempt + 1}/{max_retries})",
                     file=sys.stderr,
                 )
+                exc.close()
                 time.sleep(sleep_s)
                 attempt += 1
                 continue
 
-            err_body = ""
-            try:
-                err_body = exc.read().decode("utf-8")
-            except Exception:
-                pass
-            raise RuntimeError(f"HTTP {status} for {url}\n{err_body}") from exc
+            # Never read or persist raw error bodies, URLs, or response headers.
+            exc.close()
+            raise SafeDiscoveryError(f"HTTP {status} from Semantic Scholar API") from None
         except (urllib.error.URLError, TimeoutError) as exc:
             if attempt < max_retries:
                 sleep_s = min(max_backoff_s, backoff_s * (2 ** attempt))
                 print(
-                    f"[warn] URL error {exc}; retrying in {sleep_s:.1f}s (attempt {attempt + 1}/{max_retries})",
+                    f"[warn] Network error; retrying in {sleep_s:.1f}s (attempt {attempt + 1}/{max_retries})",
                     file=sys.stderr,
                 )
                 time.sleep(sleep_s)
                 attempt += 1
                 continue
-            raise RuntimeError(f"URL error for {url}: {exc}") from exc
+            raise SafeDiscoveryError("Network error contacting Semantic Scholar API") from None
 
 
 @dataclass
@@ -425,21 +464,21 @@ class QueryResult:
 def _response_page(payload: Dict) -> List[Dict]:
     # An error or malformed response must not masquerade as an empty result set.
     if not isinstance(payload, dict) or not isinstance(payload.get("data"), list):
-        raise RuntimeError("Search API response must contain a 'data' array")
+        raise SafeDiscoveryError("Search API response must contain a 'data' array")
     page = payload["data"]
     for paper in page:
         if not isinstance(paper, dict):
-            raise RuntimeError("Search API 'data' entries must be objects")
+            raise SafeDiscoveryError("Search API 'data' entries must be objects")
         if not isinstance(paper.get("paperId"), str) or not paper["paperId"].strip():
-            raise RuntimeError("Search API paper is missing a valid paperId")
+            raise SafeDiscoveryError("Search API paper is missing a valid paperId")
         if not isinstance(paper.get("title"), str):
-            raise RuntimeError("Search API paper is missing a valid title")
+            raise SafeDiscoveryError("Search API paper is missing a valid title")
         for field in ("abstract", "publicationDate", "url", "venue"):
             if paper.get(field) is not None and not isinstance(paper[field], str):
-                raise RuntimeError(f"Search API paper has invalid {field}")
+                raise SafeDiscoveryError(f"Search API paper has invalid {field}")
         year = paper.get("year")
         if year is not None and not (type(year) is int or isinstance(year, str) and year.isdigit()):
-            raise RuntimeError("Search API paper has invalid year")
+            raise SafeDiscoveryError("Search API paper has invalid year")
         authors = paper.get("authors")
         if authors is not None and (
             not isinstance(authors, list) or any(
@@ -448,13 +487,13 @@ def _response_page(payload: Dict) -> List[Dict]:
                 for author in authors
             )
         ):
-            raise RuntimeError("Search API paper has invalid authors")
+            raise SafeDiscoveryError("Search API paper has invalid authors")
         external_ids = paper.get("externalIds")
         if external_ids is not None and (
             not isinstance(external_ids, dict) or
             external_ids.get("DOI") is not None and not isinstance(external_ids["DOI"], str)
         ):
-            raise RuntimeError("Search API paper has invalid externalIds")
+            raise SafeDiscoveryError("Search API paper has invalid externalIds")
     return page
 
 
@@ -495,7 +534,7 @@ def fetch_keyword(
         )
         if not page:
             if more:
-                raise RuntimeError("Relevance API returned an empty page before exhaustion")
+                raise SafeDiscoveryError("Relevance API returned an empty page before exhaustion")
             return result
         remaining = cap - len(result.papers)
         result.papers.extend(page[:remaining])
@@ -507,7 +546,7 @@ def fetch_keyword(
         if not more:
             return result
         if type(next_offset) is not int or next_offset != offset + len(page):
-            raise RuntimeError("Relevance API returned an invalid or missing continuation offset")
+            raise SafeDiscoveryError("Relevance API returned an invalid or missing continuation offset")
         offset = next_offset
         time.sleep(request_interval_s)
     return result
@@ -547,9 +586,9 @@ def fetch_keyword_bulk(
             result.estimated_total = payload["total"]
         next_token = payload.get("token")
         if next_token is not None and not isinstance(next_token, str):
-            raise RuntimeError("Bulk API returned an invalid continuation token")
+            raise SafeDiscoveryError("Bulk API returned an invalid continuation token")
         if not page and next_token:
-            raise RuntimeError("Bulk API returned an empty page with a continuation token")
+            raise SafeDiscoveryError("Bulk API returned an empty page with a continuation token")
         remaining = max_results_per_keyword - len(result.papers) if max_results_per_keyword else len(page)
         result.papers.extend(page[:remaining])
         print(f"[info] keyword={keyword!r} fetched={len(result.papers)}", file=sys.stderr)
@@ -562,7 +601,7 @@ def fetch_keyword_bulk(
         if not next_token:
             return result
         if next_token in seen_tokens:
-            raise RuntimeError("Bulk API repeated a continuation token; stopping pagination loop")
+            raise SafeDiscoveryError("Bulk API repeated a continuation token; stopping pagination loop")
         seen_tokens.add(next_token)
         token = next_token
         time.sleep(request_interval_s)
@@ -900,6 +939,9 @@ def main() -> int:
     if args.report and Path(args.report).resolve() == Path(args.output).resolve():
         raise SystemExit("--report and --output must be different paths")
 
+    if args.api_key and args.insecure:
+        raise SystemExit("--insecure is not allowed with an API key")
+
     blocked_path = Path(args.blocked_json)
     blocked = load_blocklist(blocked_path)
     print(
@@ -956,8 +998,9 @@ def main() -> int:
                     max_backoff_s=args.max_backoff_s,
                 )
         except Exception as exc:
-            query_errors.append({"keyword": kw, "error": str(exc)})
-            print(f"[error] keyword={kw!r} failed: {exc}", file=sys.stderr)
+            diagnostic = _safe_diagnostic(exc)
+            query_errors.append({"keyword": kw, "error": diagnostic})
+            print(f"[error] keyword={kw!r} failed: {diagnostic}", file=sys.stderr)
             if args.continue_on_error:
                 continue
             break

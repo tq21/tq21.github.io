@@ -17,8 +17,8 @@ python3 scripts/generate_tmle_papers_qmd.py
 quarto render tmle-papers.qmd
 ```
 
-Run these commands in order, stopping if any command fails. The fetcher uses the
-unauthenticated Semantic Scholar bulk API, requests newest papers first, and
+Run these commands in order, stopping if any command fails. The local fetcher uses the Semantic Scholar bulk API (optionally authenticated
+with the `SEMANTIC_SCHOLAR_API_KEY` environment variable), requests newest papers first, and
 follows pagination until every configured query is exhausted. The value `0`
 means there is no local per-keyword result cap. A positive cap is only suitable
 for bounded diagnostics: if more results remain, the run is incomplete and must
@@ -88,8 +88,42 @@ between discovery and the PR job. Retry the workflow in that case.
 
 All third-party actions are pinned to full commit SHAs. Python is fixed to the
 3.12 series (security patch releases may change), and Quarto is fixed to 1.6.42.
-The workflow requires no personal access token, bot account token, or Semantic
-Scholar API secret. Action pin updates should be reviewed like other code changes.
+The workflow requires a repository Actions secret named `SEMANTIC_SCHOLAR_API_KEY`.
+It needs no personal access token or bot account token. Action pin updates should
+be reviewed like other code changes.
+
+### Semantic Scholar key setup
+
+Before merging/enabling this workflow, add the issued API key under **Settings →
+Secrets and variables → Actions → New repository secret**, with the exact name
+`SEMANTIC_SCHOLAR_API_KEY`. Never commit the value, place it in an ordinary
+repository variable, paste it into a PR/chat, or pass it as a command-line argument.
+The workflow injects it only into the discovery fetch step, not tests, summaries,
+rendering, or the write-capable PR job. A missing secret fails clearly before
+network access rather than silently falling back to anonymous requests. Local
+keyless CLI use remains supported.
+
+The fetcher sends the key only in the `x-api-key` header, blocks redirects, and
+rejects `--insecure` with a key. HTTP errors record only status; network errors
+omit upstream exception text. Response validation diagnostics are generated
+locally. Unexpected exceptions omit details before being written to logs/reports;
+responses reflecting the literal or URL-encoded credential are discarded. Do not
+turn on shell tracing or dump headers/environment variables. GitHub log masking
+is defense in depth, not artifact redaction. Tests use fake credentials only.
+
+Keep the two-second request interval: the introductory API key quota is one
+request per second cumulatively across endpoints and clients. Retries and safe
+failure remain necessary; a key does not eliminate provider outages/throttling.
+Only trusted maintainers should be able to modify this scheduled workflow. Do not
+add keyed execution of untrusted pull-request code. Repository secrets are not a
+per-workflow security boundary.
+
+After the secret is added and reviewed code is merged, manually run **Review
+weekly TMLE papers** on the default branch. Check successful complete pagination,
+empty query errors/truncations, and `unauthenticated: false` in diagnostics. A
+successful request plus that flag verifies the keyed path; the flag alone only
+means a key was supplied. Review any generated draft PR as usual; do not merge it
+automatically. No real keyed run is performed by the offline tests.
 
 ### Repository setup and review
 
