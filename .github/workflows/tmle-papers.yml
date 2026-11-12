@@ -57,7 +57,13 @@ jobs:
         run: python3 -m unittest discover -s tests -v
 
       - name: Discover papers with complete bulk pagination
+        env:
+          SEMANTIC_SCHOLAR_API_KEY: ${{ secrets.SEMANTIC_SCHOLAR_API_KEY }}
         run: |
+          if [[ -z "${SEMANTIC_SCHOLAR_API_KEY:-}" ]]; then
+            echo '::error::Add the SEMANTIC_SCHOLAR_API_KEY repository Actions secret before running discovery.'
+            exit 1
+          fi
           python3 scripts/fetch_semantic_scholar_papers.py \
             --mode bulk \
             --max-results-per-keyword 0 \
