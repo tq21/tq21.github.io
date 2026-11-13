@@ -7,17 +7,17 @@ Auto-updated list of TMLE-related papers tracked from Semantic Scholar queries.
 
 _Note: this list is not complete and may include irrelevant articles; it will be refined over time._
 
-Last refreshed: 2026-11-12T10:42:25Z
+Last refreshed: 2026-11-13T20:35:52Z
 
 Keywords queried: tmle, targeted maximum likelihood estimation, targeted minimum loss based estimation, super learner, super learning, highly adaptive lasso
 
-Total tracked papers: **1253**
+Total tracked papers: **1255**
 
 <!-- monthly-chart:start -->
 
 ## Yearly Papers Trend
 
-Number of papers per year from **2006** to **2025** (coverage: **1006/1253** papers with year metadata in range).
+Number of papers per year from **2006** to **2025** (coverage: **1006/1255** papers with year metadata in range).
 
 ```{=html}
 <style>
@@ -1146,7 +1146,7 @@ The growing environmental burden of ordinary portland cement has accelerated the
 </details>
 
 <details class="paper-year">
-  <summary><strong>2026 (235 papers)</strong></summary>
+  <summary><strong>2026 (237 papers)</strong></summary>
 
 <details class="paper-item">
   <summary><strong>2026-11-10 — Three-year participation patterns and metabolic syndrome-related indicators in a nudge- and gamification-based workplace health promotion program in Japan.</strong></summary>
@@ -1162,6 +1162,23 @@ The growing environmental burden of ordinary portland cement has accelerated the
 </p>
 <p><strong>Abstract</strong>:<br>
 OBJECTIVE To examine associations between three-year participation patterns in a workplace health promotion program and metabolic syndrome-related indicators among employees at a Japanese company, overall and by National Health Guidance eligibility. METHODS This cohort study used health checkups, participation, and human resources data collected in Japan from April 2018 to September 2021. Of 3697 employees, 797 were censored; 2900 had complete participation information for 2019-2021. Eight participation patterns were examined. Outcomes in 2021 included body mass index (BMI), waist circumference, systolic blood pressure, low-density lipoprotein cholesterol, and hemoglobin A1c. Longitudinal targeted maximum likelihood estimation using SuperLearner with logit-link generalized linear models addressed measured time-varying confounding and censoring. RESULTS Compared with nonparticipation, most patterns were associated with lower estimated BMI and waist circumference. The largest waist circumference differences were for participation in 2020 and 2021 (-1.73 cm; 95% confidence interval (CI), -2.30, -1.15) and in all three years (-1.19 cm; 95% CI, -1.65, -0.74). Other outcomes were less consistent. Estimated differences in BMI and waist circumference tended to be more negative among guidance-eligible employees. CONCLUSIONS Repeated and recent participation may be associated with lower BMI and waist circumference. Supporting sustained participation and re-engagement may benefit workplace programs.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2026-11-10 — A super learner ensemble machine learning model with SHAP-based explanations for pneumonia detection based on routine hematological markers</strong></summary>
+
+<p>
+<strong>Authors</strong>: Jian-Hao Xu, Cui-Qi Yang, Liang-Qiong Chen, Fei-Fan Xu, Jin-Liang Chen, Yong-Wei Qin<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-11-10<br>
+<strong>Venue</strong>: Scientific Reports<br>
+<strong>DOI</strong>: 10.1038/s41598-026-78825-3<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/a427c05ef06cfd6ac3ec42e392feb5838af6847b">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: super learner
+</p>
+<p><strong>Abstract</strong>:<br>
+Abstract unavailable from Semantic Scholar.
 </p>
 </details>
 
@@ -2183,6 +2200,23 @@ Neural survival models are increasingly asked to support counterfactual claims--
 </p>
 <p><strong>Abstract</strong>:<br>
 This narrative framework Review examines how artificial intelligence (AI) can move cancer immunotherapy research from outcome prediction toward target-trial-based treatment-effect learning. AI has produced increasingly accurate models for predicting response, survival and immune-related toxicity during cancer immunotherapy. Yet most models estimate outcome risk under observed care rather than the causal effect of choosing one strategy over another. We therefore frame immunotherapy AI as a causal digital-medicine problem: clinically useful AI should begin with a target-trial question that specifies eligibility, time zero, treatment strategies, comparators, outcomes, estimands and bias-control plans before model development. Within this framework, multimodal AI outputs from imaging, digital pathology, omics, microbiome data, electronic health records and clinical text can function as baseline confounders, candidate effect modifiers, longitudinal state variables or outcome-ascertainment tools. We distinguish established causal-inference approaches, such as target trial emulation, propensity-score weighting, g-methods, TMLE, DML and heterogeneous-treatment-effect estimation, from exploratory technologies such as reinforcement learning and digital twins that require prospective safety validation. We close by outlining validation, reporting, workflow, regulatory and lifecycle-monitoring requirements for moving from predictive biomarkers to trustworthy causal learning systems in immuno-oncology.
+</p>
+</details>
+
+<details class="paper-item">
+  <summary><strong>2026-08-19 — An uncertainty-aware approach to postoperative knee satisfaction prediction after total knee arthroplasty: nested cross-fitted ensemble learning with conformal prediction intervals</strong></summary>
+
+<p>
+<strong>Authors</strong>: Recep Taşkın, Ibrahim Budak<br>
+<strong>Year</strong>: 2026<br>
+<strong>Publication Date</strong>: 2026-08-19<br>
+<strong>Venue</strong>: BMC Medical Informatics and Decision Making<br>
+<strong>DOI</strong>: 10.1186/s12911-026-03771-z<br>
+<strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/f123186f0494a6e1d8658ca7d1eeb60afde4ca93">Semantic Scholar</a><br>
+<strong>Matched Keywords</strong>: super learner
+</p>
+<p><strong>Abstract</strong>:<br>
+Prediction of continuous patient-reported outcomes from limited tabular clinical data is challenging because model rankings may vary across learning algorithms and predictive uncertainty is not captured by point estimates alone. This study evaluated postoperative knee satisfaction using individual regression learners, nested cross-fitted ensemble methods, and distribution-free prediction intervals. An analytic dataset of 98 observations was evaluated using Ridge, Elastic Net, Random Forest, XGBoost, and CatBoost. Four ensemble strategies were considered: uniform averaging, inverse-MAE weighting, Ridge stacking, and a convex Super Learner. Predictive performance was assessed using five-fold outer cross-validation. Within each outer-training set, a separate five-fold inner cross-validation procedure was used to estimate all data-dependent ensemble weights and meta-learner coefficients. Split-conformal prediction was embedded within the outer evaluation to generate finite-sample corrected 95% prediction intervals. SHAP and a perturbation-based local surrogate analysis were used for post-hoc interpretation of full-data base-learner refits. Random Forest achieved the lowest overall MAE (2.150) and MAPE (8.603%), whereas the cross-fitted convex Super Learner yielded the lowest RMSE (3.257) and the highest \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\:{R}^{2}$$\end{document}(0.792). Its numerical advantage over Ridge was small, with Ridge obtaining an RMSE of 3.280 and an \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\:{R}^{2}$$\end{document}of 0.789. Among the ensemble methods, inverse-MAE weighting produced the lowest MAE (2.168) and MAPE (8.766%), while uniform averaging showed similar performance. Empirical conformal coverage ranged from 0.949 to 0.980. Ridge generated the narrowest mean prediction intervals overall (17.683), whereas the convex Super Learner generated the narrowest intervals among the ensemble methods (19.812). The SHAP and local surrogate analyses primarily attributed predictions to KSS-related subscale variables. Nested cross-fitting prevented the second-stage ensemble parameters from being estimated and evaluated on the same observations. No single learning method consistently dominated all performance measures, and the observed advantages were small and metric-dependent. The framework provides an internally evaluated approach for combining point prediction with marginal uncertainty quantification, but external validation with larger cohorts and clinically independent predictors is required.
 </p>
 </details>
 
@@ -12676,7 +12710,7 @@ BIOMETRIC METHODOLOGY DISCUSSION PAPERS Instrumental variable estimation of the 
   <summary><strong>2022-12-30 — Data-driven photometric redshift estimation from type Ia supernovae light curves</strong></summary>
 
 <p>
-<strong>Authors</strong>: F. M. de Oliveira, Marcelo Melo dos Santos, R. Reis<br>
+<strong>Authors</strong>: F. M. de Oliveira, Marcel Ferreira dos Santos, R. Reis<br>
 <strong>Year</strong>: 2022<br>
 <strong>Publication Date</strong>: 2022-12-30<br>
 <strong>Link</strong>: <a href="https://www.semanticscholar.org/paper/2a6dc6ff0f647d82f18e554387f0a7fad25a40b4">Semantic Scholar</a><br>
@@ -12759,7 +12793,7 @@ Abstract In single-arm clinical trials with external controls, usually the estim
   <summary><strong>2022-12-01 — Forecasting domestic waste generation during successive COVID-19 lockdowns by Bidirectional LSTM super learner neural network</strong></summary>
 
 <p>
-<strong>Authors</strong>: M. Jassim, G. Coskuner, N. Sultana, S. M. Zakir Hossain<br>
+<strong>Authors</strong>: M. S. Jassim, G. Coskuner, N. Sultana, S. M. Zakir Hossain<br>
 <strong>Year</strong>: 2022<br>
 <strong>Publication Date</strong>: 2022-12-01<br>
 <strong>Venue</strong>: Applied Soft Computing<br>
@@ -15457,7 +15491,7 @@ A computer-aided diagnosis (CAD) system that employs a super learner to diagnose
   <summary><strong>2021-05-14 — Low-cost transcriptional diagnostic to accurately categorize lymphomas in low- and middle-income countries.</strong></summary>
 
 <p>
-<strong>Authors</strong>: Fabiola Valvert, Oscar Silva, Elizabeth Solórzano-Ortiz, M. Puligandla, Marcos Mauricio Siliézar Tala, Timothy Guyon, Samuel L. Dixon, Nelly López, Francisco López, César Camilo Carías Alvarado, R. Terbrueggen, K. Stevenson, Y. Natkunam, D. Weinstock, Edward L Briercheck<br>
+<strong>Authors</strong>: Fabiola Valvert, Oscar Silva, Elizabeth Solórzano-Ortiz, M. Puligandla, Marcos Mauricio Siliézar Tala, Timothy Guyon, Samuel L. Dixon, Nelly Ethel Hernández López, Francisco López, César Camilo Carías Alvarado, R. Terbrueggen, K. Stevenson, Y. Natkunam, D. Weinstock, E. Briercheck<br>
 <strong>Year</strong>: 2021<br>
 <strong>Publication Date</strong>: 2021-05-14<br>
 <strong>Venue</strong>: Blood Advances<br>
@@ -16381,7 +16415,7 @@ The hal9001 R package provides a computationally efficient implementation of the
   <summary><strong>2020-09-23 — Intercontinental prediction of soybean phenology via hybrid ensemble of knowledge-based and data-driven models</strong></summary>
 
 <p>
-<strong>Authors</strong>: Ryan F. McCormick, Sandra K. Truong, J. Rotundo, Adam P. Gaspar, D. Kyle, F. van Eeuwijk, C. Messina<br>
+<strong>Authors</strong>: Ryan F. McCormick, Sandra K. Truong, J. Rotundo, Adam P. Gaspar, D. Kyle, F. V. van Eeuwijk, C. Messina<br>
 <strong>Year</strong>: 2020<br>
 <strong>Publication Date</strong>: 2020-09-23<br>
 <strong>Venue</strong>: bioRxiv<br>

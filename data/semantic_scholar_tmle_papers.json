@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-12T10:42:25Z",
+  "generated_at": "2026-11-13T20:35:52Z",
   "source": "Semantic Scholar Graph API",
-  "unauthenticated": true,
+  "unauthenticated": false,
   "mode": "bulk",
   "append_only": true,
   "blocked_json": "data/blocked_tmle_papers.json",
@@ -26,9 +26,9 @@
     },
     {
       "keyword": "targeted maximum likelihood estimation",
-      "fetched_raw_count": 4281,
+      "fetched_raw_count": 4284,
       "pages_fetched": 5,
-      "estimated_total": 4281,
+      "estimated_total": 4284,
       "truncated": false,
       "truncation_reason": null
     },
@@ -42,17 +42,17 @@
     },
     {
       "keyword": "super learner",
-      "fetched_raw_count": 1107,
+      "fetched_raw_count": 1109,
       "pages_fetched": 2,
-      "estimated_total": 1107,
+      "estimated_total": 1109,
       "truncated": false,
       "truncation_reason": null
     },
     {
       "keyword": "super learning",
-      "fetched_raw_count": 20494,
+      "fetched_raw_count": 20501,
       "pages_fetched": 21,
-      "estimated_total": 20494,
+      "estimated_total": 20501,
       "truncated": false,
       "truncation_reason": null
     },
@@ -70,294 +70,40 @@
   "incomplete": false,
   "sort": "publicationDate:desc",
   "max_results_per_keyword": 0,
-  "fetched_paper_count": 1227,
-  "newly_appended_count": 18,
-  "updated_existing_count": 65,
+  "fetched_paper_count": 1229,
+  "newly_appended_count": 2,
+  "updated_existing_count": 4,
   "existing_blocked_removed": 0,
   "existing_duplicates_removed": 0,
   "newly_added_papers": [
     {
-      "title": "A School-based Intervention to Prevent Expulsions for Violence: A Targeted Minimum Loss-Based Estimation Analysis.",
+      "title": "A super learner ensemble machine learning model with SHAP-based explanations for pneumonia detection based on routine hematological markers",
       "year": 2026,
       "authors": [
-        "Rebeccah Sokol",
-        "M. Degli Esposti",
-        "B. Victor",
-        "V. Medina Del Toro",
-        "P. Kernsmith",
-        "D. Stearns",
-        "Jorge Portugal",
-        "Sarah M. Stilwell",
-        "Justin Heinze"
+        "Jian-Hao Xu",
+        "Cui-Qi Yang",
+        "Liang-Qiong Chen",
+        "Fei-Fan Xu",
+        "Jin-Liang Chen",
+        "Yong-Wei Qin"
       ],
       "publication_date": "2026-11-10",
-      "doi": "10.1007/s11121-026-02005-y",
-      "paper_id": "47f5b12a8ad6e0ae42f7ad82039882ebe60b0abe"
+      "doi": "10.1038/s41598-026-78825-3",
+      "paper_id": "a427c05ef06cfd6ac3ec42e392feb5838af6847b"
     },
     {
-      "title": "Abstract 5519: Integrating Super Learner Ensemble Methods with Targeted Maximum Likelihood Estimation and Fine-Gray Competing Risks Framework to Identify Frailty Thresholds for Early Rhythm Control Benefit in Atrial Fibrillation",
+      "title": "An uncertainty-aware approach to postoperative knee satisfaction prediction after total knee arthroplasty: nested cross-fitted ensemble learning with conformal prediction intervals",
       "year": 2026,
       "authors": [
-        "R. Mannam",
-        "K. Keswani",
-        "Laiba Manzoor",
-        "E. Alupei",
-        "Neel A. Doshi",
-        "J. C. Del Castillo Miranda",
-        "V. Purewal",
-        "A. Mahorkar",
-        "H. Hazarika",
-        "Lakshiya Ramamoorthy",
-        "Mohamed N. Shabrawi"
+        "Recep Taşkın",
+        "Ibrahim Budak"
       ],
-      "publication_date": "2026-11-02",
-      "doi": "10.1161/circ.154.suppl_1.5519",
-      "paper_id": "ec7755bc491ed3667a86edc5e08638ac7a74772e"
-    },
-    {
-      "title": "Assessing the causal influence of socioeconomic status on cervical cancer survival using the SEER database",
-      "year": 2026,
-      "authors": [
-        "Anjana Eledath Kolasseri",
-        "B. Venkataramana"
-      ],
-      "publication_date": "2026-10-30",
-      "doi": "10.1007/s44155-026-00403-9",
-      "paper_id": "2670e8f4b8e0a5fdb730af0aa339d1e0dd13f5aa"
-    },
-    {
-      "title": "Childhood hunger and cognitive impairment in later life among older adults in China: a nationwide case-control study using target maximum likelihood estimation",
-      "year": 2026,
-      "authors": [
-        "Wei Wang",
-        "Ying-Tian Wang",
-        "Xin-Ru Hu",
-        "Fang-Yi Chen",
-        "Qian Yu",
-        "Xi-Rui Qiu",
-        "Fan Yang",
-        "Li Liu",
-        "Xiao-Xiao Wang"
-      ],
-      "publication_date": "2026-10-30",
-      "doi": "10.7189/jogh.16.04317",
-      "paper_id": "2f109e6bd10e227043e87b3d271d3887573844e2"
-    },
-    {
-      "title": "Comparing SGLT2 Inhibitors on Incident Major Adverse Kidney Events in Type 2 Diabetes: A Target Trial Emulation.",
-      "year": 2026,
-      "authors": [
-        "A. Zehra",
-        "S. Aktay",
-        "Yi-Hong Deng",
-        "K. Swarna",
-        "J. Neumiller",
-        "Eric C. Polley",
-        "Jeph Herrin",
-        "Rodolfo J. Galindo",
-        "Guillermo E. Umpierrez",
-        "Joseph S. Ross",
-        "Juan P. Brito",
-        "Victor M. Montori",
-        "Mindy M. Mickelson",
-        "Rozalina G. McCoy"
-      ],
-      "publication_date": "2026-10-01",
-      "doi": "10.1016/j.mayocp.2026.09.025",
-      "paper_id": "94399c5af5fc3239d6d1b6e008479ebaa837a66c"
-    },
-    {
-      "title": "Documented SARS-CoV-2 infection and risk of neurodegenerative disease diagnosis: a target trial emulation across three real-world cohorts",
-      "year": 2026,
-      "authors": [
-        "Jannis Barking",
-        "Sofie Theisen Honoré",
-        "G. Azarias",
-        "Steven S. Sison",
-        "Søren Brunak",
-        "Holger Fröhlich"
-      ],
-      "publication_date": "2026-11-05",
-      "doi": "10.1038/s41598-026-79010-2",
-      "paper_id": "b8926087d56b7b17c9c6df490aa7d0294b8d47c3"
-    },
-    {
-      "title": "Does Predictive Performance Translate to Causal Performance? Evaluating tabular foundation models as nuisance learners for causal effect estimation",
-      "year": 2026,
-      "authors": [
-        "Andrew R. Weckstein",
-        "I. Dahabreh",
-        "M. Zitnik",
-        "S. Hernández-Díaz",
-        "Sebastian Schneeweiss"
-      ],
-      "publication_date": "2026-11-08",
-      "doi": null,
-      "paper_id": "6fee34d2e12dcb87033b48b06c9fca2ec4435265"
-    },
-    {
-      "title": "Enhanced cloud security via optimal fire hawks XOR and probabilistic super learning",
-      "year": 2026,
-      "authors": [
-        "Anupama Cg",
-        "Arun C",
-        "Ratnakumari Neerukonda"
-      ],
-      "publication_date": "2026-11-03",
-      "doi": "10.1007/s10791-026-10757-y",
-      "paper_id": "b511c8c0fe932e07f0c97f2b44f3d0859c2d4d91"
-    },
-    {
-      "title": "From prediction to intervention: Causal artificial intelligence as the missing link in precision therapeutics",
-      "year": 2026,
-      "authors": [
-        "Gedion Mengistu Dejen"
-      ],
-      "publication_date": "2026-10-28",
-      "doi": "10.1002/prm2.70052",
-      "paper_id": "2c951e5620a01f7781c5271c5a892b2023cd951b"
-    },
-    {
-      "title": "Interpretable Machine Learning for Estimated Ultimate Recovery (EUR) Prediction for the Bakken Tight Oil Play, Williston Basin, USA",
-      "year": 2026,
-      "authors": [
-        "Yeonpyeong Jo",
-        "P. Panja",
-        "R. Sorkhabi",
-        "Milind Deo"
-      ],
-      "publication_date": "2026-11-01",
-      "doi": "10.1111/jpg.70166",
-      "paper_id": "fbc09286bca248709f1032079258a19014e4b4cb"
-    },
-    {
-      "title": "Poisson Super Learning For Survival And Competing Risks On A Discretized Time Scale",
-      "year": 2026,
-      "authors": [
-        "Gabriele Pittarello",
-        "Thomas A. Gerds",
-        "P. F. Rønn",
-        "H. Rytgaard"
-      ],
-      "publication_date": "2026-11-02",
-      "doi": null,
-      "paper_id": "7be8a0d10a63373c30186d62c3a80bf7df4674d2"
-    },
-    {
-      "title": "Prediction models for progression to castration-resistant prostate cancer after androgen deprivation therapy: a narrative review (2021–2026)",
-      "year": 2026,
-      "authors": [
-        "Jun Yuan",
-        "Zi-Wei Jiang",
-        "Wen-Xian Chen",
-        "Shao-Cheng Wang"
-      ],
-      "publication_date": "2026-11-05",
-      "doi": "10.3389/fonc.2026.1964985",
-      "paper_id": "657138333dd26f1ae1235470239fbd6bdccd881d"
-    },
-    {
-      "title": "Three-year participation patterns and metabolic syndrome-related indicators in a nudge- and gamification-based workplace health promotion program in Japan.",
-      "year": 2026,
-      "authors": [
-        "Hanae Nagata",
-        "Naoki Kondo",
-        "M. Haseda",
-        "K. Shiba",
-        "Sho Takeda",
-        "Koryu Sato"
-      ],
-      "publication_date": "2026-11-10",
-      "doi": "10.1016/j.ypmed.2026.108697",
-      "paper_id": "4dd4a8531b24de5b76633dccc493cbaca049a5ab"
-    },
-    {
-      "title": "When do missed prompts matter? A simulation and empirical sensitivity study of structured nonresponse in intensive longitudinal assessment.",
-      "year": 2026,
-      "authors": [
-        "Aleksandrs Karnick"
-      ],
-      "publication_date": "2026-11-09",
-      "doi": "10.1037/pas0001513",
-      "paper_id": "edb0ebfef74f02c5d2a84a6313cb2c23d95c1fbc"
-    },
-    {
-      "title": "EquiOx: A Prospective study of pulse oximeter bias and skin pigmentation in critically-ill adults",
-      "year": 2025,
-      "authors": [
-        "C. Hendrickson",
-        "M. Lipnick",
-        "D. Chen",
-        "T. Law",
-        "R. Pirracchio",
-        "J. Feiner",
-        "E. Behnke",
-        "Y. Chou",
-        "S. Elmankabadi",
-        "C. Hughes",
-        "K. Moore",
-        "L. Ortiz",
-        "L. Shmuylovich",
-        "M. B. Eydelman",
-        "G. Leeb",
-        "E. Monk",
-        "O. Okunlola",
-        "D. Dorsey",
-        "J. Varshney",
-        "F. Negussie",
-        "P. Bickler"
-      ],
-      "publication_date": "2025-10-07",
-      "doi": "10.1101/2025.10.06.25337217",
-      "paper_id": "ae6c76fc7a2f5265554aac3107b93706de5216d6"
-    },
-    {
-      "title": "Statistical methods for chemical mixtures: a roadmap for practitioners",
-      "year": 2024,
-      "authors": [
-        "Wei Hao",
-        "Amber L. Cathey",
-        "Max M. Aung",
-        "Jonathan Bøss",
-        "John D. Meeker",
-        "Bhramar Mukherjee"
-      ],
-      "publication_date": "2024-03-04",
-      "doi": "10.1101/2024.03.03.24303677",
-      "paper_id": "77f75208d816990e4b072d6209e585e3b7d3e403"
-    },
-    {
-      "title": "Who is most at risk of dying if infected with SARS-CoV-2? A mortality risk factor analysis using machine learning of COVID-19 patients over time in a large Mexican population.",
-      "year": 2023,
-      "authors": [
-        "Lauren D. Liao",
-        "Alan E. Hubbard",
-        "J. P. Gutíerrez",
-        "Arturo Juarez Flores",
-        "Kendall Kikkawa",
-        "R. Gupta",
-        "Yana Yarmolich",
-        "Iván de Jesús Ascencio-Montiel",
-        "S. Bertozzi"
-      ],
-      "publication_date": "2023-01-18",
-      "doi": "10.1101/2023.01.17.23284684",
-      "paper_id": "684307bc4eba12cafaa642ccbb430ed5452f1a71"
-    },
-    {
-      "title": "Super ensemble learning for daily streamflow forecasting: large-scale demonstration and comparison with multiple machine learning algorithms",
-      "year": 2020,
-      "authors": [
-        "Hristos Tyralis",
-        "G. Papacharalampous",
-        "A. Langousis"
-      ],
-      "publication_date": "2020-07-06",
-      "doi": "10.1007/s00521-020-05172-3",
-      "paper_id": "27f2fbc7a7109b84b42908a4f6e7c93e208f66b6"
+      "publication_date": "2026-08-19",
+      "doi": "10.1186/s12911-026-03771-z",
+      "paper_id": "f123186f0494a6e1d8658ca7d1eeb60afde4ca93"
     }
   ],
-  "paper_count": 1253,
+  "paper_count": 1255,
   "papers": [
     {
       "title": "AI-Enhanced Data-Driven Approach to Model the Mechanical Behavior of Sustainable Geopolymer Concrete",
@@ -707,6 +453,31 @@
       ]
     },
     {
+      "title": "A super learner ensemble machine learning model with SHAP-based explanations for pneumonia detection based on routine hematological markers",
+      "authors": [
+        "Jian-Hao Xu",
+        "Cui-Qi Yang",
+        "Liang-Qiong Chen",
+        "Fei-Fan Xu",
+        "Jin-Liang Chen",
+        "Yong-Wei Qin"
+      ],
+      "abstract": "",
+      "year": 2026,
+      "publication_date": "2026-11-10",
+      "paper_id": "a427c05ef06cfd6ac3ec42e392feb5838af6847b",
+      "url": "https://www.semanticscholar.org/paper/a427c05ef06cfd6ac3ec42e392feb5838af6847b",
+      "venue": "Scientific Reports",
+      "doi": "10.1038/s41598-026-78825-3",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner",
+        "super learning"
+      ]
+    },
+    {
       "title": "A targeted learning framework for estimating restricted mean survival time difference using pseudo-observations.",
       "authors": [
         "Man Jin",
@@ -1051,6 +822,27 @@
       "url": "https://www.semanticscholar.org/paper/8c1ea47a3d5f47328b3784433ab2daefe18aabc0",
       "venue": "International Journal on Data Science and Technology",
       "doi": "10.11648/j.ijdst.20261203.11",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner",
+        "super learning"
+      ]
+    },
+    {
+      "title": "An uncertainty-aware approach to postoperative knee satisfaction prediction after total knee arthroplasty: nested cross-fitted ensemble learning with conformal prediction intervals",
+      "authors": [
+        "Recep Taşkın",
+        "Ibrahim Budak"
+      ],
+      "abstract": "Prediction of continuous patient-reported outcomes from limited tabular clinical data is challenging because model rankings may vary across learning algorithms and predictive uncertainty is not captured by point estimates alone. This study evaluated postoperative knee satisfaction using individual regression learners, nested cross-fitted ensemble methods, and distribution-free prediction intervals. An analytic dataset of 98 observations was evaluated using Ridge, Elastic Net, Random Forest, XGBoost, and CatBoost. Four ensemble strategies were considered: uniform averaging, inverse-MAE weighting, Ridge stacking, and a convex Super Learner. Predictive performance was assessed using five-fold outer cross-validation. Within each outer-training set, a separate five-fold inner cross-validation procedure was used to estimate all data-dependent ensemble weights and meta-learner coefficients. Split-conformal prediction was embedded within the outer evaluation to generate finite-sample corrected 95% prediction intervals. SHAP and a perturbation-based local surrogate analysis were used for post-hoc interpretation of full-data base-learner refits. Random Forest achieved the lowest overall MAE (2.150) and MAPE (8.603%), whereas the cross-fitted convex Super Learner yielded the lowest RMSE (3.257) and the highest \\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\:{R}^{2}$$\\end{document}(0.792). Its numerical advantage over Ridge was small, with Ridge obtaining an RMSE of 3.280 and an \\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\:{R}^{2}$$\\end{document}of 0.789. Among the ensemble methods, inverse-MAE weighting produced the lowest MAE (2.168) and MAPE (8.766%), while uniform averaging showed similar performance. Empirical conformal coverage ranged from 0.949 to 0.980. Ridge generated the narrowest mean prediction intervals overall (17.683), whereas the convex Super Learner generated the narrowest intervals among the ensemble methods (19.812). The SHAP and local surrogate analyses primarily attributed predictions to KSS-related subscale variables. Nested cross-fitting prevented the second-stage ensemble parameters from being estimated and evaluated on the same observations. No single learning method consistently dominated all performance measures, and the observed advantages were small and metric-dependent. The framework provides an internally evaluated approach for combining point prediction with marginal uncertainty quantification, but external validation with larger cohorts and clinically independent predictors is required.",
+      "year": 2026,
+      "publication_date": "2026-08-19",
+      "paper_id": "f123186f0494a6e1d8658ca7d1eeb60afde4ca93",
+      "url": "https://www.semanticscholar.org/paper/f123186f0494a6e1d8658ca7d1eeb60afde4ca93",
+      "venue": "BMC Medical Informatics and Decision Making",
+      "doi": "10.1186/s12911-026-03771-z",
       "matched_keywords": [
         "super learner"
       ],
@@ -18930,7 +18722,7 @@
       "title": "Data-driven photometric redshift estimation from type Ia supernovae light curves",
       "authors": [
         "F. M. de Oliveira",
-        "Marcelo Melo dos Santos",
+        "Marcel Ferreira dos Santos",
         "R. Reis"
       ],
       "abstract": "Redshift measurement has always been a constant need in modern astronomy and cosmology. And as new surveys have been providing an immense amount of data on astronomical objects, the need to process such data automatically proves to be increasingly necessary. In this article, we use simulated data from the Dark Energy Survey, and from a pipeline originally created to classify supernovae, we developed a linear regression algorithm optimized through novel automated machine learning (AutoML) frameworks achieving an error score better than ordinary data pre-processing methods when compared with other modern algorithms (such as XGBOOST). Numerically, the photometric prediction RMSE of type Ia supernovae events was reduced from 0.16 to 0.09 and the RMSE of all supernovae types decreased from 0.20 to 0.14. Our pipeline consists of four steps: through spectroscopic data points we interpolate the light curve using Gaussian process fitting algorithm, then using a wavelet transform we extract the most important features of such curves; in sequence we reduce the dimensionality of such features through principal component analysis, and in the end we applied super learning techniques (stacked ensemble methods) through an AutoML framework dedicated to optimize the parameters of several different machine learning models, better resolving the problem. As a final check, we obtained probability distribution functions (PDFs) using Gaussian kernel density estimations through the predictions of more than 50 models trained and optimized by AutoML. Those PDFs were calculated to replicate the original curves that used SALT2 model, a model used for the simulation of the raw data itself.",
@@ -19449,7 +19241,7 @@
     {
       "title": "Forecasting domestic waste generation during successive COVID-19 lockdowns by Bidirectional LSTM super learner neural network",
       "authors": [
-        "M. Jassim",
+        "M. S. Jassim",
         "G. Coskuner",
         "N. Sultana",
         "S. M. Zakir Hossain"
@@ -22230,14 +22022,14 @@
         "Marcos Mauricio Siliézar Tala",
         "Timothy Guyon",
         "Samuel L. Dixon",
-        "Nelly López",
+        "Nelly Ethel Hernández López",
         "Francisco López",
         "César Camilo Carías Alvarado",
         "R. Terbrueggen",
         "K. Stevenson",
         "Y. Natkunam",
         "D. Weinstock",
-        "Edward L Briercheck"
+        "E. Briercheck"
       ],
       "abstract": "Inadequate diagnostics compromise cancer care across lower- and middle-income countries (LMICs). We hypothesized that an inexpensive gene expression assay using paraffin-embedded biopsy specimens from LMICs could distinguish lymphoma subtypes without pathologist input. We reviewed all biopsy specimens obtained at the Instituto de Cancerología y Hospital Dr. Bernardo Del Valle in Guatemala City between 2006 and 2018 for suspicion of lymphoma. Diagnoses were established based on the World Health Organization classification and then binned into 9 categories: nonmalignant, aggressive B-cell, diffuse large B-cell, follicular, Hodgkin, mantle cell, marginal zone, natural killer/T-cell, or mature T-cell lymphoma. We established a chemical ligation probe-based assay (CLPA) that quantifies expression of 37 genes by capillary electrophoresis with reagent/consumable cost of approximately $10/sample. To assign bins based on gene expression, 13 models were evaluated as candidate base learners, and class probabilities from each model were then used as predictors in an extreme gradient boosting super learner. Cases with call probabilities < 60% were classified as indeterminate. Four (2%) of 194 biopsy specimens in storage <3 years experienced assay failure. Diagnostic samples were divided into 70% (n = 397) training and 30% (n = 163) validation cohorts. Overall accuracy for the validation cohort was 86% (95% confidence interval [CI]: 80%-91%). After excluding 28 (17%) indeterminate calls, accuracy increased to 94% (95% CI: 89%-97%). Concordance was 97% for a set of high-probability calls (n = 37) assayed by CLPA in both the United States and Guatemala. Accuracy for a cohort of relapsed/refractory biopsy specimens (n = 39) was 79% and 88%, respectively, after excluding indeterminate cases. Machine-learning analysis of gene expression accurately classifies paraffin-embedded lymphoma biopsy specimens and could transform diagnosis in LMICs.",
       "year": 2021,
@@ -23933,7 +23725,7 @@
         "J. Rotundo",
         "Adam P. Gaspar",
         "D. Kyle",
-        "F. van Eeuwijk",
+        "F. V. van Eeuwijk",
         "C. Messina"
       ],
       "abstract": "The timing of crop development has significant impacts on management decisions and subsequent yield formation. A large intercontinental dataset recording the timing of soybean developmental stages was used to establish ensembling approaches that leverage both discrete-time dynamical system models of soybean phenology and data-driven, machine-learned models to achieve accurate and interpretable predictions. We demonstrate that the knowledge-based, dynamical models can improve machine learning by generating expert-engineered features. Combining the predictions of the diverse component models via super learning resulted in a mean absolute error of 4.12 and 4.55 days to flowering (R1) and physiological maturity (R7), providing an improvement relative to the best benchmark model error of 6.90 and 15.47 days, respectively. The hybrid intercontinental model applies to a much wider range of management and temperature conditions than previous mechanistic models, enabling improved decision support as alternative cropping systems arise, farm sizes increase, and changes in the global climate continue to accelerate.",
