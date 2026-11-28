@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T21:09:10Z",
+  "generated_at": "2026-11-27T22:01:15Z",
   "source": "Semantic Scholar Graph API",
   "unauthenticated": false,
   "mode": "bulk",
@@ -18,17 +18,17 @@
   "query_stats": [
     {
       "keyword": "tmle",
-      "fetched_raw_count": 536,
+      "fetched_raw_count": 542,
       "pages_fetched": 1,
-      "estimated_total": 536,
+      "estimated_total": 542,
       "truncated": false,
       "truncation_reason": null
     },
     {
       "keyword": "targeted maximum likelihood estimation",
-      "fetched_raw_count": 4300,
+      "fetched_raw_count": 4315,
       "pages_fetched": 5,
-      "estimated_total": 4300,
+      "estimated_total": 4315,
       "truncated": false,
       "truncation_reason": null
     },
@@ -42,25 +42,25 @@
     },
     {
       "keyword": "super learner",
-      "fetched_raw_count": 1111,
+      "fetched_raw_count": 1118,
       "pages_fetched": 2,
-      "estimated_total": 1111,
+      "estimated_total": 1118,
       "truncated": false,
       "truncation_reason": null
     },
     {
       "keyword": "super learning",
-      "fetched_raw_count": 20562,
+      "fetched_raw_count": 20649,
       "pages_fetched": 21,
-      "estimated_total": 20562,
+      "estimated_total": 20649,
       "truncated": false,
       "truncation_reason": null
     },
     {
       "keyword": "highly adaptive lasso",
-      "fetched_raw_count": 259,
+      "fetched_raw_count": 263,
       "pages_fetched": 1,
-      "estimated_total": 259,
+      "estimated_total": 263,
       "truncated": false,
       "truncation_reason": null
     }
@@ -70,120 +70,145 @@
   "incomplete": false,
   "sort": "publicationDate:desc",
   "max_results_per_keyword": 0,
-  "fetched_paper_count": 1234,
-  "newly_appended_count": 8,
-  "updated_existing_count": 47,
+  "fetched_paper_count": 1242,
+  "newly_appended_count": 9,
+  "updated_existing_count": 10,
   "existing_blocked_removed": 0,
   "existing_duplicates_removed": 0,
   "newly_added_papers": [
     {
-      "title": "A Multisite Super Learner for Survival Prediction with Limited Target-Site Data",
+      "title": "A comparison of knot point screening algorithms for highly adaptive lasso",
       "year": 2026,
       "authors": [
-        "Henry Bayly",
-        "Y. Tripodis",
-        "Hao-Lin Li",
-        "Prasad Patil"
+        "Yang Weng",
+        "Sky Qiu"
       ],
-      "publication_date": "2026-11-18",
+      "publication_date": "2026-11-22",
       "doi": null,
-      "paper_id": "3e901d6ba362c9222cca1c5fdaea19b26fa1acc2"
+      "paper_id": "376870102dadaae9f884c98478b64a0acdc88074"
     },
     {
-      "title": "A super learner ensemble machine learning model with SHAP-based explanations for pneumonia detection based on routine hematological markers",
+      "title": "Beyond Cox: interpretable machine‐learning prediction of postoperative colorectal cancer outcomes using Survival Super Learner and mlr3",
       "year": 2026,
       "authors": [
-        "Jian-Hao Xu",
-        "Cui-Qi Yang",
-        "Liang-Qiong Chen",
-        "Fei-Fan Xu",
-        "Jin-Liang Chen",
-        "Yong-Wei Qin"
-      ],
-      "publication_date": "2026-11-10",
-      "doi": "10.1038/s41598-026-78825-3",
-      "paper_id": "a427c05ef06cfd6ac3ec42e392feb5838af6847b"
-    },
-    {
-      "title": "An uncertainty-aware approach to postoperative knee satisfaction prediction after total knee arthroplasty: nested cross-fitted ensemble learning with conformal prediction intervals",
-      "year": 2026,
-      "authors": [
-        "Recep Taşkın",
-        "Ibrahim Budak"
-      ],
-      "publication_date": "2026-08-19",
-      "doi": "10.1186/s12911-026-03771-z",
-      "paper_id": "f123186f0494a6e1d8658ca7d1eeb60afde4ca93"
-    },
-    {
-      "title": "Artificial Intelligence-Based Digital Tools for HIV Risk Screening Among Adolescents: A Scoping Review",
-      "year": 2026,
-      "authors": [
-        "Faiqatul Hikmah",
-        "Agus Hariyanto",
-        "D. B. M. Yuana",
-        "R. Kartika",
-        "M. Khamid",
-        "B. Jassey"
-      ],
-      "publication_date": "2026-10-31",
-      "doi": "10.25047/ijhitech.v4i2.7765",
-      "paper_id": "db714a11566dfa11531e12d737b178d09297a1e0"
-    },
-    {
-      "title": "IMG-44 Multi-Agent AI Coordination, Super Learner Ensembling, and Single-Model Survival Prediction for Glioblastoma Across Five Institutions",
-      "year": 2026,
-      "authors": [
-        "Tian-Bao Yang",
-        "Hamed Akbari"
+        "S. Wilkins",
+        "Katherine Goodall",
+        "R. Gosavi",
+        "Veena Suresh",
+        "Vana Madelli",
+        "P. McMurrick",
+        "AProf",
+        "M. Asghari-Jafarabadi"
       ],
       "publication_date": "2026-11-01",
-      "doi": "10.1093/neuonc/noag189.811",
-      "paper_id": "3f9ef438124dee464742f6097a42d9ee32f17a1d"
+      "doi": "10.1111/ajco.70276",
+      "paper_id": "21c9b2cc418e7a226ac45a9df4e217b8ef82c0a2"
     },
     {
-      "title": "Improving Efficiency and Power in Small Rare-Disease Trials Through Prespecified, Data-Adaptive Covariate Adjustment",
+      "title": "Community First Responder Activation Reduces the Negative Impact of AED Distance on Bystander Defibrillation After Out-of-Hospital Cardiac Arrest.",
       "year": 2026,
       "authors": [
-        "Tian-Yue Zhou",
-        "S. Gruber",
-        "Hana Lee",
-        "Wonyul Lee",
-        "L. Nie",
-        "M. van der Laan"
+        "A. Oxwall",
+        "M. P. Andersen",
+        "Puriya Daniel Würtz Yazdanfar",
+        "H. C. Christensen",
+        "J. Brand",
+        "P. Shahriari",
+        "K. Kragholm",
+        "C. Hansen",
+        "F. Folke",
+        "C. Torp-Pedersen"
       ],
-      "publication_date": "2026-11-11",
-      "doi": null,
-      "paper_id": "1c812b5b465fed24629d47d2f7a6be8fe9b8fc59"
+      "publication_date": "2026-11-01",
+      "doi": "10.1016/j.resuscitation.2026.111391",
+      "paper_id": "ec6af4c4b94a768677aed25c69bbc7d3b12b87e0"
     },
     {
-      "title": "Mode-specific fetal heart rate signal dropout as a marker of perinatal asphyxia: A multicenter observational study using causal machine learning methods.",
+      "title": "Evaluating the Prediction Performance of Ensemble Super Learners",
       "year": 2026,
       "authors": [
-        "D. Karmakar",
-        "Lochana Mendis",
-        "E. Keenan",
-        "M. Palaniswami",
-        "E. Makalic",
-        "F. Brownfoot"
+        "Emir Sevinc",
+        "Anders Munch",
+        "P. Ravani",
+        "T. Gerds"
       ],
-      "publication_date": "2026-11-14",
-      "doi": "10.1002/ijgo.71416",
-      "paper_id": "023d5ddbfecae56488ae48bbdbc6f558c2976277"
+      "publication_date": "2026-11-01",
+      "doi": "10.1002/sim.70829",
+      "paper_id": "2decb33fb90f51f816cfcc33a4b081526b95fc1c"
     },
     {
-      "title": "A Targeted Learning Framework for Policy Evaluation with Unobserved Network Interference",
-      "year": 2025,
+      "title": "Glucose Trajectory Phenotypes and Risk of AKI Progression in Sepsis-Associated AKI: Doubly-Robust Causal Estimation and External Transportability Assessment",
+      "year": 2026,
       "authors": [
-        "Han Yuan",
-        "Sheng Li"
+        "Hui Ye",
+        "Long Qin",
+        "Qian Zhang",
+        "Song Chen",
+        "Pei-Wu Li",
+        "Jian Wan",
+        "Yi-Long Hao"
       ],
       "publication_date": null,
+      "doi": "10.21203/rs.3.rs-10751957/v1",
+      "paper_id": "2935f301883146ffa4fa57a3eeb96e4b8f82f32d"
+    },
+    {
+      "title": "Pre-operative anaemia and complications: A causal analysis of two prospective cohorts.",
+      "year": 2026,
+      "authors": [
+        "Javier Ripollés-Melchor",
+        "Ane Abad-Motos",
+        "J. García-Erce",
+        "C. Jericó",
+        "Ángel V. Espinosa",
+        "C. Aldecoa",
+        "M. Colomina",
+        "P. Galán-Menéndez",
+        "A. Zorrilla-Vaca",
+        "R. Oyarzun Silva",
+        "R. Navarro-Pérez",
+        "Elena Sáez-Ruiz",
+        "Agustín Rodríguez-Herrero",
+        "A. Abad-Gurumeta"
+      ],
+      "publication_date": "2026-09-18",
+      "doi": "10.1097/eja.0000000000002507",
+      "paper_id": "b1c7e97c3b46c22e2eed133afb6b17569d92d3c8"
+    },
+    {
+      "title": "Targeted Learning for Externally Controlled Trials and Beyond",
+      "year": 2026,
+      "authors": [
+        "Yi-Xin Fang",
+        "Wei-Li He"
+      ],
+      "publication_date": "2026-11-20",
       "doi": null,
-      "paper_id": "4643a4cc635c5913631ec052ffae36cf3fbded9e"
+      "paper_id": "f52464824d8581e2949be967158f597135fe1fac"
+    },
+    {
+      "title": "Sensory Profile for Autistic Children by Using EEG Biosignal",
+      "year": 2025,
+      "authors": [
+        "M. Mohanty",
+        "L. Mishra"
+      ],
+      "publication_date": null,
+      "doi": "10.61841/qjajrp16",
+      "paper_id": "455b1783cdc12f9db902a1d557561c59b0b43883"
+    },
+    {
+      "title": "Weak instrumental variables due to ignored nonlinearities in panel data: An Orthogonal Super Learner Control Function estimator",
+      "year": 2025,
+      "authors": [
+        "Monika Avila-Marquez"
+      ],
+      "publication_date": "2025-04-04",
+      "doi": null,
+      "paper_id": "7bed1ba2b3f42dbfb0b7bacde7078c5808a7d922"
     }
   ],
-  "paper_count": 1261,
+  "paper_count": 1270,
   "papers": [
     {
       "title": "AI-Enhanced Data-Driven Approach to Model the Mechanical Behavior of Sustainable Geopolymer Concrete",
@@ -305,6 +330,30 @@
         "tmle"
       ],
       "source_queries": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ]
+    },
+    {
+      "title": "A comparison of knot point screening algorithms for highly adaptive lasso",
+      "authors": [
+        "Yang Weng",
+        "Sky Qiu"
+      ],
+      "abstract": "Highly adaptive lasso (HAL) is a nonparametric regression estimator with a rate of convergence $n^{-1/3}(\\log n)^{d/2}$, where the data dimension $d$ only appears in the power of the log of sample size. This fast rate is crucial for many causal inference tasks, where efficient estimation typically requires nuisance parameters to be estimated at a specific rate. HAL achieves this rate and, when paired with semiparametrically efficient estimators -- such as those constructed using targeted maximum likelihood estimation (TMLE) -- can be used to develop efficient estimators. Beyond causal inference, HAL is applicable to a wide range of supervised machine learning tasks. The procedure for HAL involves first performing a basis expansion on the original design matrix $X$ and then computing a lasso solution path. Cross-validation is used to select the optimal $L_1$-norm for the coefficients. For datasets with all continuous covariates and no ties, the HAL design matrix can reach a dimension as large as $n \\times n(2^d-1)$, imposing a significant computational and memory burden. To address this, screening algorithms are applied at both the variable and knot-point levels to make HAL practical for datasets of moderate to large sizes. In this work, we propose outcome-blind knot point screening based on center-based clustering -- $k$-means and partitioning around medoids (PAM) -- and compare it with the quantile-based screening implemented in the hal9001 R package at matched design-matrix sizes. Across 153 simulation settings, $k$-means and PAM significantly improved test $R^2$ in 97 and 111 settings, respectively, with gains that grow with covariate skewness, while producing slightly smaller design matrices. On nine real-world datasets, they reduced the cross-validated mean squared error by 35-36% on the dataset with the most skewed predictors and performed comparably on the others.",
+      "year": 2026,
+      "publication_date": "2026-11-22",
+      "paper_id": "376870102dadaae9f884c98478b64a0acdc88074",
+      "url": "https://www.semanticscholar.org/paper/376870102dadaae9f884c98478b64a0acdc88074",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "highly adaptive lasso",
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "highly adaptive lasso",
         "targeted maximum likelihood estimation",
         "tmle"
       ]
@@ -1260,15 +1309,42 @@
       ]
     },
     {
-      "title": "Biomechanical drivers of fastball velocity identified from In-game motion capture using Super Learner ensemble modelling.",
+      "title": "Beyond Cox: interpretable machine‐learning prediction of postoperative colorectal cancer outcomes using Survival Super Learner and mlr3",
+      "authors": [
+        "S. Wilkins",
+        "Katherine Goodall",
+        "R. Gosavi",
+        "Veena Suresh",
+        "Vana Madelli",
+        "P. McMurrick",
+        "AProf",
+        "M. Asghari-Jafarabadi"
+      ],
+      "abstract": "Background : Postoperative colorectal cancer follow - up remains largely stage - based despite substantial heterogeneity in tumour biology, patient fitness and recovery. We evaluated whether modern machine - learning survival methods could transform routinely collected reg istry data into clinically interpretable predictions of major postoperative outcomes. Methods : We analysed the Cabrini Monash Colorectal Neoplasia Database using an integrated “Beyond Cox” framework. Weighted Cox models provided an interpretable benchmark, while Survival Super Learner ensembles and mlr3 survival learners — including random survival forest and XG Boost Cox— were trained and tested for overall survival (OS), cancer - specific survival (CSS) and progression - free survival (PFS). Locked - test performance was assessed using 5 - year discrimination, Brier score, calibration, decision-curve analysis and model - interpretability summaries.",
+      "year": 2026,
+      "publication_date": "2026-11-01",
+      "paper_id": "21c9b2cc418e7a226ac45a9df4e217b8ef82c0a2",
+      "url": "https://www.semanticscholar.org/paper/21c9b2cc418e7a226ac45a9df4e217b8ef82c0a2",
+      "venue": "Asia-Pacific Journal of Clinical Oncology",
+      "doi": "10.1111/ajco.70276",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner",
+        "super learning"
+      ]
+    },
+    {
+      "title": "Biomechanical drivers of fastball velocity identified from In-game motion capture using Super Learner ensemble modelling",
       "authors": [
         "Garrett Fernandez",
         "G. Bullock",
         "Ryan M. Zappa",
-        "Gretchen D. Oliver",
-        "Kristen Nicholson"
+        "G. Oliver",
+        "K. Nicholson"
       ],
-      "abstract": "This study used in-game markerless motion capture to develop a Super Learner ensemble model for predicting fastball velocity, with the aim of identifying key biomechanical contributors and evaluating generalisability across conferences. Data were collected from 322 NCAA Division I pitchers (ACC: n = 122; SEC: n = 200) between 2022 and 2024. The ensemble combined five algorithms-elastic net, random forest, support vector machines, gradient boosting, and multivariate adaptive regression splines (MARS)-and was trained using 10-fold cross-validation with internal-external validation by conference. Internal performance yielded RMSE 2.70 mph (95% CI 2.44-2.99), MAE 2.10 mph (95% CI 1.93-2.29), R2 = 0.29 (95% CI 0.21-0.36), and calibration slope = 0.99 (95% CI 0.83-1.15). Internal-external performance was direction-dependent (SEC→ACC RMSE = 3.04 mph, 95% CI 2.51-3.63; ACC→SEC RMSE = 2.55 mph, 95% CI 2.33-2.77). Height was the most influential predictor (81.2%), followed by mass (2.47%). Algorithm weights favoured elastic net (62.6%), followed by support vector machines (19.8%), gradient boosting (13.6%), and random forest (4%). Findings suggest that biomechanical strategies for generating velocity vary between groups and highlight the potential of ensemble machine learning to identify biomechanical contributors to fastball velocity and inform individualised analysis in baseball.",
+      "abstract": "ABSTRACT This study used in-game markerless motion capture to develop a Super Learner ensemble model for predicting fastball velocity, with the aim of identifying key biomechanical contributors and evaluating generalisability across conferences. Data were collected from 322 NCAA Division I pitchers (ACC: n = 122; SEC: n = 200) between 2022 and 2024. The ensemble combined five algorithms—elastic net, random forest, support vector machines, gradient boosting, and multivariate adaptive regression splines (MARS)—and was trained using 10-fold cross-validation with internal—external validation by conference. Internal performance yielded RMSE 2.70 mph (95% CI 2.44–2.99), MAE 2.10 mph (95% CI 1.93–2.29), R2 = 0.29 (95% CI 0.21–0.36), and calibration slope = 0.99 (95% CI 0.83–1.15). Internal—external performance was direction-dependent (SEC→ACC RMSE = 3.04 mph, 95% CI 2.51–3.63; ACC→SEC RMSE = 2.55 mph, 95% CI 2.33–2.77). Height was the most influential predictor (81.2%), followed by mass (2.47%). Algorithm weights favoured elastic net (62.6%), followed by support vector machines (19.8%), gradient boosting (13.6%), and random forest (4%). Findings suggest that biomechanical strategies for generating velocity vary between groups and highlight the potential of ensemble machine learning to identify biomechanical contributors to fastball velocity and inform individualised analysis in baseball.",
       "year": 2026,
       "publication_date": "2026-06-08",
       "paper_id": "ccbd33eb8941a8037dbd9b7f885632337864da56",
@@ -1710,6 +1786,36 @@
       ],
       "source_queries": [
         "targeted maximum likelihood estimation"
+      ]
+    },
+    {
+      "title": "Community First Responder Activation Reduces the Negative Impact of AED Distance on Bystander Defibrillation After Out-of-Hospital Cardiac Arrest.",
+      "authors": [
+        "A. Oxwall",
+        "M. P. Andersen",
+        "Puriya Daniel Würtz Yazdanfar",
+        "H. C. Christensen",
+        "J. Brand",
+        "P. Shahriari",
+        "K. Kragholm",
+        "C. Hansen",
+        "F. Folke",
+        "C. Torp-Pedersen"
+      ],
+      "abstract": "INTRODUCTION Early defibrillation is critical for survival after out-of-hospital cardiac arrest (OHCA), yet bystander defibrillation remains uncommon despite the availability of automated external defibrillators (AEDs). We investigated whether HeartRunner community first responder activation increased the likelihood of bystander defibrillation and 30-day survival in relation to the distance to the nearest accessible AED. METHODS Linking data from the Danish Cardiac Arrest Registry, Danish AED Network, and HeartRunner application, we identified patients with OHCA eligible for HeartRunner activation during 2017-2021. Using street-network distances to the nearest accessible AED, we examined associations between HeartRunner activation, bystander defibrillation, and 30-day survival using multivariable logistic regression with interaction terms and targeted maximum likelihood estimation (TMLE). RESULTS Among 5,753 OHCAs (median age, 74 years; 64% male; 78% in private locations), HeartRunner activation (41%) was associated with higher bystander defibrillation across AED distances (p-interaction = 0.004), with no interaction for 30-day survival (p-interaction = 0.054). Predicted bystander defibrillation with versus without HeartRunner activation was 9.6% vs 5.5% at Q1 (389 m), 10.0% vs 4.3% at median (717 m), and 13.0% vs 4.8% at Q3 (1,183 m). TMLE estimated a 6.1-percentage-point higher probability of bystander defibrillation (95% CI, 4.5-7.8; p<0.001) and a modest 1.8-percentage-point increase in 30-day survival (95% CI, 0.1-3.6; p=0.038) with HeartRunner activation. CONCLUSION HeartRunner activation attenuated the decline in bystander defibrillation with increasing AED distance following OHCA, without a corresponding distance interaction for 30-day survival. Overall, TMLE supported higher bystander defibrillation and suggested a modest increase in 30-day survival with HeartRunner activation.",
+      "year": 2026,
+      "publication_date": "2026-11-01",
+      "paper_id": "ec6af4c4b94a768677aed25c69bbc7d3b12b87e0",
+      "url": "https://www.semanticscholar.org/paper/ec6af4c4b94a768677aed25c69bbc7d3b12b87e0",
+      "venue": "Resuscitation",
+      "doi": "10.1016/j.resuscitation.2026.111391",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation",
+        "tmle"
       ]
     },
     {
@@ -2388,7 +2494,7 @@
     {
       "title": "Double Robustness and Second-Order Bias Correction of Targeted Maximum Likelihood Estimation: A Semiparametric Theoretical Perspective",
       "authors": [
-        "Siqi Li"
+        "Si-Qi Li"
       ],
       "abstract": "",
       "year": 2026,
@@ -2949,12 +3055,12 @@
         "L. Jamieson",
         "H. Elani"
       ],
-      "abstract": "Dental decay in permanent teeth is the most prevalent disease worldwide, with 54% of young people under the age of 18 having experienced it. Despite these findings, there have been no studies that investigated the causal effects of time-varying exposure to higher sugar consumption throughout childhood on dental decay in late adolescence. We investigated the causal effects of sustained higher sugar consumption, cumulative sugar consumption, and sugar consumption trajectories from ages 4 to 14 on the risk of ever experiencing dental decay at age 16. We used data from the Longitudinal Study of Australian Children, an ongoing national Australian study that started in 2004, with a sample of 4,671 young people. Causal effects were estimated using longitudinal Targeted Maximum Likelihood Estimation combined with the Super Learner ensemble. Young people with sustained higher sugar consumption (ie, above-median sugar consumption at ages 4, 6, 8, 10, 12, and 14) throughout the study period had a 37 percentage point higher risk of dental decay compared to those with no exposure. Each additional exposure to higher sugar consumption (ie, additional above-median sugar consumption at a certain age) between ages 4 and 14 was associated with a 6% increase in the relative risk of dental decay by age 16. This study provides causal evidence linking higher sugar consumption throughout childhood to dental decay in late adolescence.",
+      "abstract": "Abstract Dental decay in permanent teeth is the most prevalent disease worldwide, with 54% of young people under the age of 18 having experienced it. Despite these findings, there have been no studies that investigated the causal effects of time-varying exposure to higher sugar consumption throughout childhood on dental decay in late adolescence. We investigated the causal effects of sustained higher sugar consumption, cumulative sugar consumption, and sugar consumption trajectories from ages 4 to 14 on the risk of ever experiencing dental decay at age 16. We used data from the Longitudinal Study of Australian Children, an ongoing national Australian study that started in 2004, with a sample of 4671 young people. Causal effects were estimated using longitudinal targeted maximum likelihood estimation combined with the Super Learner ensemble. Young people with sustained higher sugar consumption (ie, above-median sugar consumption at ages 4, 6, 8, 10, 12, and 14) throughout the study period had a 37 percentage point higher risk of dental decay compared to those with no exposure. Each additional exposure to higher sugar consumption (ie, additional above-median sugar consumption at a certain age) between ages 4 and 14 was associated with a 6% increase in the relative risk of dental decay by age 16. This study provides causal evidence linking higher sugar consumption throughout childhood to dental decay in late adolescence.",
       "year": 2026,
-      "publication_date": "2026-01-29",
+      "publication_date": "2026-01-01",
       "paper_id": "a1872a7ef0f3d6984199c7ebf16ce20c0151ca24",
       "url": "https://www.semanticscholar.org/paper/a1872a7ef0f3d6984199c7ebf16ce20c0151ca24",
-      "venue": "AJE Advances: Research in Epidemiology",
+      "venue": "AJE advances : research in epidemiology",
       "doi": "10.1093/ajeadv/uuag003",
       "matched_keywords": [
         "super learner",
@@ -3112,6 +3218,28 @@
       "source_queries": [
         "targeted maximum likelihood estimation",
         "tmle"
+      ]
+    },
+    {
+      "title": "Evaluating the Prediction Performance of Ensemble Super Learners",
+      "authors": [
+        "Emir Sevinc",
+        "Anders Munch",
+        "P. Ravani",
+        "T. Gerds"
+      ],
+      "abstract": "The Super Learner uses cross‐validation to evaluate a prespecified library of learners, such as regression models and random forests. The Discrete Super Learner selects the single best‐performing learner, whereas an Ensemble Super Learner combines the learners' cross‐validated predictions using estimated weights. Asymptotically, an Ensemble Super Learner whose weights minimize the cross‐validated loss performs at least as well as the Discrete Super Learner, yet selecting a single learner remains common in applied risk prediction. This article asks when the Discrete Super Learner is adequate and when combining learners offers a meaningful gain. We revisit KDpredict, a Discrete Super Learner for predicting kidney failure and death in adults with moderate or severe chronic kidney disease (CKD), and compare it with six Ensemble Super Learner weighting strategies, including nonnegative least squares, using both the full training data and random subsamples of decreasing size. A simulation illustrates a case of misspecification, through which combining learners can help. With the full training data, all strategies performed nearly identically. In subsamples of 100 and 200 patients, several ensembles achieved modestly higher accuracy, although all strategies performed poorly in absolute terms. In simulation, ensembles outperformed the Discrete Super Learner when each candidate omitted a different predictor, and nonnegative least squares performed well in all settings. The Discrete Super Learner was adequate for KDpredict, and the benefit of ensembling appears context‐dependent.",
+      "year": 2026,
+      "publication_date": "2026-11-01",
+      "paper_id": "2decb33fb90f51f816cfcc33a4b081526b95fc1c",
+      "url": "https://www.semanticscholar.org/paper/2decb33fb90f51f816cfcc33a4b081526b95fc1c",
+      "venue": "Statistics in Medicine",
+      "doi": "10.1002/sim.70829",
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
       ]
     },
     {
@@ -3277,6 +3405,31 @@
       ],
       "source_queries": [
         "targeted maximum likelihood estimation"
+      ]
+    },
+    {
+      "title": "Glucose Trajectory Phenotypes and Risk of AKI Progression in Sepsis-Associated AKI: Doubly-Robust Causal Estimation and External Transportability Assessment",
+      "authors": [
+        "Hui Ye",
+        "Long Qin",
+        "Qian Zhang",
+        "Song Chen",
+        "Pei-Wu Li",
+        "Jian Wan",
+        "Yi-Long Hao"
+      ],
+      "abstract": "Background. Glycemic variability is prognostic in sepsis-associated acute kidney injury (SA-AKI), but prior evidence is associational, restricted to a single database without external validation, and lacks a hard renal endpoint or causal framework. Whether dynamic glucose trajectory patterns—rather than mean variability—drive renal progression, and via which pathways, is untested. Methods. We identiﬁed SA-AKI (Sepsis-3 + KDIGO AKI within 48 h) in MIMIC-IV (n=4,453 with ≥3 glucose measures in 72 h) and externally validated in eICU-CRD (n=3,409 across 175 hospitals). K-means (K=4) derived trajectory phenotypes. The primary endpoint was AKI progression; RRT was analyzed under death as competing risk (Fine-Gray). We estimated the phenotype → AKI-progression effect with doubly-robust TMLE and AIPTW, quantiﬁed robustness to unmeasured confounding with E-values, and tested the Glycemic Oscillation–Induced Renal Injury (GO-RI) axis via multi-mediator analysis. Results",
+      "year": 2026,
+      "publication_date": null,
+      "paper_id": "2935f301883146ffa4fa57a3eeb96e4b8f82f32d",
+      "url": "https://www.semanticscholar.org/paper/2935f301883146ffa4fa57a3eeb96e4b8f82f32d",
+      "venue": "Research Square",
+      "doi": "10.21203/rs.3.rs-10751957/v1",
+      "matched_keywords": [
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
       ]
     },
     {
@@ -4315,6 +4468,40 @@
       ]
     },
     {
+      "title": "Pre-operative anaemia and complications: A causal analysis of two prospective cohorts.",
+      "authors": [
+        "Javier Ripollés-Melchor",
+        "Ane Abad-Motos",
+        "J. García-Erce",
+        "C. Jericó",
+        "Ángel V. Espinosa",
+        "C. Aldecoa",
+        "M. Colomina",
+        "P. Galán-Menéndez",
+        "A. Zorrilla-Vaca",
+        "R. Oyarzun Silva",
+        "R. Navarro-Pérez",
+        "Elena Sáez-Ruiz",
+        "Agustín Rodríguez-Herrero",
+        "A. Abad-Gurumeta"
+      ],
+      "abstract": "BACKGROUND Pre-operative anaemia is common in patients undergoing colorectal surgery and has been associated with adverse postoperative outcomes. However, its direct causal impact remains uncertain. OBJECTIVE To estimate the causal effect of pre-operative anaemia on 30-day postoperative complications after elective colorectal surgery, using targeted maximum likelihood estimation (TMLE). DESIGN Causal analysis of two prospective, multicentre observational cohorts: EuroPOWER (n = 2826) and POWER (n = 1185). The EuroPOWER cohort was used for primary estimation; POWER was used for replication and transportability analyses. SETTING One hundred and eighty-five hospitals across 21 European countries for EuroPOWER and 80 Spanish centres for POWER. PATIENTS Patients undergoing elective colorectal surgery. Anaemia was defined using WHO thresholds (Hb < 13 g dl-1 in men, <12 g dl-1 in women). MAIN OUTCOMES AND MEASURES The primary outcome was any 30-day postoperative complication. TMLE with SuperLearner ensembles estimated the average treatment effect (ATE) of correcting anaemia. Logistic regression, generalised additive models and an external transportability analysis were used for comparison and validation. RESULTS In EuroPOWER, pre-operative anaemia was associated with an absolute increase in postoperative complications risk from 23.6 to 28.6% [ATE +5.05 percentage points (p.p); 95% CI, 1.20 to 8.91; P = 0.01]. The external replication cohort yielded a similar point estimate, although statistical uncertainty remained substantial. Application of the EuroPOWER-trained model to the POWER cohort yielded an estimated transported ATE of +6.05 p.p. Pooled fixed-effect meta-analysis yielded an overall ATE of +4.65 p.p. (95% CI, 1.69 to 7.60; P = 0.002; I2 = 0%). CONCLUSIONS Pre-operative anaemia was associated with higher estimated rates of postoperative complications in elective colorectal surgery within a causal inference framework. Although effect estimates were directionally similar across cohorts, uncertainty remained in the external replication analysis. These findings support systematic pre-operative anaemia assessment and optimisation strategies, while acknowledging that current therapeutic interventions may not necessarily reproduce the estimated counterfactual effects.",
+      "year": 2026,
+      "publication_date": "2026-09-18",
+      "paper_id": "b1c7e97c3b46c22e2eed133afb6b17569d92d3c8",
+      "url": "https://www.semanticscholar.org/paper/b1c7e97c3b46c22e2eed133afb6b17569d92d3c8",
+      "venue": "European Journal of Anaesthesiology",
+      "doi": "10.1097/EJA.0000000000002507",
+      "matched_keywords": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ],
+      "source_queries": [
+        "targeted maximum likelihood estimation",
+        "tmle"
+      ]
+    },
+    {
       "title": "Predicting Hospital-associated complications in older adults: methodological considerations",
       "authors": [
         "Shukhrat Valiev",
@@ -4451,7 +4638,7 @@
         "Wen-Xian Chen",
         "Shao-Cheng Wang"
       ],
-      "abstract": "Prostate cancer is one of the most common male malignancies. Androgen deprivation therapy (ADT) is the backbone of treatment for locally advanced and metastatic disease, yet many patients progress to castration-resistant prostate cancer (CRPC), historically within about 2 years of ADT monotherapy, and validated, widely generalisable tools to identify high-risk patients early remain limited. PubMed and OpenAlex were searched from January 2021 to August 2026 and supplemented by citation tracking; peer-reviewed studies reporting prediction models for progression to CRPC after ADT were included and synthesised narratively, with a PROBAST+AI-style appraisal of representative models. Of 65 unique records screened, 53 met the eligibility criteria (12 excluded as outside the scope or superseded); 17 references were added during revision, so 70 references are cited. CRPC arises through androgen receptor pathway activation, AR-V7, and neuroendocrine differentiation. Gleason score, PSA nadir, bone metastasis, inflammatory blood indices (neutrophil-to-lymphocyte ratio, systemic immune-inflammation index), circulating tumor cells, circulating tumor DNA, and genetic signatures are established risk factors. Individual studies report higher discrimination for machine-learning models than for traditional nomograms, but the comparisons are within-study and at high risk of bias and optimism, and external validation was reported for only two of eight core models. Super Learner, an ensemble framework, has proved stable across clinical outcome predictions; its use for CRPC prediction is only beginning. A multi-parameter Super Learner model could improve CRPC risk stratification after ADT, provided it is validated prospectively in multicenter cohorts and reported transparently.",
+      "abstract": "Background Prostate cancer is one of the most common male malignancies. Androgen deprivation therapy (ADT) is the backbone of treatment for locally advanced and metastatic disease, yet many patients progress to castration-resistant prostate cancer (CRPC), historically within about 2 years of ADT monotherapy, and validated, widely generalisable tools to identify high-risk patients early remain limited. Methods PubMed and OpenAlex were searched from January 2021 to August 2026 and supplemented by citation tracking; peer-reviewed studies reporting prediction models for progression to CRPC after ADT were included and synthesised narratively, with a PROBAST+AI-style appraisal of representative models. Results Of 65 unique records screened, 53 met the eligibility criteria (12 excluded as outside the scope or superseded); 17 references were added during revision, so 70 references are cited. CRPC arises through androgen receptor pathway activation, AR-V7, and neuroendocrine differentiation. Gleason score, PSA nadir, bone metastasis, inflammatory blood indices (neutrophil-to-lymphocyte ratio, systemic immune-inflammation index), circulating tumor cells, circulating tumor DNA, and genetic signatures are established risk factors. Individual studies report higher discrimination for machine-learning models than for traditional nomograms, but the comparisons are within-study and at high risk of bias and optimism, and external validation was reported for only two of eight core models. Super Learner, an ensemble framework, has proved stable across clinical outcome predictions; its use for CRPC prediction is only beginning. Conclusion A multi-parameter Super Learner model could improve CRPC risk stratification after ADT, provided it is validated prospectively in multicenter cohorts and reported transparently.",
       "year": 2026,
       "publication_date": "2026-11-05",
       "paper_id": "657138333dd26f1ae1235470239fbd6bdccd881d",
@@ -5334,6 +5521,26 @@
       ]
     },
     {
+      "title": "Targeted Learning for Externally Controlled Trials and Beyond",
+      "authors": [
+        "Yi-Xin Fang",
+        "Wei-Li He"
+      ],
+      "abstract": "This paper focuses on externally controlled trials (ECTs), which consist of a single-arm clinical trial supplemented by an external control arm (ECA). Potential data sources for the ECA can be broadly classified into three categories: (i) the control arm of a historical clinical trial, (ii) a concurrent cohort study, and (iii) external real-world data (RWD). In this paper, we consider a broad class of estimands defined through balancing weights. For a given estimand in the class, we discuss the efficient influence function (EIF) and the targeted maximum likelihood estimator (TMLE), together with practical implementation algorithms. Within the targeted learning framework, TMLE is a substitution estimator that enjoys several desirable theoretical properties and favorable finite-sample performance. Finally, the proposed framework is extended to two additional settings: (1) randomized controlled trials (RCTs) augmented with external covariate information to define a target population, and (2) indirect treatment comparisons (ITCs) that combine individual patient data (IPD) from an internal RCT with aggregate data (AgD) from an external RCT.",
+      "year": 2026,
+      "publication_date": "2026-11-20",
+      "paper_id": "f52464824d8581e2949be967158f597135fe1fac",
+      "url": "https://www.semanticscholar.org/paper/f52464824d8581e2949be967158f597135fe1fac",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "tmle"
+      ],
+      "source_queries": [
+        "tmle"
+      ]
+    },
+    {
       "title": "Targeted maximum likelihood estimation (TMLE) in regulatory submissions and research: a landscape analysis",
       "authors": [
         "Hana Lee",
@@ -5363,7 +5570,7 @@
     {
       "title": "Targeted Maximum Likelihood Estimation for Causal Effects Based on Poisson Regression Models",
       "authors": [
-        "Siqi Li"
+        "Si-Qi Li"
       ],
       "abstract": "",
       "year": 2026,
@@ -6607,7 +6814,7 @@
       ]
     },
     {
-      "title": "A multicomponent, peer-led intervention for pregnant and postpartum women with HIV improves viral suppression over time in rural Uganda.",
+      "title": "A multicomponent, peer-led intervention for pregnant and postpartum women with HIV improves viral suppression over time in rural Uganda",
       "authors": [
         "J. Kabami",
         "L. Balzer",
@@ -6626,7 +6833,7 @@
         "P. Musoke",
         "M. Kamya"
       ],
-      "abstract": "Achieving viral suppression among pregnant and breastfeeding women with HIV is essential to promoting their health and eliminating vertical transmission of HIV. We hypothesized that a multicomponent and peer-led intervention would increase viral suppression among pregnant and breastfeeding women with HIV in the rural Southwestern Uganda. The ENHANCED-SPS intervention included the development of a counseling protocol, point-of-care viral load testing, and standardized support delivered by peer-mothers. Among 505 pregnant and postpartum women receiving the ENHANCED-SPS intervention (2019-2021), we evaluated the change in viral suppression (HIV RNA < 1000 c/mL) from baseline to 12 months of follow-up with targeted minimum loss-based estimation, accounting for clustering and missing outcomes. The proportion with viral suppression was 70.0% (95% CI: 65.9, 74.1%) at baseline and 94.9% (95% CI: 92.5, 97.4%) at 12 months, corresponding to a 24.9% (95% CI: 21.6, 28.2%; P < 0.001) absolute increase over time. Significant improvements over time were observed across age groups (15-24 years, 25-34 years, and 35+ years) and for both pregnant and postpartum women. Approximately 95% of women in all age groups and pregnant women achieved viral suppression at 12 months. However, postpartum women lagged behind with only 75.7% viral suppression at 12 months, despite a 58.9% (95% CI: 27.4, 90.3%) increase from baseline. The multicomponent, peer-led ENHANCED-SPS intervention resulted in meaningful improvements in viral suppression for pregnant and breastfeeding women with HIV; however, additional support is needed during the postpartum period.",
+      "abstract": "Abstract Achieving viral suppression among pregnant and breastfeeding women with HIV is essential to promoting their health and eliminating vertical transmission of HIV. We hypothesized that a multicomponent and peer-led intervention would increase viral suppression among pregnant and breastfeeding women with HIV in the rural Southwestern Uganda. The ENHANCED-SPS intervention included the development of a counseling protocol, point-of-care viral load testing, and standardized support delivered by peer-mothers. Among 505 pregnant and postpartum women receiving the ENHANCED-SPS intervention (2019-2021), we evaluated the change in viral suppression (HIV RNA < 1000 c/mL) from baseline to 12 months of follow-up with targeted minimum loss-based estimation, accounting for clustering and missing outcomes. The proportion with viral suppression was 70.0% (95% CI: 65.9, 74.1%) at baseline and 94.9% (95% CI: 92.5, 97.4%) at 12 months, corresponding to a 24.9% (95% CI: 21.6, 28.2%; P < 0.001) absolute increase over time. Significant improvements over time were observed across age groups (15-24 years, 25-34 years, and 35+ years) and for both pregnant and postpartum women. Approximately 95% of women in all age groups and pregnant women achieved viral suppression at 12 months. However, postpartum women lagged behind with only 75.7% viral suppression at 12 months, despite a 58.9% (95% CI: 27.4, 90.3%) increase from baseline. The multicomponent, peer-led ENHANCED-SPS intervention resulted in meaningful improvements in viral suppression for pregnant and breastfeeding women with HIV; however, additional support is needed during the postpartum period.",
       "year": 2025,
       "publication_date": "2025-10-01",
       "paper_id": "1aaccc35f55a31b59b1ef8bf02fc89075d55b07f",
@@ -7155,7 +7362,7 @@
         "Prabuddha Hathurusinghe",
         "Mazhar Iqbal",
         "Daniel Kiv",
-        "Adam Aker",
+        "Adam R. Aker",
         "Seth Lee",
         "Vardhan Agnihotri",
         "Christopher S. Simmons",
@@ -8519,7 +8726,7 @@
     {
       "title": "Evaluating the impact of stem cell transplantation in myelodysplastic syndrome using machine learning and comparative modeling",
       "authors": [
-        "Ziyi Li",
+        "Zi-Yi Li",
         "K. Chien",
         "Yue Lyu",
         "K. Sasaki",
@@ -8527,7 +8734,7 @@
         "Yue Wei",
         "G. Montalban-Bravo",
         "S. Loghavi",
-        "A. Bataller",
+        "À. Bataller",
         "U. Popat",
         "H. Kantarjian",
         "A. Bazinet",
@@ -9602,29 +9809,29 @@
     {
       "title": "Peer-mother counseling improves HIV treatment adherence and status disclosure over time among pregnant and postpartum women in rural Uganda",
       "authors": [
-        "Jane Kabami",
-        "L.B Balzer",
+        "J. Kabami",
+        "L. Balzer",
         "Stella Kabageni",
-        "Catherine A Koss",
+        "C. Koss",
         "Faith Kagoya",
-        "Jaffer Okiring",
-        "Joanita Nangendo",
+        "J. Okiring",
+        "J. Nangendo",
         "Emmanuel Ruhamyankaka",
-        "Peter Ssebutinde",
+        "P. Ssebutinde",
         "Elizabeth Arinitwe",
         "Michael Ayebare",
         "John Bosco Tamu Munezeo",
-        "Valence Mfitumukiza",
+        "V. Mfitumukiza",
         "Anne Ruhweza Katahoire",
         "M. Kamya",
-        "Philippa Musoke"
+        "P. Musoke"
       ],
-      "abstract": "Adherence to antiretroviral therapy (ART) and disclosure of HIV status are critical for achieving HIV viral suppression and eliminating perinatal transmission of HIV. The ENHANCED-SPS intervention was designed to address barriers to viral suppression among pregnant and postpartum women with HIV and included standardized support and counseling though phone calls by peer-mothers. Using targeted minimum loss-based estimation (TMLE), we evaluated changes in adherence ($\\le$1 dose of ART missed per month) and HIV status disclosure (to anyone and to a spouse or partner) among 505 pregnant and postpartum women with HIV who received the ENHANCED-SPS intervention in rural Uganda (2019-2021). ART adherence was 68% (95% CI, 62-74) at baseline and increased to 93% (95% CI, 81-100) after 12 months, corresponding to a 25% increase (95% CI, 9-40; P = .009). Largest improvements were among participants who were aged 15-24 years, breastfeeding, or without viral suppression at enrollment. At baseline, 80% (95% CI, 69-90) had disclosed their HIV status to anyone—increasing to 94% (95% CI, 89-99) after 12 months and corresponding to a 14% improvement (95% CI, 8-21; P = .003). Similar trends were observed for disclosure to a spouse or partner. Among pregnant and postpartum women with HIV in rural Uganda, the ENHANCED-SPS intervention was associated with meaningful improvements in ART adherence and HIV status disclosure after 1 year.",
+      "abstract": "Abstract Adherence to antiretroviral therapy (ART) and disclosure of HIV status are critical for achieving HIV viral suppression and eliminating perinatal transmission of HIV. The ENHANCED-SPS intervention was designed to address barriers to viral suppression among pregnant and postpartum women with HIV and included standardized support and counseling though phone calls by peer-mothers. Using targeted minimum loss-based estimation (TMLE), we evaluated changes in adherence (≤1 dose of ART missed per month) and HIV status disclosure (to anyone and to a spouse or partner) among 505 pregnant and postpartum women with HIV who received the ENHANCED-SPS intervention in rural Uganda (2019-2021). ART adherence was 68% (95% CI, 62-74) at baseline and increased to 93% (95% CI, 81-100) after 12 months, corresponding to a 25% increase (95% CI, 9-40; P = .009). Largest improvements were among participants who were aged 15-24 years, breastfeeding, or without viral suppression at enrollment. At baseline, 80% (95% CI, 69-90) had disclosed their HIV status to anyone—increasing to 94% (95% CI, 89-99) after 12 months and corresponding to a 14% improvement (95% CI, 8-21; P = .003). Similar trends were observed for disclosure to a spouse or partner. Among pregnant and postpartum women with HIV in rural Uganda, the ENHANCED-SPS intervention was associated with meaningful improvements in ART adherence and HIV status disclosure after 1 year.",
       "year": 2025,
       "publication_date": "2025-04-01",
       "paper_id": "a0f92aa20583da6669de9ddb9828ab7d35f82950",
       "url": "https://www.semanticscholar.org/paper/a0f92aa20583da6669de9ddb9828ab7d35f82950",
-      "venue": "AJE Advances: Research in Epidemiology",
+      "venue": "AJE advances : research in epidemiology",
       "doi": "10.1093/ajeadv/uuaf002",
       "matched_keywords": [
         "targeted minimum loss based estimation",
@@ -10239,6 +10446,26 @@
         "highly adaptive lasso",
         "targeted maximum likelihood estimation",
         "tmle"
+      ]
+    },
+    {
+      "title": "Sensory Profile for Autistic Children by Using EEG Biosignal",
+      "authors": [
+        "M. Mohanty",
+        "L. Mishra"
+      ],
+      "abstract": "The neural activities in a brain can be measured in terms of voltages by Electroencephalography (EEG). The neurological problems are diagnosed by EEG because it is capable of being recorded over longer period of time and it is non-invasive. The children suffering from ASD are unable to express their emotions because of lack of proper processing of information in brain. This work is focussed towards building a sensory profile that differentiates among different types of sensory responses by using an EEG biosignal potential. Different states of emotion are identified by EEG signals such as super learning, positive thinking and relaxation of light and lie in between range of 8-12 Hz. This research involved participation of 64 children among which 34 were suffering from ASD whereas 30 were normal. While recoding EEG data, children were provided with visual, vestibular, taste, sound and vestibular sensory simulations. The EEGLAB software and wavelet transform wa used for filtering raw EEG data by using “independent component analysis (ICA)”. Later on, sensory profile was built by approximating entropy, standard deviations and means after extracting it from filtered EEG signals",
+      "year": 2025,
+      "publication_date": null,
+      "paper_id": "455b1783cdc12f9db902a1d557561c59b0b43883",
+      "url": "https://www.semanticscholar.org/paper/455b1783cdc12f9db902a1d557561c59b0b43883",
+      "venue": "International Journal of Psychosocial Rehabilitation",
+      "doi": "10.61841/qjajrp16",
+      "matched_keywords": [
+        "super learning"
+      ],
+      "source_queries": [
+        "super learning"
       ]
     },
     {
@@ -11141,6 +11368,25 @@
       "publication_date": "2025-04-04",
       "paper_id": "9d79cdf7af219efcb6f55db7361eeb0a7ef3ef25",
       "url": "https://www.semanticscholar.org/paper/9d79cdf7af219efcb6f55db7361eeb0a7ef3ef25",
+      "venue": null,
+      "doi": null,
+      "matched_keywords": [
+        "super learner"
+      ],
+      "source_queries": [
+        "super learner"
+      ]
+    },
+    {
+      "title": "Weak instrumental variables due to ignored nonlinearities in panel data: An Orthogonal Super Learner Control Function estimator",
+      "authors": [
+        "Monika Avila-Marquez"
+      ],
+      "abstract": "A triangular structural panel data model with additively separable individual-specific effects is used to model the causal effect of a covariate on an outcome variable when there are unobservable confounders with some of them time-invariant. In this setup, a linear specification for the reduced-form equation might be problematic when the conditional mean of the endogenous covariate and the instrumental variables is nonlinear in the population. The reason is that ignoring the nonlinearity could lead to weak instruments (instruments are weakly correlated with the endogenous covariate) due to misspecification as shown using a generalized concentration parameter for panel data. As a solution, we propose a triangular simultaneous equation model for panel data with additive separable individual-specific fixed effects composed of a linear structural equation with a nonlinear reduced form equation. The parameter of interest is the structural parameter of the endogenous variable. The identification of this parameter is obtained under the assumption of available exclusion restrictions and using a control function approach. We derive a Neyman orthogonal score, and we provide an estimator that we call Orthogonal Super Learner Control Function (Orthogonal SLCF) estimator. The estimation procedure is composed of two main steps and cross-fitting. First, we estimate the control function using a super learner. In the following step, we use the estimated control function to control for endogeneity in the structural equation. Cross-fitting is done across the individual dimension. The estimator is consistent and asymptotically normal achieving a parametric rate of convergence. We show that the Orthogonal SLCF estimator is equivalent to the plug-in IV estimator but not equivalent to the naive plug-in 2SLS estimator which is not root-NT consistent.",
+      "year": 2025,
+      "publication_date": "2025-04-04",
+      "paper_id": "7bed1ba2b3f42dbfb0b7bacde7078c5808a7d922",
+      "url": "https://www.semanticscholar.org/paper/7bed1ba2b3f42dbfb0b7bacde7078c5808a7d922",
       "venue": null,
       "doi": null,
       "matched_keywords": [
@@ -13638,15 +13884,15 @@
       "title": "Nonparametric efficient causal estimation of the intervention-specific expected number of recurrent events with continuous-time targeted maximum likelihood and highly adaptive lasso estimation",
       "authors": [
         "H. Rytgaard",
-        "M. J. van der Laan"
+        "M. van der Laan"
       ],
       "abstract": "Longitudinal settings involving outcome, competing risks and censoring events occurring and recurring in continuous time are common in medical research, but are often analyzed with methods that do not allow for taking post-baseline information into account. In this work, we define statistical and causal target parameters via the g-computation formula by carrying out interventions directly on the product integral representing the observed data distribution in a continuous-time counting process model framework. In recurrent events settings our target parameter identifies the expected number of recurrent events also in settings where the censoring mechanism or post-baseline treatment decisions depend on past information of post-baseline covariates such as the recurrent event process. We propose a flexible estimation procedure based on targeted maximum likelihood estimation coupled with highly adaptive lasso estimation to provide a novel approach for double robust and nonparametric inference for the considered target parameter. We illustrate the methods in a simulation study.",
       "year": 2024,
       "publication_date": "2024-04-02",
       "paper_id": "31838f8a74287c850981fc2ffb86007a80935cb5",
       "url": "https://www.semanticscholar.org/paper/31838f8a74287c850981fc2ffb86007a80935cb5",
-      "venue": null,
-      "doi": null,
+      "venue": "Journal of the American Statistical Association",
+      "doi": "10.1080/01621459.2026.2758421",
       "matched_keywords": [
         "highly adaptive lasso",
         "targeted maximum likelihood estimation"
